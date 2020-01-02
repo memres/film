@@ -182,7 +182,7 @@ $(function() {
 			if (e.which == 70) tfs();
 			if (e.which == 77) player.muted = !player.muted;
 			if (e.which == 107 || e.which == 109) Cookies.set('volume', Math.round(player.volume * 100) / 100, {expires: 365});
-			if (e.which == 80 && player.requestPictureInPicture) document.pictureInPictureElement ? document.exitPictureInPicture() : player.requestPictureInPicture();
+			if (e.which == 80 && document.pictureInPictureEnabled) document.pictureInPictureElement ? document.exitPictureInPicture() : player.requestPictureInPicture();
 			if (e.which == 48 || e.which == 96) player.currentTime = 0;
 			if (e.which == 49 || e.which == 97) player.currentTime = .1 * player.duration;
 			if (e.which == 50 || e.which == 98) player.currentTime = .2 * player.duration;
