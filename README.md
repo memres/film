@@ -1,2 +1,2 @@
 # film
-Access high definition movie archive.
+Access high resolution movie archive.
