@@ -1,0 +1,6453 @@
+1
+00:00:52,630 --> 00:01:00,450
+<b>HOBBİT
+BEKLENMEDİK YOLCULUK</b>
+
+2
+00:01:05,040 --> 00:01:07,880
+<i>Sevgili Frodo.</i>
+
+3
+00:01:13,200 --> 00:01:19,190
+<i>Bir keresinde bana maceralarımla ilgili
+her şeyi anlatıp anlatmadığımı sormuştun.</i>
+
+4
+00:01:19,910 --> 00:01:23,400
+<i>Gerçekleri anlattığımı
+içtenlikle söyleyebilirim.</i>
+
+5
+00:01:24,540 --> 00:01:28,310
+<i>Ama hepsini anlatmamış olabilirim.</i>
+
+6
+00:01:34,590 --> 00:01:37,610
+<i>Artık yaşlandım, Frodo.</i>
+
+7
+00:01:38,650 --> 00:01:42,130
+<i>Artık o eski Hobbit değilim.</i>
+
+8
+00:01:45,090 --> 00:01:50,850
+<i>Sanırım gerçekte neler olduğunu
+bilmenin vakti geldi artık.</i>
+
+9
+00:01:54,080 --> 00:01:57,760
+<i>Çok uzun vakitler önce başladı.</i>
+
+10
+00:01:57,960 --> 00:02:01,720
+<i>Çok uzaklarda doğuda bir diyarda...</i>
+
+11
+00:02:01,840 --> 00:02:06,060
+<i>...bugünkü dünyamızda
+eşi bulunmayacak bir yerde.</i>
+
+12
+00:02:16,310 --> 00:02:19,070
+<i>"Dale" diye bir şehir vardı.</i>
+
+13
+00:02:19,190 --> 00:02:24,740
+<i>Pazarı çok ünlüydü.
+İhraç edilirdi, bahşişler verilirdi.</i>
+
+14
+00:02:25,060 --> 00:02:29,000
+<i>Şehir huzur ve refah içindeydi.</i>
+
+15
+00:02:31,160 --> 00:02:33,590
+<i>Bu şehir...</i>
+
+16
+00:02:33,710 --> 00:02:36,940
+<i>...Orta Dünya'daki en büyük
+krallığın girişinde bulunuyordu.</i>
+
+17
+00:02:37,360 --> 00:02:39,800
+<i>Erebor.</i>
+
+18
+00:02:39,920 --> 00:02:43,500
+<i>Dağ altı kralı cüce
+hükümdarların en yücesi...</i>
+
+19
+00:02:44,120 --> 00:02:47,260
+<i>...Thror'un kalesiydi.</i>
+
+20
+00:02:48,080 --> 00:02:50,910
+<i>Thror kendinden ve yuvasının
+varlığını sürdüreceğinden emin olarak...</i>
+
+21
+00:02:51,030 --> 00:02:55,020
+<i>...hüküm sürmekteydi.</i>
+
+22
+00:02:55,140 --> 00:02:57,600
+<i>Çünkü soyu oğlu ve
+torunu yaşadıkça...</i>
+
+23
+00:02:57,720 --> 00:02:59,720
+<i>...güvence altındaydı.</i>
+
+24
+00:03:01,580 --> 00:03:03,600
+<i>Ah, Frodo. Erebor...</i>
+
+25
+00:03:03,720 --> 00:03:06,850
+<i>Dağın derinliklerine kurulmuş
+olan bu kale şehir...</i>
+
+26
+00:03:06,970 --> 00:03:10,650
+<i>...efsaneydi.</i>
+
+27
+00:03:10,770 --> 00:03:13,600
+<i>Zenginliğinin kaynağı yeraltında gizliydi.</i>
+
+28
+00:03:13,720 --> 00:03:16,220
+<i>Kayalardan sökülen değerli taşlar...</i>
+
+29
+00:03:16,340 --> 00:03:21,910
+<i>...ve taşların içinde nehirler gibi
+parlayan altın damarlar vardı.</i>
+
+30
+00:03:24,530 --> 00:03:27,560
+<i>Cücelerin yeteneği eşsizdi.</i>
+
+31
+00:03:27,680 --> 00:03:30,890
+<i>Elmas, zümrüt, yakut
+ve gök yakuttan...</i>
+
+32
+00:03:31,010 --> 00:03:35,630
+<i>...çok güzel şeyler üretiyorlardı.</i>
+
+33
+00:03:36,230 --> 00:03:41,450
+<i>Daha derine, karanlığın içine
+doğru kazmaya başladılar.</i>
+
+34
+00:03:41,570 --> 00:03:44,400
+<i>Ve onu da orada buldular.</i>
+
+35
+00:03:49,190 --> 00:03:51,540
+<i>Dağın yüreği.</i>
+
+36
+00:03:53,360 --> 00:03:55,620
+<i>Arken taşı.</i>
+
+37
+00:03:56,240 --> 00:03:59,920
+<i>Thror ona "Kralın Mücevheri" adını verdi.</i>
+
+38
+00:04:00,040 --> 00:04:04,580
+<i>Bunu hükümdarlık hakkının tanrısal
+kökenli olduğu şeklinde değerlendirdi.</i>
+
+39
+00:04:04,700 --> 00:04:07,270
+<i>Herkesin ona bağlılık
+yemini etmesi gerekirdi.</i>
+
+40
+00:04:07,390 --> 00:04:11,640
+<i>Büyük Elf kralı Kral Thranduil dahil.</i>
+
+41
+00:04:12,540 --> 00:04:16,280
+<i>Ama huzur ve bolluk yılları çok sürmedi.</i>
+
+42
+00:04:17,790 --> 00:04:20,890
+<i>Ve her şey yavaş yavaş bozuldu.</i>
+
+43
+00:04:21,420 --> 00:04:23,870
+<i>Kimse farkında varmadan.</i>
+
+44
+00:04:31,040 --> 00:04:35,800
+<i>Thror'un altın sevdası aşırıya kaçmıştı.</i>
+
+45
+00:04:37,140 --> 00:04:41,410
+<i>Yavaşça bir hastalık içini
+kemirmeye başladı.</i>
+
+46
+00:04:41,930 --> 00:04:45,460
+<i>Hastalık aklını etkiliyordu.</i>
+
+47
+00:04:47,580 --> 00:04:50,560
+<i>Hastalığın etkili olduğu yere...</i>
+
+48
+00:04:50,950 --> 00:04:53,500
+<i>...kötü şeyler yerleşti.</i>
+
+49
+00:05:02,200 --> 00:05:05,410
+<i>İlk olarak kuzeyden gelen
+kasırgaya benzer..</i>
+
+50
+00:05:05,530 --> 00:05:07,550
+<i>...bir ses duydular.</i>
+
+51
+00:05:07,670 --> 00:05:13,160
+<i>Dağdaki çam ağaçları sıcak kumlu rüzgar
+ile birlikte çatladı ve yarıldı.</i>
+
+52
+00:05:17,090 --> 00:05:19,160
+Balin, alarm ver!
+
+53
+00:05:22,380 --> 00:05:24,440
+Muhafızları çağır.
+Hemen!
+
+54
+00:05:24,560 --> 00:05:27,260
+<i>- Neler oluyor?
+- Ejderha.</i>
+
+55
+00:05:27,970 --> 00:05:30,070
+<i>Ejderha!</i>
+
+56
+00:05:32,300 --> 00:05:35,870
+<i>Bu kuzeyden gelen bir ateş ejderhasıydı.</i>
+
+57
+00:05:42,950 --> 00:05:46,580
+<i>Gelen "Smaug"du.</i>
+
+58
+00:06:14,180 --> 00:06:17,690
+<i>O gün bir hiç uğruna ölüm yağdı.</i>
+
+59
+00:06:17,810 --> 00:06:22,310
+<i>Çünkü Smaug için bu insan şehrinin
+hiçbir değeri yoktu.</i>
+
+60
+00:06:22,430 --> 00:06:25,810
+<i>O gözlerini başka bir ödüle dikmişti.</i>
+
+61
+00:06:29,910 --> 00:06:31,910
+<i>Ejderhaların altına karşı karanlık...</i>
+
+62
+00:06:32,701 --> 00:06:35,000
+<i>...ve şiddetli bir tutkusu vardı.</i>
+
+63
+00:06:42,510 --> 00:06:44,760
+Dikkat!
+
+64
+00:07:08,270 --> 00:07:10,350
+Hayır!
+
+65
+00:07:17,910 --> 00:07:22,320
+<i>Erebor kaybetmişti.</i>
+
+66
+00:07:24,990 --> 00:07:27,780
+<i>Bir ejderha yaşadıkça hazinesini...</i>
+
+67
+00:07:27,881 --> 00:07:29,981
+<i>...herkese karşı koruyacaktır.</i>
+
+68
+00:07:39,780 --> 00:07:41,780
+Canını seven kaçsın!
+
+69
+00:07:42,010 --> 00:07:44,500
+Hey, yardım edin!
+
+70
+00:07:56,630 --> 00:08:00,920
+<i>Thranduil soyunu riske atmamak için
+ejderhayla savaşmadı.</i>
+
+71
+00:08:02,370 --> 00:08:08,330
+<i>O gün Elflerden bir yardım gelmedi,
+sonrasında da gelmedi.</i>
+
+72
+00:08:10,320 --> 00:08:16,140
+<i>Anavatanları talan edilmiş
+Erebor cüceleri, başıboş dolaştılar.</i>
+
+73
+00:08:16,260 --> 00:08:20,780
+<i>Bir zamanlar güçlü olan
+insanlar tükenmişlerdi.</i>
+
+74
+00:08:22,030 --> 00:08:26,120
+<i>Genç cüce prens
+iş bulabildiği her yerde çalıştı.</i>
+
+75
+00:08:26,240 --> 00:08:28,790
+<i>İnsanların köylerinde işçilik yaptı.</i>
+
+76
+00:08:28,910 --> 00:08:33,380
+<i>Ama hiç unutmadı,
+ayın altında dumanı...</i>
+
+77
+00:08:33,500 --> 00:08:36,560
+<i>...ağaçların adete işkence yapan sesini.</i>
+
+78
+00:08:36,890 --> 00:08:42,890
+<i>Gökyüzündeki ejderha ateşinde
+şehirlerinin kül oluşunu gördüğü yerde.</i>
+
+79
+00:08:44,730 --> 00:08:49,470
+<i>Asla bağışlamadı ve asla unutmadı.</i>
+
+80
+00:08:54,970 --> 00:08:59,070
+<i>Böylece sevgili Frodo,
+ben de hikâyeye böyle dahil oldum.</i>
+
+81
+00:08:59,330 --> 00:09:02,320
+<i>Biraz şansla, biraz da
+bir büyücünün isteğiyle...</i>
+
+82
+00:09:02,440 --> 00:09:06,660
+<i>...kader bu masalın
+bir parçası olmama karar verdi.</i>
+
+83
+00:09:08,030 --> 00:09:12,280
+<i>Şeyle başladı, senin de
+tahmin ettiğin gibi başladı.</i>
+
+84
+00:09:13,330 --> 00:09:18,350
+<i>Her şey bir oyukta başladı,
+bir Hobbitin yaşadığı yerde.</i>
+
+85
+00:09:20,080 --> 00:09:23,290
+<i>Öyle solucanlarla, pis kokularla dolu...</i>
+
+86
+00:09:23,410 --> 00:09:25,870
+<i>...kirli bir oyuktan bahsetmiyorum.</i>
+
+87
+00:09:25,990 --> 00:09:28,080
+<i>Orası bir Hobbitin eviydi.</i>
+
+88
+00:09:28,210 --> 00:09:31,090
+<i>Bu da iyi yiyecekler...</i>
+
+89
+00:09:31,300 --> 00:09:36,560
+<i>...sıcak bir kalp
+ve yuva demekti.</i>
+
+90
+00:10:11,010 --> 00:10:13,010
+Teşekkür ederim.
+
+91
+00:10:13,870 --> 00:10:16,560
+- Nedir bu?
+- Özel bir şey.
+
+92
+00:10:16,680 --> 00:10:19,500
+Çek o pis ellerini.
+
+93
+00:10:19,720 --> 00:10:21,920
+Henüz hazır değil.
+
+94
+00:10:22,040 --> 00:10:25,420
+- Neye hazır değil?
+- Okunmaya.
+
+95
+00:10:28,730 --> 00:10:31,160
+Bunlar da ne böyle?
+
+96
+00:10:31,450 --> 00:10:34,360
+Partiye geleceklerin cevapları.
+
+97
+00:10:34,840 --> 00:10:36,780
+Vay canına.
+
+98
+00:10:37,291 --> 00:10:40,001
+- Bugün müydü yoksa?
+- Hepsi geleceğini yazmış.
+
+99
+00:10:40,040 --> 00:10:45,100
+- Sackville Baggins hariç. Onları özellikle
+senin çağırmanı istiyorlar. - İster tabii!
+
+100
+00:10:45,220 --> 00:10:49,030
+- Ölürüm de göndermem!
+- Onlar dünden razı.
+
+101
+00:10:49,150 --> 00:10:51,440
+Senin altın dolu tünellerin
+olduğunu sanıyorlar.
+
+102
+00:10:51,560 --> 00:10:55,540
+Küçük bir sandık altın bulmuştum,
+büyütülecek bir şey değil.
+
+103
+00:10:56,180 --> 00:10:58,710
+Ve hâlâ Troll kokuyor.
+
+104
+00:10:58,960 --> 00:11:01,970
+Sen ne yapıyorsun?
+
+105
+00:11:03,380 --> 00:11:05,600
+Önlem alıyorum.
+
+106
+00:11:05,900 --> 00:11:08,750
+Bir keresinde yemek takımımı
+çalarken yakaladım onu.
+
+107
+00:11:08,870 --> 00:11:12,180
+- Kimi?
+- Lobelya Sackville Baggins.
+
+108
+00:11:13,000 --> 00:11:16,340
+Bütün kaşıklarımı ceplerine doldurmuştu.
+
+109
+00:11:16,560 --> 00:11:18,580
+Korkunç kadın!
+
+110
+00:11:18,700 --> 00:11:21,930
+Onu sakın gözünün önünden ayır...
+
+111
+00:11:22,350 --> 00:11:24,450
+Ben şey...
+
+112
+00:11:24,570 --> 00:11:27,240
+Şey ne?
+
+113
+00:11:30,750 --> 00:11:32,750
+Yok bir şey.
+
+114
+00:11:33,251 --> 00:11:34,252
+Yok bir şey.
+
+115
+00:11:38,800 --> 00:11:42,670
+Bazı insanlar senin için
+endişeleniyorlar, amca.
+
+116
+00:11:42,790 --> 00:11:46,050
+- Senin tuhaflaştığını düşünüyorlar.
+- Tuhaf mı?
+
+117
+00:11:47,670 --> 00:11:51,910
+- Asosyal diyorlar.
+- Asosyal mi? Ben mi? Saçmalık!
+
+118
+00:11:52,230 --> 00:11:54,910
+Hadi bakayım, bunu kapıya asıver.
+
+119
+00:11:56,440 --> 00:11:59,460
+<i>GİRİŞ YASAK
+PARTİ İÇİN GELENLER HARİÇ</i>
+
+120
+00:12:04,450 --> 00:12:06,830
+- Sence gelecek mi?
+- Kim?
+
+121
+00:12:07,170 --> 00:12:10,620
+- Gandalf.
+- Sihirli fişeklerini atmak...
+
+122
+00:12:10,740 --> 00:12:14,850
+...için gelecektir.
+İyi bir gösteri olacak, göreceksin.
+
+123
+00:12:14,970 --> 00:12:16,830
+- Peki, ben kaçar.
+- Nereye?
+
+124
+00:12:16,950 --> 00:12:20,750
+- Doğu Dirhem Ormanı'na.
+Ona sürpriz yapacağım. - İyi, git madem.
+
+125
+00:12:21,280 --> 00:12:23,280
+Geç kalma!
+
+126
+00:12:27,230 --> 00:12:29,940
+<i>Geç kalınmasından haz etmez.</i>
+
+127
+00:12:30,950 --> 00:12:35,980
+<i>Geç kaldığımdan değil.
+O günlerde ben hep dakik olmuşumdur.</i>
+
+128
+00:12:36,910 --> 00:12:41,910
+<i>Tamamen saygın bir hayatım vardı.</i>
+
+129
+00:12:42,030 --> 00:12:47,030
+<i>Ve beklenmedik hiçbir şey yaşanmıyordu.</i>
+
+130
+00:12:50,930 --> 00:12:54,690
+<i>BEKLENMEDİK YOLCULUK</i>
+
+131
+00:13:05,890 --> 00:13:09,500
+<i>60 yıl önce...</i>
+
+132
+00:13:11,180 --> 00:13:13,900
+- Günaydın.
+- Ne demek istedin?
+
+133
+00:13:14,020 --> 00:13:16,400
+Bana güzel bir
+sabah mı diledin yoksa...
+
+134
+00:13:16,520 --> 00:13:19,750
+...yoksa istemesem de bu
+güzel bir sabah mı?
+
+135
+00:13:19,870 --> 00:13:24,260
+Yoksa özellikle bu sabah kendini
+iyi hissettiğini mi söylemek istedin?
+
+136
+00:13:24,380 --> 00:13:28,920
+Yoksa sadece ve sadece günün
+aydınlık geçeceğini mi düşünüyorsun?
+
+137
+00:13:30,390 --> 00:13:32,750
+Hepsini birden, sanırım.
+
+138
+00:13:39,260 --> 00:13:42,990
+- Yardımcı olabilir miyim?
+- Şimdi göreceğiz.
+
+139
+00:13:44,430 --> 00:13:48,670
+Bir macera paylaşacak birini arıyorum.
+
+140
+00:13:51,840 --> 00:13:53,840
+Macera mı?
+
+141
+00:13:55,320 --> 00:14:00,290
+Bree'nin batısından olan kimsenin
+macerayla alakalı olacağını sanmıyorum.
+
+142
+00:14:01,040 --> 00:14:04,750
+Rahatsız edici ve tedirgin edici şeyler...
+
+143
+00:14:05,820 --> 00:14:08,040
+...yemeğe geç kalmanı sağlar.
+
+144
+00:14:16,490 --> 00:14:18,540
+- Günaydın.
+- Belladonna Took'un oğlu tarafından...
+
+145
+00:14:18,660 --> 00:14:23,140
+...bir sokak satıcısı muamelesi
+görürcesine "günaydınlanmak" için mi...
+
+146
+00:14:23,260 --> 00:14:26,030
+...bu yaşıma kadar geldim ben!
+
+147
+00:14:26,703 --> 00:14:27,802
+Anlamadım?
+
+148
+00:14:28,333 --> 00:14:31,932
+Değiştin. Üstelik iyi yönde de
+değişmedin, Bilbo Baggins.
+
+149
+00:14:32,000 --> 00:14:34,180
+- Pardon, tanışıyor muyuz?
+- Adımı biliyorsun.
+
+150
+00:14:34,300 --> 00:14:36,500
+Ama bu adı taşıyan şahsı hatırlamıyorsun.
+
+151
+00:14:36,510 --> 00:14:38,255
+Ben Gandalf.
+
+152
+00:14:38,497 --> 00:14:40,317
+Ve Gandalf demek...
+
+153
+00:14:42,643 --> 00:14:43,763
+...ben demek!
+
+154
+00:14:44,020 --> 00:14:48,230
+Şu muhteşem havai fişek gösterisi
+düzenleyen göçebe büyücü Gandalf mı?
+
+155
+00:14:48,350 --> 00:14:51,900
+Yaşlı Took yaz dönümü arifesinde
+hep havai fişek attırırdı.
+
+156
+00:14:52,880 --> 00:14:54,950
+Hâlâ bu işe devam ettiğini bilmiyordum.
+
+157
+00:14:55,450 --> 00:14:59,060
+- Başka nerede olabilirim ki?
+- Şey...
+
+158
+00:15:01,980 --> 00:15:05,200
+Neyse, hakkımda bir şeyler
+hatırlamış olmana sevindim.
+
+159
+00:15:06,180 --> 00:15:08,710
+Sırf havai fişeklerim olsa da!
+
+160
+00:15:10,200 --> 00:15:14,890
+Tamam, karar verdim.
+Senin için çok güzel olacak.
+
+161
+00:15:15,410 --> 00:15:17,480
+Benim için de eğlenceli olacak.
+
+162
+00:15:17,600 --> 00:15:21,290
+- Diğerlerine haber vereyim.
+- Ne diğeri? Dur.
+
+163
+00:15:21,410 --> 00:15:26,550
+Hayır. Biz burada
+macera falan istemiyoruz.
+
+164
+00:15:26,670 --> 00:15:31,050
+Teşekkürler! Ne bugün, ne de...
+Tepenin ötesinde, denizin diğer...
+
+165
+00:15:31,170 --> 00:15:33,320
+...tarafına bir bakmanı öneririm.
+
+166
+00:15:35,100 --> 00:15:37,100
+Günaydın!
+
+167
+00:16:59,730 --> 00:17:03,450
+Dwalin, hizmetinizdeyim.
+
+168
+00:17:06,130 --> 00:17:08,790
+Bilbo Baggins...
+
+169
+00:17:09,660 --> 00:17:12,600
+...hizmetinizdeyim.
+Tanışıyor muyuz?
+
+170
+00:17:13,310 --> 00:17:15,310
+Hayır.
+
+171
+00:17:15,590 --> 00:17:18,500
+Ne tarafta arkadaş?
+Bu tarafta mı?
+
+172
+00:17:18,820 --> 00:17:20,820
+Ne o tarafta mı?
+
+173
+00:17:21,220 --> 00:17:25,660
+Akşam yemeği. Yemek olacak demişti.
+Hem de çok!
+
+174
+00:17:25,780 --> 00:17:29,120
+O mu söyledi?
+O kim ki?
+
+175
+00:17:39,490 --> 00:17:42,540
+Çok güzelmiş.
+Daha var mı?
+
+176
+00:17:43,090 --> 00:17:45,630
+Ne? Evet, evet.
+
+177
+00:17:52,370 --> 00:17:54,370
+Buyur.
+
+178
+00:17:58,360 --> 00:18:02,940
+Şey, ben pek misafir beklemiyordum.
+
+179
+00:18:06,200 --> 00:18:08,400
+Kapı çalıyor.
+
+180
+00:18:12,140 --> 00:18:15,520
+Balin, hizmetinizdeyim.
+
+181
+00:18:16,050 --> 00:18:19,230
+- İyi akşamlar.
+- Evet, öyle bir akşam.
+
+182
+00:18:19,510 --> 00:18:22,200
+Yalnız sonra yağmur serpiştirebilir.
+
+183
+00:18:22,320 --> 00:18:26,220
+- Geç mi kaldım?
+- Neye?
+
+184
+00:18:28,740 --> 00:18:31,790
+İyi akşamlar, kardeşim.
+
+185
+00:18:32,240 --> 00:18:36,990
+Sakalım aşkına!
+Görmeyeli kısalıp, genişlemişsin.
+
+186
+00:18:37,710 --> 00:18:42,560
+Genişledim, kısalmadım.
+İkimiz için de zekiyim.
+
+187
+00:18:52,490 --> 00:18:54,930
+Affedersiniz.
+Böldüğüm için kusura bakmayın.
+
+188
+00:18:55,050 --> 00:18:59,130
+Ama sizin doğru evde
+olduğunuzdan emin değilim.
+
+189
+00:18:59,250 --> 00:19:04,700
+- Yemek yedin mi? - Misafir sevmediğimden
+değil. Her Hobbit kadar seviyorum.
+
+190
+00:19:04,980 --> 00:19:08,800
+Ama ziyarete gelmeden önce
+onları tanımak isterim.
+
+191
+00:19:09,230 --> 00:19:13,240
+- Bu ne?
+- Bilmem, peynir sandım ben. Mavimsi renkli.
+
+192
+00:19:13,360 --> 00:19:17,950
+Mesele şu ki, ben ikinizi de tanımıyorum.
+Hem de hiç.
+
+193
+00:19:18,420 --> 00:19:22,980
+Patavatsızlık etmek istemem ama içimdekileri
+de söylemezsem olmaz. Özür dilerim.
+
+194
+00:19:25,990 --> 00:19:28,180
+Özrün kabul edildi.
+
+195
+00:19:28,300 --> 00:19:30,830
+Elini korkak alıştırma, doldur kardeşim!
+
+196
+00:19:36,829 --> 00:19:38,805
+- Fili.
+- Ve Kili.
+
+197
+00:19:39,040 --> 00:19:40,639
+Hizmetinizdeyiz.
+
+198
+00:19:40,710 --> 00:19:44,310
+- Siz de Bay Baggins olmalısınız.
+- Hayır, giremezsiniz yanlış eve geldiniz.
+
+199
+00:19:44,430 --> 00:19:48,370
+- İptal mi edildi?
+- Bize kimse söylemedi.
+
+200
+00:19:48,490 --> 00:19:52,000
+- İptal edilen bir şey yok.
+- Çok rahatladım!
+
+201
+00:19:55,290 --> 00:19:58,770
+Dikkat et, daha yeni biledik.
+
+202
+00:19:58,890 --> 00:20:02,590
+Güzelmiş ya burası.
+Kendin mi yaptın?
+
+203
+00:20:02,710 --> 00:20:04,600
+Hayır, yıllardır ailemize ait.
+
+204
+00:20:04,720 --> 00:20:07,550
+Annemin çeyiz sandığı o!
+Rica etsem, şunu yapmasan?
+
+205
+00:20:07,670 --> 00:20:10,400
+Fili, Kili gelin bir yardım edin.
+
+206
+00:20:10,520 --> 00:20:13,110
+Bay Dwalin.
+
+207
+00:20:13,610 --> 00:20:16,420
+Koridora kadar ittirelim
+yoksa herkes sığmaz buraya.
+
+208
+00:20:16,540 --> 00:20:18,640
+Herkes mi?
+Daha kaç kişi var ki?
+
+209
+00:20:18,760 --> 00:20:20,860
+Nereye koyalım?
+
+210
+00:20:21,960 --> 00:20:24,200
+Hayır, evde kimse yok!
+
+211
+00:20:24,320 --> 00:20:27,300
+Gidin rahatsız edecek başka
+birini bulun!
+
+212
+00:20:27,420 --> 00:20:30,700
+Zaten mutfağımda gereğinden
+fazla cüce var!
+
+213
+00:20:31,255 --> 00:20:34,526
+Serserinin teki şaka falan yapıyorsa...
+
+214
+00:20:35,362 --> 00:20:39,453
+...çok kötü bir şaka bu!
+
+215
+00:20:41,609 --> 00:20:44,006
+- Çek o pis ellerini üstümden!
+- Kalk üstümden!
+
+216
+00:20:48,490 --> 00:20:50,490
+Gandalf.
+
+217
+00:20:52,490 --> 00:20:54,650
+Koy onu yerine!
+
+218
+00:20:54,770 --> 00:20:56,630
+Reçellerimi bırak!
+
+219
+00:20:56,750 --> 00:20:59,570
+Çok almadınız mı sanki?
+Peynir bıçağı var mı?
+
+220
+00:20:59,690 --> 00:21:02,440
+Peynir bıçağı mı?
+Kalıp kalıp yer o onları.
+
+221
+00:21:02,980 --> 00:21:06,880
+Hayır, hayır. O Mungo dedemin sandalyesi.
+Üzgünüm, onu geri götürün.
+
+222
+00:21:07,000 --> 00:21:09,400
+Geri götürün, antika bu!
+Üstüne oturulmak için değil!
+
+223
+00:21:16,290 --> 00:21:21,370
+Affedersiniz Bay Gandalf.
+Bir fincan papatya çayı alır mısınız?
+
+224
+00:21:21,490 --> 00:21:25,730
+Hayır, sağ ol Dori.
+Bir kadeh kırmızı şarap alacağım sanırım.
+
+225
+00:21:33,677 --> 00:21:35,917
+Fili, Kili...
+
+226
+00:21:36,980 --> 00:21:40,735
+...Oin, Gloin, Dwalin, Balin.
+
+227
+00:21:40,876 --> 00:21:42,227
+Bifur, Bofur, Bombur...
+
+228
+00:21:42,270 --> 00:21:43,233
+...Dori, Nori...
+- Hayır, hayır.
+
+229
+00:21:43,257 --> 00:21:44,543
+Kurutulmuş domateslerimi vermem,
+teşekkürler!
+
+230
+00:21:44,575 --> 00:21:46,400
+- Ori!
+- Olmaz, teşekkürler.
+
+231
+00:21:50,060 --> 00:21:51,670
+Evet, çok haklısın Bifur.
+
+232
+00:21:52,510 --> 00:21:54,800
+Bir cücemiz eksik gibi.
+
+233
+00:21:54,920 --> 00:21:59,860
+Geç kaldı. Soyumuzla buluşmak
+kuzey yoluna düşmüştü. Gelecektir.
+
+234
+00:22:00,180 --> 00:22:03,960
+Bay Gandalf, arzu ettiğiniz gibi
+bir kadeh kırmızı şarap.
+
+235
+00:22:04,220 --> 00:22:07,250
+Buket kokusu var.
+
+236
+00:22:07,370 --> 00:22:09,370
+Şerefe!
+
+237
+00:22:20,150 --> 00:22:22,150
+Balin yakala!
+
+238
+00:22:34,150 --> 00:22:37,880
+Bira isteyen?
+Buyurun!
+
+239
+00:22:39,740 --> 00:22:42,550
+Bir içki alır mısın?
+Al bakalım.
+
+240
+00:22:45,560 --> 00:22:48,940
+Üçe kadar sayınca!
+
+241
+00:22:50,010 --> 00:22:52,010
+Bir, iki!
+Şerefe!
+
+242
+00:23:04,610 --> 00:23:07,520
+Pardon, o dantel altlık
+bulaşık bezi değil!
+
+243
+00:23:07,640 --> 00:23:10,840
+- Ama her yeri delikli.
+- Öyle olması lazım zaten, tığla örüldü.
+
+244
+00:23:10,960 --> 00:23:13,900
+O da çok güzel bir oyundur,
+ona göre topun varsa tabii.
+
+245
+00:23:14,020 --> 00:23:16,060
+Sizin gibi cüceler olmaz olsun!
+
+246
+00:23:16,180 --> 00:23:19,000
+Sevgili Bilbo,
+neyin var senin böyle?
+
+247
+00:23:19,120 --> 00:23:22,240
+Neyim mi var?
+Dört bir yanımı cüceler çevirdi!
+
+248
+00:23:22,277 --> 00:23:23,280
+Ne işleri var bunların burada?
+
+249
+00:23:23,440 --> 00:23:26,020
+Çok neşelidirler.
+
+250
+00:23:26,140 --> 00:23:29,960
+- Onlara alışınca tabii.
+- Onlara alışmak istemiyorum!
+
+251
+00:23:30,278 --> 00:23:33,326
+Mutfağımı hâline bak!
+Halının her yanı çamur içinde.
+
+252
+00:23:33,397 --> 00:23:35,676
+Kileri yağmaladılar zaten!
+
+253
+00:23:35,723 --> 00:23:37,830
+Tuvalete yaptıklarını
+söyleyemeyeceğim bile.
+
+254
+00:23:37,838 --> 00:23:39,134
+Kanalizasyon tıkandı!
+
+255
+00:23:39,140 --> 00:23:40,960
+Anlamıyorum, benim evimde
+ne işleri var bunların?
+
+256
+00:23:41,080 --> 00:23:44,450
+Affedersiniz,
+böldüğüm için kusura bakmayın.
+
+257
+00:23:44,570 --> 00:23:49,490
+- Tabağımı nereye koyayım?
+- Ver sen onu bana Ori.
+
+258
+00:23:55,210 --> 00:23:58,170
+Affedersiniz! O benim
+annemin porseneli.
+
+259
+00:23:58,290 --> 00:24:01,030
+Yüzyıllık onlar!
+
+260
+00:24:04,090 --> 00:24:06,600
+Yapmayın, onları körelteceksiniz!
+
+261
+00:24:06,720 --> 00:24:09,140
+Duydunuz mu beyler?
+
+262
+00:24:09,260 --> 00:24:11,370
+Bıçakları köreltecekmişiz!
+
+263
+00:24:11,907 --> 00:24:14,373
+<i>Körlensin bıçaklar
+Bükülsün çatallar</i>
+
+264
+00:24:14,467 --> 00:24:16,818
+<i>Parçalansın şişeler
+Mantarlar yakılsın</i>
+
+265
+00:24:16,897 --> 00:24:20,262
+<i>Bardaklar un ufak edilsin
+Tabaklar kırılsın</i>
+
+266
+00:24:20,325 --> 00:24:22,215
+<i>İşte Bilbo Baggins bundan nefret eder</i>
+
+267
+00:24:22,270 --> 00:24:24,127
+<i>Sofra örtüsü kesilsin
+Yağın üstüne basalım</i>
+
+268
+00:24:24,153 --> 00:24:26,056
+<i>Kemikleri yatak odasında bırakalım</i>
+
+269
+00:24:26,074 --> 00:24:30,017
+<i>Sütü kilerin zeminine dökelim</i>
+
+270
+00:24:30,112 --> 00:24:32,021
+<i>Şarabı her kapıya sıçratalım</i>
+
+271
+00:24:32,085 --> 00:24:33,812
+<i>Testiyi kaynayan kaseye dökelim</i>
+
+272
+00:24:33,841 --> 00:24:35,825
+<i>Ezin onları büyük bir kazıkla</i>
+
+273
+00:24:35,860 --> 00:24:40,818
+<i>Bitirdiğinde ezilmemiş varsa</i>
+
+274
+00:24:40,894 --> 00:24:43,821
+<i>Onları hole yollayın</i>
+
+275
+00:24:50,636 --> 00:24:53,338
+<i>İşte Bilbo Baggins bundan nefret eder</i>
+
+276
+00:25:06,240 --> 00:25:08,240
+Geldi.
+
+277
+00:25:11,960 --> 00:25:13,960
+Gandalf.
+
+278
+00:25:15,830 --> 00:25:20,550
+Çabucak bulursun demiştin.
+İki kez kayboldum.
+
+279
+00:25:20,670 --> 00:25:24,080
+Kapıdaki işaret olmasaydı,
+burayı bulamayabilirdim.
+
+280
+00:25:24,200 --> 00:25:27,110
+İşaret mi? Kapıda bir işaret yok ki,
+bir hafta önce boyanmıştı.
+
+281
+00:25:27,230 --> 00:25:30,310
+Var evet, onu ben kendim yaptım.
+
+282
+00:25:31,220 --> 00:25:35,700
+Bilbo Baggins müsaadenle
+seni grup liderimizle tanıştırayım.
+
+283
+00:25:35,820 --> 00:25:38,140
+Thorin Meşekalkan.
+
+284
+00:25:38,260 --> 00:25:43,560
+Hobbit bu demek?
+
+285
+00:25:43,980 --> 00:25:46,540
+Söyler misiniz Bay Baggins,
+hiç çarpıştınız mı?
+
+286
+00:25:46,660 --> 00:25:50,220
+- Anlamadım? - Balta mı kılıç mı?
+Silah tercihiniz nedir?
+
+287
+00:25:50,340 --> 00:25:54,290
+At kestanesi oyununda
+pek bir yetenekliyimdir.
+
+288
+00:25:54,410 --> 00:25:57,810
+Ama sanırsam
+konuyla alakası yok bunun.
+
+289
+00:25:57,930 --> 00:26:02,420
+Bence de alakasız. Bir hırsızdan
+çok bakkala benziyor.
+
+290
+00:26:08,110 --> 00:26:10,490
+Ered Luin'deki toplantıdan
+bir haber var mı?
+
+291
+00:26:10,610 --> 00:26:14,360
+- Hepsi geldi mi?
+- Evet, yedi krallıktan elçilikler geldi.
+
+292
+00:26:14,640 --> 00:26:17,790
+Peki ya Demir Tepeler'in cüceleri?
+
+293
+00:26:18,670 --> 00:26:21,070
+Dain bizimle mi?
+
+294
+00:26:22,920 --> 00:26:24,920
+Gelmeyecekler.
+
+295
+00:26:27,950 --> 00:26:32,300
+Bu macera yalnızca
+bizim maceramızmış.
+
+296
+00:26:34,000 --> 00:26:36,230
+Maceraya mı çıkıyorsunuz?
+
+297
+00:26:37,300 --> 00:26:41,770
+Bilbo sevgili dostum,
+buraya biraz daha ışık getirsene.
+
+298
+00:26:43,210 --> 00:26:48,040
+Çok uzaklarda, doğuda
+tepelerin, nehirlerin...
+
+299
+00:26:48,540 --> 00:26:54,450
+...ormanların ve çöllerin ötesinde
+tek ve yalnız bir dağ vardır.
+
+300
+00:26:57,830 --> 00:27:00,000
+Yalnız Dağ.
+
+301
+00:27:00,450 --> 00:27:03,510
+Pekâlâ.
+Oin alametleri okudu...
+
+302
+00:27:03,630 --> 00:27:07,270
+...ve alametlere göre vakit gelmiştir.
+
+303
+00:27:07,390 --> 00:27:12,330
+Önceden haber verildiği gibi dağa
+tekrar uçan kuzgunlar görülmüştür.
+
+304
+00:27:12,450 --> 00:27:16,380
+Kadim kuşlar Erebor'a döndüğünde...
+
+305
+00:27:16,500 --> 00:27:20,020
+...canavarın saltanatı
+sona erecek.
+
+306
+00:27:22,320 --> 00:27:24,440
+Ne canavarı?
+
+307
+00:27:24,560 --> 00:27:26,980
+Korkunç Smaug'ı ima ediyor.
+
+308
+00:27:27,100 --> 00:27:30,450
+Çağımızın en baş ve büyük
+felaketidir kendisi.
+
+309
+00:27:31,470 --> 00:27:33,470
+Uçan ateş soluklu.
+
+310
+00:27:33,600 --> 00:27:36,280
+Dişleri hançer,
+pençeleri et kancası.
+
+311
+00:27:36,400 --> 00:27:39,380
+- Değerli metalleri pek bir sever.
+- Evet, ejderhaları bilirim.
+
+312
+00:27:39,500 --> 00:27:44,940
+Ben korkmuyorum! Ona kaba etinden
+cüce demirini tattıracağım!
+
+313
+00:27:44,941 --> 00:27:45,950
+Otur bakayım sen!
+
+314
+00:27:46,090 --> 00:27:49,530
+Bu görev ardımızda
+bir ordu olsaydı bile zor.
+
+315
+00:27:49,650 --> 00:27:54,010
+Kaldı ki sadece 13 kişiyiz.
+Bunlar da ne en iyiler...
+
+316
+00:27:54,430 --> 00:27:56,430
+...ne de en zekiler.
+
+317
+00:27:56,890 --> 00:27:58,890
+Sen kime aptal diyorsun bakayım?
+
+318
+00:27:59,950 --> 00:28:03,650
+Sayıca az olabiliriz.
+Ama bizler savaşçıyız.
+
+319
+00:28:04,390 --> 00:28:06,770
+Hepimiz. Son cüceye kadar!
+
+320
+00:28:06,890 --> 00:28:08,950
+Hem bizim grubumuzda
+bir büyücü de var!
+
+321
+00:28:09,070 --> 00:28:12,150
+Gandalf zamanında yüzlerce
+ejderhayı öldürmüştür.
+
+322
+00:28:12,420 --> 00:28:15,040
+- Yok, öyle demeyelim de...
+- Kaç tane?
+
+323
+00:28:15,160 --> 00:28:17,720
+- Ne?
+- Kaç ejderhayı öldürdün?
+
+324
+00:28:20,690 --> 00:28:22,710
+Hadi, bize bir sayı söyle!
+
+325
+00:28:25,400 --> 00:28:27,420
+Lütfen ama...
+
+326
+00:28:27,870 --> 00:28:29,870
+Sessizlik!
+
+327
+00:28:31,850 --> 00:28:36,480
+Bu alametleri biz gördüysek,
+sizce başkaları da görmüş olamaz mı?
+
+328
+00:28:38,480 --> 00:28:44,470
+Söylentiler çıkmaya başladı.
+Ejderha Smaug 60 yıldır görülmedi.
+
+329
+00:28:45,840 --> 00:28:51,450
+Doğuya, dağa doğru bakan gözler
+riskin ne olacağını düşünür halde.
+
+330
+00:28:52,120 --> 00:28:55,390
+Merak edip tartıyorlar. Belki de halkımızın
+zenginliği artık korumasız haldedir.
+
+331
+00:28:55,510 --> 00:28:59,520
+Başkaları bizim olanı alırken
+biz bir şey yapmadan oturacak mıyız?
+
+332
+00:28:59,640 --> 00:29:02,670
+Yoksa Erebor'u geri alma
+şansımızı değerlendirecek miyiz?
+
+333
+00:29:02,790 --> 00:29:04,790
+Evet!
+
+334
+00:29:05,020 --> 00:29:07,700
+Unuttuğun bir şey var,
+ön kapı mühürlendi.
+
+335
+00:29:08,270 --> 00:29:10,680
+Dağa başka bir giriş yok.
+
+336
+00:29:10,900 --> 00:29:14,460
+Bu pek doğru sayılmaz, sevgili Balin.
+
+337
+00:29:18,940 --> 00:29:20,800
+Bunu sana kim verdi?
+
+338
+00:29:21,001 --> 00:29:23,301
+Baban verdi.
+
+339
+00:29:23,500 --> 00:29:27,200
+Thrain saklamam için verdi.
+
+340
+00:29:27,850 --> 00:29:29,850
+Artık senindir.
+
+341
+00:29:37,090 --> 00:29:39,090
+Eğer ortada bir anahtar varsa...
+
+342
+00:29:39,510 --> 00:29:41,800
+...bir kapı vardır.
+
+343
+00:29:42,030 --> 00:29:46,340
+Bu yazıtlara göre alt salonlara
+doğru giden gizli bir geçit var.
+
+344
+00:29:46,460 --> 00:29:49,960
+- Başka bir giriş yolu daha var.
+- Girişi bulabilirsek tabii.
+
+345
+00:29:50,080 --> 00:29:54,170
+Cüce kapıları kapandığında görünmezdir.
+
+346
+00:29:55,040 --> 00:29:58,210
+Cevap bu haritanın içinde saklı.
+
+347
+00:29:58,330 --> 00:30:01,170
+Ama onu bulabilecek
+becerilere sahip değilim.
+
+348
+00:30:01,480 --> 00:30:04,410
+Ama Orta Dünya'da
+bulabilecek birileri var.
+
+349
+00:30:05,430 --> 00:30:08,900
+Aklımdaki görev için beceri...
+
+350
+00:30:09,020 --> 00:30:11,020
+...ve biraz da cesaret gerektirmekte.
+
+351
+00:30:12,100 --> 00:30:14,850
+Eğer dikkatli ve akıllı olursak...
+
+352
+00:30:14,970 --> 00:30:17,000
+...başarabileceğimizi düşünüyorum.
+
+353
+00:30:17,120 --> 00:30:19,400
+Bu yüzden bize bir hırsız gerek!
+
+354
+00:30:19,540 --> 00:30:22,400
+Hem de iyi bir hırsız.
+Bir uzman lazım bence.
+
+355
+00:30:22,590 --> 00:30:24,590
+Peki sen öyle misin?
+
+356
+00:30:27,370 --> 00:30:31,400
+- Ne miyim?
+- Bu işin uzmanıyım dedi!
+
+357
+00:30:32,278 --> 00:30:34,697
+Kim ben mi? Hayır, hayır.
+Ben hırsız değilim.
+
+358
+00:30:35,161 --> 00:30:36,814
+Hayatımda hiçbir şey çalmadım.
+
+359
+00:30:37,190 --> 00:30:39,970
+Korkarım Bay Baggins ile aynı görüşteyim.
+
+360
+00:30:40,160 --> 00:30:42,770
+Bir hırsıza pek benzemiyor kendisi.
+
+361
+00:30:43,340 --> 00:30:45,730
+Yabaneli dövüşme bilmeyen
+ve kendini savunamayan...
+
+362
+00:30:45,850 --> 00:30:49,140
+...nazik kişilere göre bir yer değil.
+
+363
+00:30:56,360 --> 00:31:02,130
+Yeter! Ben Bilbo Baggins hırsızdır diyorsam
+o bir hırsızdır!
+
+364
+00:31:02,840 --> 00:31:05,590
+Hobbitler hızlı ve beceriklidirler.
+
+365
+00:31:05,710 --> 00:31:09,160
+Hatta isterlerse pek çok kişiye
+hissettirmeksizin geçebilirler.
+
+366
+00:31:09,280 --> 00:31:12,970
+Ejderha cüce kokusunu bilen
+bir yaratıktır...
+
+367
+00:31:13,090 --> 00:31:16,290
+...ama bir Hobbitin kokusu
+ona yabancı gelecektir.
+
+368
+00:31:16,410 --> 00:31:18,730
+Bu da bizim için büyük bir avantaj.
+
+369
+00:31:19,250 --> 00:31:22,410
+Benden bu gruba
+14. üyeyi bulmamı istemiştin.
+
+370
+00:31:22,530 --> 00:31:24,310
+Ve ben de Bay Baggins'i seçtim.
+
+371
+00:31:24,430 --> 00:31:27,360
+Göründüğünden çok daha
+fazlasına sahip birisidir kendisi.
+
+372
+00:31:27,480 --> 00:31:31,420
+Size pek çok faydası dokunabilir.
+
+373
+00:31:31,540 --> 00:31:34,020
+Yapabileceklerini daha
+kendi bile bilmiyor.
+
+374
+00:31:38,900 --> 00:31:41,510
+Bu konuda bana güvenmelisin.
+
+375
+00:31:44,590 --> 00:31:47,530
+Peki. Senin yönteminle yaparız.
+
+376
+00:31:47,650 --> 00:31:50,390
+- Hayır...
+- Ona sözleşmeyi verin.
+
+377
+00:31:50,510 --> 00:31:53,530
+Sıradan bir sözleşme.
+Cepten yapılan harcamalar...
+
+378
+00:31:53,650 --> 00:31:58,320
+...gerekli olan zaman, ödüllendirmeler,
+cenaze düzenlemesi vesaire.
+
+379
+00:31:58,440 --> 00:32:00,730
+Cenaze düzenlemesi mi?
+
+380
+00:32:05,300 --> 00:32:08,940
+- Güvenliğini garanti edemem.
+- Anlaşıldı.
+
+381
+00:32:09,530 --> 00:32:12,150
+Kaderinden de ben sorumlu değilim.
+
+382
+00:32:15,630 --> 00:32:17,440
+Anlaştık.
+
+383
+00:32:17,560 --> 00:32:20,990
+Koşullar: Teslimatta nakit bir kâr olursa
+14/1 oranında dağılacaktır.
+
+384
+00:32:21,110 --> 00:32:24,430
+Bence gayet adil.
+
+385
+00:32:24,550 --> 00:32:28,350
+Grup olası yaralanmalardan
+sorumlu tutulamaz.
+
+386
+00:32:28,470 --> 00:32:31,530
+Ayrıyetten ikinci derece...
+
+387
+00:32:31,650 --> 00:32:34,260
+...derin kesikler ve...
+
+388
+00:32:34,780 --> 00:32:37,390
+...bağırsak çıkarmaları.
+
+389
+00:32:38,920 --> 00:32:40,500
+Yakılma mı?
+
+390
+00:32:40,620 --> 00:32:44,980
+Sen daha farkına varmadan
+etlerini kül eder.
+
+391
+00:32:48,490 --> 00:32:51,100
+- İyi misin, evlat?
+- Evet, evet.
+
+392
+00:32:53,030 --> 00:32:56,860
+- Başım döndü de.
+- Kanatlı bir fırın düşün hemen.
+
+393
+00:32:56,980 --> 00:32:58,660
+Hava almam lazım benim.
+
+394
+00:32:58,780 --> 00:33:03,870
+Işığın parlaması, çok büyük bir acı
+ve sonra püf! Kül olur gidersin!
+
+395
+00:33:09,940 --> 00:33:13,610
+- Hayır.
+- Çok yardımın dokundu, Bofur!
+
+396
+00:33:13,860 --> 00:33:16,760
+İyiyim ben. Şurada sakince
+biraz uzanayım.
+
+397
+00:33:16,880 --> 00:33:20,040
+Çok uzun bir süre
+öylece durdun zaten.
+
+398
+00:33:20,630 --> 00:33:24,770
+Söylesene, annenin örtüleri, tabaklar...
+
+399
+00:33:24,890 --> 00:33:26,990
+...ne zaman bu kadar önemli oldu?
+
+400
+00:33:27,110 --> 00:33:32,240
+Ben sürekli koşup gidip ormanda
+Elf arayan bir genç bir Hobbit hatırlıyorum.
+
+401
+00:33:32,360 --> 00:33:35,810
+Akşamlara kadar arar,
+karanlık çökünce evine döner...
+
+402
+00:33:35,930 --> 00:33:38,930
+...yağmur çamur dinlemeksizin
+ateş böceklerini izlerdi.
+
+403
+00:33:39,439 --> 00:33:42,218
+Shire'ın dışında ne olduğunu bilmekten...
+
+404
+00:33:42,226 --> 00:33:45,026
+...daha çok bir şey
+istemeyen genç bir Hobbit!
+
+405
+00:33:45,750 --> 00:33:49,230
+Dünya senin kitaplarında
+ve haritalarında değil.
+
+406
+00:33:50,950 --> 00:33:53,940
+Gerçek dünya dışarıda.
+
+407
+00:33:54,060 --> 00:33:56,960
+Öyle birden başımı alıp
+gidecek halim yok ya.
+
+408
+00:33:57,080 --> 00:34:00,490
+Ben çıkın çıkmazı Baggins'im.
+
+409
+00:34:00,610 --> 00:34:03,300
+Aynı zamanda bir Took'sun da.
+
+410
+00:34:04,440 --> 00:34:08,900
+Büyük büyük büyük amcan "Boğa
+kükreten Took" o kadar kalıplıydı ki...
+
+411
+00:34:09,020 --> 00:34:11,480
+...gerçek bir ata sığabilirdi,
+biliyor muydun? Evet, binebiliyordu.
+
+412
+00:34:11,600 --> 00:34:15,900
+Yeşil Ovalar Savaşı'nda
+Goblin ranklarına daldı...
+
+413
+00:34:16,020 --> 00:34:20,470
+...tokmağını öyle sert salladı ki
+Goblin kralının kafası uçtu.
+
+414
+00:34:20,590 --> 00:34:24,620
+Havada doksan metre gidip
+bir tavşan deliğine girdi.
+
+415
+00:34:24,740 --> 00:34:26,980
+O savaş böyle kazanıldı.
+
+416
+00:34:27,100 --> 00:34:30,120
+Aynı zamanda golf oyunu
+da icat edildi.
+
+417
+00:34:32,960 --> 00:34:35,130
+Bence bunu sen uydurdun.
+
+418
+00:34:35,770 --> 00:34:39,320
+Şey, iyi hikâyeler abartılmayı hak eder.
+
+419
+00:34:40,710 --> 00:34:45,000
+Senin de döndüğünde anlatacağın
+bir iki hikâyen olacak.
+
+420
+00:34:48,490 --> 00:34:51,270
+Döneceğime söz verir misin peki?
+
+421
+00:34:52,380 --> 00:34:54,170
+Hayır.
+
+422
+00:34:54,290 --> 00:34:59,400
+Ve olur da dönersen,
+eski Bilbo olmayacaksın.
+
+423
+00:35:00,830 --> 00:35:02,830
+Ben de öyle düşünmüştüm.
+
+424
+00:35:03,870 --> 00:35:06,620
+Kusura bakma, Gandalf.
+Bunu imzalayamam.
+
+425
+00:35:08,450 --> 00:35:10,790
+Yanlış Hobbite geldin.
+
+426
+00:35:17,330 --> 00:35:20,650
+Görünen o ki,
+hırsızımızı kaybettik.
+
+427
+00:35:21,780 --> 00:35:23,930
+Böylesi daha hayırlı oldu.
+
+428
+00:35:24,210 --> 00:35:26,610
+Şans bizden yana değildi zaten.
+
+429
+00:35:26,730 --> 00:35:29,790
+Sonuçta biz neyiz ki?
+
+430
+00:35:30,180 --> 00:35:32,920
+Tüccar, madenci...
+
+431
+00:35:33,510 --> 00:35:36,010
+...tamirci, oyuncakçı.
+
+432
+00:35:36,850 --> 00:35:39,270
+Efsaneler yaratacağımızı sanmam.
+
+433
+00:35:39,390 --> 00:35:42,210
+Aramızda az savaşçı var.
+
+434
+00:35:42,330 --> 00:35:44,880
+Yaşlı savaşçı.
+
+435
+00:35:45,000 --> 00:35:49,440
+Bu cücelerin hiçbirini
+Demir Tepeler'deki orduya değişmem.
+
+436
+00:35:49,560 --> 00:35:52,630
+Onları çağırır çağırmaz geldiler.
+
+437
+00:35:53,610 --> 00:35:56,260
+Sadakat, onur.
+
+438
+00:35:56,380 --> 00:35:58,800
+Ve istekli bir yürek.
+
+439
+00:35:59,900 --> 00:36:02,630
+Bunlardan fazlasını isteyemem.
+
+440
+00:36:03,100 --> 00:36:05,550
+Bunu yapmak zorunda değilsin.
+
+441
+00:36:05,670 --> 00:36:07,710
+Bir seçeneğin var.
+
+442
+00:36:07,830 --> 00:36:10,790
+Halkına onurunla hizmet ettin.
+
+443
+00:36:11,420 --> 00:36:14,430
+Mavi Dağlar'da bize yeni
+bir hayat kurdun.
+
+444
+00:36:15,250 --> 00:36:18,440
+Huzurlu ve refah dolu bir hayat.
+
+445
+00:36:19,330 --> 00:36:24,090
+Erebor'daki tüm altından
+çok daha değerli bir hayat.
+
+446
+00:36:24,550 --> 00:36:30,140
+Büyükbabamdan benim babama kalan
+bu anahtar, babamdan da bana kaldı.
+
+447
+00:36:30,850 --> 00:36:35,940
+Erebor cüceleri anavatanlarını
+geri alacakları günü hep hayal ettiler.
+
+448
+00:36:36,370 --> 00:36:38,570
+Başka bir seçenek yok, Balin.
+
+449
+00:36:40,510 --> 00:36:42,510
+Benim yok.
+
+450
+00:36:44,740 --> 00:36:47,430
+O zaman biz de yanındayız, delikanlı.
+
+451
+00:36:48,310 --> 00:36:51,390
+Bu işi halledeceğiz.
+
+452
+00:37:14,404 --> 00:37:21,575
+<i>Uzakta, sisli dağlar buz keser</i>
+
+453
+00:37:22,565 --> 00:37:26,194
+<i>Mahzer derin</i>
+
+454
+00:37:26,458 --> 00:37:30,535
+<i>Eski mağara</i>
+
+455
+00:37:32,684 --> 00:37:39,844
+<i>Yitirdiğimiz altınları bulmaya</i>
+
+456
+00:37:39,879 --> 00:37:49,813
+<i>Çıkmalıyız gün doğmadan yola</i>
+
+457
+00:37:50,417 --> 00:37:57,501
+<i>Tepede çamlar uğulduyor</i>
+
+458
+00:37:58,952 --> 00:38:02,510
+<i>Gecenin karanlığında</i>
+
+459
+00:38:02,658 --> 00:38:06,921
+<i>Rüzgarlar inliyordu</i>
+
+460
+00:38:08,608 --> 00:38:12,759
+<i>Ateş kırmızıydı</i>
+
+461
+00:38:12,911 --> 00:38:16,692
+<i>Yayılıyordu alevler</i>
+
+462
+00:38:16,876 --> 00:38:21,458
+<i>Tutuştu orman</i>
+
+463
+00:38:21,493 --> 00:38:26,040
+<i>Barut gibi</i>
+
+464
+00:39:04,390 --> 00:39:06,390
+Kimse yok mu?
+
+465
+00:40:32,540 --> 00:40:36,330
+- Bay Bilbo, nereye böyle?
+- Duramam, geç kaldım!
+
+466
+00:40:36,450 --> 00:40:40,230
+- Neye geç kaldın?
+- Ben bir maceraya çıkıyorum!
+
+467
+00:40:56,810 --> 00:40:58,860
+Durun!
+
+468
+00:40:59,040 --> 00:41:01,040
+Bekleyin!
+
+469
+00:41:10,670 --> 00:41:12,670
+İmzaladım.
+
+470
+00:41:24,820 --> 00:41:27,070
+Her şey uygun görünüyor.
+
+471
+00:41:27,440 --> 00:41:30,170
+Thorin Meşekalkan’ın grubuna...
+
+472
+00:41:30,290 --> 00:41:34,320
+...hoş geldiniz Efendi Baggins.
+
+473
+00:41:39,220 --> 00:41:42,790
+- Ona bir midilli verin.
+- Hayır, hayır buna hiç gerek yok.
+
+474
+00:41:42,920 --> 00:41:47,710
+Eminim ben size yürüyerek ayak
+uydurabilirim. Yürümeyi çok severim.
+
+475
+00:41:47,830 --> 00:41:49,830
+Bir keresinde Frog Dağı'na kadar yürü...
+
+476
+00:42:03,943 --> 00:42:05,815
+Hadi, Nori. Sökül bakalım!
+
+477
+00:42:07,560 --> 00:42:08,680
+Bir daha.
+
+478
+00:42:09,951 --> 00:42:11,771
+Bu neydi şimdi?
+
+479
+00:42:11,902 --> 00:42:15,566
+Gelip gelmeyeceğine dair
+bahis oynadılar da.
+
+480
+00:42:16,439 --> 00:42:18,587
+Çoğu gelmeyeceğine oynadı.
+
+481
+00:42:20,626 --> 00:42:21,993
+Sen ne düşündün peki?
+
+482
+00:42:27,071 --> 00:42:31,360
+Canım dostum,
+senden hiç kuşku duymadım.
+
+483
+00:42:36,140 --> 00:42:38,460
+At kılı yüzünden.
+
+484
+00:42:38,580 --> 00:42:40,580
+Alerjim var da.
+
+485
+00:42:41,890 --> 00:42:44,660
+Bir dakika, durun!
+Durun!
+
+486
+00:42:44,780 --> 00:42:48,500
+- Geri dönmemiz lazım.
+- Sorun nedir?
+
+487
+00:42:48,620 --> 00:42:51,300
+- Mendilimi unutmuşum.
+- Al bakalım.
+
+488
+00:42:52,440 --> 00:42:54,440
+Bunu kullan.
+
+489
+00:42:57,940 --> 00:42:59,940
+Devam edin.
+
+490
+00:43:06,490 --> 00:43:09,680
+<i>Yolculuğumuz nihayete varana dek...</i>
+
+491
+00:43:09,840 --> 00:43:12,740
+<i>...mendil ve diğer pek çok şey olmadan...</i>
+
+492
+00:43:12,860 --> 00:43:15,580
+<i>...idare etmen gerek Bilbo Baggins.</i>
+
+493
+00:43:16,630 --> 00:43:21,130
+<i>Sen küçük tepelerin ve ufak nehirlerin
+olduğu Shire'da doğdun.</i>
+
+494
+00:43:22,800 --> 00:43:25,160
+<i>Ama evin artık geride kaldı.</i>
+
+495
+00:43:25,280 --> 00:43:28,700
+<i>Önünde ise koca bir dünya var.</i>
+
+496
+00:44:09,860 --> 00:44:12,900
+Merhaba kızım.
+Uslu kızım benim.
+
+497
+00:44:16,270 --> 00:44:20,410
+Bu bizim küçük sırrımız, Myrtle.
+Kimseye söyleme.
+
+498
+00:44:25,390 --> 00:44:27,450
+Bu da neydi?
+
+499
+00:44:27,782 --> 00:44:28,902
+Orklar.
+
+500
+00:44:29,776 --> 00:44:30,896
+Orklar mı?
+
+501
+00:44:32,363 --> 00:44:33,483
+Boğaz deşiciler.
+
+502
+00:44:33,738 --> 00:44:35,548
+Buralarda bir sürü var.
+
+503
+00:44:35,722 --> 00:44:37,274
+Issız topraklar onlarla kaynıyor.
+
+504
+00:44:37,280 --> 00:44:40,260
+Herkes uyurken saldırırlar.
+
+505
+00:44:40,380 --> 00:44:44,270
+Çabuk ve sessizce.
+Çığlık atamazsın, sadece kan vardır kan!
+
+506
+00:44:48,090 --> 00:44:50,330
+Sizce bu komik mi?
+
+507
+00:44:51,580 --> 00:44:54,650
+Orkların gece baskınını
+şaka mı sanıyorsunuz siz?
+
+508
+00:44:54,770 --> 00:44:57,060
+Kötü bir niyetimiz yoktu.
+
+509
+00:44:57,180 --> 00:45:01,560
+Evet, yoktu.
+Sizin dünyadan haberiniz yok.
+
+510
+00:45:03,550 --> 00:45:05,650
+Aldırma sen ona, delikanlı.
+
+511
+00:45:06,150 --> 00:45:11,370
+Thorin'in Orklardan nefret etmek için
+çok nedeni var.
+
+512
+00:45:15,480 --> 00:45:18,230
+Ejderha Yalnız Dağı ele geçirdikten sonra...
+
+513
+00:45:18,730 --> 00:45:23,830
+...Kral Thror eski cüce krallığı
+Moria'yi ele geçirmeye çalıştı.
+
+514
+00:45:26,490 --> 00:45:29,560
+<i>Ama düşmanlarımız oraya
+bizden önce varmışlardı.</i>
+
+515
+00:45:42,100 --> 00:45:46,120
+<i>Moria'yı Ork lejyonları ele geçirmişti.</i>
+
+516
+00:45:46,240 --> 00:45:50,890
+<i>Başlarında onların ırkının
+en adi lideri vardı.</i>
+
+517
+00:45:51,210 --> 00:45:54,880
+<i>Kirletici Azog.</i>
+
+518
+00:45:56,740 --> 00:45:59,760
+<i>Gundabad'lı dev Ork
+Durin soyunun...</i>
+
+519
+00:45:59,880 --> 00:46:05,350
+...kökünü kurutmaya and içmişti.
+
+520
+00:46:09,238 --> 00:46:11,103
+<i>İşe de...</i>
+
+521
+00:46:12,291 --> 00:46:14,087
+...kralın kellesini alarak başladı.
+
+522
+00:46:24,990 --> 00:46:27,790
+Hayır!
+
+523
+00:46:29,360 --> 00:46:34,100
+Thrain, Thorin'in babası
+yasa boğulup delirdi.
+
+524
+00:46:34,220 --> 00:46:39,180
+Sırra kadem bastı, öldü mü
+esir mi düştü hiç bilmiyorduk.
+
+525
+00:46:40,520 --> 00:46:42,520
+Lidersiz kalmıştık.
+
+526
+00:46:43,105 --> 00:46:44,505
+<i>Yenilgi...</i>
+
+527
+00:46:44,933 --> 00:46:46,446
+<i>...ve ölüm...</i>
+
+528
+00:46:46,884 --> 00:46:49,352
+<i>...sarmıştı etrafı.</i>
+
+529
+00:46:51,220 --> 00:46:54,590
+İşte o zaman onu gördüm.
+
+530
+00:46:57,470 --> 00:47:03,320
+<i>Genç bir cüce prens soluk Ork ile
+karşı karşıya geldi.</i>
+
+531
+00:47:08,150 --> 00:47:12,100
+<i>Bu korkunç düşmanla
+bir başına savaşıyordu.</i>
+
+532
+00:47:21,050 --> 00:47:23,070
+<i>Zırhı parçalanmıştı.</i>
+
+533
+00:47:23,190 --> 00:47:26,880
+<i>Kalkanı yalnızca bir meşe dalıydı.</i>
+
+534
+00:47:39,600 --> 00:47:43,940
+<i>Kirletici Azog o gün Durin soyunun...</i>
+
+535
+00:47:44,730 --> 00:47:49,720
+...öyle kolay kolay
+yıkılmayacağını anladı.
+
+536
+00:48:17,320 --> 00:48:22,100
+<i>Güçlerimiz toplandı
+ve örkleri geri püskürttük.</i>
+
+537
+00:48:24,530 --> 00:48:27,770
+<i>Düşmanımız yenilmişti.</i>
+
+538
+00:48:29,640 --> 00:48:35,100
+Ama o gece ne eğlendik
+ne de şarkılar söyledik.
+
+539
+00:48:35,570 --> 00:48:40,190
+<i>Eğlenemeyecek kadar
+çok ölümüz vardı.</i>
+
+540
+00:48:41,610 --> 00:48:45,090
+<i>Birkaç kişi kurtulduk.</i>
+
+541
+00:48:52,200 --> 00:48:56,280
+<i>O zaman bir karar verdim.</i>
+
+542
+00:48:57,760 --> 00:49:02,010
+<i>Peşinden gidebileceğim biri vardı.</i>
+
+543
+00:49:04,220 --> 00:49:09,560
+"Kral" diyebileceğim biri.
+
+544
+00:49:27,970 --> 00:49:30,090
+Şu soluk renkli Ork.
+
+545
+00:49:31,750 --> 00:49:33,350
+Ona ne oldu?
+
+546
+00:49:33,470 --> 00:49:37,140
+Çıktığı deliğe döndü.
+
+547
+00:49:37,500 --> 00:49:41,240
+O pislik yaraları yüzünden
+uzun zaman önce geberdi gitti.
+
+548
+00:50:03,760 --> 00:50:07,040
+<i>Efendimize haber salın...</i>
+
+549
+00:50:07,750 --> 00:50:10,750
+<i>...pislik cüceleri bulduk.</i>
+
+550
+00:50:27,404 --> 00:50:28,888
+Bay Gandalf.
+
+551
+00:50:29,029 --> 00:50:31,534
+Bu yağmur için
+bir şey yapamaz mısınız?
+
+552
+00:50:31,675 --> 00:50:33,925
+Yağmur yağıyor, efendi cüce.
+
+553
+00:50:34,261 --> 00:50:38,149
+Yağmur durana kadar da
+yağmaya devam edecek.
+
+554
+00:50:38,798 --> 00:50:40,869
+Dünyanın iklimini
+değiştirmek istiyorsanız...
+
+555
+00:50:40,879 --> 00:50:42,896
+...kendinize başka bir büyücü bulmalısınız.
+
+556
+00:50:42,930 --> 00:50:45,294
+Başka var mı?
+
+557
+00:50:45,295 --> 00:50:47,094
+- Ne?
+- Başka büyücüler?
+
+558
+00:50:47,330 --> 00:50:52,380
+Beş kişiyiz.
+En güçlümüz ak büyücü Saruman'dır.
+
+559
+00:50:52,500 --> 00:50:56,570
+İki de mavi büyücü var.
+
+560
+00:50:56,770 --> 00:50:59,560
+Onların isimlerini unuttum.
+
+561
+00:50:59,980 --> 00:51:05,760
+- Beşinci kim peki?
+- O da Boz Radagast oluyor.
+
+562
+00:51:05,890 --> 00:51:09,940
+Büyük bir büyücü mü
+yoksa senin gibi mi?
+
+563
+00:51:11,080 --> 00:51:16,010
+Bana kalırsa kendi çapında
+çok büyük bir büyücüdür.
+
+564
+00:51:16,490 --> 00:51:21,400
+Nazik birisi, hayvanları ve diğer şeyleri
+kendine yoldaş edinmiş.
+
+565
+00:51:21,600 --> 00:51:26,060
+Doğudaki engin ormanlara
+göz kulak oluyor.
+
+566
+00:51:26,260 --> 00:51:31,450
+<i>Gayet de iyi ediyor, çünkü şer
+her zaman dünyaya tutunma yolu arar.</i>
+
+567
+00:51:39,280 --> 00:51:41,890
+İyi değil.
+Hiç iyi değil!
+
+568
+00:52:07,400 --> 00:52:09,870
+Hayır, Sebastian.
+
+569
+00:52:12,270 --> 00:52:14,650
+Eyvahlar olsun!
+
+570
+00:52:35,420 --> 00:52:38,980
+Geri çekilin! Biraz hava alsın.
+Tanrı aşkına!
+
+571
+00:52:52,400 --> 00:52:57,580
+Neden işe yaramıyor anlamıyorum!
+Bu büyü değil ki!
+
+572
+00:53:00,120 --> 00:53:02,660
+Büyü...
+
+573
+00:53:05,770 --> 00:53:10,440
+Evet, öyle.
+
+574
+00:53:10,640 --> 00:53:15,110
+Karanlık ve güçlü bir büyü.
+
+575
+00:54:45,609 --> 00:54:51,388
+Bu pis yaratıklar
+nereden geldiler acaba?
+
+576
+00:54:52,474 --> 00:54:53,874
+Eski hisardan mı?
+
+577
+00:54:55,011 --> 00:54:56,411
+Göster.
+
+578
+00:55:29,570 --> 00:55:31,690
+Geceyi geçirmek için
+burada kamp kuracağız.
+
+579
+00:55:31,890 --> 00:55:36,480
+<i>Fili, Kili. Atlara göz kulak olun.
+Sakın yanlarından ayrılmayın.</i>
+
+580
+00:55:36,600 --> 00:55:40,560
+Burada bir çiftçiyle ailesi yaşardı.
+
+581
+00:55:40,760 --> 00:55:43,930
+- Oin, Gloin ateşi yakın.
+- Tamam.
+
+582
+00:55:44,310 --> 00:55:49,440
+Bence yola devam etmek
+daha akıllıca olur.
+
+583
+00:55:49,740 --> 00:55:53,260
+Gizli Vadi'ye doğru devam edebiliriz.
+
+584
+00:55:53,460 --> 00:55:57,510
+Sana söylemiştim.
+Oraya asla gitmem.
+
+585
+00:55:57,810 --> 00:56:01,940
+Neden? Elfler bize yardım edebilir.
+Yemek yer, dinlenir, tavsiye alırız.
+
+586
+00:56:02,060 --> 00:56:04,140
+Onların tavsiyesine ihtiyacım yok!
+
+587
+00:56:04,340 --> 00:56:08,420
+Elimizde bizim okuyamadığımız bir harita
+var. Lord Ernold bize yardım edebilir.
+
+588
+00:56:08,620 --> 00:56:10,750
+Yardım mı?
+
+589
+00:56:10,950 --> 00:56:14,480
+Erebor'a ejderha saldırdığında
+Elflerden ne yardım geldi?
+
+590
+00:56:16,080 --> 00:56:20,650
+Orklar Moria'yı yağmaladılar
+kutsal yerlerimize saygısızlık yaptı.
+
+591
+00:56:20,810 --> 00:56:24,280
+Elfler sadece bakıp
+hiçbir şey yapmadılar.
+
+592
+00:56:24,358 --> 00:56:28,426
+Benden dedeme ihanet edenlerin
+ayağına gitmemi istiyorsun...
+
+593
+00:56:28,824 --> 00:56:30,092
+...babama ihanet edenlerin?
+
+594
+00:56:30,750 --> 00:56:34,240
+Sen deden de değilsin
+baban da.
+
+595
+00:56:34,440 --> 00:56:36,430
+Sana o haritayla anahtarı
+geçmişte takıl kal diye vermedim!
+
+596
+00:56:36,531 --> 00:56:38,841
+Senin de onları saklama hakkın yoktu.
+
+597
+00:56:44,750 --> 00:56:47,130
+Her şey yolunda mı?
+Gandalf nereye böyle?
+
+598
+00:56:47,250 --> 00:56:51,430
+Buralarda akıl sahibi tek yoldaşı
+aramaya gidiyorum.
+
+599
+00:56:51,550 --> 00:56:54,280
+- Kim peki o?
+- Benim, Bay Baggins!
+
+600
+00:56:54,400 --> 00:56:57,250
+Bugünlük cüceler canıma tak etti!
+
+601
+00:56:58,520 --> 00:57:01,160
+Hadi, Bombur.
+Acıktık.
+
+602
+00:57:01,360 --> 00:57:03,700
+Geri döner mi?
+
+603
+00:57:07,770 --> 00:57:10,120
+- Gideli çok oldu.
+- Kim?
+
+604
+00:57:10,430 --> 00:57:12,550
+- Gandalf.
+- Adam büyücü yahu.
+
+605
+00:57:12,670 --> 00:57:14,500
+- Ne olacak ona!
+- Al bakayım şunu.
+
+606
+00:57:14,620 --> 00:57:19,320
+Bir güzellik yap da şunu arkadaşlara
+götür. Yeter, çok yedin sen.
+
+607
+00:57:37,550 --> 00:57:40,530
+- Sorun nedir?
+- Atlara göz kulak olmamız gerekiyordu.
+
+608
+00:57:40,650 --> 00:57:44,790
+- Küçük bir sorunla karşılaştık.
+- 16 at vardı.
+
+609
+00:57:45,190 --> 00:57:48,940
+Şimdi 14 at var.
+
+610
+00:57:51,410 --> 00:57:56,470
+- Daisy ve Bungo kayıp.
+- Ne? Bu çok kötü.
+
+611
+00:57:56,620 --> 00:57:59,200
+Hem de çok kötü!
+Thorin'e söylesek mi?
+
+612
+00:57:59,340 --> 00:58:01,910
+Hayır, onu endişelendirmeyelim.
+
+613
+00:58:02,120 --> 00:58:05,970
+Resmi hırsızımız olarak sen
+olayla ilgilenmeyi istersin dedik.
+
+614
+00:58:07,290 --> 00:58:10,730
+Bakın, büyük bir şey ağaçları sökmüş.
+
+615
+00:58:10,850 --> 00:58:14,400
+- Biz de öyle düşündük.
+- Çok büyük ve...
+
+616
+00:58:14,520 --> 00:58:16,530
+...muhtemelen çok tehlikeli.
+
+617
+00:58:17,374 --> 00:58:19,942
+Hey, şurada bir ışık var.
+
+618
+00:58:21,106 --> 00:58:22,463
+Buraya gelin.
+
+619
+00:58:24,866 --> 00:58:25,986
+Eğilin!
+
+620
+00:58:31,333 --> 00:58:32,733
+Bu ne?
+
+621
+00:58:33,196 --> 00:58:34,316
+Troller.
+
+622
+00:59:00,876 --> 00:59:02,853
+Myrtle ve Minty'i almış!
+
+623
+00:59:03,780 --> 00:59:06,230
+Onu yiyecek kesin.
+Bir şeyler yapmamız lazım.
+
+624
+00:59:06,350 --> 00:59:09,690
+Evet, yapmalısın.
+
+625
+00:59:09,799 --> 00:59:12,791
+- Dağ Trolleri yavaş ve aptaldır sen
+çok küçüksün seni görmezler. - Olmaz!
+
+626
+00:59:12,840 --> 00:59:15,300
+- Tamamıyla tehlikesiz bir iş.
+- Hemen arkanda olacağız biz de.
+
+627
+00:59:15,420 --> 00:59:20,080
+Başın derde girerse iki kez ahır baykuşu,
+bir kez de boz baykuş gibi öt.
+
+628
+00:59:20,290 --> 00:59:24,330
+İki kere öt baykuş gibi, neydi ya?
+Bunun iyi bir fikir olduğundan emin misiniz?
+
+629
+00:59:24,630 --> 00:59:27,620
+<i>Dün koyun, bugün de koyun!
+Yeter artık!</i>
+
+630
+00:59:27,850 --> 00:59:32,710
+<i>Ve görünen o ki
+yarın yine koyun yiyeceğiz.</i>
+
+631
+00:59:32,880 --> 00:59:36,530
+Kes artık mızmızlanmayı!
+Bunlar koyun değil.
+
+632
+00:59:36,660 --> 00:59:38,800
+Taze bulduk bunları.
+
+633
+00:59:39,130 --> 00:59:43,880
+Ben atları sevmem. Hiç sevmedim.
+Etleri yağlı olmuyor onların.
+
+634
+00:59:44,090 --> 00:59:48,650
+Ama o yaşlı çiftçiden daha iyi.
+Bir deri bir kemikti adam.
+
+635
+00:59:48,860 --> 00:59:51,890
+Hâlâ da dişlerimde parçaları var galiba.
+
+636
+00:59:52,010 --> 00:59:57,670
+- Tadı çok güzel. Yüzüyor bak!
+- Belki biraz da tat katar.
+
+637
+00:59:57,790 --> 01:00:02,360
+- Geldiği yerde daha çok var!
+- Çok yedin sen, yeter.
+
+638
+01:00:07,450 --> 01:00:08,555
+Otur!
+
+639
+01:00:17,640 --> 01:00:20,360
+Şu midillileri de alalım.
+
+640
+01:00:20,560 --> 01:00:23,240
+Ben kokan kısımlarını sevmiyorum.
+
+641
+01:00:23,960 --> 01:00:26,910
+Sana otur dedim!
+
+642
+01:00:27,911 --> 01:00:30,711
+Ben çok acıktım, at yiyecek miyiz
+yemeyecek miyiz?
+
+643
+01:00:30,950 --> 01:00:34,770
+<i>Kes sesini ben ne veriyorsam
+onu yiyeceksiniz!</i>
+
+644
+01:00:35,560 --> 01:00:38,920
+<i>O neden aşçı ki?
+Hepsinin tadı aynı geliyor.</i>
+
+645
+01:00:39,270 --> 01:00:42,340
+- Her şeyin tadı tavuk gibi.
+- Tavuğun tadı öyle değil ama.
+
+646
+01:00:43,020 --> 01:00:47,510
+- Tavuğun tadı da balık gibi. Benden demesi.
+- İnsan bir teşekkür eder!
+
+647
+01:00:51,560 --> 01:00:53,630
+"Ellerine sağlık, Burt!"
+
+648
+01:00:53,750 --> 01:00:57,030
+"Güzel yahni, Burt!"
+Çok mu zor yani bunu söylemek?
+
+649
+01:00:58,160 --> 01:01:00,540
+Biraz sincap gübresi sepmek lazım.
+
+650
+01:01:02,910 --> 01:01:05,377
+O benim içkim!
+
+651
+01:01:07,720 --> 01:01:09,770
+Pardon.
+
+652
+01:01:14,130 --> 01:01:17,100
+Tadı çok dengeli olmuş.
+
+653
+01:01:17,400 --> 01:01:19,680
+Al, tat bakayım.
+
+654
+01:01:21,310 --> 01:01:23,490
+<i>Güzel olmuş, değil mi?</i>
+
+655
+01:01:24,080 --> 01:01:26,360
+<i>Ben yemek yaptım mı böyle yaparım!</i>
+
+656
+01:01:33,970 --> 01:01:38,920
+<i>Karnımın zilleri çalıyor.
+Bir şeyler atıştırmalıyım.</i>
+
+657
+01:01:39,050 --> 01:01:41,350
+<i>Et! Et lazım bana!</i>
+
+658
+01:01:45,490 --> 01:01:49,340
+Bu ne ya? Burt bak
+burnumdan ne çıktı!
+
+659
+01:01:49,980 --> 01:01:52,380
+Kolu bacağı her şeyi var bunun!
+
+660
+01:01:52,820 --> 01:01:56,250
+- Bu ne böyle? - Bilmiyorum ama
+kıpır kıpır olmasını sevmedim.
+
+661
+01:02:00,890 --> 01:02:03,390
+Nesin sen?
+Büyük bir sincap mı?
+
+662
+01:02:03,880 --> 01:02:06,550
+Bir hırsızım... Hobbitim yani!
+
+663
+01:02:06,690 --> 01:02:09,710
+- Hırsız Hobbit mi?
+- Bunu pişirebilir miyiz?
+
+664
+01:02:10,150 --> 01:02:12,500
+Deneriz!
+
+665
+01:02:15,010 --> 01:02:19,850
+Bir lokma çıkmaz bundan,
+sıska ve kemikli bu.
+
+666
+01:02:20,760 --> 01:02:25,810
+Buralalarda daha fazla Hobbit vardır.
+Turta yapmaya yetecek kadar.
+
+667
+01:02:27,060 --> 01:02:29,650
+- Yakalayın!
+- Çok hızlı bu!
+
+668
+01:02:29,880 --> 01:02:32,050
+Yakaladım!
+
+669
+01:02:32,450 --> 01:02:37,280
+Buralarda senin gibi
+minik arkadaşların var mı?
+
+670
+01:02:38,100 --> 01:02:40,300
+Hayır.
+
+671
+01:02:40,580 --> 01:02:42,820
+- Yalan söylüyor.
+- Hayır söylemiyorum!
+
+672
+01:02:42,940 --> 01:02:47,930
+Onu ateşe atalım.
+Bağırsın çağırsın.
+
+673
+01:02:52,270 --> 01:02:54,600
+- Bırak onu!
+- Ne dedin?
+
+674
+01:02:55,460 --> 01:02:57,840
+Sana onu bırak dedim!
+
+675
+01:03:20,880 --> 01:03:23,300
+Gösterin günlerini!
+
+676
+01:04:16,680 --> 01:04:18,700
+- Bilbo!
+- Hayır!
+
+677
+01:04:19,450 --> 01:04:23,370
+Atın silahlarınızı yoksa
+bunu parçalarız.
+
+678
+01:04:39,010 --> 01:04:42,470
+- Sıcak, sıcak, sıcak!
+- Pişirmekle uğraşmasak mı?
+
+679
+01:04:42,590 --> 01:04:46,160
+Üstüne oturup dümdüz edelim.
+
+680
+01:04:46,280 --> 01:04:50,500
+Bunları soteliyip sonra da
+ada çayıyla kızartmak gerek.
+
+681
+01:04:51,890 --> 01:04:54,500
+İyi olur aslında.
+
+682
+01:04:57,470 --> 01:05:01,770
+<i>Baharatı boşver,
+tüm gece beklemeyelim.</i>
+
+683
+01:05:01,890 --> 01:05:05,070
+<i>Güneş doğmak üzere.
+Yiyelim gitsin.</i>
+
+684
+01:05:05,270 --> 01:05:08,650
+Güneş doğduğunda taşa
+dönmeyi istemem.
+
+685
+01:05:10,670 --> 01:05:15,180
+Durun!
+Çok büyük bir hata yapıyorsunuz!
+
+686
+01:05:15,310 --> 01:05:18,450
+- Bunlarla anlaşılmaz! Aptal bunlar!
+- Aptal mı?
+
+687
+01:05:18,570 --> 01:05:20,730
+Biz neyiz o zaman?
+
+688
+01:05:20,850 --> 01:05:23,210
+Baharat kısmı hakkında yani.
+
+689
+01:05:23,650 --> 01:05:27,320
+- Ne olmuş baharata?
+- Onları kokladın mı hiç?
+
+690
+01:05:27,440 --> 01:05:31,310
+Bunları yiyebilmeniz için adaçayından
+daha güçlü bir şey lazım size.
+
+691
+01:05:31,450 --> 01:05:35,150
+- Hain!
+- Sen aşçılıktan ne anlarsın cüce?
+
+692
+01:05:35,340 --> 01:05:39,490
+Sus bakayım!
+Bırak hırsız Hobbit konuşsun.
+
+693
+01:05:41,380 --> 01:05:44,680
+- Cüceyi pişirmenin sırrı şeyden geçiyor...
+- Evet?
+
+694
+01:05:45,490 --> 01:05:51,300
+- Ne söylesene?
+- Şöyle ki...
+
+695
+01:05:51,850 --> 01:05:56,320
+- Önce derilerini yüzün!
+- Ne diyor be bu?
+
+696
+01:05:56,900 --> 01:06:01,080
+- Fileto bıçağını ver, Tom.
+- Senin derini ben yüzeceğim ben!
+
+697
+01:06:01,281 --> 01:06:02,351
+Bunu unutmam ben!
+Sana göster...
+
+698
+01:06:02,450 --> 01:06:07,320
+Palavranın önde gideni bu ya!
+
+699
+01:06:07,500 --> 01:06:10,720
+Ben bunlardan bayağı derili yemiştim.
+Çizmeleri falan her şey üstündeyken hem de.
+
+700
+01:06:11,890 --> 01:06:15,540
+Doğru diyor.
+Biraz çiğ cüceden bir zarar gelmez.
+
+701
+01:06:18,820 --> 01:06:21,410
+Güzel ve çıtır çıtır.
+
+702
+01:06:21,720 --> 01:06:24,150
+Hayır o olmaz.
+Onda hastalık var.
+
+703
+01:06:25,100 --> 01:06:26,910
+Ne dedin?
+
+704
+01:06:27,030 --> 01:06:31,150
+Onun midesinde kurt var.
+
+705
+01:06:32,920 --> 01:06:36,180
+Aslında hepsi hastalıklı. İçleri
+parazit dolu. Pislik götürüyor resmen.
+
+706
+01:06:36,340 --> 01:06:39,510
+Yerinizde olsam riske girmezdim.
+
+707
+01:06:39,890 --> 01:06:43,770
+- Parazit mi? Parazit mi dedi?
+- Bizde parazit yok ya!
+
+708
+01:06:44,060 --> 01:06:46,270
+<i>Ne diyor bu böyle?</i>
+
+709
+01:06:49,950 --> 01:06:52,600
+- Kolum kadar parazit var bende!
+- En büyüğü bende, en çok bende var!
+
+710
+01:06:52,640 --> 01:06:55,430
+Bende daha çok var!
+
+711
+01:06:56,860 --> 01:06:59,540
+- Parazitle doluyuz biz.
+- Evet, öyleyiz!
+
+712
+01:07:00,120 --> 01:07:02,470
+Şimdi biz bunları ne yapalım?
+
+713
+01:07:02,870 --> 01:07:05,070
+Bırakalım gitsinler mi?
+
+714
+01:07:05,101 --> 01:07:06,145
+Şey...
+
+715
+01:07:06,150 --> 01:07:08,890
+Sence ne yapmaya çalıştığını
+bilmiyor muyum?
+
+716
+01:07:09,391 --> 01:07:12,991
+Bu fıdıl bizi aptal yerine koyuyor!
+
+717
+01:07:13,044 --> 01:07:15,380
+- Fıdıl mı?
+- Aptal mı?
+
+718
+01:07:15,580 --> 01:07:18,270
+Şafak hepinizi taş edecek!
+
+719
+01:07:18,410 --> 01:07:21,190
+- Bu kim?
+- Bilmem ki.
+
+720
+01:07:21,420 --> 01:07:23,670
+Onu da yer miyiz?
+
+721
+01:07:48,370 --> 01:07:50,610
+Çek şu ayağını ağzımdan!
+
+722
+01:08:00,840 --> 01:08:04,780
+- Sorması ayıp nereye gitmiştin?
+- İleri bakmaya.
+
+723
+01:08:04,960 --> 01:08:08,030
+- Geri gelmene sebep nedir?
+- Arkada kalanlar.
+
+724
+01:08:09,230 --> 01:08:12,370
+Pis iş.
+Yine de hepsi tek parça.
+
+725
+01:08:12,560 --> 01:08:15,080
+Senin hırsızın katkısı olmadı.
+
+726
+01:08:15,380 --> 01:08:18,270
+Zaman kazanacak kadar zekiydi.
+
+727
+01:08:18,560 --> 01:08:20,970
+Sizler bunu düşünemediniz.
+
+728
+01:08:23,200 --> 01:08:25,700
+Etin Ormanları'ndan
+gelmiş olmalılar buraya.
+
+729
+01:08:25,900 --> 01:08:28,910
+Dağ Trolleri ne zamandır bu kadar
+güneye inmeye cesaret ediyorlar?
+
+730
+01:08:29,030 --> 01:08:31,160
+Çok uzun zaman oldu.
+
+731
+01:08:31,360 --> 01:08:34,700
+Buralarda karanlık bir güç
+hüküm sürdürüyordu.
+
+732
+01:08:41,360 --> 01:08:44,640
+Gün ışığında hareket edemezlerdi.
+
+733
+01:08:45,390 --> 01:08:47,840
+O zaman yakınlarda
+bir mağara olmalı.
+
+734
+01:08:59,760 --> 01:09:03,270
+- Çok pis kokuyor!
+- Troll ini.
+
+735
+01:09:04,660 --> 01:09:08,460
+Dokunduğunuz şeye dikkat edin.
+
+736
+01:09:20,510 --> 01:09:23,730
+Bunları böyle burada bırakmak çok yazık!
+
+737
+01:09:24,230 --> 01:09:28,730
+- Biri gelip alabilir.
+- Aynen! Nori.
+
+738
+01:09:28,930 --> 01:09:30,930
+Bir kürek kap gel.
+
+739
+01:09:47,380 --> 01:09:50,400
+Bu kılıçlar Troll yapımı değil.
+
+740
+01:09:55,640 --> 01:09:58,990
+Bir demir ustası yapımı da değil.
+
+741
+01:10:04,220 --> 01:10:06,311
+Bu kılıçlar Gondorlet'de dövüldü.
+
+742
+01:10:06,710 --> 01:10:09,233
+İlk çağın Kıdemli Elfleri dövdü.
+
+743
+01:10:10,669 --> 01:10:13,276
+Bundan iyi kılıç bulunmaz.
+
+744
+01:10:38,840 --> 01:10:44,500
+- Uzun vadeli bir yatırım yapıyoruz.
+- Çıkalım hadi bu pis yerden.
+
+745
+01:10:44,750 --> 01:10:47,599
+Hadi, gidelim.
+Bofur, Oin, Nori.
+
+746
+01:11:08,060 --> 01:11:09,960
+Bilbo!
+
+747
+01:11:11,661 --> 01:11:14,961
+Bu senin boyuna göre.
+
+748
+01:11:19,880 --> 01:11:21,960
+Bunu alamam.
+
+749
+01:11:22,661 --> 01:11:25,061
+Bu kılıç Elf yapımı.
+
+750
+01:11:25,230 --> 01:11:30,710
+Yani yakınlarda Ork veya
+Goblin varsa mavi ışıkla parlar.
+
+751
+01:11:30,910 --> 01:11:32,799
+Ben hiç kılıç kullanmadım ama.
+
+752
+01:11:33,400 --> 01:11:35,820
+Umarım hiç kullanmak zorunda
+kalmazsın da.
+
+753
+01:11:35,840 --> 01:11:39,080
+Ama kullanman gerekirse
+şunu unutma:
+
+754
+01:11:39,481 --> 01:11:44,081
+Gerçek cesaret bir
+canı almak değil...
+
+755
+01:11:45,600 --> 01:11:47,155
+...ve ne zaman bir can
+bağışlayacağını bilmektir.
+
+756
+01:11:52,300 --> 01:11:55,310
+- Bir şey yaklaşıyor!
+- Gandalf.
+
+757
+01:11:55,351 --> 01:11:57,377
+Bir arada kalın!
+
+758
+01:11:57,380 --> 01:11:59,990
+Acele edin!
+Hazır olun!
+
+759
+01:12:18,510 --> 01:12:20,830
+- Ağaçlar! Ateş!
+- Öldürün!
+
+760
+01:12:23,680 --> 01:12:25,400
+Radagast!
+
+761
+01:12:25,801 --> 01:12:27,801
+Boz Radagast!
+
+762
+01:12:31,420 --> 01:12:34,920
+- Ne işin var bakayım burada?
+- Ben seni arıyordum, Gandalf.
+
+763
+01:12:35,610 --> 01:12:39,970
+- Bir terslik var. Çok büyük bir terslik.
+- Evet?
+
+764
+01:12:46,210 --> 01:12:48,640
+Bir dakika.
+
+765
+01:12:49,400 --> 01:12:53,760
+Bir şey diyecektim unuttum
+tam dilimin ucundaydı.
+
+766
+01:12:55,280 --> 01:12:59,780
+Cidden de dilimin ucundaymış.
+
+767
+01:12:59,900 --> 01:13:02,420
+Küçük bir değnek çekirgesiymiş!
+
+768
+01:13:07,310 --> 01:13:09,970
+Yeşil orman hasta, Gandalf.
+
+769
+01:13:11,380 --> 01:13:15,490
+Üzerine karanlık çöktü.
+Artık orada bir şey yetişmiyor.
+
+770
+01:13:16,580 --> 01:13:20,470
+En azından yararlı bir şey.
+Havası pis kokuyor.
+
+771
+01:13:21,300 --> 01:13:23,520
+En beteri de ağlar!
+
+772
+01:13:23,720 --> 01:13:26,030
+Ağ mı?
+Nasıl yani?
+
+773
+01:13:26,230 --> 01:13:30,040
+Örümcekler, Gandalf!
+Çok büyük örümcekler.
+
+774
+01:13:30,270 --> 01:13:36,030
+Bir çeşit Ungoliant yavrusu.
+Ben büyücü değilim. İzlerini takip ettim.
+
+775
+01:13:36,560 --> 01:13:40,560
+Dol Guldur'dan gelmişler.
+
+776
+01:13:42,369 --> 01:13:43,769
+Dol Guldur mu?
+O eski hisar terk edilmişti.
+
+777
+01:13:44,713 --> 01:13:47,625
+O eski hisar terk edilmişti.
+
+778
+01:13:48,800 --> 01:13:50,680
+Hayır, Gandalf.
+
+779
+01:13:51,681 --> 01:13:52,881
+Edilmedi.
+
+780
+01:14:01,740 --> 01:14:05,140
+<i>Orada kötü bir güç bulunuyor.</i>
+
+781
+01:14:05,340 --> 01:14:07,740
+<i>Öyle ki, daha önce
+hissetmediğim bir güç bu.</i>
+
+782
+01:14:10,000 --> 01:14:14,900
+<i>Eski bir dehşetin gölgesi.</i>
+
+783
+01:14:20,440 --> 01:14:25,420
+<i>Biri karanlığın içinden
+ölümün ruhunu çağırdı!</i>
+
+784
+01:14:43,130 --> 01:14:47,490
+<i>Onu gördüm Gandalf.
+Karanlığın içinden çıktı.</i>
+
+785
+01:14:47,690 --> 01:14:51,840
+<i>Ruh çağıran büyücü geldi.</i>
+
+786
+01:15:00,540 --> 01:15:05,140
+Çabuk, çabuk!
+Beni bekleyin!
+
+787
+01:15:19,540 --> 01:15:21,630
+Affedersin!
+
+788
+01:15:21,840 --> 01:15:25,530
+Şunu bir dene.
+Sinirlerini yatıştırır.
+
+789
+01:15:28,900 --> 01:15:31,350
+Nefes ver.
+
+790
+01:15:37,520 --> 01:15:42,010
+Şimdi, bir ruh çağıran?
+Emin misin?
+
+791
+01:15:55,890 --> 01:16:01,710
+Bu kılıç canlı dünyasından değil.
+
+792
+01:16:07,300 --> 01:16:10,550
+Kurt muydu o?
+Kurt mu var buralarda?
+
+793
+01:16:10,750 --> 01:16:13,090
+Kurt mu?
+Kurt yok burada.
+
+794
+01:16:27,930 --> 01:16:31,100
+Warg Orkları.
+Ork sürüsü çok uzakta değildir.
+
+795
+01:16:31,220 --> 01:16:32,800
+Ork sürüsü mü?
+
+796
+01:16:32,920 --> 01:16:35,810
+Bu maceramızı kendi türünden
+başka kime bahsettin?
+
+797
+01:16:35,930 --> 01:16:38,120
+- Kimseyle.
+- Kime anlattın?
+
+798
+01:16:38,320 --> 01:16:41,730
+Kimseye, yemin ederim!
+Durin adına neler oluyor?
+
+799
+01:16:41,850 --> 01:16:43,950
+Avlanıyoruz.
+
+800
+01:16:44,500 --> 01:16:46,660
+Buradan hemen gitmeliyiz!
+
+801
+01:16:46,860 --> 01:16:49,470
+Gidemeyiz! Atımız kalmadı.
+Hepsi kaçmışlar.
+
+802
+01:16:49,810 --> 01:16:53,500
+- Ben onları uzaklaştırırım.
+- Bunlar Gundabad Warkları.
+
+803
+01:16:53,860 --> 01:16:57,110
+- Sana yetişirler.
+- Bunlar Rhosgobel tavşanları!
+
+804
+01:16:58,300 --> 01:17:00,850
+Yetişsinler de görelim!
+
+805
+01:17:12,520 --> 01:17:14,550
+Gelin de yakalayın!
+
+806
+01:17:23,700 --> 01:17:25,700
+Hadi!
+
+807
+01:17:53,510 --> 01:17:55,850
+Bir arada kalın.
+Yürüyün!
+
+808
+01:18:07,000 --> 01:18:09,490
+Hayır, Ori!
+Geri gel.
+
+809
+01:18:12,690 --> 01:18:15,200
+Hadi, çabuk!
+
+810
+01:18:16,880 --> 01:18:19,390
+Bizi nereye götürüyorsun?
+
+811
+01:19:15,020 --> 01:19:18,310
+<i>Pislik cüceler burada!</i>
+
+812
+01:19:20,520 --> 01:19:22,670
+<i>Düşün peşlerine!</i>
+
+813
+01:19:27,840 --> 01:19:30,310
+Hadi, kaçın!
+
+814
+01:19:47,150 --> 01:19:49,300
+İşte oradalar!
+
+815
+01:19:50,300 --> 01:19:52,550
+Bu taraftan, çabuk!
+
+816
+01:20:03,270 --> 01:20:05,550
+Daha fazla geliyorlar.
+
+817
+01:20:06,760 --> 01:20:09,040
+Vur onları, Kili!
+
+818
+01:20:13,810 --> 01:20:15,980
+Etrafımız sarıldı!
+
+819
+01:20:19,810 --> 01:20:22,370
+- Gandalf nerede?
+- Bizi bıraktı.
+
+820
+01:20:29,500 --> 01:20:31,820
+Sıkı durun!
+
+821
+01:20:38,709 --> 01:20:39,809
+Kili!
+
+822
+01:20:40,810 --> 01:20:43,050
+Bu taraftan, sersemler!
+
+823
+01:20:43,510 --> 01:20:45,820
+Hadi, yürüyün!
+
+824
+01:20:46,830 --> 01:20:49,100
+Acele edin!
+
+825
+01:20:51,200 --> 01:20:53,540
+Hadi, hadi, hadi!
+
+826
+01:21:02,520 --> 01:21:04,900
+9, 10...
+
+827
+01:21:06,100 --> 01:21:08,390
+Koş, Kili!
+
+828
+01:21:48,620 --> 01:21:50,650
+Elfler.
+
+829
+01:21:52,680 --> 01:21:56,760
+Yolun çıktığı yeri göremiyorum.
+Gidiyor muyuz kalıyor muyuz?
+
+830
+01:21:56,950 --> 01:21:59,300
+Gidiyoruz tabii!
+
+831
+01:22:01,880 --> 01:22:04,210
+Bence de bu akıllıca bir hareket.
+
+832
+01:23:01,600 --> 01:23:04,390
+Imladris Vadisi.
+
+833
+01:23:05,770 --> 01:23:10,210
+- Ortak dilde başka bir isimle tanınır.
+- Ayrıkvadi.
+
+834
+01:23:14,100 --> 01:23:17,530
+Denizin doğusundaki
+son sıcak yuva buradadır.
+
+835
+01:23:20,550 --> 01:23:24,790
+Başından beri planın buydu, değil mi?
+Düşmanlımızın yanına sığınmamız!
+
+836
+01:23:25,420 --> 01:23:28,110
+Burada düşmanın yok,
+Throrin Meşekalkan.
+
+837
+01:23:28,450 --> 01:23:33,130
+Bu vadide karşılaşabileceğin
+tek sıkıntı senin getirdiğin olacaktır.
+
+838
+01:23:33,822 --> 01:23:37,851
+Elflerin bizim maceramızı
+onaylayacaklarını mı zannediyorsun?
+
+839
+01:23:38,226 --> 01:23:39,749
+Bizi durdurmaya çalışacaklar.
+
+840
+01:23:39,976 --> 01:23:41,556
+Tabii ki çalışacaklar.
+
+841
+01:23:41,618 --> 01:23:44,070
+Ama cevaplanması
+gereken sorularımız var.
+
+842
+01:23:47,740 --> 01:23:52,770
+Muvaffak olmak için onlara karşı
+nazik ve saygılı olmalıyız.
+
+843
+01:23:53,050 --> 01:23:55,590
+Biraz da sevimli.
+
+844
+01:23:55,710 --> 01:23:58,270
+<i>Bu yüzden konuşma kısmını bana bırak.</i>
+
+845
+01:24:56,200 --> 01:25:01,180
+- Mithrandir.
+- Lindir.
+
+846
+01:25:01,381 --> 01:25:02,490
+Gözünüzü dört açın.
+
+847
+01:25:02,530 --> 01:25:05,890
+<i>Vadiye girdiğinizi duyduk.</i>
+
+848
+01:25:06,650 --> 01:25:09,760
+- Lord Elrond'la konuşmam gerek.
+- Lordum Elrond burada değil.
+
+849
+01:25:09,880 --> 01:25:12,690
+Değil mi?
+
+850
+01:25:13,931 --> 01:25:15,677
+Kendileri neredeler?
+
+851
+01:25:27,590 --> 01:25:30,060
+Düzene girin!
+Safları sıklaştırın!
+
+852
+01:25:55,120 --> 01:25:57,570
+- Gandalf.
+- Lord Elrond.
+
+853
+01:25:59,420 --> 01:26:01,620
+<i>Dostum!</i>
+
+854
+01:26:01,741 --> 01:26:03,600
+<i>Nerelerdeydin?</i>
+
+855
+01:26:03,605 --> 01:26:07,250
+<i>Güneyden gelen bir Ork sürüsünü avlıyorduk.</i>
+
+856
+01:26:09,130 --> 01:26:12,270
+<i>Gizli geçidin yanında sayılarını azalttık.</i>
+
+857
+01:26:14,610 --> 01:26:19,070
+Orkların sınırlarımıza bu kadar
+yaklaşması çok tuhaf.
+
+858
+01:26:19,600 --> 01:26:22,630
+Bir şey ya da birileri
+onları yakınımıza çekmiş.
+
+859
+01:26:23,280 --> 01:26:25,640
+Nedeni biziz galiba.
+
+860
+01:26:30,840 --> 01:26:33,570
+Thrain oğlu Throin,
+hoş geldin.
+
+861
+01:26:33,960 --> 01:26:37,050
+Tanıştığımızı sanmıyorum.
+
+862
+01:26:37,170 --> 01:26:40,390
+Sende dedenin duruşu var.
+
+863
+01:26:40,560 --> 01:26:43,580
+Thror'u dağ altına hüküm ettiği
+günlerden tanırım.
+
+864
+01:26:43,730 --> 01:26:47,400
+Öyle mi?
+Sizden hiç bahsetmemişti.
+
+865
+01:26:57,760 --> 01:27:01,900
+Ne diyor bu?
+Küfür mü ediyor bu bize!
+
+866
+01:27:02,210 --> 01:27:05,860
+Hayır, Efendi Gloin.
+Yemek ikram ediyor.
+
+867
+01:27:13,100 --> 01:27:15,560
+O zaman, siz önden buyurunuz.
+
+868
+01:27:19,170 --> 01:27:21,880
+Dene bak.
+Bir lokma alıver.
+
+869
+01:27:22,080 --> 01:27:24,100
+Ben yeşillik sevmem.
+
+870
+01:27:25,300 --> 01:27:27,400
+Et nerede?
+
+871
+01:27:27,660 --> 01:27:30,050
+Kızartmaları yok mu acaba?
+
+872
+01:27:30,270 --> 01:27:33,110
+Bizi davetiniz büyük incelik.
+
+873
+01:27:33,320 --> 01:27:36,960
+- Yemeğe uygun giyinemedim.
+- Hiç giyinmezsin ki.
+
+874
+01:27:56,720 --> 01:28:00,620
+Bu Orkirst, "Goblin Satırı".
+
+875
+01:28:01,090 --> 01:28:05,430
+Batının Kıdemli Elflerinin dövdüğü
+namı olan bir kılıçtır.
+
+876
+01:28:06,430 --> 01:28:09,800
+Kralım.
+Sana iyi hizmet etsin.
+
+877
+01:28:10,870 --> 01:28:15,510
+Bu da Glamdring.
+"Hasım Çekici".
+
+878
+01:28:15,910 --> 01:28:18,380
+Gondolin Kralı'nın kılıcıdır.
+
+879
+01:28:21,750 --> 01:28:22,800
+Hiç zahmet etme, delikanlı.
+
+880
+01:28:22,860 --> 01:28:25,600
+Kılıçlar savaşlardaki
+büyük başarılarıyla adlandırılırlar.
+
+881
+01:28:25,610 --> 01:28:28,710
+Yani benim kılıcım
+hiç savaş görmemiş mi?
+
+882
+01:28:28,740 --> 01:28:31,760
+Ben onun kılıç olduğundan emin değilim.
+
+883
+01:28:32,641 --> 01:28:34,711
+Daha çok mektup açacağına benziyor.
+
+884
+01:28:35,920 --> 01:28:37,970
+Bunları nereden buldunuz?
+
+885
+01:28:38,120 --> 01:28:41,410
+Büyük Doğu Yolu'nda
+trol ininde bulduk.
+
+886
+01:28:41,530 --> 01:28:44,900
+Orkların pususuna düşmeden önce.
+
+887
+01:28:45,060 --> 01:28:48,110
+Peki Büyük Doğu Yolu'nda
+ne yapıyordunuz?
+
+888
+01:28:49,630 --> 01:28:55,180
+- Bizim işimiz Elfleri ilgilendirmez.
+- Tanrı aşkına, ona haritayı göster Thorin.
+
+889
+01:28:55,300 --> 01:29:00,910
+Harita benim halkımın mirasıdır.
+Onu sır olarak saklamak bana düşer.
+
+890
+01:29:01,060 --> 01:29:06,330
+Bıktım şu cücelerin inadından!
+Gururun başarısızlığına neden olacak.
+
+891
+01:29:07,490 --> 01:29:10,820
+Orta Dünya'da bu haritayı okuyabilecek
+birkaç kişiden birinin karşısındasın.
+
+892
+01:29:10,950 --> 01:29:15,600
+Lord Elrond'a haritayı göster.
+
+893
+01:29:21,800 --> 01:29:24,080
+Hayır, Thorin.
+
+894
+01:29:32,600 --> 01:29:34,860
+Erebor.
+
+895
+01:29:35,570 --> 01:29:38,610
+Bu haritaya ilgin nedendir?
+
+896
+01:29:40,530 --> 01:29:43,080
+Akademik olarak ilgileniyor.
+
+897
+01:29:43,200 --> 01:29:47,400
+Senin de bildiğin üzere bu tür eserlerde
+bazen gizli metinler bulunur.
+
+898
+01:29:52,620 --> 01:29:56,640
+Eski cüce yazısını hâlen
+okuyabiliyorsun, öyle değil mi?
+
+899
+01:30:01,350 --> 01:30:03,850
+Cirth Ithil.
+
+900
+01:30:04,000 --> 01:30:06,500
+Ay yazısı.
+
+901
+01:30:06,800 --> 01:30:10,770
+Öyledir tabii.
+Gözümden kaçmış.
+
+902
+01:30:10,920 --> 01:30:14,930
+Bu durumda evet, doğru.
+Ay yazıları sadece...
+
+903
+01:30:15,050 --> 01:30:17,130
+...yazılmış oldukları hâldeki
+ve dönemdeki...
+
+904
+01:30:17,380 --> 01:30:20,160
+...ışık ile okunur.
+
+905
+01:30:20,481 --> 01:30:21,510
+Okuyabilir misin?
+
+906
+01:30:27,000 --> 01:30:30,420
+Bu eski yazılar neredeyse
+200 yıl önce bir yaz gecesi...
+
+907
+01:30:30,580 --> 01:30:35,420
+...yarımayın ışığında yazılmış.
+
+908
+01:30:35,680 --> 01:30:39,120
+Öyle görünüyor ki,
+Ayrıkvadiye gelmeniz kaderinizmiş.
+
+909
+01:30:39,125 --> 01:30:40,716
+Kader senin yanında, Thorin Meşekalkan.
+
+910
+01:30:40,787 --> 01:30:44,014
+Bu gece gökyüzünde aynı ay ışıldıyor.
+
+911
+01:31:03,800 --> 01:31:08,740
+"Ardıç kuşu kapıyı çaldığında,
+gri taşın yanında dur...
+
+912
+01:31:09,000 --> 01:31:13,770
+...Durin Günü'nün son ışığıyla
+güneş batarken...
+
+913
+01:31:13,970 --> 01:31:17,040
+...anahtar deliğinin üstüne parlayacak."
+
+914
+01:31:17,200 --> 01:31:19,790
+- Durin Günü mü?
+- Cücelerin yeni yılının başlangıcı demek.
+
+915
+01:31:19,810 --> 01:31:22,760
+Sonbaharın son ayı
+ve kışın ilk güneşi...
+
+916
+01:31:22,780 --> 01:31:24,420
+...gökyüzünde beraber görünür.
+
+917
+01:31:24,620 --> 01:31:25,840
+Bu kötü bir haber.
+
+918
+01:31:26,741 --> 01:31:29,401
+Yaz bitiyor.
+Durin günü gelmek üzere.
+
+919
+01:31:29,420 --> 01:31:31,200
+- Hâlâ vaktimiz var.
+- Ne için?
+
+920
+01:31:31,201 --> 01:31:32,201
+Girişi bulmak için.
+
+921
+01:31:32,210 --> 01:31:37,040
+Doğru yerde doğru anda
+olmak zorundayız.
+
+922
+01:31:37,300 --> 01:31:41,470
+Ancak ve ancak
+öyle kapı açılır.
+
+923
+01:31:41,670 --> 01:31:45,640
+Demek maksadınız bu?
+Dağa girmek?
+
+924
+01:31:46,000 --> 01:31:50,480
+- Ne olmuş yani? - Bunun akıllıca
+olmayacağını addedenler var.
+
+925
+01:31:51,800 --> 01:31:53,340
+Nasıl yani?
+
+926
+01:31:54,500 --> 01:31:58,280
+Orta Dünya'da nöbet tutan
+tek muhafız sen değilsin.
+
+927
+01:32:23,710 --> 01:32:26,830
+<i>Efendim, cüceler...</i>
+
+928
+01:32:28,700 --> 01:32:30,655
+<i>...kaçtılar.</i>
+
+929
+01:32:34,330 --> 01:32:37,850
+<i>İğrenç Elfler bize tuzak kurdu,
+canımızı zor-</i>
+
+930
+01:32:38,200 --> 01:32:41,200
+<i>Mazeret duymak istemiyorum.</i>
+
+931
+01:32:47,700 --> 01:32:51,700
+<i>Cüce Kral'ın kellesini istiyorum!</i>
+
+932
+01:32:52,100 --> 01:32:53,380
+<i>Sayıları bizden fazlaydı...</i>
+
+933
+01:32:53,419 --> 01:32:56,981
+<i>...yapacak başka bir şeyimiz yoktu.</i>
+
+934
+01:32:56,982 --> 01:32:59,780
+<i>Canımı zor kurtardım.</i>
+
+935
+01:33:00,610 --> 01:33:02,740
+<i>Geberip...</i>
+
+936
+01:33:03,700 --> 01:33:05,770
+<i>...gitseydin keşke.</i>
+
+937
+01:33:25,700 --> 01:33:29,800
+<i>Pislik cüceler yakında
+meydana çıkacaktır.</i>
+
+938
+01:33:32,700 --> 01:33:33,950
+<i>Haber salın...</i>
+
+939
+01:33:35,470 --> 01:33:38,400
+<i>...kellerine ödül koyuyorum.</i>
+
+940
+01:34:01,100 --> 01:34:03,100
+Bombur.
+
+941
+01:34:08,850 --> 01:34:13,070
+Bu cüceler sizin yardımınız olsa da
+olmasa da dağa doğru ilerleyecek.
+
+942
+01:34:13,280 --> 01:34:16,170
+Anavatanlarını geri alma
+konusunda çok kararlılar.
+
+943
+01:34:16,300 --> 01:34:21,430
+Thorin Meşekalkan'ın bunun için
+kimseden müsaade alacağını sanmam.
+
+944
+01:34:21,670 --> 01:34:23,820
+Ben de müsaade almayacağım.
+
+945
+01:34:23,950 --> 01:34:26,700
+Müsaade alman gereken ben değilim.
+
+946
+01:34:38,350 --> 01:34:40,350
+Leydi Galadriel.
+
+947
+01:34:41,400 --> 01:34:43,400
+Mithrandir.
+
+948
+01:34:44,700 --> 01:34:47,700
+<i>Uzun zaman oldu.</i>
+
+949
+01:34:49,000 --> 01:34:51,820
+<i>Zaman beni değiştirmiş olabilir...</i>
+
+950
+01:34:53,500 --> 01:34:56,420
+<i>...ama Lorien'in Leydisi'ni es geçmiş.</i>
+
+951
+01:35:01,900 --> 01:35:05,400
+Lord Elrond'un size haber
+verdiğini bilmiyordum.
+
+952
+01:35:05,620 --> 01:35:08,600
+O değil, ben verdim.
+
+953
+01:35:17,700 --> 01:35:18,900
+Saruman.
+
+954
+01:35:19,501 --> 01:35:22,800
+Son zamanlarda pek bir yoğunsun, dostum.
+
+955
+01:35:24,440 --> 01:35:26,550
+Söylesene, Gandalf.
+
+956
+01:35:27,300 --> 01:35:32,080
+Planlarının ve çevirdiğin dolapların
+fark edilmeyeceğini mi sandın?
+
+957
+01:35:32,700 --> 01:35:34,200
+Fark edilmeyeceğini mi?
+
+958
+01:35:35,330 --> 01:35:38,900
+Hayır. Ben sadece doğru olduğunu
+düşündüğüm şeyi yapıyorum.
+
+959
+01:35:39,020 --> 01:35:42,700
+Ejderhayı uzun süre kafana taktın.
+
+960
+01:35:43,400 --> 01:35:45,400
+Doğrudur, Leydim.
+
+961
+01:35:45,520 --> 01:35:47,900
+Smaug'un hiç kimseye bağlılığı yok.
+
+962
+01:35:48,200 --> 01:35:50,700
+Ama eğer ki düşmandan yana taraf olursa...
+
+963
+01:35:51,100 --> 01:35:53,700
+...bir ejderha korkunç
+sonuçlar oluşturabilir.
+
+964
+01:35:54,300 --> 01:35:56,300
+Ne düşmanı?
+
+965
+01:35:56,550 --> 01:35:58,850
+Gandalf, düşman yenildi.
+
+966
+01:35:59,500 --> 01:36:01,500
+Sauron mağlup edildi.
+
+967
+01:36:01,620 --> 01:36:04,120
+Bir daha asla eski gücüne kavuşamaz.
+
+968
+01:36:04,470 --> 01:36:09,200
+400 yıl boyunca
+barış içinde yaşadık, Gandalf.
+
+969
+01:36:09,430 --> 01:36:12,600
+Zor kazanılmış bir barış içinde.
+
+970
+01:36:13,100 --> 01:36:15,400
+Şu an barış içinde miyiz?
+
+971
+01:36:17,100 --> 01:36:21,700
+Troller dağlardan iniyorlar,
+köyleri basıyor çiftlikleri yok ediyorlar.
+
+972
+01:36:22,160 --> 01:36:24,160
+Orklar da bize yolda saldırdılar.
+
+973
+01:36:24,600 --> 01:36:28,130
+- Bu bir savaşın başlangıcı sayılmaz.
+- Biz buna karışmayız.
+
+974
+01:36:29,070 --> 01:36:30,750
+Olmadığı halde dert açıyorsun.
+
+975
+01:36:30,800 --> 01:36:32,839
+Bırakın konuşsun.
+
+976
+01:36:34,400 --> 01:36:38,900
+Smaug'un kötülüğünden
+başka bir şey iş başında.
+
+977
+01:36:39,620 --> 01:36:41,620
+Çok daha güçlü bir şey.
+
+978
+01:36:43,100 --> 01:36:48,400
+Biz onu göz ardı etmeye devam edebiliriz,
+ama o bizi etmeyecektir, emin olun.
+
+979
+01:36:48,520 --> 01:36:51,420
+Yeşil Orman'da bir hastalık kol geziyor.
+
+980
+01:36:51,640 --> 01:36:56,200
+Orada yaşayan ormancılar artık
+oraya Kasvet Ormanı diyorlar. Bir de...
+
+981
+01:36:58,200 --> 01:37:03,400
+Evet, durmasana.
+Ormancılar ne diyormuş anlat bakalım.
+
+982
+01:37:03,600 --> 01:37:06,700
+Dol Guldur'da yaşayan bir ruh
+çağıran büyücüden bahsediyorlar.
+
+983
+01:37:06,900 --> 01:37:11,600
+- Ölüleri bile diriltiyormuş.
+- Bu saçmalık.
+
+984
+01:37:12,200 --> 01:37:14,900
+Bu dünyada öyle bir güç yok.
+
+985
+01:37:15,100 --> 01:37:19,150
+Bu ruh çağıran büyücü
+sıradan bir ölümlünün tekidir.
+
+986
+01:37:19,700 --> 01:37:22,230
+Kara büyüyle uğraşan bir büyücüdür.
+
+987
+01:37:22,350 --> 01:37:23,900
+Ben de öyle düşünmüştüm.
+
+988
+01:37:23,933 --> 01:37:27,801
+- Ama Radagast onu görmüş.
+- Radagast mı?
+
+989
+01:37:27,900 --> 01:37:32,600
+Bana sakın Boz Radagast'tan bahsetme.
+Aptal bir adamdır o.
+
+990
+01:37:34,290 --> 01:37:37,890
+Hakkını vereyim, tuhaf biridir.
+Yalnız bir hayatı var.
+
+991
+01:37:38,010 --> 01:37:42,000
+Ondan değil, çok fazla mantar
+tükettiği için öyle kendisi.
+
+992
+01:37:42,500 --> 01:37:46,400
+Kafasını karıştırıyor
+ve dişlerini sarartıyor.
+
+993
+01:37:47,100 --> 01:37:51,320
+Seni uyardım.
+Uygunsuz davranışları...
+
+994
+01:37:52,000 --> 01:37:54,100
+<i>Üzerinde bir şey var.</i>
+
+995
+01:37:55,900 --> 01:37:58,200
+<i>Onu sana Radagast verdi.</i>
+
+996
+01:37:59,100 --> 01:38:01,470
+<i>Dol Guldur'da bulmuş.</i>
+
+997
+01:38:02,071 --> 01:38:03,571
+<i>Evet.</i>
+
+998
+01:38:05,700 --> 01:38:07,700
+<i>Göster bana.</i>
+
+999
+01:38:17,400 --> 01:38:19,400
+Bu da ne?
+
+1000
+01:38:20,900 --> 01:38:22,900
+Mordor'dan bir yadigar.
+
+1001
+01:38:34,000 --> 01:38:38,300
+- Bir Modul hançeri.
+- Angmar'ın cadı kralı için yapılmıştı.
+
+1002
+01:38:39,300 --> 01:38:41,900
+Ve onunla birlikte gömülmüştü.
+
+1003
+01:38:44,500 --> 01:38:46,500
+Angmar düştüğü zaman...
+
+1004
+01:38:46,900 --> 01:38:50,300
+...kuzeyin insanları onun cesedini
+ve sahip olduğu şeyleriyle...
+
+1005
+01:38:50,500 --> 01:38:53,480
+...Rhudaur Dağı'nın
+tepeleri içine kapattılar.
+
+1006
+01:38:53,600 --> 01:38:56,700
+Kayaların derinliklerine gömdüler.
+
+1007
+01:38:57,600 --> 01:39:00,100
+Mezarı o kadar karanlık ki...
+
+1008
+01:39:00,700 --> 01:39:04,200
+...asla gün yüzü göremeyecekti.
+- Bunun mümkünatı yok.
+
+1009
+01:39:05,700 --> 01:39:08,700
+O mezarlar güçlü bir büyü ile kapatıldı.
+
+1010
+01:39:08,820 --> 01:39:12,620
+- Asla açılamaz.
+- Bu silahın Angmar'ın...
+
+1011
+01:39:12,740 --> 01:39:17,100
+...mezarından çıktığına dair
+ne kanıtımız var? - Kanıtım yok.
+
+1012
+01:39:17,500 --> 01:39:19,700
+Bir kanıt yok da ondan!
+
+1013
+01:39:20,300 --> 01:39:22,300
+Bildiklerimizi bir inceleyelim.
+
+1014
+01:39:22,700 --> 01:39:27,200
+Bir Ork sürüsü Breowning'e
+girme cüretinde bulundu.
+
+1015
+01:39:28,200 --> 01:39:31,300
+Eski çağlardan kalma
+bir hançer bulundu.
+
+1016
+01:39:31,500 --> 01:39:36,400
+Ve kendine ruh çağıran büyücü
+diyen bir insan büyücü...
+
+1017
+01:39:37,200 --> 01:39:40,500
+...viran hisarda bulunuyor.
+
+1018
+01:39:42,000 --> 01:39:45,100
+Büyütecek bir durum yok.
+
+1019
+01:39:45,900 --> 01:39:50,740
+Ama asıl sorun bu cüce grubu
+beni endişelendiriyor.
+
+1020
+01:39:51,200 --> 01:39:56,200
+Ben ikna olmadım, Gandalf. Böyle bir
+maceraya göz yumacağımı düşünmüyorum.
+
+1021
+01:39:56,900 --> 01:40:00,700
+Bana gelmiş olsalardı
+boşuna hüsran yaşamazlardı.
+
+1022
+01:40:01,580 --> 01:40:04,500
+Onlara umut vermek için
+ne tür gerekçelerin...
+
+1023
+01:40:04,700 --> 01:40:06,700
+<i>Gidiyorlar.</i>
+
+1024
+01:40:09,000 --> 01:40:11,000
+<i>Evet.</i>
+
+1025
+01:40:12,400 --> 01:40:14,400
+<i>Biliyordun!</i>
+
+1026
+01:40:17,700 --> 01:40:21,700
+Yapacak başka bir şeyin olduğunu sanmıyorum.
+
+1027
+01:40:24,200 --> 01:40:26,600
+Lordum Elrond, cüceler...
+
+1028
+01:40:27,800 --> 01:40:29,800
+...gitmiş.
+
+1029
+01:40:34,250 --> 01:40:38,250
+Dikkatli atın adımınızı.
+Yaban sınırına girmek üzereyiz.
+
+1030
+01:40:39,200 --> 01:40:41,900
+Balin, sen buraları bilirsin.
+Öne geç.
+
+1031
+01:40:41,901 --> 01:40:43,001
+Tamam.
+
+1032
+01:40:48,900 --> 01:40:52,000
+Efendi Baggins,
+devam etmenizi öneririm.
+
+1033
+01:41:07,200 --> 01:41:10,000
+<i>- Onları takip edeceksin.
+- Evet.</i>
+
+1034
+01:41:10,120 --> 01:41:12,800
+Thorin Meşekalkan'a yardım
+etmekte haklısın.
+
+1035
+01:41:13,200 --> 01:41:18,700
+Ama korkarım, bu macerada henüz
+anlayamadığımız zorluklar yaşayacaksınız.
+
+1036
+01:41:20,500 --> 01:41:24,300
+Morgul hançerinin bilmecesi çözülmeli.
+
+1037
+01:41:24,500 --> 01:41:27,700
+Bir şey gölgelerin arasında...
+
+1038
+01:41:27,820 --> 01:41:31,000
+...bize görünmeden hareket ediyor.
+Henüz.
+
+1039
+01:41:32,450 --> 01:41:34,920
+Ancak gücü her geçen gün artıyor.
+
+1040
+01:41:35,850 --> 01:41:37,850
+Dikkatli olman gerek.
+
+1041
+01:41:42,500 --> 01:41:44,500
+Mithrandir.
+
+1042
+01:41:46,000 --> 01:41:48,000
+Neden o buçukluk?
+
+1043
+01:41:50,000 --> 01:41:52,000
+Bilmiyorum.
+
+1044
+01:41:54,600 --> 01:41:57,570
+Saruman'a göre kötülüğü anca...
+
+1045
+01:41:58,640 --> 01:42:00,850
+...büyük güç dizginlenebilir.
+
+1046
+01:42:01,980 --> 01:42:03,990
+Ama bence öyle değil.
+
+1047
+01:42:05,500 --> 01:42:08,500
+Ben sıradan insanların
+her gün yaptıkları...
+
+1048
+01:42:09,500 --> 01:42:14,300
+...küçük şeylerin kötülüğü
+dizginlediğini düşünüyorum.
+
+1049
+01:42:15,380 --> 01:42:18,250
+Basit nezaket ve sevgi gösterileri.
+
+1050
+01:42:21,060 --> 01:42:23,320
+Neden mi Bilbo Baggins?
+
+1051
+01:42:26,000 --> 01:42:28,500
+Belki de korktuğumdandır.
+
+1052
+01:42:30,600 --> 01:42:32,600
+Ve o bana cesaret veriyor.
+
+1053
+01:42:37,800 --> 01:42:40,550
+Korkma, Mithrandir.
+
+1054
+01:42:43,000 --> 01:42:45,000
+Yalnız değilsin.
+
+1055
+01:42:48,300 --> 01:42:50,400
+<i>Yardımıma ihtiyacın olduğunda...</i>
+
+1056
+01:42:51,500 --> 01:42:53,500
+<i>...geleceğim.</i>
+
+1057
+01:44:24,700 --> 01:44:27,100
+Tamam, sıkı tutunun!
+
+1058
+01:44:38,300 --> 01:44:40,300
+Sığınacak bir yer bulmamız lazım.
+
+1059
+01:44:41,300 --> 01:44:43,300
+Dikkat edin!
+
+1060
+01:44:55,580 --> 01:44:59,800
+Bu bir fırtına değil.
+Bu bir fırtına savaşı!
+
+1061
+01:45:02,000 --> 01:45:04,000
+Şuna bakın!
+
+1062
+01:45:08,000 --> 01:45:12,390
+Vay be!
+Efsaneler doğruymuş. Devler!
+
+1063
+01:45:13,330 --> 01:45:15,330
+Taş devler!
+
+1064
+01:45:23,200 --> 01:45:25,200
+Siper al, aptal!
+
+1065
+01:45:35,770 --> 01:45:37,770
+Fili, elimi tut!
+
+1066
+01:46:02,500 --> 01:46:04,500
+Hadi, koşun!
+
+1067
+01:46:55,400 --> 01:46:57,400
+Hayır!
+
+1068
+01:46:57,700 --> 01:46:59,700
+Hayır!
+
+1069
+01:47:07,900 --> 01:47:09,900
+Hayır, Kili!
+
+1070
+01:47:16,700 --> 01:47:19,200
+İyiyiz!
+Hâlâ hayattayız!
+
+1071
+01:47:20,400 --> 01:47:22,400
+Bilbo nerede?
+Hobbit nerede?
+
+1072
+01:47:24,301 --> 01:47:25,377
+İşte orada!
+
+1073
+01:47:28,078 --> 01:47:29,378
+Yakala onu!
+
+1074
+01:47:31,900 --> 01:47:34,480
+Elimi tut, Bilbo!
+
+1075
+01:47:58,700 --> 01:48:01,310
+Hırsızımızı kaybettim sandım.
+
+1076
+01:48:01,700 --> 01:48:04,300
+Evinden ayrıldığından
+beri kayıp zaten.
+
+1077
+01:48:05,000 --> 01:48:08,800
+Hiç gelmemeliydi.
+Aramızda yeri yok.
+
+1078
+01:48:10,900 --> 01:48:12,900
+Dwalin!
+
+1079
+01:48:18,700 --> 01:48:21,400
+- Güvenli görünüyor.
+- Arkayı kontrol edin.
+
+1080
+01:48:21,520 --> 01:48:24,430
+Dağın mağaraları
+genelde doludur.
+
+1081
+01:48:27,720 --> 01:48:29,750
+Burada bir şey yok.
+
+1082
+01:48:31,800 --> 01:48:35,950
+- Tamam o zaman. Hadi ateş yakalım.
+- Hayır, ateş olmaz. Burada olmaz.
+
+1083
+01:48:37,000 --> 01:48:40,410
+Biraz uyuyun.
+Şafakta yola revan oluruz.
+
+1084
+01:48:41,700 --> 01:48:44,700
+Gandalf aramıza katılana kadar
+dağlarda bekleyecektik.
+
+1085
+01:48:45,360 --> 01:48:48,060
+- Plan böyleydi.
+- Plan değişti.
+
+1086
+01:48:48,700 --> 01:48:51,300
+Bofur, ilk nöbet sende.
+
+1087
+01:48:59,100 --> 01:49:01,200
+<i>Koku hâlâ taze!</i>
+
+1088
+01:49:02,200 --> 01:49:06,500
+<i>Dağı geçmişler.</i>
+
+1089
+01:50:06,370 --> 01:50:08,370
+Nereye gidiyorsun bakayım?
+
+1090
+01:50:11,400 --> 01:50:13,400
+Ayrıkvadi'ye dönüyorum.
+
+1091
+01:50:14,600 --> 01:50:17,600
+Hayır, şimdi dönemezsin.
+Sen grubumuzun bir parçasısın.
+
+1092
+01:50:17,655 --> 01:50:19,100
+Sen bizden birisin.
+
+1093
+01:50:19,220 --> 01:50:21,290
+Hayır, değilim.
+
+1094
+01:50:22,900 --> 01:50:25,500
+Thorin hiç gelmemem gerektiğini söyledi,
+haklıydı da.
+
+1095
+01:50:26,200 --> 01:50:30,040
+Ben bir Took değilim ki, bir Baggins'im.
+Aklımdan ne geçti bilmiyorum.
+
+1096
+01:50:31,500 --> 01:50:35,500
+- Evimden hiç ayrılmamalıydım.
+- Sen ev hasreti çekiyorsun, anladım.
+
+1097
+01:50:35,620 --> 01:50:38,400
+Hayır, anlamıyorsun!
+Hiçbiriniz anlamıyorsunuz!
+
+1098
+01:50:38,520 --> 01:50:41,500
+Siz cücesiniz.
+Bu hayata alışkınsınız.
+
+1099
+01:50:41,620 --> 01:50:45,120
+Sürekli bir yerlere gitmeye, sabit bir
+yerde yaşamamaya, yersiz yurtsuz olmaya!
+
+1100
+01:50:49,100 --> 01:50:51,100
+Özür dilerim, ben öyle demek...
+
+1101
+01:50:56,290 --> 01:50:58,290
+Hayır, sen haklısın.
+
+1102
+01:51:01,320 --> 01:51:03,710
+Bizim yerimiz yurdumuz yok.
+
+1103
+01:51:11,500 --> 01:51:14,000
+Sana iyi şanslar dilerim.
+
+1104
+01:51:16,900 --> 01:51:18,900
+Gerçekten.
+
+1105
+01:51:22,900 --> 01:51:24,900
+O ne öyle?
+
+1106
+01:51:46,700 --> 01:51:49,000
+Uyanın!
+Uyanın!
+
+1107
+01:52:12,700 --> 01:52:14,700
+Dikkat edin!
+
+1108
+01:54:42,800 --> 01:54:47,800
+Krallığıma silah kuşanıp
+gelecek kadar cesur olan kim?
+
+1109
+01:54:48,360 --> 01:54:51,730
+Casus musunuz, hırsız mı, suikastçı mı?
+
+1110
+01:54:52,200 --> 01:54:55,090
+- Cüceler, Kötü Hazretleri.
+- Cüceler mi?
+
+1111
+01:54:55,800 --> 01:54:59,550
+- Onları girişte bulduk.
+- Öyle durmayın!
+
+1112
+01:54:59,900 --> 01:55:01,900
+Arayın onları!
+
+1113
+01:55:02,100 --> 01:55:04,500
+Her cebi ve her deliklerini arayın!
+
+1114
+01:55:10,510 --> 01:55:12,830
+Ne işiniz var burada?
+
+1115
+01:55:14,000 --> 01:55:16,000
+Konuşun!
+
+1116
+01:55:18,080 --> 01:55:22,780
+Peki, konuşmuyorlarsa
+bağırtalım o zaman!
+
+1117
+01:55:23,580 --> 01:55:27,880
+Kıyıcıyı getir!
+Kemik Kırıcıyı da getir.
+
+1118
+01:55:28,500 --> 01:55:31,000
+- En gencinden başlayın!
+- Durun!
+
+1119
+01:55:34,100 --> 01:55:36,100
+Vay, vay, vay!
+
+1120
+01:55:37,300 --> 01:55:39,640
+Bakın kim varmış burada!
+
+1121
+01:55:40,600 --> 01:55:44,060
+Thrain'in oğlu, Thror oğlu
+Thrain.
+
+1122
+01:55:44,800 --> 01:55:47,360
+Dağaltı Kralı.
+
+1123
+01:55:48,720 --> 01:55:52,830
+Unuttum bak!
+Senin artık bir dağın yok.
+
+1124
+01:55:53,100 --> 01:55:56,200
+O zaman kral değilsin sen,
+bu durumda...
+
+1125
+01:55:57,400 --> 01:55:59,400
+...sen hiç kimsesin!
+
+1126
+01:56:02,500 --> 01:56:07,270
+Kellene iyi para verecek
+birini tanıyorum.
+
+1127
+01:56:08,270 --> 01:56:12,100
+Sırf kellene.
+Gerisi olmaksızın.
+
+1128
+01:56:13,200 --> 01:56:15,700
+Kimden bahsettiğimi biliyorsundur belki.
+
+1129
+01:56:17,100 --> 01:56:19,690
+Eski bir hasmın olur kendisi.
+
+1130
+01:56:22,500 --> 01:56:26,830
+Beyaz bir Warg süren
+soluk bir Ork!
+
+1131
+01:56:28,300 --> 01:56:31,700
+Kirletici Azog yok edilmişti.
+
+1132
+01:56:33,900 --> 01:56:36,610
+Uzun yıllar önce savaşta katledildi.
+
+1133
+01:56:36,620 --> 01:56:40,720
+Kirletme günleri
+bitti mi sanıyorsun?
+
+1134
+01:56:42,100 --> 01:56:44,500
+Soluk Ork'a haber sal.
+
+1135
+01:56:44,800 --> 01:56:47,500
+Onun çok istediği şeyi
+bulduğumu söyle.
+
+1136
+01:57:25,883 --> 01:57:27,555
+Evet.
+
+1137
+01:57:28,818 --> 01:57:29,938
+Evet!
+
+1138
+01:57:31,342 --> 01:57:32,902
+Evet!
+
+1139
+01:57:33,395 --> 01:57:34,795
+Gollum...
+
+1140
+01:57:35,653 --> 01:57:37,590
+Evet!
+
+1141
+01:57:37,852 --> 01:57:39,752
+Gollum! Gollum!
+
+1142
+01:58:08,372 --> 01:58:12,565
+Pis Goblinler...
+
+1143
+01:58:12,632 --> 01:58:14,707
+...iskeletlerden iyidir, kıymetlimis.
+
+1144
+01:58:15,100 --> 01:58:17,418
+Hiç yoktan iyidir.
+
+1145
+01:58:44,612 --> 01:58:48,055
+<i>Ah, çok kemik var efendimis.</i>
+
+1146
+01:58:48,351 --> 01:58:50,262
+<i>Hiç et yok.</i>
+
+1147
+01:58:50,653 --> 01:58:53,433
+<i>Kes sesini!
+Derisini yüz!</i>
+
+1148
+01:58:55,017 --> 01:58:57,064
+<i>Başından başla.</i>
+
+1149
+01:59:02,359 --> 01:59:05,880
+<i>Topraklar soğuk sert,
+ısırır ellerimizi</i>
+
+1150
+01:59:06,068 --> 01:59:09,454
+<i>Ayaklarımızı kemirir</i>
+
+1151
+01:59:09,582 --> 01:59:13,642
+<i>Taşlar ve kayalar eski kemikler gibidir</i>
+
+1152
+01:59:13,726 --> 01:59:16,466
+<i>Etten yoksun</i>
+
+1153
+01:59:16,648 --> 01:59:22,466
+<i>Ölüm kadar soğuk,
+nefes bile almadan yemek güzeldir</i>
+
+1154
+02:00:00,649 --> 02:00:04,342
+Şükürler olsun, kıymetlimis.
+
+1155
+02:00:04,444 --> 02:00:07,910
+Ziyafet çekececegis, ziyafet!
+
+1156
+02:00:09,037 --> 02:00:11,387
+Gollum! Gollum!
+
+1157
+02:00:12,701 --> 02:00:15,206
+Çekil. Geri çekil!
+
+1158
+02:00:15,371 --> 02:00:19,659
+Seni uyarıyorum, daha fazla yaklaşma.
+
+1159
+02:00:20,715 --> 02:00:22,658
+Elf kılıcı var...
+
+1160
+02:00:23,177 --> 02:00:24,997
+...ama Elf değil ki.
+
+1161
+02:00:26,487 --> 02:00:28,307
+Elf değil, hayır...
+
+1162
+02:00:28,907 --> 02:00:31,000
+Bu ne ola ki, kıymetlimisss?
+
+1163
+02:00:32,031 --> 02:00:33,151
+Bu ne ola ki?
+
+1164
+02:00:33,631 --> 02:00:35,031
+Benim adım...
+
+1165
+02:00:35,725 --> 02:00:37,545
+...Bilbo Baggins.
+
+1166
+02:00:37,926 --> 02:00:39,326
+Baggins mi?
+
+1167
+02:00:40,674 --> 02:00:44,257
+Baggins nedir ki, kıymetlimis?
+
+1168
+02:00:44,555 --> 02:00:47,406
+Ben Shire'lı bir Hobbitim.
+
+1169
+02:00:48,940 --> 02:00:54,011
+Biz Goblin, yarasa ve balık severiz
+ama daha önce hiç Hobbit denememişiz.
+
+1170
+02:00:55,394 --> 02:00:56,680
+Yumuşak mı?
+
+1171
+02:00:57,220 --> 02:00:58,552
+Sulu mu?
+
+1172
+02:00:58,553 --> 02:01:00,298
+Hayır. Hayır! Uzak...
+
+1173
+02:01:00,967 --> 02:01:02,069
+Uzak dur!
+
+1174
+02:01:02,303 --> 02:01:04,233
+Zorunda kalırsam, bunu kullanırım!
+
+1175
+02:01:05,058 --> 02:01:08,040
+Bela istemiyorum,
+anladın mı?
+
+1176
+02:01:08,579 --> 02:01:11,701
+Bana buradan çıkış yolunu göster
+ben de yoluma gideyim.
+
+1177
+02:01:11,825 --> 02:01:13,795
+Neden?
+Kayıp mı oldunus?
+
+1178
+02:01:13,862 --> 02:01:17,416
+Evet. Evet, ve en kısa sürede
+yolumu bulmak istiyorum.
+
+1179
+02:01:17,485 --> 02:01:23,178
+Evet, biz biliyos! Hobbitler için güvenli
+bir yol biliyos. Karanlıkta güvenli yol.
+
+1180
+02:01:23,279 --> 02:01:24,060
+Kes sesini!
+
+1181
+02:01:24,651 --> 02:01:25,581
+Ben bir şey demedim ki.
+
+1182
+02:01:25,738 --> 02:01:27,558
+Seninle konuşmuyos!
+
+1183
+02:01:27,699 --> 02:01:30,806
+Evet, konuşuyodunus kıymetlimis,
+konuşuyodunus.
+
+1184
+02:01:31,015 --> 02:01:34,340
+Bak nasıl bir oyun çeviriyorsun
+bilmiyorum ama ben...
+
+1185
+02:01:34,380 --> 02:01:35,872
+Oyun mu?
+
+1186
+02:01:36,247 --> 02:01:38,940
+Biz oyunlara bayılırıs, di'mi kıymetlimis?
+
+1187
+02:01:39,003 --> 02:01:40,118
+Sen sever misin oyun?
+
+1188
+02:01:40,196 --> 02:01:43,453
+Sever mi, sever mi,
+oyun oynamayı sever mi?
+
+1189
+02:01:44,126 --> 02:01:45,246
+Olabilir.
+
+1190
+02:01:47,710 --> 02:01:51,600
+Kimsenin görmediği kökleri olan...
+
+1191
+02:01:52,436 --> 02:01:54,840
+Ağaçlardan uzun...
+
+1192
+02:01:54,887 --> 02:01:57,332
+Uzun, uzun, uzar da gider.
+
+1193
+02:01:57,450 --> 02:02:00,190
+Ama hiç büyümes?
+
+1194
+02:02:01,542 --> 02:02:04,041
+- Dağ.
+- Evet, evet.
+
+1195
+02:02:05,487 --> 02:02:07,180
+Bir tane daha soralım mı?
+
+1196
+02:02:07,633 --> 02:02:09,326
+Evet. Hadi, sor.
+
+1197
+02:02:09,349 --> 02:02:11,115
+Hadi, hadi sen bize sor.
+
+1198
+02:02:11,271 --> 02:02:13,583
+Hayır. Başka bilmece yok.
+
+1199
+02:02:14,870 --> 02:02:17,556
+Bitir işini, hemen bitir işini!
+
+1200
+02:02:17,595 --> 02:02:19,575
+Gollum, Gollum!
+
+1201
+02:02:19,646 --> 02:02:21,427
+Hayır! Hayır, hayır.
+
+1202
+02:02:21,857 --> 02:02:23,677
+Oynamak istiyorum.
+
+1203
+02:02:23,894 --> 02:02:27,096
+İstiyorum. Oynamak istiyorum.
+Bu oyunda...
+
+1204
+02:02:27,462 --> 02:02:29,045
+...çok iyi olduğunu...
+
+1205
+02:02:29,249 --> 02:02:31,069
+...anladım.
+
+1206
+02:02:31,835 --> 02:02:33,965
+Hadi gel bilmece oyunu...
+
+1207
+02:02:35,512 --> 02:02:37,103
+...oynayalım.
+
+1208
+02:02:37,341 --> 02:02:39,441
+Evet, sadece sen ve ben.
+
+1209
+02:02:40,346 --> 02:02:41,466
+Evet.
+
+1210
+02:02:41,828 --> 02:02:42,948
+Sadece...
+
+1211
+02:02:43,055 --> 02:02:44,437
+Sadece biz.
+
+1212
+02:02:44,586 --> 02:02:46,474
+Evet.
+Evet!
+
+1213
+02:02:46,537 --> 02:02:48,372
+Ve eğer ben kazanırsam...
+
+1214
+02:02:48,967 --> 02:02:52,180
+...bana çıkış yolunu gösterirsin, tamam mı?
+
+1215
+02:02:52,408 --> 02:02:54,564
+Evet. Evet!
+
+1216
+02:02:54,775 --> 02:02:57,616
+Peki ya kaybedersen,
+o zaman ne olacak?
+
+1217
+02:02:57,882 --> 02:03:01,957
+Kaybederse, kıymetlimis
+onu yerisss!
+
+1218
+02:03:02,606 --> 02:03:05,924
+Baggins kaybederse ham yaparısss!
+
+1219
+02:03:12,880 --> 02:03:14,280
+Anlaştık.
+
+1220
+02:03:18,946 --> 02:03:21,060
+Önce Baggins.
+
+1221
+02:03:27,049 --> 02:03:29,671
+30 beyaz at kızıl tepenin üstünde.
+
+1222
+02:03:30,422 --> 02:03:31,531
+Önce çiğnerler.
+
+1223
+02:03:31,781 --> 02:03:32,703
+Sonra tepinirler.
+
+1224
+02:03:33,413 --> 02:03:35,233
+Sonra da dururlar.
+
+1225
+02:03:45,949 --> 02:03:47,069
+Diş mi?
+
+1226
+02:03:48,340 --> 02:03:49,596
+Diş!
+
+1227
+02:03:50,165 --> 02:03:51,985
+Kıymetlimisss!
+
+1228
+02:03:52,313 --> 02:03:56,428
+Ama bizim sadece...
+
+1229
+02:03:56,732 --> 02:03:59,185
+...dokus tane!
+
+1230
+02:04:01,822 --> 02:04:03,222
+Sıra bende.
+
+1231
+02:04:03,971 --> 02:04:06,791
+Sessizce ağlar.
+
+1232
+02:04:07,143 --> 02:04:09,903
+Kanatsız çırpınır.
+
+1233
+02:04:10,201 --> 02:04:12,997
+Dişsiz ısırır.
+
+1234
+02:04:14,133 --> 02:04:17,857
+Ağızsız mırıldanır.
+
+1235
+02:04:19,670 --> 02:04:21,070
+Bir dakika.
+
+1236
+02:04:24,982 --> 02:04:27,021
+Biz biliyos, biz biliyos!
+
+1237
+02:04:27,084 --> 02:04:28,484
+Kes sesini!
+
+1238
+02:04:36,065 --> 02:04:38,664
+Rüzgar. Rüzgar tabii!
+
+1239
+02:04:39,164 --> 02:04:41,747
+Hobbitler çok zeki.
+
+1240
+02:04:41,920 --> 02:04:44,435
+Çok zeki!
+
+1241
+02:04:45,167 --> 02:04:48,102
+Menteşesiz, anahtarsız bir kutu.
+
+1242
+02:04:48,235 --> 02:04:50,180
+Ve kapaksız.
+
+1243
+02:04:50,274 --> 02:04:53,842
+Ama içinde saklı yine de altın bir hazine.
+
+1244
+02:05:02,858 --> 02:05:03,978
+Evet?
+
+1245
+02:05:04,545 --> 02:05:05,945
+Çok zor!
+
+1246
+02:05:10,049 --> 02:05:10,801
+Pes ediyor musun?
+
+1247
+02:05:10,822 --> 02:05:14,697
+Bize bir şans ver, kıymetlimis
+bir şans!
+
+1248
+02:05:27,275 --> 02:05:30,744
+Yumurta!
+Yumurta!
+
+1249
+02:05:30,921 --> 02:05:34,411
+Islak, çıtır çıtır yumurtalar.
+Evet, evet.
+
+1250
+02:05:34,523 --> 02:05:38,880
+Ninem yumurtayı emmeyi öğretmişti, evet!
+
+1251
+02:05:47,211 --> 02:05:50,203
+<i>Bir tane daha soracağıs.</i>
+
+1252
+02:05:51,181 --> 02:05:55,006
+<i>Her şeyi bir çırpıda yer bitirir.</i>
+
+1253
+02:05:55,444 --> 02:06:00,285
+<i>Kuşları, hayvanları, ağaçları, çiçekleri.</i>
+
+1254
+02:06:00,700 --> 02:06:04,994
+<i>Kemirir demiri, ısırır çeliği.</i>
+
+1255
+02:06:05,253 --> 02:06:08,368
+<i>Öğütür taşları yemek gibi.</i>
+
+1256
+02:06:10,407 --> 02:06:12,227
+<i>Bize cevap ver.</i>
+
+1257
+02:06:12,358 --> 02:06:16,467
+Biraz izin ver, lütfen.
+Ben sana çok zaman vermiştim.
+
+1258
+02:06:20,864 --> 02:06:22,364
+Bu seferkini bilmiyorum.
+
+1259
+02:06:22,529 --> 02:06:25,440
+<i>Lezzetli misin?</i>
+
+1260
+02:06:25,896 --> 02:06:29,948
+<i>Nefis misin?</i>
+
+1261
+02:06:30,851 --> 02:06:32,358
+Çıtır çıtır mı!
+
+1262
+02:06:32,374 --> 02:06:33,465
+Bir düşüneyim!
+
+1263
+02:06:33,927 --> 02:06:35,474
+Bir düşüneyim.
+
+1264
+02:06:40,040 --> 02:06:41,924
+Köşeye sıkıştı!
+
+1265
+02:06:42,893 --> 02:06:44,596
+Baggins.
+
+1266
+02:06:45,250 --> 02:06:47,547
+Köşeye sıkıştı.
+
+1267
+02:06:51,083 --> 02:06:52,755
+Zaman doldu.
+
+1268
+02:06:56,357 --> 02:06:58,182
+Zaman mı?
+
+1269
+02:06:58,324 --> 02:07:01,159
+Cevap, zaman!
+
+1270
+02:07:03,416 --> 02:07:05,406
+Aslında bakarsan o kadar da zor değildi.
+
+1271
+02:07:07,219 --> 02:07:09,039
+Son soru.
+
+1272
+02:07:10,230 --> 02:07:12,079
+Son şans.
+
+1273
+02:07:12,165 --> 02:07:14,735
+Tamam.
+
+1274
+02:07:16,323 --> 02:07:18,119
+Sor bise!
+
+1275
+02:07:19,589 --> 02:07:20,674
+Sor!
+
+1276
+02:07:20,699 --> 02:07:22,699
+Evet, tamam tamam.
+
+1277
+02:07:26,624 --> 02:07:29,090
+Benim cebimde...
+
+1278
+02:07:29,317 --> 02:07:31,879
+...ne var?
+
+1279
+02:07:34,005 --> 02:07:36,198
+Bu haksıslık!
+
+1280
+02:07:36,588 --> 02:07:40,307
+Bu haksıslık.
+Kurallara aykırı.
+
+1281
+02:07:41,382 --> 02:07:43,418
+Başka soru sor!
+
+1282
+02:07:43,583 --> 02:07:44,848
+Hayır. Hayır.
+
+1283
+02:07:44,903 --> 02:07:46,580
+Bana soru sor dedin.
+
+1284
+02:07:46,844 --> 02:07:49,018
+Bu da benim sorum.
+
+1285
+02:07:49,073 --> 02:07:51,664
+Cebimde ne var?
+
+1286
+02:07:53,257 --> 02:07:56,452
+Üç tahmin kıymetlimisss,
+üç kere tahmin edelim!
+
+1287
+02:07:56,585 --> 02:07:58,989
+Peki, üç tahmin.
+Başla bakalım.
+
+1288
+02:07:59,130 --> 02:08:00,317
+Eller!
+
+1289
+02:08:00,473 --> 02:08:02,293
+Yanlış.
+Tekrar dene.
+
+1290
+02:08:10,400 --> 02:08:11,369
+Bıçak!
+
+1291
+02:08:11,463 --> 02:08:12,643
+Sen sus!
+
+1292
+02:08:12,729 --> 02:08:14,510
+Yine yanlış.
+Son şans.
+
+1293
+02:08:14,626 --> 02:08:16,287
+İp!
+
+1294
+02:08:16,593 --> 02:08:17,713
+Ya da hiçbir sey.
+
+1295
+02:08:17,866 --> 02:08:19,389
+Aynı anda iki tahmin.
+
+1296
+02:08:19,561 --> 02:08:20,976
+İkisi de yanlış.
+
+1297
+02:08:24,915 --> 02:08:26,358
+Evet...
+
+1298
+02:08:27,835 --> 02:08:29,012
+Hadi o zaman.
+
+1299
+02:08:29,223 --> 02:08:31,551
+Oyunu ben kazandım,
+çıkışı göstereceğine söz vermiştin.
+
+1300
+02:08:32,075 --> 02:08:34,478
+Biz öyle mi dedik kıymetlimis?
+
+1301
+02:08:35,057 --> 02:08:37,533
+Öyle mi dedik?
+
+1302
+02:08:41,180 --> 02:08:46,046
+Ne var acaba cebinde?
+
+1303
+02:08:46,904 --> 02:08:49,004
+Bu seni ilgilendirmez.
+
+1304
+02:08:49,307 --> 02:08:51,031
+Sen kaybettin.
+
+1305
+02:08:52,008 --> 02:08:53,375
+Kayıp.
+
+1306
+02:08:55,398 --> 02:08:56,880
+Kayıp.
+
+1307
+02:08:58,365 --> 02:09:00,059
+Kayıp mı?
+
+1308
+02:09:06,289 --> 02:09:08,148
+Nerede?
+
+1309
+02:09:09,133 --> 02:09:10,773
+Nerede?
+
+1310
+02:09:11,704 --> 02:09:12,824
+Hayır!
+
+1311
+02:09:15,345 --> 02:09:18,498
+Nerede?
+Hayır!
+
+1312
+02:09:19,819 --> 02:09:21,934
+Kayboldu, kayboldu!
+
+1313
+02:09:22,575 --> 02:09:24,519
+Vay başıma gelen!
+
+1314
+02:09:25,448 --> 02:09:28,174
+Kıymetlimis kayboldu!
+
+1315
+02:09:30,804 --> 02:09:31,687
+Neyi kaybettin?
+
+1316
+02:09:31,794 --> 02:09:35,143
+Sorma bise, seni ilgilendirmez!
+
+1317
+02:09:35,384 --> 02:09:37,178
+Hayır!
+
+1318
+02:09:37,415 --> 02:09:39,975
+Gollum! Gollum!
+
+1319
+02:09:52,577 --> 02:09:53,697
+Onun...
+
+1320
+02:09:54,234 --> 02:09:55,634
+...pis küçük ceplerinde...
+
+1321
+02:09:56,382 --> 02:10:01,637
+...ne ola ki?
+
+1322
+02:10:12,179 --> 02:10:13,973
+Çaldı!
+
+1323
+02:10:15,192 --> 02:10:17,637
+Onu çaldı!
+
+1324
+02:10:21,531 --> 02:10:23,484
+Çaldı!
+
+1325
+02:10:29,086 --> 02:10:32,833
+<i>Kemikler kırılacak,
+boyunlar bükülecek</i>
+
+1326
+02:10:32,889 --> 02:10:36,589
+<i>Dövülüp ihanete uğrayacaksın
+Eziyete uğrayacaksın</i>
+
+1327
+02:10:36,707 --> 02:10:40,611
+<i>Burada ölecek
+ve bir daha bulunmayacaksın</i>
+
+1328
+02:10:40,697 --> 02:10:45,601
+<i>Goblin'in derinlerinde</i>
+
+1329
+02:10:48,021 --> 02:10:49,464
+Bu kılıcı biliyorum!
+
+1330
+02:10:49,676 --> 02:10:52,433
+Bu Goblin Satırı!
+
+1331
+02:10:52,479 --> 02:10:53,937
+Isıran!
+
+1332
+02:10:54,165 --> 02:10:57,374
+Bu kılıç binlerce boyun vurdu.
+
+1333
+02:10:57,445 --> 02:10:59,406
+Vurun, dövün!
+
+1334
+02:10:59,510 --> 02:11:03,207
+Öldürün, hepsini öldürün!
+
+1335
+02:11:03,684 --> 02:11:05,556
+Koparın kellesini!
+
+1336
+02:11:35,303 --> 02:11:37,520
+Silahlarınızı alın.
+
+1337
+02:11:38,208 --> 02:11:39,799
+Savaşın.
+
+1338
+02:11:40,816 --> 02:11:42,416
+Savaşın!
+
+1339
+02:11:48,829 --> 02:11:54,475
+O Hasım Çekici kullanıyor
+Döven, gün ışığı kadar parlaktır!
+
+1340
+02:12:18,520 --> 02:12:19,920
+Beni takip edin.
+
+1341
+02:12:20,294 --> 02:12:21,414
+Acele edin!
+
+1342
+02:12:23,790 --> 02:12:25,260
+Koşun!
+
+1343
+02:12:33,631 --> 02:12:35,730
+<i>Onu bise ver!</i>
+
+1344
+02:12:55,442 --> 02:12:57,978
+O bisim.
+
+1345
+02:12:58,205 --> 02:13:01,244
+O bisim!
+
+1346
+02:13:25,306 --> 02:13:26,426
+Hırsıs!
+
+1347
+02:13:29,119 --> 02:13:31,171
+Baggins!
+
+1348
+02:13:38,208 --> 02:13:39,608
+Çabuk!
+
+1349
+02:13:41,557 --> 02:13:42,957
+Durmayın!
+
+1350
+02:13:48,598 --> 02:13:50,704
+Bir! İki!
+
+1351
+02:13:53,034 --> 02:13:54,447
+Gönder!
+
+1352
+02:13:57,165 --> 02:13:58,733
+Saldırın!
+
+1353
+02:14:44,853 --> 02:14:47,133
+İpleri kesin!
+
+1354
+02:15:09,788 --> 02:15:11,207
+Hadi, çabuk!
+
+1355
+02:15:11,263 --> 02:15:12,663
+Hadi!
+
+1356
+02:15:24,992 --> 02:15:26,419
+Atlayın!
+
+1357
+02:15:54,299 --> 02:15:55,699
+Hadi!
+
+1358
+02:16:33,582 --> 02:16:36,001
+Benden kaçabileceğinizi sandınız.
+
+1359
+02:16:39,658 --> 02:16:43,070
+Şimdi ne yapacaksın bakalım, büyücü?
+
+1360
+02:16:43,789 --> 02:16:45,286
+Hayır!
+
+1361
+02:16:50,779 --> 02:16:52,599
+Bu da olur tabii.
+
+1362
+02:17:27,253 --> 02:17:29,353
+Daha kötüsü de olabilirdi.
+
+1363
+02:17:32,334 --> 02:17:35,042
+Yok daha neler ya!
+
+1364
+02:17:41,121 --> 02:17:42,521
+Gandalf!
+
+1365
+02:17:47,017 --> 02:17:48,827
+Çok fazlalar, onları savaşamayız.
+
+1366
+02:17:48,843 --> 02:17:50,405
+Bizi tek bir şey kurtarabilir.
+
+1367
+02:17:50,483 --> 02:17:51,519
+Gün ışığı!
+
+1368
+02:17:51,558 --> 02:17:52,973
+Hadi.
+
+1369
+02:17:53,004 --> 02:17:54,824
+Hadi, kalk ayağa.
+
+1370
+02:18:01,108 --> 02:18:04,429
+Bekle, kıymetlimisss.
+
+1371
+02:18:04,570 --> 02:18:06,309
+Bekle!
+
+1372
+02:18:06,473 --> 02:18:08,293
+Gollum! Gollum!
+
+1373
+02:19:55,858 --> 02:19:58,116
+Baggins!
+
+1374
+02:19:58,598 --> 02:20:01,074
+Hırsıs!
+
+1375
+02:20:01,853 --> 02:20:06,002
+Sana lanetler olsun,
+senden nefret ediyosss!
+
+1376
+02:20:18,535 --> 02:20:22,103
+5, 6, 7, 8.
+
+1377
+02:20:22,291 --> 02:20:24,546
+Bifur, Bofur, 10 etti.
+
+1378
+02:20:24,594 --> 02:20:27,156
+Fili, Kili... 12 etti.
+
+1379
+02:20:27,429 --> 02:20:30,372
+Ve Bombur, 13 etti.
+
+1380
+02:20:30,919 --> 02:20:32,481
+Bilbo nerede?
+
+1381
+02:20:33,411 --> 02:20:35,231
+Hobbitimiz nerede?
+
+1382
+02:20:36,620 --> 02:20:38,440
+Hobbitimiz nerede?
+
+1383
+02:20:39,854 --> 02:20:41,562
+Lanet olsun buçukluk!
+
+1384
+02:20:41,656 --> 02:20:44,320
+Kayıp mı oldu?
+Ben Dori'yle beraber sanıyordum.
+
+1385
+02:20:44,461 --> 02:20:45,898
+Beni suçlama.
+
+1386
+02:20:45,985 --> 02:20:47,372
+Onu en son ne zaman gördünüz?
+
+1387
+02:20:47,521 --> 02:20:50,526
+Biz tuzağa düştüğümde onu
+sıvışırken gördüm sanırım.
+
+1388
+02:20:50,686 --> 02:20:52,506
+Tam olarak ne oldu?
+Anlat!
+
+1389
+02:20:52,561 --> 02:20:54,387
+Ne olduğunu ben söyleyeyim.
+
+1390
+02:20:54,481 --> 02:20:57,281
+Efendi Baggins bir şans buldu
+ve şansını kullandı.
+
+1391
+02:20:58,489 --> 02:21:00,968
+Evinin dışarısına adımını attığından beri...
+
+1392
+02:21:00,969 --> 02:21:03,549
+...tek düşündüğü yumuşak yatağı
+ve sıcak ocağıydı.
+
+1393
+02:21:03,893 --> 02:21:06,703
+Hobbitimizi bir daha görmeyiz.
+
+1394
+02:21:06,883 --> 02:21:08,656
+Gideli çok olmuştur.
+
+1395
+02:21:20,805 --> 02:21:21,920
+Hayır...
+
+1396
+02:21:22,709 --> 02:21:24,045
+...gitmedim.
+
+1397
+02:21:27,712 --> 02:21:29,584
+Bilbo Baggins!
+
+1398
+02:21:29,793 --> 02:21:33,293
+Birini gördüğüme hiç
+bu kadar sevinmemiştim.
+
+1399
+02:21:34,632 --> 02:21:36,732
+Bilbo.
+Senden ümidimizi kesmiştik.
+
+1400
+02:21:36,736 --> 02:21:38,759
+O Goblinleri nasıl geçmeyi becerdin?
+
+1401
+02:21:38,769 --> 02:21:40,468
+Cidden nasıl?
+
+1402
+02:21:49,501 --> 02:21:51,321
+Ne fark eder?
+
+1403
+02:21:51,772 --> 02:21:53,172
+Döndü ya işte.
+
+1404
+02:21:53,577 --> 02:21:54,670
+Fark eder.
+
+1405
+02:21:55,085 --> 02:21:56,983
+Ben bilmek istiyorum...
+
+1406
+02:21:58,574 --> 02:22:00,364
+...neden geri döndün?
+
+1407
+02:22:03,616 --> 02:22:06,701
+Benden şüphe ettin biliyorum.
+Her zaman şüphe ettin.
+
+1408
+02:22:08,233 --> 02:22:11,033
+Ve haklısın.
+Sık sık çıkın çıkmazı düşünüyorum.
+
+1409
+02:22:11,767 --> 02:22:13,587
+Kitaplarımı özlüyorum...
+
+1410
+02:22:14,548 --> 02:22:16,790
+...koltuğumu ve bahçemi.
+
+1411
+02:22:18,400 --> 02:22:19,921
+İşte, ben oraya aitim.
+
+1412
+02:22:20,413 --> 02:22:21,882
+Orası benim evim.
+
+1413
+02:22:23,890 --> 02:22:26,639
+Ve işte bu yüzden geri döndüm,
+çünkü...
+
+1414
+02:22:28,305 --> 02:22:30,826
+...çünkü sizin bir eviniz yok.
+
+1415
+02:22:31,967 --> 02:22:33,802
+Sizden alındı.
+
+1416
+02:22:36,525 --> 02:22:38,866
+Elimden gelirse geri almanız için
+size yardım edeceğim.
+
+1417
+02:23:01,467 --> 02:23:03,767
+<i>Peşlerine düşün!</i>
+
+1418
+02:23:04,068 --> 02:23:06,868
+<i>Parçalara ayırın onları!</i>
+
+1419
+02:23:12,586 --> 02:23:13,952
+Yağmurdan kaçarken...
+
+1420
+02:23:14,000 --> 02:23:16,083
+...doluya tutulduk!
+
+1421
+02:23:16,090 --> 02:23:17,091
+Kaçın.
+
+1422
+02:23:17,095 --> 02:23:18,215
+Kaçın!
+
+1423
+02:24:02,312 --> 02:24:04,045
+Ağaçlara çıkın.
+Hepiniz!
+
+1424
+02:24:04,108 --> 02:24:07,363
+Hadi, tırmanın.
+Bilbo, tırman!
+
+1425
+02:24:18,426 --> 02:24:19,546
+Geliyorlar!
+
+1426
+02:25:20,974 --> 02:25:22,536
+Azog!
+
+1427
+02:25:27,797 --> 02:25:30,037
+<i>Kokuyu aldınız mı?</i>
+
+1428
+02:25:31,698 --> 02:25:34,708
+<i>Korkunun kokusunu?</i>
+
+1429
+02:25:38,409 --> 02:25:43,309
+<i>Babanın pis kokusunu hatırlıyorum...</i>
+
+1430
+02:25:43,410 --> 02:25:47,740
+<i>...Thrain oğlu Thoin.</i>
+
+1431
+02:25:49,205 --> 02:25:51,171
+Bu olamaz.
+
+1432
+02:25:57,779 --> 02:25:59,799
+<i>O benim...</i>
+
+1433
+02:26:00,650 --> 02:26:02,719
+<i>Diğerlerini öldürün!</i>
+
+1434
+02:27:34,934 --> 02:27:36,054
+Fili!
+
+1435
+02:28:11,171 --> 02:28:12,291
+Hayır!
+
+1436
+02:28:14,505 --> 02:28:15,903
+Hayır.
+
+1437
+02:28:25,670 --> 02:28:27,490
+Bay Gandalf!
+
+1438
+02:28:33,067 --> 02:28:34,187
+Sıkı tutun, Nori!
+
+1439
+02:30:04,334 --> 02:30:07,052
+Hayır.
+
+1440
+02:30:17,852 --> 02:30:20,748
+Thorin! Hayır.
+
+1441
+02:30:39,629 --> 02:30:42,890
+<i>Cücenin kellesini getir bana.</i>
+
+1442
+02:31:31,791 --> 02:31:33,691
+<i>Öldürün onu.</i>
+
+1443
+02:34:08,226 --> 02:34:09,858
+Thorin!
+
+1444
+02:35:24,864 --> 02:35:25,984
+Thorin!
+
+1445
+02:35:30,048 --> 02:35:31,319
+Thorin.
+
+1446
+02:35:48,844 --> 02:35:49,964
+Buçukluk?
+
+1447
+02:35:50,860 --> 02:35:51,980
+Gayet iyi.
+
+1448
+02:35:53,380 --> 02:35:56,115
+Bilbo burada.
+Güvende.
+
+1449
+02:36:06,460 --> 02:36:07,895
+Sen!
+
+1450
+02:36:11,395 --> 02:36:12,674
+Ne yapıyordun sen öyle?
+
+1451
+02:36:13,596 --> 02:36:15,978
+Kendini öldürtebilirdin farkında mısın?
+
+1452
+02:36:18,002 --> 02:36:20,476
+Bize yük olacağını söylememiş miydim?
+
+1453
+02:36:21,336 --> 02:36:23,474
+Yabanda sağ kalamazsın...
+
+1454
+02:36:25,016 --> 02:36:27,505
+...ve aramızda yerin yok dedim.
+
+1455
+02:36:32,479 --> 02:36:35,844
+Hayatımda hiç bu kadar yanılmamıştım.
+
+1456
+02:36:48,531 --> 02:36:50,325
+Senden yana şüpheye
+düştüğüm için özür dilerim.
+
+1457
+02:36:50,357 --> 02:36:52,457
+Hayır, ben de olsam
+benden şüphelenirdim.
+
+1458
+02:36:53,529 --> 02:36:56,104
+Ben kahraman değilim,
+savaşçı da değilim.
+
+1459
+02:36:58,574 --> 02:37:00,394
+Hırsız bile değilim.
+
+1460
+02:37:19,242 --> 02:37:22,593
+Bu düşündüğüm şey mi?
+
+1461
+02:37:37,366 --> 02:37:39,303
+Erebor!
+
+1462
+02:37:39,859 --> 02:37:41,679
+Yalnız Dağ.
+
+1463
+02:37:42,060 --> 02:37:47,151
+Orta Dünya'nın büyük
+cüce krallıklarının sonuncusu.
+
+1464
+02:37:49,226 --> 02:37:51,036
+Yurdumuz.
+
+1465
+02:37:55,357 --> 02:37:56,597
+Kuzgun!
+
+1466
+02:37:56,681 --> 02:38:00,163
+Kuşlar dağa geri dönüyor.
+
+1467
+02:38:03,257 --> 02:38:06,754
+Sevgili Oin, o bir ardıç kuşu.
+
+1468
+02:38:08,099 --> 02:38:11,674
+Bunu iyi bir alamet
+olarak kabul edeceğiz.
+
+1469
+02:38:11,940 --> 02:38:13,278
+Haklısın.
+
+1470
+02:38:14,105 --> 02:38:16,696
+Kötü kısmı arkamızda bıraktık bence.
