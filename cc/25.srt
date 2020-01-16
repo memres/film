@@ -1,0 +1,6838 @@
+3
+00:00:26,776 --> 00:00:27,860
+<i>Bir hikaye.</i>
+
+4
+00:00:29,070 --> 00:00:31,572
+<i>Bir adam yıllarca
+tüfeğini ateşler...</i>
+
+5
+00:00:32,573 --> 00:00:33,991
+<i>...ve savaşa gider.</i>
+
+6
+00:00:35,076 --> 00:00:38,079
+<i>Sonrasında, tüfeğini silah
+deposuna teslim eder...</i>
+
+7
+00:00:38,496 --> 00:00:40,998
+<i>...ve tüfekle işinin
+bittiğine inanır.</i>
+
+8
+00:00:42,291 --> 00:00:45,169
+<i>Ama elleri ne yaparsa
+yapsın,</i>
+
+9
+00:00:45,670 --> 00:00:48,381
+<i>...ister bir kadını sevsin,
+ister bir ev inşa etsin...</i>
+
+10
+00:00:49,674 --> 00:00:51,676
+<i>...ister çocuğunun altını
+değiştirsin,</i>
+
+11
+00:00:52,385 --> 00:00:54,262
+<i>...elleri o tüfeği unutamaz.</i>
+
+12
+00:00:55,471 --> 00:01:00,393
+Artık ne siyah, ne kahverengi,
+ne sarı, ne de kırmızısınız!
+
+13
+00:01:01,185 --> 00:01:03,187
+Şu andan itibaren yeşilsiniz!
+
+14
+00:01:03,187 --> 00:01:06,899
+Açık ya da koyu yeşil!
+
+15
+00:01:07,066 --> 00:01:08,985
+Anlaşıldı mı?
+
+16
+00:01:09,277 --> 00:01:10,570
+Evet efendim!
+
+17
+00:01:11,279 --> 00:01:12,280
+Swofford!
+
+18
+00:01:12,363 --> 00:01:13,364
+Evet efendim!
+
+19
+00:01:13,698 --> 00:01:16,284
+Babası Vietnam’da görev
+alan böcek sen misin?
+
+20
+00:01:16,367 --> 00:01:17,368
+Evet efendim!
+
+21
+00:01:17,493 --> 00:01:20,496
+Çarpıcı! Orada ölme cesaretini
+gösterebilmiş mi bari?
+
+22
+00:01:20,496 --> 00:01:21,581
+Hayır efendim!
+
+23
+00:01:21,664 --> 00:01:24,458
+Çok yazık!
+Hiç bahseder miydi?
+
+24
+00:01:24,667 --> 00:01:28,171
+- Bir kez bahsetmişti efendim!
+- Güzel! Demek ki yalan söylememiş!
+
+25
+00:01:29,463 --> 00:01:32,175
+O mavi gözlerinle beni mi süzüyorsun?
+
+26
+00:01:32,300 --> 00:01:34,385
+- Evet mi?
+- Hayır efendim!
+
+27
+00:01:34,385 --> 00:01:37,597
+- Bana aşık mısın Swofford?
+- Hayır efendim!
+
+28
+00:01:37,597 --> 00:01:40,975
+Sence üniformam bana
+yakışmıyor mu Swofford?
+
+29
+00:01:41,100 --> 00:01:44,187
+Eğitim çavuşuna üniforması
+çok yakışmış efendim!
+
+30
+00:01:44,270 --> 00:01:47,064
+Demek homosun ve bana aşıksın, ha?
+
+31
+00:01:47,190 --> 00:01:48,900
+Homo değilim efendim!
+
+32
+00:01:48,900 --> 00:01:51,986
+- Kız arkadaşın var mı Swofford?
+- Evet efendim!
+
+33
+00:01:51,986 --> 00:01:55,281
+Bilemedin orospu çocuğu!
+Asker kaçağıyla düzüşmekle meşgul!
+
+34
+00:01:55,364 --> 00:01:57,283
+Şınav pozisyonu al...
+
+35
+00:01:57,283 --> 00:01:59,493
+...ve bu ayki her düzüşmesi
+için 25 şınav çek.
+
+36
+00:01:59,493 --> 00:02:00,995
+Şınav pozisyonu!
+
+37
+00:02:02,663 --> 00:02:05,583
+<i>Eğitim çavuşu Fitch ile
+tanıştıktan kısa süre sonra...</i>
+
+38
+00:02:05,666 --> 00:02:08,294
+<i>...Deniz Piyadelerine katılmakla...</i>
+
+39
+00:02:08,294 --> 00:02:10,379
+<i>...büyük hata yaptığımı
+düşünmeye başladım.</i>
+
+40
+00:02:10,379 --> 00:02:12,590
+Bu da ne böyle?
+
+41
+00:02:12,882 --> 00:02:15,176
+Acemi erin dolap planı efendim!
+
+42
+00:02:15,259 --> 00:02:18,387
+İsa, Yusuf ve Meryem adına!
+
+43
+00:02:18,471 --> 00:02:20,473
+Düpedüz köpek pisliği!
+
+44
+00:02:20,598 --> 00:02:22,767
+Acemi erin çizim yeteneği
+yok efendim!
+
+45
+00:02:22,892 --> 00:02:25,269
+Ne diye yazıcı oldun
+o zaman?
+
+46
+00:02:25,394 --> 00:02:27,688
+Yazıcım olacak herifin çizim
+yapabilmesi gerekmez mi?
+
+47
+00:02:27,772 --> 00:02:28,981
+Acemi er bilmiyordu efendim!
+
+48
+00:02:29,065 --> 00:02:31,192
+Acemi er yazı yazacağını
+sanmıştı efendim!
+
+49
+00:02:31,275 --> 00:02:32,860
+Bilmez tabii!
+
+50
+00:02:32,985 --> 00:02:36,280
+Bilmez, çünkü henüz anlatmadım!
+
+51
+00:02:37,490 --> 00:02:39,492
+Hadi bakalım beyinsiz...
+
+52
+00:02:39,492 --> 00:02:42,870
+...tişört ve koşu ayakkabılarının
+yerini göster bana!
+
+53
+00:02:42,870 --> 00:02:44,163
+Efendim, acemi er...
+
+54
+00:02:44,288 --> 00:02:46,499
+...eğitim çavuşu kafasına
+vururken düşünemiyor!
+
+55
+00:02:46,499 --> 00:02:49,460
+Enseni okşuyorum diye
+düşünemiyorsun ha?
+
+56
+00:02:49,460 --> 00:02:52,171
+El bombaları burnunun
+dibinde patlarken...
+
+57
+00:02:52,296 --> 00:02:55,091
+...tüfeğini nasıl ateşleyeceksin?
+
+58
+00:02:55,800 --> 00:02:57,969
+Ne bok yemeye geldin ki buraya?
+
+59
+00:02:58,094 --> 00:03:01,180
+Üniversite yolunda kayboldum efendim!
+
+60
+00:03:08,271 --> 00:03:11,399
+<i>Bundan böyle ellerim
+çavuşu tokatlayacaktı.</i>
+
+61
+00:03:12,275 --> 00:03:16,070
+<i>Fener, bir ay ışığı;
+kalem, bir mürekkep çubuğuydu.</i>
+
+62
+00:03:16,696 --> 00:03:19,073
+<i>Ağzım, bir döl haznesiydi.</i>
+
+63
+00:03:19,073 --> 00:03:22,660
+<i>Yatak odam bir koğuş.
+Duvar ise bölme.</i>
+
+64
+00:03:23,160 --> 00:03:24,871
+<i>Gömlek, bluzdu.</i>
+
+65
+00:03:25,496 --> 00:03:28,166
+<i>Kravat hala kravat,
+kemer kemerdi.</i>
+
+66
+00:03:29,083 --> 00:03:31,460
+<i>Ama diğer pek çok şey
+artık aynı olmayacaktı.</i>
+
+67
+00:03:32,587 --> 00:03:37,300
+PENDLETON KAMPI
+DENİZ PİYADE SINIFI ÜSSÜ, 1989
+
+68
+00:04:13,294 --> 00:04:16,464
+Swofford. Ne biçim isim bu?
+
+69
+00:04:17,965 --> 00:04:19,300
+İngiliz adı.
+
+70
+00:04:19,383 --> 00:04:23,262
+Büyük büyük babam buraya
+19. yüzyılda gelmiş.
+
+71
+00:04:24,263 --> 00:04:25,389
+Neyse.
+
+72
+00:04:26,265 --> 00:04:28,601
+Seni Golf Bölüğüne yerleştiriyorum.
+
+73
+00:04:28,893 --> 00:04:30,686
+Geri zekalı ve üşütüklerle doludur.
+
+74
+00:04:31,395 --> 00:04:34,398
+Belki biraz seviyelerini
+arttırabilirsin.
+
+75
+00:04:36,275 --> 00:04:37,777
+Ya da yanılıyorum.
+
+76
+00:04:39,987 --> 00:04:41,072
+Sıradaki!
+
+77
+00:04:47,578 --> 00:04:51,374
+<i>Kavanozkafa: İsim.
+Deniz piyadesinin argosu.</i>
+
+78
+00:04:52,166 --> 00:04:55,294
+<i>Köken: Nizami saç kesim
+şeklinin...</i>
+
+79
+00:04:55,378 --> 00:04:57,964
+<i>...kavanoza benzerliği.</i>
+
+80
+00:04:58,881 --> 00:05:01,384
+<i>Dolayısıyla, Deniz Piyadesinin
+kafası da...</i>
+
+81
+00:05:01,467 --> 00:05:02,969
+<i>...bir kavanozdur.</i>
+
+82
+00:05:03,678 --> 00:05:04,971
+<i>İçi boş bir kap.</i>
+
+83
+00:05:14,564 --> 00:05:15,565
+Hey!
+
+84
+00:05:16,482 --> 00:05:17,567
+Yardım edebilir miyim?
+
+85
+00:05:18,776 --> 00:05:20,778
+Evet, İkinci Müfrezeye atandım.
+
+86
+00:05:20,862 --> 00:05:21,863
+İkinci Müfreze mi?
+
+87
+00:05:22,280 --> 00:05:23,281
+Doğru.
+
+88
+00:05:29,078 --> 00:05:32,373
+- Nasıl gidiyor usta?
+- Ne olsun dostum.
+
+89
+00:05:32,498 --> 00:05:34,292
+- İkinci Müfrezeye hoş geldin.
+- Sağ ol dostum.
+
+90
+00:05:34,375 --> 00:05:35,877
+Hey çocuklar!
+Taze et!
+
+91
+00:05:36,002 --> 00:05:37,295
+Ne eti?
+
+92
+00:06:12,580 --> 00:06:13,998
+Sürpriz!
+Orospu çocuğu!
+
+93
+00:06:23,591 --> 00:06:24,592
+Al bakalım!
+
+94
+00:06:34,769 --> 00:06:36,103
+Lanet olsun!
+
+95
+00:06:52,286 --> 00:06:54,872
+Damga demirini kızdırmamıştık.
+
+96
+00:06:55,289 --> 00:06:58,376
+Yenilere oynadığımız pis bir oyun.
+
+97
+00:07:00,002 --> 00:07:01,003
+Ne hoş.
+
+98
+00:07:02,797 --> 00:07:05,800
+Damga istiyorsan,
+onu hak etmelisin.
+
+99
+00:07:11,597 --> 00:07:13,099
+Çukur'a hoş geldin.
+
+100
+00:07:22,900 --> 00:07:24,402
+MÜSHİL
+
+101
+00:07:32,577 --> 00:07:35,288
+Miden hala rahatsız mı,
+Swofford?
+
+102
+00:07:35,288 --> 00:07:37,081
+Yakamı kurtaramadım.
+
+103
+00:07:37,165 --> 00:07:40,376
+Takma kafana. Herkes Deniz
+Piyadesi olmaya uygun değildir.
+
+104
+00:07:40,877 --> 00:07:44,172
+<i>Benimse, gidecek başka yerim yoktu.
+Gerçek buydu.</i>
+
+105
+00:07:44,380 --> 00:07:46,799
+<i>Ne de olsa,
+tohumlarım savaşta atılmıştı.</i>
+
+106
+00:07:48,092 --> 00:07:51,596
+<i>Vietnam dinlenme izninde,
+Bay ve Bayan Swofford.</i>
+
+107
+00:07:51,596 --> 00:07:54,182
+<i>Honolulu Hilton, 1969.</i>
+
+108
+00:07:55,892 --> 00:07:57,393
+<i>Bunu seyredecek değilim...</i>
+
+109
+00:07:58,477 --> 00:07:59,979
+<i>...siz de öyle.</i>
+
+110
+00:08:00,396 --> 00:08:03,399
+<i>Ve size gösteremeyeceğim
+diğer şeylerden bazıları.</i>
+
+111
+00:08:03,399 --> 00:08:05,693
+<i>Kız kardeşimi ziyaret ederken.</i>
+
+112
+00:08:06,777 --> 00:08:08,779
+<i>Annemle kurabiye yaparken.</i>
+
+113
+00:08:11,866 --> 00:08:14,285
+<i>Babamla kahvaltı
+sohbetleri.</i>
+
+114
+00:08:15,995 --> 00:08:17,788
+<i>İşte görebileceğiniz şeyler.</i>
+
+115
+00:08:18,164 --> 00:08:19,790
+<i>Kaka yaparken.</i>
+
+116
+00:08:20,666 --> 00:08:23,878
+<i>Üniversiteye gitme hayalleri kurarken.</i>
+
+117
+00:08:24,170 --> 00:08:26,464
+<i>Okul sonrası,
+kız arkadaşımla çalışırken.</i>
+
+118
+00:08:26,589 --> 00:08:29,467
+- Seni çok seviyorum.
+- Ben de seni.
+
+119
+00:08:30,468 --> 00:08:33,304
+En sevdiğim Deniz Piyade
+tişörtümü hediye ederken.
+
+120
+00:08:33,596 --> 00:08:35,097
+Sana her gün yazacağım.
+
+121
+00:08:35,181 --> 00:08:36,599
+Hey!
+
+122
+00:08:38,392 --> 00:08:39,393
+Swofford?
+
+123
+00:08:43,773 --> 00:08:45,274
+- Swofford?
+- Evet?
+
+124
+00:08:48,402 --> 00:08:50,488
+Ne iş?
+Hasta mısın?
+
+125
+00:08:51,489 --> 00:08:54,283
+Yok, midem biraz kötü
+o kadar efendim.
+
+126
+00:08:54,367 --> 00:08:55,576
+Karargah Çavuşu Sykes.
+
+127
+00:08:55,701 --> 00:08:57,995
+Gözetleme ve hedef tespiti.
+GHT.
+
+128
+00:08:58,079 --> 00:09:00,581
+Duyduğuma göre seni
+altı kişi zor zaptetmiş.
+
+129
+00:09:00,665 --> 00:09:02,667
+Dosyana bakılırsa salak
+falan da değilsin.
+
+130
+00:09:02,792 --> 00:09:05,002
+Bu yüzden çakı gibi
+olsan iyi edersin...
+
+131
+00:09:05,086 --> 00:09:08,172
+...çünkü keşif nişancısı
+yapabilirler seni.
+
+132
+00:09:11,467 --> 00:09:13,094
+Bu da ne böyle?
+
+133
+00:09:15,179 --> 00:09:17,265
+<i>"Yabancı, Yazan: Camus."</i>
+
+134
+00:09:17,390 --> 00:09:19,892
+Bayağı ağır bir kitapmış.
+
+135
+00:09:19,892 --> 00:09:21,477
+<i>"Buna karşın Mary..."</i>
+
+136
+00:09:21,686 --> 00:09:23,896
+<i>"Ofise koşturduğumuzda..."</i>
+
+137
+00:09:24,480 --> 00:09:27,191
+Eğitim pazartesi başlıyor.
+Kıçını kaldırıp gelmeni öneririm.
+
+138
+00:09:27,275 --> 00:09:28,568
+Bu bir emir mi Çavuşum?
+
+139
+00:09:34,073 --> 00:09:35,867
+Müthiş bir fırsat.
+
+140
+00:09:36,367 --> 00:09:37,869
+Müthiş bir şeref.
+
+141
+00:09:38,494 --> 00:09:40,788
+Deniz Kuvvetlerindeki
+en müthiş görev.
+
+142
+00:09:41,664 --> 00:09:43,374
+Kulağa hoş geliyor Çavuşum.
+
+143
+00:09:45,001 --> 00:09:47,503
+Kulağa hoş geliyor Çavuşum!
+
+144
+00:09:47,879 --> 00:09:49,088
+Kitabımı...
+
+145
+00:09:49,172 --> 00:09:51,465
+Aslında,
+daha iyi bir fikrim var.
+
+146
+00:09:52,300 --> 00:09:53,384
+Çaldığın bir enstrüman var mı?
+
+147
+00:09:54,385 --> 00:09:56,387
+Üçüncü sınıfta trompet çalardım.
+
+148
+00:09:56,387 --> 00:09:57,972
+Trompet, ha?
+Güzeel!
+
+149
+00:09:58,097 --> 00:09:59,182
+Hala çalar mısın?
+
+150
+00:09:59,265 --> 00:10:01,392
+Az çok. Küçük bayram konserleri
+ve festivallerde.
+
+151
+00:10:01,475 --> 00:10:03,102
+Güzeel!
+Chuck Magione beklemiyoruz.
+
+152
+00:10:03,186 --> 00:10:04,187
+Tek beklediğimiz bir borazancı.
+
+153
+00:10:04,270 --> 00:10:06,105
+Yat ve Kalk borularını
+çalacak,
+
+154
+00:10:06,189 --> 00:10:08,482
+...moral verecek biri.
+İlgini çeker mi?
+
+155
+00:10:08,566 --> 00:10:09,567
+Elbette.
+
+156
+00:10:09,692 --> 00:10:11,485
+Güzeel!
+Geçit alanı, 06:00.
+
+157
+00:10:11,903 --> 00:10:13,279
+Sağ olun Çavuşum!
+
+158
+00:10:13,404 --> 00:10:14,405
+Zevkti.
+
+159
+00:10:14,488 --> 00:10:15,573
+Kitabım?
+
+160
+00:10:18,576 --> 00:10:20,494
+Burada 60 kişisiniz.
+Bana sadece 8 kişi lazım.
+
+161
+00:10:20,578 --> 00:10:23,581
+Yani 52'niz telef olacak.
+İyi hesaplayın.
+
+162
+00:10:23,581 --> 00:10:26,584
+Hepinizin başarması mümkün değil.
+
+163
+00:10:26,584 --> 00:10:29,378
+- Bir sike yaradığınızı düşünüyorsanız...
+- Karargah Çavuşu Sykes!
+
+164
+00:10:29,504 --> 00:10:31,881
+Er Swofford borazan
+sınavına hazırdır!
+
+165
+00:10:33,883 --> 00:10:35,468
+Esas duruş!
+
+166
+00:10:37,303 --> 00:10:39,805
+Genelde fazla sürpriz
+yapmam...
+
+167
+00:10:40,389 --> 00:10:43,768
+...ama bu sabah çok özel
+bir sürprizimiz var.
+
+168
+00:10:44,101 --> 00:10:47,480
+Er Swofford bize Kalk borusunu
+çalmak için burada.
+
+169
+00:10:49,398 --> 00:10:51,275
+Pekala Swofford.
+Kalk borusu!
+
+170
+00:10:52,193 --> 00:10:53,903
+Borum yok ki Çavuşum.
+
+171
+00:10:53,903 --> 00:10:55,780
+- Neyin yok neyin?
+- Borazanım.
+
+172
+00:10:55,905 --> 00:10:58,366
+Hayır, hayır.
+Kahretsin!
+
+173
+00:10:59,075 --> 00:11:00,284
+Ağzınla çalmalısın.
+
+174
+00:11:03,079 --> 00:11:04,205
+Ne?
+
+175
+00:11:04,288 --> 00:11:06,499
+Allahın belası ağzınla
+çal dedim!
+
+176
+00:11:16,968 --> 00:11:18,094
+Lanet olsun!
+
+177
+00:11:25,893 --> 00:11:28,771
+Melodi harika. Bence gayet iyi.
+Moralim yerine geldi!
+
+178
+00:11:28,896 --> 00:11:30,189
+Stevie Wonder bilir misin?
+
+179
+00:11:30,189 --> 00:11:32,483
+"Sen Hayatımın Günışığısın" falan.
+
+180
+00:11:32,567 --> 00:11:34,277
+- Evet Çavuşum.
+- Güzeel! Tam bir klasiktir.
+
+181
+00:11:49,792 --> 00:11:53,588
+Şu amcık ağzını kapatacak mısın?
+Boru yayını yapmıyoruz!
+
+182
+00:11:54,088 --> 00:11:55,798
+Seni çatlak sesli serseri!
+
+183
+00:11:55,882 --> 00:11:58,384
+Kenny G falan mı sandın kendini?
+
+184
+00:11:58,384 --> 00:11:59,677
+- Hayır Çavuşum.
+- Güzeel!
+
+185
+00:11:59,802 --> 00:12:02,096
+Size gelince!
+Tanrı'nın zalim krallığındaki...
+
+186
+00:12:02,180 --> 00:12:04,599
+...en ahlaksız, en zalim,
+en vahşi pislik...
+
+187
+00:12:04,682 --> 00:12:07,685
+...olabilecek misiniz?
+
+188
+00:12:07,685 --> 00:12:08,895
+Evet Çavuşum!
+
+189
+00:12:08,895 --> 00:12:10,771
+Bir gün, "İşte! Ölüm vadisinde..."
+
+190
+00:12:10,897 --> 00:12:13,399
+"...yürüyorum ve
+şeytandan korkmuyorum..."
+
+191
+00:12:13,482 --> 00:12:16,903
+"...çünkü Allah'ın belası vadideki
+en rezil pislik benim!" diyecek misiniz?
+
+192
+00:12:16,986 --> 00:12:18,279
+Evet Çavuşum!
+
+193
+00:12:18,404 --> 00:12:20,198
+Göreceğiz bunu!
+
+194
+00:12:20,406 --> 00:12:22,491
+- Hala orada mısın?
+- Evet Çavuşum!
+
+195
+00:12:22,867 --> 00:12:24,368
+Evet, ne?
+
+196
+00:12:26,287 --> 00:12:28,581
+Evet, hala buradayım Çavuşum.
+
+197
+00:12:30,291 --> 00:12:32,293
+Öyle olsun varsın.
+Safta toplan!
+
+198
+00:12:32,293 --> 00:12:33,794
+Bir mil!
+
+199
+00:12:34,378 --> 00:12:35,379
+Vız gelir!
+
+200
+00:12:35,505 --> 00:12:36,589
+İki mil!
+
+201
+00:12:36,672 --> 00:12:38,007
+Göreviniz beni öldürmek.
+
+202
+00:12:38,090 --> 00:12:40,885
+Benim görevimse sizi öldürmek
+ve bunda üstüme yoktur.
+
+203
+00:12:40,968 --> 00:12:43,095
+O talim mermileri acıtır mı?
+
+204
+00:12:44,972 --> 00:12:48,100
+Siktir! Göremiyorum!
+
+205
+00:12:48,184 --> 00:12:49,977
+Birliğine dön, sikkafa!
+
+206
+00:12:50,102 --> 00:12:51,687
+Düşmana yaklaşmak için...
+
+207
+00:12:51,771 --> 00:12:54,690
+...onu görebilmeli fakat ona
+görünmemelisiniz.
+
+208
+00:12:54,690 --> 00:12:55,900
+Shevitz.
+
+209
+00:12:58,694 --> 00:13:02,073
+Gülün, öldünüz.
+Burnunuzu kaşıyın, öldünüz.
+
+210
+00:13:02,073 --> 00:13:04,283
+İşemek için kımıldayın,
+öldünüz.
+
+211
+00:13:04,283 --> 00:13:05,868
+İşeyecekseniz pantolonunuza
+yapın.
+
+212
+00:13:07,078 --> 00:13:08,579
+Hala cici geliyor mu Swoff?
+
+213
+00:13:08,788 --> 00:13:09,872
+Hayır efendim.
+
+214
+00:13:09,872 --> 00:13:13,084
+Bu elbise sizi gizleyecek.
+Ağaç olacaksınız ya da bir kaya.
+
+215
+00:13:13,084 --> 00:13:15,670
+Çamur, kum ve toz.
+
+216
+00:13:15,795 --> 00:13:17,380
+- Hala komik mi?
+- Hayır efendim.
+
+217
+00:13:17,505 --> 00:13:18,881
+İsabetli atış yapmak için...
+
+218
+00:13:19,006 --> 00:13:21,801
+...mesafe ve rüzgar istikametini
+hesaba katmalısınız.
+
+219
+00:13:22,468 --> 00:13:23,886
+Ağaçlar ne kadar uzakta?
+
+220
+00:13:23,886 --> 00:13:25,096
+460 metre.
+
+221
+00:13:25,179 --> 00:13:26,180
+- 550.
+- 275.
+
+222
+00:13:26,305 --> 00:13:29,392
+- Nasıl tahmin ettin?
+- Üç futbol sahası.
+
+223
+00:13:29,475 --> 00:13:30,893
+Doğru şeyi yaptın.
+
+224
+00:13:30,893 --> 00:13:32,770
+Bildiğiniz bir şeyi alın
+ve çarpın.
+
+225
+00:13:32,895 --> 00:13:34,105
+Çükünüzü kullanayım demeyin.
+
+226
+00:13:34,188 --> 00:13:36,107
+Çok küçük gelirler.
+Bunu hesaplayamam.
+
+227
+00:13:36,107 --> 00:13:38,401
+1,000,000 cm falan
+demeyin bana!
+
+228
+00:13:38,776 --> 00:13:40,695
+Gelelim rüzgara.
+Ne varsa kullanın.
+
+229
+00:13:40,695 --> 00:13:43,281
+Flama, gökyüzündeki bir duman
+ya da toz.
+
+230
+00:13:43,281 --> 00:13:45,074
+Parmağınızı tükürükleyip
+kaldırın kaltağı.
+
+231
+00:13:45,491 --> 00:13:47,285
+Bu formüllerden faydalanabilirsiniz...
+
+232
+00:13:47,368 --> 00:13:49,704
+...ama neticede, içinizden gelen sese
+güvenmek zorundasınız.
+
+233
+00:13:49,704 --> 00:13:50,872
+Ayrıntılar beyler.
+
+234
+00:13:50,872 --> 00:13:53,875
+Sizin düşmanınızı mı, yoksa
+düşmanınızın sizi mi öldüreceğine...
+
+235
+00:13:54,000 --> 00:13:55,501
+...ayrıntılar karar verecek.
+
+236
+00:13:55,501 --> 00:13:59,005
+Hepimize öğretmişlerdir,
+"Sen öldüremezsin!"
+
+237
+00:13:59,380 --> 00:14:00,798
+Şimdi iyi dinleyin:
+
+238
+00:14:01,174 --> 00:14:03,801
+Boş verin bu saçmalığı!
+
+239
+00:14:04,385 --> 00:14:06,971
+Şimdi kafanızı hedefinize verin.
+
+240
+00:14:08,181 --> 00:14:11,475
+Şanslıysanız, bir gün o çerçevede...
+
+241
+00:14:11,601 --> 00:14:12,977
+...düşmanınız belirecek.
+
+242
+00:14:13,394 --> 00:14:15,104
+Kennedy atışı!
+
+243
+00:14:15,980 --> 00:14:17,398
+Pembe duman.
+
+244
+00:14:17,481 --> 00:14:19,609
+Ateş, ateş, ateş.
+
+245
+00:14:22,195 --> 00:14:23,196
+İsabet.
+
+246
+00:14:26,991 --> 00:14:29,785
+Ateş, ateş, ateş.
+
+247
+00:14:30,995 --> 00:14:33,873
+Duyduğunuz sesler
+gerçek atımlardan.
+
+248
+00:14:33,998 --> 00:14:36,709
+Korkuyu içinizden atacaksınız.
+İlerleyin!
+
+249
+00:14:36,792 --> 00:14:39,295
+Kafanızı kaldırırsanız,
+siki tutarsınız!
+
+250
+00:14:39,378 --> 00:14:41,506
+Bakalım aranızda kancık var mı!
+
+251
+00:14:41,589 --> 00:14:44,675
+Morukların düzüştüğü
+gibi sürünüyorsunuz!
+
+252
+00:14:46,677 --> 00:14:48,888
+İlerleyin!
+Korkuyu içinizden atın!
+
+253
+00:14:48,971 --> 00:14:51,974
+İlerleyin!
+Bir araya toplanmak yok!
+
+254
+00:14:52,099 --> 00:14:53,392
+- Devam edin!
+- Yapamayacağım!
+
+255
+00:14:53,476 --> 00:14:54,685
+Başını indir!
+
+256
+00:14:54,685 --> 00:14:57,188
+Haydi dostum!
+
+257
+00:14:57,271 --> 00:14:59,690
+Yürüsene be adam!
+
+258
+00:14:59,899 --> 00:15:00,983
+Hadisene!
+
+259
+00:15:01,108 --> 00:15:02,902
+Bir araya toplanmak yok!
+
+260
+00:15:02,985 --> 00:15:04,487
+Başarabilirsin!
+
+261
+00:15:04,570 --> 00:15:07,073
+Öyle bir yaparsın ki!
+
+262
+00:15:07,198 --> 00:15:09,992
+Devam edin!
+
+263
+00:15:09,992 --> 00:15:11,786
+Yapamıyorum!
+
+264
+00:15:13,788 --> 00:15:16,207
+Ateş kes!
+
+265
+00:15:16,207 --> 00:15:17,208
+Sıhhiye!
+
+266
+00:15:21,170 --> 00:15:22,296
+Kahretsin!
+
+267
+00:15:32,098 --> 00:15:33,891
+Kafanı indir demedim mi sana!
+
+268
+00:15:33,975 --> 00:15:35,101
+Dediğimi yapsaydın...
+
+269
+00:15:35,184 --> 00:15:37,103
+...şimdi hayattaydın!
+
+270
+00:15:37,186 --> 00:15:38,271
+Aptal herif!
+
+271
+00:15:47,989 --> 00:15:48,990
+Tanrı yardımcım olsun.
+
+272
+00:15:50,074 --> 00:15:51,784
+Şu andan itibaren
+keşif nişancılarısınız.
+
+273
+00:15:52,076 --> 00:15:54,996
+Mutlaka duymuşsunuzdur,
+ama bir kez daha söyleyeceğim:
+
+274
+00:15:54,996 --> 00:15:58,082
+Pusu nişancıları yalnız iş görmez.
+
+275
+00:15:58,708 --> 00:16:00,209
+Bir takımsınız.
+
+276
+00:16:02,503 --> 00:16:04,505
+Gözetleyici, avcı.
+
+277
+00:16:04,881 --> 00:16:06,883
+Gözetleyici, avcı.
+
+278
+00:16:07,383 --> 00:16:09,302
+Gözetleyici, avcı.
+
+279
+00:16:10,094 --> 00:16:11,679
+Gözetleyici, avcı.
+
+280
+00:16:12,972 --> 00:16:16,893
+Artık çantanızı açıp,
+M40A1 tüfeklerinizi çıkartabilirsiniz.
+
+281
+00:16:22,273 --> 00:16:25,276
+Şimdi benden sonra tekrar edin.
+
+282
+00:16:25,902 --> 00:16:29,906
+- Bu benim tüfeğim.
+- Bu benim tüfeğim.
+
+283
+00:16:30,406 --> 00:16:33,409
+Bir sürü tüfek var,
+ama bu tüfek benim.
+
+284
+00:16:33,910 --> 00:16:36,704
+Bir sürü tüfek var,
+ama bu tüfek benim.
+
+285
+00:16:36,871 --> 00:16:38,998
+Tüfeğim olmazsa ben bir hiçim.
+
+286
+00:16:39,373 --> 00:16:41,501
+Tüfeğim olmazsa ben bir hiçim.
+
+287
+00:16:42,084 --> 00:16:44,795
+Ben olmazsam tüfeğim bir hiçtir.
+
+288
+00:16:45,171 --> 00:16:47,798
+Ben olmazsam tüfeğim bir hiçtir.
+
+289
+00:16:48,883 --> 00:16:52,678
+<i>Bir er 15,000 acemice
+atış için canını feda eder.</i>
+
+290
+00:16:53,971 --> 00:16:55,389
+Çok doğru.
+
+291
+00:16:55,473 --> 00:16:57,183
+<i>Nişancı ise...</i>
+
+292
+00:16:57,308 --> 00:17:01,187
+<i>...tek bir mükemmel atış için
+canını feda eder.</i>
+
+293
+00:17:03,397 --> 00:17:04,482
+İsabet.
+
+294
+00:17:06,776 --> 00:17:10,279
+Ateş, ateş, ateş.
+
+295
+00:17:10,488 --> 00:17:11,781
+<i>Büyülenmiştim!</i>
+
+296
+00:17:12,907 --> 00:17:13,991
+İsabet.
+
+297
+00:17:16,077 --> 00:17:18,996
+Ateş, ateş, ateş.
+
+298
+00:17:19,789 --> 00:17:20,790
+İsabet.
+
+299
+00:17:25,086 --> 00:17:28,005
+Ateş, ateş, ateş.
+
+300
+00:17:29,173 --> 00:17:30,383
+İsabet.
+
+301
+00:17:31,801 --> 00:17:33,803
+<i>Pembe dumanı istiyordum!</i>
+
+302
+00:17:37,390 --> 00:17:39,892
+<i>İyi akşamlar.
+Irak, komşusu Kuveyt'i...</i>
+
+303
+00:17:39,976 --> 00:17:41,686
+<i>...işgal edip, yönetimi ele aldı.</i>
+
+304
+00:17:41,686 --> 00:17:44,981
+<i>Dünyanın her tarafındaki protestolar
+ve Amerika, İngiltere...</i>
+
+305
+00:17:45,106 --> 00:17:47,775
+<i>...ve Sovyetler Birliği'nin yaptırımları
+da beraberinde geldi.</i>
+
+306
+00:17:47,900 --> 00:17:50,194
+<i>Saddam Hüseyin'in dikta rejimi...</i>
+
+307
+00:17:50,278 --> 00:17:53,197
+<i>...işgalin, Kuveyt hükümetini
+deviren...</i>
+
+308
+00:17:53,197 --> 00:17:55,283
+<i>...ihtilalcilerin isteğiyle gerçekleştiğini
+iddia etti.</i>
+
+309
+00:17:55,408 --> 00:17:57,994
+<i>Amerika dahil bütün dostlarımızı...</i>
+
+310
+00:17:59,370 --> 00:18:01,289
+<i>...bize yardım etmeye...</i>
+
+311
+00:18:02,874 --> 00:18:05,585
+<i>...çağırdık.</i>
+
+312
+00:18:13,009 --> 00:18:14,802
+Kahrolası savaşa gidiyoruz!
+
+313
+00:18:51,380 --> 00:18:52,882
+Vurun şu pisliği!
+
+314
+00:19:21,702 --> 00:19:23,496
+Durma, kaç orospu çocuğu!
+
+315
+00:19:25,581 --> 00:19:26,707
+Siktir!
+
+316
+00:19:29,794 --> 00:19:31,796
+Vur şu orospu çocuğunu!
+
+317
+00:19:33,089 --> 00:19:34,298
+Geber!
+
+318
+00:19:41,180 --> 00:19:42,807
+<i>Koş oğlum Charlie!</i>
+
+319
+00:19:46,686 --> 00:19:49,689
+<i>Herkesin dikkatine!
+Herkesin dikkatine!</i>
+
+320
+00:19:49,772 --> 00:19:51,899
+<i>2-7 personeli...</i>
+
+321
+00:19:51,899 --> 00:19:55,278
+<i>...derhal bölük mıntıkasına!</i>
+
+322
+00:19:55,486 --> 00:19:58,990
+<i>Gösterin onlara Piyadeler!
+Gösterin onlara!</i>
+
+323
+00:20:13,588 --> 00:20:15,298
+Benimse, seçme şansım vardı;
+
+324
+00:20:15,298 --> 00:20:17,592
+...Piyadelere katılmak ya da
+hapse girmek.
+
+325
+00:20:17,800 --> 00:20:19,385
+Boktan tarafı da ne biliyor musun?
+
+326
+00:20:19,510 --> 00:20:22,388
+- Evet, hapse girersen...
+- Esprinin içine etme hıyar.
+
+327
+00:20:22,471 --> 00:20:25,308
+Hapse girmiş olsaydım,
+bugün serbest kalıyordum.
+
+328
+00:20:26,684 --> 00:20:28,895
+- Fındık ister misiniz?
+- Yok almayayım.
+
+329
+00:20:28,978 --> 00:20:31,480
+Sıcak mı peki?
+
+330
+00:20:31,606 --> 00:20:34,400
+Sanıyorum oda sıcaklığındalar.
+
+331
+00:20:34,901 --> 00:20:38,279
+Belki sonra ziyaretime gelip
+benim fındıkları da ısıtırsınız.
+
+332
+00:20:38,613 --> 00:20:40,781
+Ufakları ilgimi çekmiyor.
+
+333
+00:20:42,492 --> 00:20:44,702
+Başka bir şey var mı?
+
+334
+00:20:44,911 --> 00:20:46,913
+Fındık ister misiniz?
+
+335
+00:20:47,288 --> 00:20:48,372
+Zavallı piç.
+
+336
+00:20:48,498 --> 00:20:51,209
+Eminim seni askere alan memur,
+sana amcık sözü vermiştir.
+
+337
+00:20:51,209 --> 00:20:52,293
+Tam puan.
+
+338
+00:20:52,376 --> 00:20:55,213
+Olangapo'dan Stokholm'a kadar
+tüm fahişelerin fiyatını bilir şerefsiz.
+
+339
+00:20:55,296 --> 00:20:57,882
+Şimdiyse, tek fahişe bulunmayan
+çöle doğru ilerliyoruz.
+
+340
+00:20:58,007 --> 00:20:59,592
+Hepsi de aletimce düzülmüş.
+
+341
+00:21:01,511 --> 00:21:04,180
+Sivilde olsan ne yapardın?
+
+342
+00:21:04,180 --> 00:21:05,890
+Uykusuz geceler,
+otuzbir,
+
+343
+00:21:05,973 --> 00:21:08,392
+...Metroid oynayıp dokuzuncu
+bölüme gelmeye çalışmak?
+
+344
+00:21:08,476 --> 00:21:11,604
+Oraya ulaşınca olacakları
+biliyor musunuz?
+
+345
+00:21:12,813 --> 00:21:15,608
+Hiçbir şey.
+Yine aynı şeyler olacak.
+
+346
+00:21:16,776 --> 00:21:19,111
+Sence ne kadar kalırız?
+İki hafta?
+
+347
+00:21:19,904 --> 00:21:21,781
+Çok daha az.
+Döndüğümüzde...
+
+348
+00:21:21,906 --> 00:21:23,908
+...kıçımızdan hala bu fındıklar
+çıkıyor olacak.
+
+349
+00:21:23,991 --> 00:21:26,202
+İyi şanslar.
+Hoşça kalın.
+
+350
+00:21:26,911 --> 00:21:29,288
+İyi şanslar.
+Hoşça kalın.
+
+351
+00:21:29,497 --> 00:21:31,499
+Bana iki hafta arkadaşlık
+etmeye ne dersin?
+
+352
+00:21:31,582 --> 00:21:32,583
+Hoşça kalın.
+
+353
+00:21:32,708 --> 00:21:34,877
+- Neler kaçırdığını bir bilsen!
+- Tabi tabi!
+
+354
+00:21:35,878 --> 00:21:37,088
+Vay canına!
+
+355
+00:22:01,195 --> 00:22:05,074
+ÇÖLDE GEÇİRİLEN ZAMAN: 14 DAKİKA
+
+356
+00:22:08,494 --> 00:22:11,914
+ASKER SAYISI: 5,000
+
+357
+00:22:25,803 --> 00:22:27,513
+Dikkat!
+
+358
+00:22:31,809 --> 00:22:33,394
+Oturun.
+
+359
+00:22:37,607 --> 00:22:40,610
+- İyi günler Piyadeler.
+- İyi günler efendim.
+
+360
+00:22:40,693 --> 00:22:43,779
+Tanrım, savaş alanında mısınız
+yoksa cenaze evinde mi?
+
+361
+00:22:43,905 --> 00:22:46,574
+- İyi günler Piyadeler!
+- İyi günler efendim!
+
+362
+00:22:47,200 --> 00:22:48,910
+Şeyim kalkıyor sanki!
+
+363
+00:22:50,411 --> 00:22:52,413
+Beni tanımayanlarınız varsa...
+
+364
+00:22:52,497 --> 00:22:55,791
+Ben tabur komutanınız
+Yarbay Kazinski.
+
+365
+00:22:56,083 --> 00:22:58,794
+Şu andan itibaren Çöl Kalkanı
+Operasyonunun parçasıyız.
+
+366
+00:22:59,795 --> 00:23:01,214
+Ve hemen kuzeyimizde...
+
+367
+00:23:01,297 --> 00:23:04,884
+...Saddam Hüseyin'in bir milyon
+askeri var.
+
+368
+00:23:05,593 --> 00:23:07,678
+Ve bu çocuklar savaşmaya
+başladığında...
+
+369
+00:23:07,678 --> 00:23:10,181
+...siz daha 10 yaşındaydınız.
+
+370
+00:23:10,181 --> 00:23:11,599
+Dayanıklılar.
+
+371
+00:23:11,599 --> 00:23:13,392
+Hiçbir şeyden çekinmezler.
+
+372
+00:23:14,185 --> 00:23:17,396
+İranlılara ve Kürtlere karşı
+sinir gazı kullandılar.
+
+373
+00:23:18,314 --> 00:23:19,774
+İşte resmi.
+
+374
+00:23:27,198 --> 00:23:28,908
+Aklınızdan geçenleri biliyorum.
+
+375
+00:23:28,991 --> 00:23:31,577
+Aklınızdan;
+"Basalım tekmeyi, alalım ifadelerini."
+
+376
+00:23:31,577 --> 00:23:34,413
+"Ve yarından tezi yok, bu pisliğe
+son verelim" diye geçiriyorsunuz.
+
+377
+00:23:34,413 --> 00:23:35,498
+Doğrudur!
+
+378
+00:23:35,581 --> 00:23:38,876
+Ama bürokratlar şu anda
+baskı yapmakla meşguller.
+
+379
+00:23:39,794 --> 00:23:43,005
+Bu yüzden zavallı Kuveyt'i
+talan eden...
+
+380
+00:23:43,089 --> 00:23:46,300
+...Iraklılar şimdilik nişangahımızda
+değil!
+
+381
+00:23:48,302 --> 00:23:51,889
+Şu anki görevimiz,
+Suudi Krallığındaki dostlarımızın...
+
+382
+00:23:52,098 --> 00:23:54,308
+...petrol sahalarını...
+
+383
+00:23:54,308 --> 00:23:56,185
+...gelecek bir emre kadar korumak.
+
+384
+00:23:56,310 --> 00:23:59,605
+Beyler, burada sözünü
+ettiğim şey, yüklü miktarda petrol.
+
+385
+00:24:01,315 --> 00:24:02,692
+Çok yüklü miktarda.
+
+386
+00:24:03,609 --> 00:24:06,612
+Su içeceksiniz,
+eğitim göreceksiniz...
+
+387
+00:24:06,988 --> 00:24:10,491
+...çöle uyum sağlayacak
+ve biraz daha su içeceksiniz.
+
+388
+00:24:10,783 --> 00:24:12,285
+Ve hazır olacaksınız.
+
+389
+00:24:12,910 --> 00:24:16,998
+Sürekli olarak şüpheci bir
+tetiktelik vaziyetinde olacaksınız!
+
+390
+00:24:17,206 --> 00:24:18,875
+Ve yakın bir zamanda...
+
+391
+00:24:19,000 --> 00:24:22,378
+...Saddam Hüseyin bu boku
+yediğine pişman olacak!
+
+392
+00:24:23,796 --> 00:24:25,798
+Iraklıların kıçına
+tekmeyi basacağız!
+
+393
+00:24:27,091 --> 00:24:28,509
+Ne dedin?
+
+394
+00:24:28,801 --> 00:24:30,803
+Iraklıların kıçına tekmeyi
+basacağız efendim!
+
+395
+00:24:30,887 --> 00:24:32,096
+Kahretsin evlat!
+
+396
+00:24:32,180 --> 00:24:34,599
+Ne yani, şeref madalyasını
+tek başına mı kazanacaksın?
+
+397
+00:24:34,682 --> 00:24:36,601
+Taburumun geri kalan kısmı
+ne yapacak?
+
+398
+00:24:36,684 --> 00:24:38,311
+Iraklıların kıçına tekmeyi basacak!
+
+399
+00:24:38,394 --> 00:24:40,479
+Belki de, emekliliğimin
+zamanı geldi.
+
+400
+00:24:40,605 --> 00:24:42,815
+Bir bok duyamıyorum!
+
+401
+00:24:42,982 --> 00:24:44,692
+Iraklıların kıçına tekmeyi basacak!
+
+402
+00:24:44,692 --> 00:24:47,486
+Ah çocuklar,
+işte şimdi kalktı!
+
+403
+00:25:09,175 --> 00:25:12,178
+Dostum, bu savunma mevzii
+hikayesi sıktı artık ya!
+
+404
+00:25:12,303 --> 00:25:14,013
+Bu pislik yuvasından bir an
+önce kurtulmalıyız.
+
+405
+00:25:14,013 --> 00:25:15,389
+Bir şeyler vurmalıyım!
+
+406
+00:25:15,515 --> 00:25:17,683
+Yakında istediğin olacak.
+
+407
+00:25:17,808 --> 00:25:19,393
+Savaşmaya az kaldı!
+
+408
+00:25:20,102 --> 00:25:22,313
+Tamam da ne uğruna?
+
+409
+00:25:23,314 --> 00:25:26,275
+Hayatım boyunca bu sütten
+çıkmış ak pisliklerle beraberdim.
+
+410
+00:25:26,400 --> 00:25:28,486
+Koca elleriyle Arap petrolüne
+yapışmışlar.
+
+411
+00:25:28,611 --> 00:25:30,696
+Pislik herifler su gibi
+dikiyorlar kafaya.
+
+412
+00:25:30,780 --> 00:25:32,698
+Heriflerin çıkarları için
+buradayız.
+
+413
+00:25:32,782 --> 00:25:35,284
+Siktir oradan!
+Herifin hayatı saçmalık!
+
+414
+00:25:35,409 --> 00:25:38,287
+Saddam'a onca silahı
+kim verdi sanıyorsun?
+
+415
+00:25:38,913 --> 00:25:39,914
+Biz verdik!
+
+416
+00:25:39,997 --> 00:25:42,875
+Politikayı siktiret.
+Şimdi buradayız.
+
+417
+00:25:43,292 --> 00:25:45,002
+Gerisi hikaye.
+
+418
+00:26:15,199 --> 00:26:17,201
+Senden başka herkes
+yerleşiyor dostum.
+
+419
+00:26:17,994 --> 00:26:19,495
+Dinleniyorum.
+
+420
+00:26:21,789 --> 00:26:22,999
+Neler var?
+
+421
+00:26:23,499 --> 00:26:24,500
+Resimler.
+
+422
+00:26:24,584 --> 00:26:27,086
+- Taş gibi. Seninki mi?
+- Evet dostum.
+
+423
+00:26:27,712 --> 00:26:29,380
+Ayağına kurşun sıkıp...
+
+424
+00:26:29,380 --> 00:26:31,090
+...eve dönüş biletini alsan
+iyi olur...
+
+425
+00:26:31,215 --> 00:26:33,384
+...zira asker kaçakları
+her yanını elleyecek!
+
+426
+00:26:33,384 --> 00:26:35,678
+Vay canına be!
+Hayvan gibi ha?
+
+427
+00:26:35,803 --> 00:26:37,180
+Onu rahat bırakmazlar!
+
+428
+00:26:37,305 --> 00:26:39,307
+Beyaz bir hatun için
+iyiymiş dostum.
+
+429
+00:26:39,390 --> 00:26:40,516
+Haydi.
+
+430
+00:26:40,516 --> 00:26:42,894
+Sırf geldiği yeri görmek
+için bir galon çişini içerdim!
+
+431
+00:26:42,977 --> 00:26:44,187
+Yeter bu kadar.
+
+432
+00:26:44,312 --> 00:26:45,605
+Çok seksi bir poz.
+
+433
+00:26:45,688 --> 00:26:48,107
+Bu pornoya yakın.
+Bir de ona bakayım.
+
+434
+00:26:48,191 --> 00:26:49,692
+Şu kukunun güzelliğine bakın.
+
+435
+00:26:50,109 --> 00:26:51,777
+Hayal görmeye devam edin beyler.
+
+436
+00:26:51,903 --> 00:26:55,114
+Zihnime yazdım dostum.
+
+437
+00:26:55,281 --> 00:26:57,909
+Abaza sersemler güzel bir kadın
+görmek istiyor mu?
+
+438
+00:26:57,909 --> 00:26:59,577
+İsteriz!
+
+439
+00:26:59,577 --> 00:27:01,412
+- Dalgayı bırak!
+- Gözleriniz bayram etsin.
+
+440
+00:27:01,412 --> 00:27:03,289
+- İşte!
+- Göstersene!
+
+441
+00:27:04,499 --> 00:27:06,792
+Hayır, sakın!
+Bana aşık olma!
+
+442
+00:27:06,918 --> 00:27:09,504
+O resmi çektirmeden önce
+kaç pizza götürdü?
+
+443
+00:27:11,881 --> 00:27:13,716
+Hamile işte dostum.
+
+444
+00:27:16,594 --> 00:27:18,304
+İşte bu yüzden bu kadar güzel.
+
+445
+00:27:18,387 --> 00:27:20,181
+Tüm mesele bu işte.
+
+446
+00:27:20,306 --> 00:27:22,016
+Canınız cehenneme!
+
+447
+00:27:22,099 --> 00:27:23,100
+Evli erkekler.
+
+448
+00:27:23,184 --> 00:27:26,604
+İnanın bana, evli erkeklerin
+beyin hücreleri bin kat hızlı ölüyor.
+
+449
+00:27:26,687 --> 00:27:28,314
+Kolordu karınız olsun
+isteseydi...
+
+450
+00:27:28,397 --> 00:27:29,607
+...dağıtımda birer tane yollardı.
+
+451
+00:27:29,690 --> 00:27:31,984
+Evet, asıl sana yollarlardı.
+
+452
+00:27:34,612 --> 00:27:36,405
+Aile resmi yok mu Swofford?
+
+453
+00:27:38,491 --> 00:27:40,993
+- Resimlerine bakabilir miyim?
+- Elbette dostum.
+
+454
+00:27:41,077 --> 00:27:42,203
+Teşekkürler.
+
+455
+00:27:43,996 --> 00:27:44,997
+Fergus'tu, değil mi?
+
+456
+00:27:45,289 --> 00:27:46,290
+Evet.
+
+457
+00:27:49,585 --> 00:27:50,711
+Üstündekiler kendinin mi?
+
+458
+00:27:53,089 --> 00:27:55,883
+Gayet sıcak bir ortam ha?
+Yerleştiniz mi?
+
+459
+00:27:56,008 --> 00:27:57,385
+Evet Çavuşum!
+
+460
+00:27:57,385 --> 00:28:00,596
+Eğer çok meşgul değilseniz...
+Gaz alarmı!
+
+461
+00:28:00,596 --> 00:28:03,099
+Hemen! Alarm diyorum size!
+Kaldırın kıçınızı!
+
+462
+00:28:03,182 --> 00:28:04,809
+Haydi millet,
+ne yapıyorsunuz?
+
+463
+00:28:04,892 --> 00:28:06,310
+Hadi takın şunu!
+
+464
+00:28:06,394 --> 00:28:07,812
+Şimdiye aletiniz yere düşmüş,
+
+465
+00:28:07,812 --> 00:28:09,981
+...cildiniz balonlarla kaplanmıştı!
+Hızlı olun!
+
+466
+00:28:09,981 --> 00:28:12,191
+Sizi kepaze serseriler!
+"Sermeyin" demedim mi ben size!
+
+467
+00:28:12,191 --> 00:28:14,777
+Sermeyin demedim mi ha?
+Haydi!
+
+468
+00:28:14,902 --> 00:28:17,196
+Ne yapıyorsun?
+
+469
+00:28:17,196 --> 00:28:19,699
+O senin uyku tulumun salak!
+Hadisene!
+
+470
+00:28:19,782 --> 00:28:21,200
+30 saniye oldu!
+
+471
+00:28:21,701 --> 00:28:23,703
+Ne bok yiyorsun sen?
+Giysene hadi!
+
+472
+00:28:23,786 --> 00:28:25,496
+Hazırlıklı olsaydınız,
+hazırlanmanız gerekmezdi!
+
+473
+00:28:25,580 --> 00:28:29,000
+İğrenç serseriler, çok uyuşuksunuz!
+Tetikte olun demedim mi ben!
+
+474
+00:28:29,208 --> 00:28:32,211
+45 saniye!
+Ne yapıyorsun?
+
+475
+00:28:32,295 --> 00:28:34,088
+Kıçını oraya soksan iyi edersin!
+
+476
+00:28:34,213 --> 00:28:36,299
+Kıçına tekmeyi basacağım
+ilk serseri sen olacaksın!
+
+477
+00:28:36,299 --> 00:28:37,592
+- Giy haydi!
+- Elimden geleni yapıyorum!
+
+478
+00:28:37,592 --> 00:28:39,010
+Malzemelerimde hata var!
+
+479
+00:28:39,093 --> 00:28:41,888
+Geri zekalı herifler,
+hadisenize!
+
+480
+00:28:41,888 --> 00:28:45,183
+Durun! Hemen durun!
+
+481
+00:28:47,393 --> 00:28:48,603
+Luke.
+
+482
+00:28:49,187 --> 00:28:51,898
+Karanlık tarafa geç Luke.
+
+483
+00:28:51,981 --> 00:28:55,318
+55 saniye.
+Hepiniz öldünüz.
+
+484
+00:28:56,319 --> 00:28:57,486
+Hepiniz öldüğünüze göre...
+
+485
+00:28:57,612 --> 00:28:59,989
+...bu kıyafetler üstünüzdeyken
+biraz koşmaya hayır demezsiniz.
+
+486
+00:29:00,114 --> 00:29:01,115
+Haydi!
+
+487
+00:29:09,707 --> 00:29:11,209
+Swofford hızlanmazsan...
+
+488
+00:29:11,292 --> 00:29:13,419
+...lanet ayağına kurşunu
+basacağım! Kaldır kıçını!
+
+489
+00:29:14,212 --> 00:29:16,797
+<i>Ham petrolün fiyatı
+neredeyse ikiye katlanmıştı.</i>
+
+490
+00:29:16,881 --> 00:29:19,300
+<i>Başkan Bush daha fazla
+asker gönderiyor.</i>
+
+491
+00:29:21,010 --> 00:29:25,014
+<i>Bizse, günde altı defa
+sıraya geçiyoruz.</i>
+
+492
+00:29:25,014 --> 00:29:26,599
+Dikin kafaya.
+
+493
+00:29:26,682 --> 00:29:27,892
+<i>Ve su içiyoruz.</i>
+
+494
+00:29:28,017 --> 00:29:29,393
+Gösterin şimdi.
+
+495
+00:29:33,606 --> 00:29:35,483
+Bomboş çölde devriye atıyoruz.
+
+496
+00:29:35,483 --> 00:29:36,609
+Yere yat!
+
+497
+00:29:39,695 --> 00:29:41,197
+<i>Ve suyu dışarı atıyoruz.</i>
+
+498
+00:29:48,204 --> 00:29:49,580
+<i>Hiçliğin ortasına...</i>
+
+499
+00:29:50,915 --> 00:29:52,208
+<i>...el bombası atıyoruz.</i>
+
+500
+00:29:53,209 --> 00:29:55,878
+<i>Hayali mayın tarlalarından
+geçiyoruz.</i>
+
+501
+00:30:02,802 --> 00:30:05,680
+<i>Yokluğa ateş ediyoruz.</i>
+
+502
+00:30:07,682 --> 00:30:09,100
+<i>Ve biraz daha su içiyoruz.</i>
+
+503
+00:30:09,183 --> 00:30:11,686
+Ben tıka basa dolana kadar devam.
+
+504
+00:30:11,811 --> 00:30:13,688
+Aferin.
+Dikin kafaya.
+
+505
+00:30:14,313 --> 00:30:15,815
+Gösterin şimdi.
+
+506
+00:30:24,198 --> 00:30:26,993
+<i>Kuzeyi gözlüyoruz,
+sınır tarafını...</i>
+
+507
+00:30:28,202 --> 00:30:29,912
+<i>...ve onları bekliyoruz.</i>
+
+508
+00:30:30,496 --> 00:30:32,081
+<i>Emeğimiz bu.</i>
+
+509
+00:30:33,082 --> 00:30:34,208
+<i>Beklemek.</i>
+
+510
+00:30:34,584 --> 00:30:36,794
+Beyaz bir tane yakaladım!
+
+511
+00:30:38,004 --> 00:30:39,380
+Üstün ırk.
+
+512
+00:30:41,382 --> 00:30:44,010
+Şuna bakın.
+Çok güzel.
+
+513
+00:30:44,719 --> 00:30:47,680
+Chango'nun zulüm devri kapanmıştır!
+
+514
+00:30:49,515 --> 00:30:51,517
+Haydi!
+
+515
+00:30:52,101 --> 00:30:54,020
+İşin bitti kız kılıklı!
+
+516
+00:30:54,103 --> 00:30:55,605
+Chango, göster kendini!
+
+517
+00:30:55,688 --> 00:30:58,608
+Göster kendini Chango!
+
+518
+00:31:01,611 --> 00:31:04,489
+Dövüş neymiş göreceksin ufaklık!
+
+519
+00:31:08,284 --> 00:31:10,203
+Haydi beyazım!
+
+520
+00:31:11,996 --> 00:31:13,581
+Haydi!
+
+521
+00:31:18,794 --> 00:31:21,380
+Verin paramı orospu çocukları!
+
+522
+00:31:24,509 --> 00:31:26,886
+Demiştim size!
+
+523
+00:31:30,097 --> 00:31:32,391
+Yürü be Chango!
+
+524
+00:31:34,018 --> 00:31:40,691
+Chango! Chango! Chango!
+
+525
+00:31:54,997 --> 00:31:56,582
+Sıçtığımın şeyi!
+
+526
+00:32:12,682 --> 00:32:19,689
+ÇÖLDE GEÇİRİLEN ZAMAN:
+62 GÜN 19 SAAT 15 DAKİKA
+
+527
+00:32:23,484 --> 00:32:25,194
+ASKER SAYISI:
+115,000
+
+528
+00:32:25,194 --> 00:32:26,821
+<i>Can sıkıntısı ve yalnızlık
+hissine karşı...</i>
+
+529
+00:32:26,821 --> 00:32:29,490
+<i>...piyadeye önerilen
+yöntemler:</i>
+
+530
+00:32:30,283 --> 00:32:31,492
+<i>Mastürbasyon.</i>
+
+531
+00:32:32,910 --> 00:32:35,913
+<i>Sadakatsiz eş ve sevgililerden
+gelen mektupların tekrar okunması.</i>
+
+532
+00:32:37,415 --> 00:32:39,083
+<i>Tüfek temizliği.</i>
+
+533
+00:32:40,293 --> 00:32:42,295
+<i>Tekrar mastürbasyon.</i>
+
+534
+00:32:43,296 --> 00:32:45,381
+<i>Walkman kablolarının yenilenmesi.</i>
+
+535
+00:32:45,882 --> 00:32:48,885
+<i>Din ve hayatın anlamı hakkında
+tartışmak.</i>
+
+536
+00:32:50,094 --> 00:32:54,015
+<i>Piyadenin becermiş olduğu her
+kadından ayrıntılarıyla bahsetmek.</i>
+
+537
+00:32:55,016 --> 00:32:58,519
+<i>Farklılıkları çekiştirmek;
+Kübalıya karşı Meksikalı,</i>
+
+538
+00:32:59,020 --> 00:33:01,022
+<i>...Harley'e karşı Honda,</i>
+
+539
+00:33:01,189 --> 00:33:03,900
+<i>...sol elle yapılan mastürbasyon'a
+karşı sağ elle yapılan.</i>
+
+540
+00:33:05,610 --> 00:33:07,487
+<i>Tekrar tüfek temizliği.</i>
+
+541
+00:33:07,612 --> 00:33:10,615
+<i>Filipinli gelin sipariş
+katalogunu incelemek.</i>
+
+542
+00:33:11,199 --> 00:33:12,783
+<i>Tekrar mastürbasyon.</i>
+
+543
+00:33:13,201 --> 00:33:16,120
+<i>Eve dönüşte yenilecek
+ilk öğünün planlanması.</i>
+
+544
+00:33:17,288 --> 00:33:18,915
+<i>Piyadenin sevgilisinin...</i>
+
+545
+00:33:18,998 --> 00:33:21,292
+<i>...kaçakla yaptıkları;
+samanlıkta,</i>
+
+546
+00:33:22,293 --> 00:33:23,711
+<i>...ara sokakta...</i>
+
+547
+00:33:25,213 --> 00:33:26,797
+<i>...ya da otel odasında.</i>
+
+548
+00:33:29,091 --> 00:33:33,304
+UTANÇ DUVARI...
+NİŞANLIYDIK, ŞİMDİYSE KARDEŞİMLE ÇIKIYOR
+
+549
+00:33:33,304 --> 00:33:34,722
+- Senin kız yok mu orada?
+- Ne?
+
+550
+00:33:34,805 --> 00:33:36,015
+Git başımdan dostum!
+
+551
+00:33:36,098 --> 00:33:38,017
+Hiç merak etme.
+Tam orada olacak.
+
+552
+00:33:38,100 --> 00:33:40,895
+- Panoya güzellik katacak.
+- Tabi, eksik olma.
+
+553
+00:33:42,313 --> 00:33:45,691
+ONU SEVMİŞTİM...
+ÇOCUĞUMU ALIP KAYBOLDU
+
+554
+00:33:46,317 --> 00:33:48,486
+Acaba şimdi ne yapıyordur?
+
+555
+00:33:50,822 --> 00:33:52,281
+Bunu bilemeyiz.
+
+556
+00:33:59,789 --> 00:34:01,082
+Kurallar şöyle.
+
+557
+00:34:01,207 --> 00:34:03,417
+Habercilerle konuşurken aklınızdan
+geçen her şeyi söyleyemezsiniz.
+
+558
+00:34:03,501 --> 00:34:06,921
+Başka hiçbir nişancının elinize
+su dökemeyeceğini söyleyin.
+
+559
+00:34:07,004 --> 00:34:09,090
+Burada olmaktan mutlu
+olduğunuzu söyleyin.
+
+560
+00:34:09,090 --> 00:34:11,217
+Bu görevi yapmaktan
+gurur duyuyor,
+
+561
+00:34:11,300 --> 00:34:13,511
+...Iraklıların canını okumak
+için sabırsızlanıyorsunuz.
+
+562
+00:34:13,594 --> 00:34:15,596
+Bunlar dışında bir şey
+yumurtlarsanız...
+
+563
+00:34:15,721 --> 00:34:16,722
+...boku yerim.
+
+564
+00:34:16,722 --> 00:34:18,599
+Ve boku yersem,
+hepinizin ağzına sıçarım!
+
+565
+00:34:18,599 --> 00:34:20,184
+Gömleğinizi çıkartın.
+Kaslarınız görünsün.
+
+566
+00:34:20,184 --> 00:34:22,311
+- Epeydir çalışıyorsunuz.
+- Düpedüz sansür.
+
+567
+00:34:22,395 --> 00:34:24,021
+- Düpedüz ne?
+- Sansür.
+
+568
+00:34:24,021 --> 00:34:26,482
+Basına ne söyleyeceğimize
+yerimize karar veriyorsun.
+
+569
+00:34:26,482 --> 00:34:27,608
+Amerika’ya yakışmaz.
+
+570
+00:34:27,608 --> 00:34:29,986
+Hem konuşma özgürlüğü,
+anayasa nerede kaldı?
+
+571
+00:34:30,111 --> 00:34:32,822
+Sizler sözleşme imzaladınız.
+Hakkınız falan yok.
+
+572
+00:34:33,406 --> 00:34:35,908
+Şikayetiniz varsa,
+Deli Saddam'a anlatıp,
+
+573
+00:34:35,992 --> 00:34:37,201
+...sikinde mi kendiniz
+görün!
+
+574
+00:34:37,285 --> 00:34:39,495
+İşte, Saddam Hüseyin'in yaptığı da bu.
+
+575
+00:34:39,620 --> 00:34:41,622
+Davranışın onunkinden farksız.
+
+576
+00:34:41,914 --> 00:34:43,499
+Sen bir Deniz Piyadesisin.
+
+577
+00:34:43,583 --> 00:34:46,210
+Öyle bedava atıp tutamazsın.
+
+578
+00:34:46,294 --> 00:34:48,588
+Söylediğin her şeyin
+bedelini ödemek zorundasın.
+
+579
+00:34:49,714 --> 00:34:51,382
+Başlıyoruz.
+Ses, ışık.
+
+580
+00:34:52,884 --> 00:34:54,886
+Suudi Arabistan'da
+bir Deniz Piyadesisiniz.
+
+581
+00:34:57,889 --> 00:34:59,891
+Burada bulunmaktan memnun musunuz?
+
+582
+00:35:02,185 --> 00:35:04,520
+Evet bayan.
+Çok memnunum.
+
+583
+00:35:05,605 --> 00:35:07,982
+Amcam ve babam vatani görevini
+Vietnam’da yapmıştı...
+
+584
+00:35:08,107 --> 00:35:09,817
+...ben de burada yapmaktan
+gurur duyuyorum.
+
+585
+00:35:09,817 --> 00:35:11,819
+İdarecilerimize güvenim sonsuz...
+
+586
+00:35:11,903 --> 00:35:14,489
+...Başkanımızdan Tim Komutanımıza
+kadar.
+
+587
+00:35:14,989 --> 00:35:17,116
+Evet, bundan gurur duyuyorum.
+
+588
+00:35:17,200 --> 00:35:18,784
+Peki, evde sizi kimler bekliyor?
+
+589
+00:35:20,995 --> 00:35:23,289
+- Buradan kardeşime bir şey
+söyleyebilir miyim? - Buyurun.
+
+590
+00:35:24,499 --> 00:35:27,585
+- Tim, selam! Bu çıkacak mı?
+- Evet.
+
+591
+00:35:28,002 --> 00:35:29,712
+Tim! N'aber?
+
+592
+00:35:29,712 --> 00:35:33,090
+Mektubunu aldım dostum.
+Delisin sen!
+
+593
+00:35:34,884 --> 00:35:37,720
+Kafayı yemişsin!
+Kendisi anlar.
+
+594
+00:35:38,721 --> 00:35:40,723
+Suudi Arabistan'da
+bir Deniz Piyadesisiniz.
+
+595
+00:35:41,807 --> 00:35:44,310
+Sizce Kuveytliler sizi nasıl
+karşılayacak?
+
+596
+00:35:50,983 --> 00:35:52,985
+Iraklılar hakkında ne düşünüyorsunuz?
+
+597
+00:35:53,110 --> 00:35:56,906
+Neticede düşmanınız.
+Kabuslarınıza giriyorlar mı?
+
+598
+00:35:56,989 --> 00:35:58,282
+Yani...
+
+599
+00:36:01,285 --> 00:36:03,287
+Burası çok güzel.
+İstediğim bu.
+
+600
+00:36:04,914 --> 00:36:06,916
+En azından değerim var.
+
+601
+00:36:07,208 --> 00:36:08,584
+Sivilde olsam...
+
+602
+00:36:09,085 --> 00:36:12,421
+...istikbali olmayan bir işte çalışacak,
+kimse beni arayıp sormayacaktı.
+
+603
+00:36:14,423 --> 00:36:16,884
+"Ruhumuzun yağlarını
+eritiyoruz."...
+
+604
+00:36:18,219 --> 00:36:20,012
+...demiş, Hemingway.
+
+605
+00:36:20,888 --> 00:36:22,890
+Evde sizi kimler bekliyor?
+
+606
+00:36:28,187 --> 00:36:31,524
+İşte, sevgilim falan.
+
+607
+00:36:33,192 --> 00:36:35,611
+Ona söylemek istediğiniz
+bir şey var mı?
+
+608
+00:36:41,701 --> 00:36:43,286
+Olmaz mı hiç...
+
+609
+00:36:45,705 --> 00:36:46,914
+Selam Kristina.
+
+610
+00:36:48,624 --> 00:36:49,792
+İşte buradayız.
+
+611
+00:36:54,922 --> 00:36:56,424
+Korkuyor musunuz?
+
+612
+00:36:57,592 --> 00:36:59,719
+Evet bayan.
+Burada olduğum için sevinçliyim.
+
+613
+00:37:01,304 --> 00:37:02,805
+Ülkemi seviyorum.
+
+614
+00:37:03,723 --> 00:37:06,017
+Anne babamı özlüyorum.
+Selam Anne, selam Baba!
+
+615
+00:37:07,518 --> 00:37:08,686
+Bana iyi davranıyorlar.
+
+616
+00:37:10,188 --> 00:37:14,609
+Benim için Amerika'yı koruma
+fırsatıydı.
+
+617
+00:37:14,692 --> 00:37:18,112
+Bana ve aileme özgürce
+yaşama fırsatı veren ülkeyi.
+
+618
+00:37:18,488 --> 00:37:22,909
+Ve bunun uğruna savaşmak
+bir şeref.
+
+619
+00:37:23,201 --> 00:37:24,494
+Ülkemi korumak,
+
+620
+00:37:25,703 --> 00:37:27,497
+...vatan borcumu ödemek...
+
+621
+00:37:27,622 --> 00:37:30,416
+...ve kendimi geliştirip
+polis olmak istiyorum.
+
+622
+00:37:30,791 --> 00:37:32,084
+Korkuyor musunuz?
+
+623
+00:37:33,503 --> 00:37:34,587
+Bakın...
+
+624
+00:37:36,923 --> 00:37:38,424
+20 yaşındayım...
+
+625
+00:37:38,508 --> 00:37:40,718
+...ve aptallık edip,
+bir sözleşme imzaladım.
+
+626
+00:37:41,594 --> 00:37:43,888
+Lanet bombaları şimdiden
+işitiyorum.
+
+627
+00:37:46,724 --> 00:37:48,309
+Bombalar kulağımda.
+
+628
+00:37:49,018 --> 00:37:50,811
+Evet, müthiş korkuyorum.
+
+629
+00:37:54,190 --> 00:37:56,901
+Çavuş bunları duymasın ama,
+tamam mı?
+
+630
+00:37:58,194 --> 00:38:00,404
+Olası bir kimyasal taarruza karşı...
+
+631
+00:38:00,488 --> 00:38:02,907
+...adamlarınızın ne gibi
+hazırlıkları var?
+
+632
+00:38:03,825 --> 00:38:06,494
+Bu bir NBC elbisesi.
+
+633
+00:38:06,494 --> 00:38:09,205
+Nükleer, biyolojik ve kimyasala
+karşı koruyucu elbise.
+
+634
+00:38:09,288 --> 00:38:11,791
+Bir de maskemiz var.
+M17 A1 maskesi...
+
+635
+00:38:11,916 --> 00:38:13,417
+...ki üzerindeki bu kamış sayesinde...
+
+636
+00:38:13,501 --> 00:38:15,711
+...maskeyi çıkarmadan...
+
+637
+00:38:15,711 --> 00:38:17,004
+...mataralarından su içebilirler.
+
+638
+00:38:17,088 --> 00:38:18,422
+- Sahi mi?
+- Denemek ister misin?
+
+639
+00:38:18,422 --> 00:38:21,425
+- Yok kalsın. Bakabilir miyim?
+- Tabii.
+
+640
+00:38:21,509 --> 00:38:23,302
+- Ağırmış.
+- Öyledir.
+
+641
+00:38:23,386 --> 00:38:25,596
+Ama korunmamız için gerekli.
+
+642
+00:38:25,721 --> 00:38:27,390
+Bu sıcakta takıyorlar mı?
+
+643
+00:38:27,515 --> 00:38:29,809
+Evet.
+
+644
+00:38:29,809 --> 00:38:33,104
+Aslında size bunu gösterebiliriz.
+
+645
+00:38:34,188 --> 00:38:36,816
+Kruger, topu sakla.
+
+646
+00:38:37,191 --> 00:38:38,693
+Topu sakla!
+
+647
+00:38:39,110 --> 00:38:40,987
+Kruger! Lanet toptan kurtul!
+
+648
+00:38:41,112 --> 00:38:42,405
+- Top!
+- Lanet olsun!
+
+649
+00:38:42,488 --> 00:38:43,906
+Topu ver!
+
+650
+00:38:44,991 --> 00:38:47,785
+Kulağınızı açın beyler!
+Bugün şanslı gününüz.
+
+651
+00:38:47,785 --> 00:38:51,914
+Bu haberciler,
+NBC elbisenizi merak ediyorlar.
+
+652
+00:38:52,415 --> 00:38:55,209
+Bu yüzden maçımıza...
+
+653
+00:38:55,293 --> 00:38:56,794
+...tam teçhizat devam edeceğiz.
+
+654
+00:38:57,920 --> 00:39:00,590
+- Duydunuz! Çabuk!
+- Sıcaklık 45 derece!
+
+655
+00:39:00,715 --> 00:39:03,801
+Madem öyle, parkalarınıza
+gerek kalmayacak sanırım?
+
+656
+00:39:03,885 --> 00:39:05,094
+Maç başlasın!
+
+657
+00:39:09,599 --> 00:39:12,894
+Canını yakacağım Swoff.
+Çok acıyacak!
+
+658
+00:39:12,894 --> 00:39:14,187
+Acıdan hoşlanır mısın?
+
+659
+00:39:14,187 --> 00:39:15,313
+Başla!
+
+660
+00:39:16,522 --> 00:39:19,192
+- Swoff!
+- Nerede bu lanet top?
+
+661
+00:39:20,401 --> 00:39:21,986
+Swofford, neydi o?
+
+662
+00:39:22,111 --> 00:39:24,989
+Buna kafayı kullanmak
+diyorsun, ha?
+
+663
+00:39:25,198 --> 00:39:26,616
+Kafasını kullanıyor.
+
+664
+00:39:33,915 --> 00:39:34,916
+Başla!
+
+665
+00:39:39,003 --> 00:39:40,004
+Başla!
+
+666
+00:39:52,308 --> 00:39:53,726
+Cortez!
+
+667
+00:40:05,988 --> 00:40:08,199
+Böyle koyarlar!
+
+668
+00:40:11,911 --> 00:40:14,121
+- Kim kapışıyor?
+- Hayır, ben varım.
+
+669
+00:40:14,121 --> 00:40:16,707
+Meksika bodurunu istiyorsan,
+şimdi zamanı!
+
+670
+00:40:16,791 --> 00:40:18,709
+Tamam, cüceyi bana bırak.
+
+671
+00:40:18,793 --> 00:40:21,712
+Cüce ha?
+Görelim haydi pelte suratlı salak!
+
+672
+00:40:22,713 --> 00:40:24,298
+Sakın bana öyle deme!
+
+673
+00:40:24,423 --> 00:40:27,510
+Pelte surat!
+Gel bebeğim.
+
+674
+00:40:27,593 --> 00:40:31,013
+- Haydi pelte surat!
+- Orospu çocuğu!
+
+675
+00:40:37,895 --> 00:40:39,814
+Bu kadar yeter.
+Devre arası!
+
+676
+00:40:39,897 --> 00:40:41,899
+Maskeleri takın.
+Suyu getir.
+
+677
+00:40:42,024 --> 00:40:43,901
+Gösteriye devam ediyoruz.
+
+678
+00:40:44,026 --> 00:40:46,612
+M17 A1 kamışları...
+
+679
+00:40:46,696 --> 00:40:49,824
+...matara ve maskelerinizle
+tam uyumludur.
+
+680
+00:40:49,907 --> 00:40:52,201
+Kamışın ucundan tutup,
+
+681
+00:40:52,618 --> 00:40:54,620
+...matara kapağındaki yuvasına
+yerleştirin.
+
+682
+00:40:54,704 --> 00:40:57,206
+Benimkinin kapağı boku yemiş.
+
+683
+00:40:57,290 --> 00:40:59,625
+Ağzından çıkana dikkat et.
+Sana başka veririz.
+
+684
+00:40:59,709 --> 00:41:01,711
+Benim kamış nalları dikmiş Çavuşum.
+
+685
+00:41:01,711 --> 00:41:04,505
+- Su kaybından öleceğiz.
+- Bu olmayacak.
+
+686
+00:41:04,589 --> 00:41:08,593
+Çavuşum! Benim kamış gaz odasındayken
+düştü. Dört aydır...
+
+687
+00:41:09,093 --> 00:41:11,596
+Bunu anlıyorum,
+ama siz de şunu anlayın ki...
+
+688
+00:41:11,721 --> 00:41:14,807
+- Sıçtığımın şeyi!
+- Maça devam edeceksiniz!
+
+689
+00:41:15,391 --> 00:41:17,810
+Yürü aslanım!
+
+690
+00:41:27,195 --> 00:41:28,821
+Arabistanlı Kruger!
+
+691
+00:41:30,615 --> 00:41:33,409
+- Meydan sikişi.
+- Ne?
+
+692
+00:41:35,786 --> 00:41:37,705
+Meydan sikişi!
+
+693
+00:41:37,788 --> 00:41:40,625
+Amerikalılar...
+
+694
+00:41:42,126 --> 00:41:43,211
+Hassiktir!
+
+695
+00:41:43,920 --> 00:41:46,797
+Durun! Yapmayın utanmazlar!
+
+696
+00:41:47,089 --> 00:41:48,299
+Üstünüzü giyin!
+
+697
+00:41:48,424 --> 00:41:49,717
+Haydi, kamera gelsin!
+
+698
+00:41:50,092 --> 00:41:53,304
+Üstünüzü giyip maymunluk
+yapmayı bırakacaksınız!
+
+699
+00:41:53,304 --> 00:41:57,099
+Aptal serseriler!
+Üstünüzü giyin!
+
+700
+00:42:00,228 --> 00:42:02,688
+Biz gidip ağır silahları yoklayalım.
+
+701
+00:42:02,813 --> 00:42:04,398
+- Meydan neyi?
+- Meydan oyunu dedi.
+
+702
+00:42:04,398 --> 00:42:07,318
+Yaptığımız egzersizlerden biri.
+
+703
+00:42:16,702 --> 00:42:17,912
+Silah deposu.
+
+704
+00:42:18,788 --> 00:42:21,707
+Orayı çekmeye ne dersiniz?
+
+705
+00:42:34,220 --> 00:42:35,888
+Yine bekleriz!
+
+706
+00:42:50,319 --> 00:42:51,988
+Kahkahalar hani?
+
+707
+00:42:56,909 --> 00:42:58,995
+Sesiniz gelmiyor.
+
+708
+00:43:04,000 --> 00:43:06,502
+Şimdi daha iyi.
+Şen şakrak.
+
+709
+00:43:08,421 --> 00:43:10,298
+Müfreze! Esas duruş!
+
+710
+00:43:13,509 --> 00:43:16,429
+- Onbaşı Swofford!
+- Emredin Çavuşum!
+
+711
+00:43:16,429 --> 00:43:19,724
+- Dünyanın zirvesindesin demek?
+- Evet Çavuşum!
+
+712
+00:43:20,516 --> 00:43:22,310
+Daha mühim işlerim var...
+
+713
+00:43:22,310 --> 00:43:24,896
+...hayaları okşamak falan gibisinden.
+
+714
+00:43:25,521 --> 00:43:27,190
+Bilin bakalım ne oldu?
+
+715
+00:43:27,315 --> 00:43:29,609
+Geri bölgede iki günlük
+tatile çıkıyorsunuz.
+
+716
+00:43:29,609 --> 00:43:31,194
+Bu yüzden zımbırtılarınızı
+toplayın.
+
+717
+00:43:32,820 --> 00:43:35,698
+Şunları aşağı indirerek
+başlayabilirsiniz.
+
+718
+00:43:36,199 --> 00:43:37,325
+Ben böyle işin...!
+
+719
+00:43:37,617 --> 00:43:38,826
+Benden söylemesi.
+
+720
+00:43:46,000 --> 00:43:47,919
+Haydi Swoff.
+Eşyalarını hazırla.
+
+721
+00:43:48,002 --> 00:43:49,921
+Yine annen, Fergie.
+
+722
+00:43:50,004 --> 00:43:52,507
+- Ne dinliyorsun?
+- Annemin Noel kaseti.
+
+723
+00:43:52,590 --> 00:43:53,799
+Amma salaksın!
+
+724
+00:43:54,926 --> 00:43:57,094
+Fergus, gece nöbeti annenle senin.
+
+725
+00:43:57,220 --> 00:43:58,304
+22:00- 02:00.
+
+726
+00:43:58,429 --> 00:44:00,097
+Dostum, tam iki hafta oldu.
+
+727
+00:44:00,223 --> 00:44:01,390
+Neden hep ben?
+
+728
+00:44:02,517 --> 00:44:04,894
+- Çömezsin de ondan.
+- Sana benzer.
+
+729
+00:44:07,313 --> 00:44:10,191
+- Üçüncü kez aynı şey oluyor!
+- Ne oldu?
+
+730
+00:44:10,316 --> 00:44:11,818
+Alt tarafı "boş" bırakacaksınız.
+
+731
+00:44:11,901 --> 00:44:13,402
+Bu kadar zor olan ne?
+
+732
+00:44:13,402 --> 00:44:16,197
+Ne fark eder?
+Tanrı bunu biliyor zaten.
+
+733
+00:44:16,322 --> 00:44:18,115
+En azından kan grubunu
+doğru yazmışlar.
+
+734
+00:44:18,199 --> 00:44:22,203
+Hangisini tercih edersin?
+Yanlış kan mı, yanlış dua mı?
+
+735
+00:44:22,328 --> 00:44:25,790
+Tek pembe mektup Sacramento'dan
+geliyor.
+
+736
+00:44:26,791 --> 00:44:29,710
+Kristina. Acaba ne işler
+çeviriyor?
+
+737
+00:44:29,794 --> 00:44:31,796
+Gel de görelim!
+
+738
+00:44:32,922 --> 00:44:34,590
+Git dışarı, otuzbir çek.
+
+739
+00:44:38,302 --> 00:44:40,429
+- Tanrım.
+- Ne oldu?
+
+740
+00:44:41,097 --> 00:44:43,015
+Dostum!
+Bir oğlum olmuş!
+
+741
+00:44:43,599 --> 00:44:45,393
+Oğlum olmuş diyorum!
+
+742
+00:44:45,601 --> 00:44:48,104
+Resmini göster.
+
+743
+00:44:48,229 --> 00:44:50,106
+Şunun şirinline bakın.
+
+744
+00:44:50,606 --> 00:44:53,818
+Postacıya sorsan iyi edersin dostum.
+Seninle alakası yok bebeğin.
+
+745
+00:44:54,527 --> 00:44:57,405
+İlgisi yok! Küçük Montezuma işte!
+
+746
+00:44:57,530 --> 00:45:00,491
+Küçük çüklü bir Kübalı olmasın yeter.
+
+747
+00:45:00,616 --> 00:45:03,202
+Cortez, bakabilir miyim?
+
+748
+00:45:03,995 --> 00:45:05,496
+Al bakalım Liboş.
+
+749
+00:45:09,292 --> 00:45:11,002
+Harika dostum.
+
+750
+00:45:14,422 --> 00:45:16,299
+Oğlumu kucaklayacağım.
+
+751
+00:45:17,091 --> 00:45:18,718
+İyiye alamet değil.
+
+752
+00:45:22,013 --> 00:45:24,891
+- Kristina'nın yeni bir arkadaşı varmış.
+- Arkadaşı mı?
+
+753
+00:45:25,725 --> 00:45:30,229
+Çalıştığı otelde gece yöneticisiymiş.
+Dediğine göre, iyi bir dinleyiciymiş.
+
+754
+00:45:31,606 --> 00:45:34,901
+Yapma dostum! Hiç iyi değil.
+Ayvayı yedi.
+
+755
+00:45:34,901 --> 00:45:37,320
+Dememiş miydim ben?
+
+756
+00:45:37,403 --> 00:45:39,614
+Askeri fantezi meraklısı
+kızlardan biri işte.
+
+757
+00:45:39,697 --> 00:45:42,909
+Tokmakçısına, erkek arkadaşım
+bir kavanozkafa derken...
+
+758
+00:45:42,992 --> 00:45:44,410
+...orgazm olacaktır.
+
+759
+00:45:44,494 --> 00:45:46,412
+Doğru dostum. Çok doğru!
+
+760
+00:45:46,496 --> 00:45:49,624
+Gözümde canlanıverdi.
+Kız otelde çalışır.
+
+761
+00:45:49,999 --> 00:45:52,001
+Boş bir odaya girer.
+
+762
+00:45:52,126 --> 00:45:56,631
+Boruyu tutar ve;
+"Harikasın! Harikasın!"
+
+763
+00:45:58,007 --> 00:46:00,301
+Sen git, böceklerine işkence yap.
+
+764
+00:46:00,593 --> 00:46:01,719
+Peki Onbaşım.
+
+765
+00:46:01,719 --> 00:46:03,596
+Hey Swoff.
+Yüzünü asma dostum.
+
+766
+00:46:03,596 --> 00:46:05,723
+Yakında gidiyoruz.
+Klimalı odalar...
+
+767
+00:46:05,723 --> 00:46:08,518
+...alafranga tuvaletler.
+Telefon bile edebilirsin.
+
+768
+00:46:08,893 --> 00:46:11,229
+- Onu arayacağım.
+- Tam puan!
+
+769
+00:46:12,021 --> 00:46:14,524
+Hem de kız başkasıyla düzüşürken!
+
+770
+00:46:17,109 --> 00:46:19,695
+Nihayet duş alıyoruz!
+
+771
+00:46:22,198 --> 00:46:24,325
+Özlemişim şampuanlanmayı!
+
+772
+00:46:25,827 --> 00:46:27,995
+- Nereye böyle?
+- İşim var.
+
+773
+00:46:28,120 --> 00:46:29,413
+Nereye?
+
+774
+00:46:30,331 --> 00:46:32,708
+Bakın, bir alet.
+Ama küçük.
+
+775
+00:47:00,111 --> 00:47:01,320
+Lanet olsun!
+
+776
+00:47:07,493 --> 00:47:08,703
+Lanet olsun!
+
+777
+00:47:17,211 --> 00:47:18,421
+<i>Alo?</i>
+
+778
+00:47:18,504 --> 00:47:20,506
+Kris, benim.
+
+779
+00:47:20,798 --> 00:47:23,301
+- Alo?
+- Merhaba.
+
+780
+00:47:24,093 --> 00:47:25,928
+<i>Ah, Tanrım! Tony?</i>
+
+781
+00:47:26,596 --> 00:47:29,432
+<i>Nasılsın? Ben iyiyim.</i>
+
+782
+00:47:30,808 --> 00:47:32,101
+<i>Özledim.</i>
+
+783
+00:47:32,226 --> 00:47:34,228
+Fena değilim.
+Ben de özledim.
+
+784
+00:47:34,228 --> 00:47:37,023
+<i>Anneni gördüm.
+Kız kardeşini görmeye gittik.</i>
+
+785
+00:47:37,023 --> 00:47:39,025
+<i>- O nasıl?
+- Annen mi?</i>
+
+786
+00:47:39,400 --> 00:47:40,693
+Yok, Rini.
+
+787
+00:47:41,319 --> 00:47:44,322
+<i>Gayet iyi.</i>
+
+788
+00:47:45,114 --> 00:47:47,408
+<i>- Bu arada şu adam...
+- Resimleri aldın mı?</i>
+
+789
+00:47:47,492 --> 00:47:49,911
+Evet aldım.
+Çok güzeller.
+
+790
+00:47:50,203 --> 00:47:51,996
+<i>Beraber çektirdiğimiz
+resme baktın mı?</i>
+
+791
+00:47:52,121 --> 00:47:54,332
+<i>- Oteldeki adam...
+- Kim?</i>
+
+792
+00:47:56,918 --> 00:47:59,212
+Ne kadar yakınsınız?
+
+793
+00:48:00,630 --> 00:48:04,300
+<i>Carl mı?
+Sadece arkadaşız.</i>
+
+794
+00:48:05,801 --> 00:48:07,803
+Ne kadar yakınsınız?
+
+795
+00:48:08,513 --> 00:48:11,015
+<i>Tony, onunla sadece arkadaşız.</i>
+
+796
+00:48:15,603 --> 00:48:17,522
+<i>- Alo?
+- Buradayım.</i>
+
+797
+00:48:18,314 --> 00:48:20,191
+<i>- Alo?
+- Kris?</i>
+
+798
+00:48:20,817 --> 00:48:22,527
+<i>- Tony?
+- Buradayım.</i>
+
+799
+00:48:22,693 --> 00:48:24,195
+<i>Tony!
+Kris?</i>
+
+800
+00:48:25,112 --> 00:48:26,614
+- Tanrım!
+- Kris?
+
+801
+00:49:50,198 --> 00:49:52,825
+Çok tuhaf sayıklıyordun dostum.
+
+802
+00:49:59,707 --> 00:50:02,293
+Dettman'ın eşi,
+"Deer Hunter" filmini göndermiş.
+
+803
+00:50:03,211 --> 00:50:04,712
+Seyretmeye gidelim.
+
+804
+00:50:08,007 --> 00:50:09,217
+Başlat haydi!
+
+805
+00:50:09,300 --> 00:50:11,427
+Kapa çeneni cins herif!
+
+806
+00:50:11,511 --> 00:50:12,720
+Kapat şu amcık ağzını!
+
+807
+00:50:13,095 --> 00:50:14,722
+Böyle sustururlar.
+
+808
+00:50:18,226 --> 00:50:20,895
+Sandalyemden çek ayaklarını!
+
+809
+00:50:22,021 --> 00:50:24,315
+Kaba herif!
+
+810
+00:50:39,205 --> 00:50:40,623
+Ne iş ya?
+
+811
+00:50:44,126 --> 00:50:45,628
+Bu benim karım.
+
+812
+00:50:47,630 --> 00:50:49,298
+Bu benim kahrolası karım!
+
+813
+00:50:49,715 --> 00:50:52,009
+Hassiktir!
+Bu kadın karım!
+
+814
+00:50:52,802 --> 00:50:55,012
+Clancey bu.
+Komşumuz.
+
+815
+00:50:55,096 --> 00:50:57,431
+Arabamı ödünç vermiştim ona.
+Bu kadın karım.
+
+816
+00:50:58,724 --> 00:51:00,393
+Bu benim kahrolası karım!
+
+817
+00:51:01,602 --> 00:51:03,104
+Seni kaltak!
+
+818
+00:51:03,229 --> 00:51:06,232
+Seni orospu!
+
+819
+00:51:06,232 --> 00:51:07,400
+Allah kahretsin!
+
+820
+00:51:09,402 --> 00:51:11,612
+- Bu boku izleme dostum.
+- Ne yaptın bebeğim?
+
+821
+00:51:11,696 --> 00:51:14,031
+Kapatalım şunu.
+Swoff, yardım et.
+
+822
+00:51:14,115 --> 00:51:16,826
+- Onu dışarı çıkar.
+- Gel Dettman. Hadi.
+
+823
+00:51:22,206 --> 00:51:24,333
+Lanet olsun!
+Eve gitmek istiyorum!
+
+824
+00:51:26,127 --> 00:51:27,295
+Eve gitmek istiyorum.
+
+825
+00:51:32,300 --> 00:51:37,305
+<i>Brian, söyle bakalım şimdi
+kim kimi sikiyor!</i>
+
+826
+00:51:44,103 --> 00:51:46,230
+Lanet homo!
+Haydi baştan izleyelim!
+
+827
+00:51:57,825 --> 00:51:59,494
+Abartmayın!
+
+828
+00:52:01,704 --> 00:52:05,917
+- Nedenmiş o?
+- Kadın Dettman'ın karısı yahu!
+
+829
+00:52:12,632 --> 00:52:15,426
+Neşelenmek bize haram!
+
+830
+00:52:23,100 --> 00:52:24,310
+Ne yapıyorsun?
+
+831
+00:52:29,023 --> 00:52:31,108
+Tekrar izleyebilmek için gitmeni
+bekliyorum.
+
+832
+00:52:32,318 --> 00:52:33,903
+Niçin tekrar izlemek istiyorsun?
+
+833
+00:52:34,695 --> 00:52:36,614
+İstiyorum işte.
+
+834
+00:52:37,698 --> 00:52:38,825
+Niçin?
+
+835
+00:52:42,995 --> 00:52:47,500
+Sevgilini başkası sikerken görmek
+nasıl bir duygu merak ediyorum.
+
+836
+00:53:00,096 --> 00:53:02,515
+Haydi. Toparlan.
+
+837
+00:53:03,099 --> 00:53:05,101
+Geri dönüyoruz.
+
+838
+00:53:16,404 --> 00:53:20,408
+ÇÖLDE GEÇİRİLEN ZAMAN:
+122 GÜN 5 SAAT 22 DAKİKA
+
+839
+00:53:20,825 --> 00:53:21,826
+<i>Çoğu problem için...</i>
+
+840
+00:53:21,909 --> 00:53:23,911
+<i>...tebliğ edilmiş bir çözüm vardır.</i>
+
+841
+00:53:24,996 --> 00:53:28,124
+<i>Hastalıkta, gemi revirine git.</i>
+
+842
+00:53:29,333 --> 00:53:32,295
+<i>Yaralanmada, sıhhiye erini çağır.</i>
+
+843
+00:53:33,296 --> 00:53:37,008
+<i>Ölümde,
+mezar kayıt hizmetine başvur.</i>
+
+844
+00:53:37,008 --> 00:53:38,926
+ASKER SAYISI: 390,000
+
+845
+00:53:39,135 --> 00:53:41,220
+<i>Ama yitirilen şey akılsa...</i>
+
+846
+00:53:42,013 --> 00:53:45,600
+<i>...standart bir çözüm yoktur.</i>
+
+847
+00:53:46,934 --> 00:53:48,019
+<i>Standart...</i>
+
+848
+00:53:48,728 --> 00:53:50,021
+<i>...bir...</i>
+
+849
+00:53:50,813 --> 00:53:52,106
+<i>...çözüm...</i>
+
+850
+00:53:53,232 --> 00:53:54,317
+<i>...yoktur.</i>
+
+851
+00:53:54,609 --> 00:53:57,403
+N'aber dostum?
+Mutlu Noeller.
+
+852
+00:53:58,029 --> 00:54:00,406
+Duyduğuma göre sağlam malın varmış?
+
+853
+00:54:01,115 --> 00:54:03,326
+Söylenti hızlı yayılır.
+
+854
+00:54:03,618 --> 00:54:04,911
+Al.
+
+855
+00:54:06,204 --> 00:54:07,497
+Oku.
+
+856
+00:54:08,331 --> 00:54:11,000
+- Ne bu?
+- Binbaşı için bir aşk mektubu.
+
+857
+00:54:11,125 --> 00:54:13,127
+Mektuplarını ben yazıyorum.
+
+858
+00:54:13,127 --> 00:54:16,005
+"Sevgili şeker Gloria,
+keşke şu anda kıçında parmağım,
+
+859
+00:54:16,005 --> 00:54:18,216
+...derinliklerine dalıyor olsaydım."
+
+860
+00:54:18,299 --> 00:54:20,635
+"Sevgilerle, Albay Aşkgemisi."
+
+861
+00:54:22,136 --> 00:54:24,514
+Dartmouth’ta edebiyat okumuştum.
+
+862
+00:54:24,805 --> 00:54:25,932
+Orası iyidir.
+
+863
+00:54:28,518 --> 00:54:30,102
+Beş galonu 40 dolar.
+
+864
+00:54:36,400 --> 00:54:39,028
+Baksana Swoff.
+Bunu hangi yöne doğru monte edeceğim?
+
+865
+00:54:40,321 --> 00:54:42,031
+Ne yazıyor?
+
+866
+00:54:42,532 --> 00:54:44,909
+"Ön taraf düşman yönünde."
+
+867
+00:54:46,202 --> 00:54:49,622
+- İpucu olmalı.
+- Sağ ol. Kusura bakma.
+
+868
+00:54:50,832 --> 00:54:53,626
+Fergus, bugün yerime nöbet tutar mısın?
+Borcumu öderim.
+
+869
+00:54:53,709 --> 00:54:55,628
+Yine isteme.
+Noel arifesindeyiz.
+
+870
+00:54:55,628 --> 00:54:57,421
+Çam ağacını yollarım!
+
+871
+00:54:57,505 --> 00:55:00,007
+Ağaç mı? Harika.
+Mutlu Noeller.
+
+872
+00:56:18,711 --> 00:56:20,213
+Katil herifler!
+
+873
+00:56:31,807 --> 00:56:32,808
+Lanet olsun!
+
+874
+00:56:45,321 --> 00:56:46,405
+Lanet olsun!
+
+875
+00:56:53,830 --> 00:56:54,997
+Hayır, olamaz!
+
+876
+00:56:58,125 --> 00:56:59,710
+N'oluyoruz be?
+
+877
+00:57:00,837 --> 00:57:02,421
+Haydi! Haydi!
+
+878
+00:57:02,421 --> 00:57:04,298
+Gösterelim onlara!
+
+879
+00:57:07,218 --> 00:57:08,719
+Hassiktir! Hassiktir! Hassiktir!
+
+880
+00:57:19,897 --> 00:57:21,315
+Neler oluyor be?
+
+881
+00:57:21,315 --> 00:57:24,402
+Zaman geldi çattı!
+Artık onları...
+
+882
+00:57:32,827 --> 00:57:35,538
+Pardon millet.
+Çok özür dilerim.
+
+883
+00:57:36,497 --> 00:57:38,207
+Sosislerimi kızartırken oldu.
+
+884
+00:57:48,926 --> 00:57:50,511
+İşte şimdi boku yedi.
+
+885
+00:58:07,320 --> 00:58:12,408
+Bütün o izinsiz içkileri
+organizmandan atabildin mi bari?
+
+886
+00:58:14,202 --> 00:58:15,828
+Nöbet kimdeydi Swofford?
+
+887
+00:58:18,915 --> 00:58:20,416
+- Bendeydi.
+- Sendeydi demek.
+
+888
+00:58:20,416 --> 00:58:22,835
+Madem sorumluluk sana ağır
+geliyor...
+
+889
+00:58:22,835 --> 00:58:24,504
+...rütbeni indiriyoruz.
+
+890
+00:58:25,505 --> 00:58:27,423
+Şu andan itibaren ersin.
+
+891
+00:58:30,009 --> 00:58:33,221
+Canı sıkılan tek kişi sen misin
+sanıyorsun?
+
+892
+00:58:34,639 --> 00:58:38,017
+Çünkü bu savaş başladı mı,
+ki başlayacak...
+
+893
+00:58:38,017 --> 00:58:39,936
+Kıçımı sana emanet etmek istemem.
+
+894
+00:58:43,231 --> 00:58:44,899
+Ne olacak tahmin et?
+
+895
+00:58:48,027 --> 00:58:51,113
+<i>Bok tenekelerinin yakılma
+talimatları.</i>
+
+896
+00:58:51,239 --> 00:58:53,115
+<i>Piyadenin kullanacakları:</i>
+
+897
+00:58:53,199 --> 00:58:56,327
+<i>Bir metal çit kazığı,
+bir çift kaynakçı eldiveni,</i>
+
+898
+00:58:56,410 --> 00:59:00,706
+<i>...beş galon motorin
+ve bir kutu kibrit.</i>
+
+899
+00:59:00,998 --> 00:59:02,500
+Kıpırdama asker.
+
+900
+00:59:04,836 --> 00:59:08,214
+Kampımı kül etmeye yeltenen
+salak sensin demek.
+
+901
+00:59:08,339 --> 00:59:09,423
+Evet efendim.
+
+902
+00:59:11,133 --> 00:59:12,927
+Koy onu yerine.
+
+903
+00:59:12,927 --> 00:59:15,513
+Motorinle doldurdum bile efendim.
+
+904
+00:59:17,223 --> 00:59:20,017
+Marilyn Monroe'nin parfümü
+olsa fark etmez.
+
+905
+00:59:20,268 --> 00:59:23,729
+Kampın karşı tarafına gündüz sefamı
+yaşamadan gidecek değilim.
+
+906
+00:59:24,147 --> 00:59:27,066
+Bok tenekesini
+yerine koy.
+
+907
+00:59:33,781 --> 00:59:35,158
+Bekliyorum!
+
+908
+00:59:36,075 --> 00:59:37,869
+BURAYA GİRDİYSENİZ
+ÜMİDİ KESİN
+
+909
+00:59:42,957 --> 00:59:44,959
+Sana küçük bir hediye bıraktım.
+
+910
+00:59:44,959 --> 00:59:47,253
+Sert de değil,
+yumuşak da.
+
+911
+00:59:48,254 --> 00:59:49,589
+Tam kıvamında.
+
+912
+00:59:50,256 --> 00:59:51,757
+Sağ olun efendim.
+
+913
+00:59:52,175 --> 00:59:53,885
+Yeni yılın kutlu olsun asker.
+
+914
+01:00:26,375 --> 01:00:27,376
+Tamam!
+
+915
+01:00:30,171 --> 01:00:31,255
+Tamam!
+
+916
+01:00:31,380 --> 01:00:32,590
+Bir daha.
+
+917
+01:00:40,765 --> 01:00:41,974
+Bir daha.
+
+918
+01:00:47,980 --> 01:00:49,482
+- Tamam.
+- Tamam.
+
+919
+01:00:50,483 --> 01:00:52,568
+- Kaç etti Cortez?
+- Üst üste 26.
+
+920
+01:00:52,693 --> 01:00:55,863
+Attığın kazık için seni öldüreceğimi
+söylesem cevabın ne olur?
+
+921
+01:00:55,863 --> 01:00:57,281
+Söyledim ya,
+kazaydı!
+
+922
+01:00:57,365 --> 01:00:58,491
+Kazaydı demek.
+
+923
+01:00:59,075 --> 01:01:02,370
+Aynen parmağımın tetiğe kayması gibi.
+
+924
+01:01:02,578 --> 01:01:04,580
+Anne babacığın nerede?
+
+925
+01:01:05,289 --> 01:01:07,375
+- Cottonwood Şelalesi.
+- Çok üzülecekler.
+
+926
+01:01:07,458 --> 01:01:09,669
+Biricik oğullarına artık
+kurabiye gönderemeyecekler.
+
+927
+01:01:09,794 --> 01:01:11,254
+Yanlışlıkla ateş aldı diyeceğim.
+
+928
+01:01:11,254 --> 01:01:15,883
+Bir süreliğine diskoya atılsam da,
+hasretim bitmiş olacak.
+
+929
+01:01:17,093 --> 01:01:19,178
+Adam öldürmek nasılmış
+öğreneceğim.
+
+930
+01:01:20,972 --> 01:01:22,765
+Ne yapıyorsun?
+
+931
+01:01:22,974 --> 01:01:25,393
+Oturarak atış olarak
+bilinen nişan vaziyetindeyim.
+
+932
+01:01:25,393 --> 01:01:28,563
+Yatarak nişan vaziyetinin ardından,
+hedefi öldürmekte...
+
+933
+01:01:28,563 --> 01:01:29,772
+...en etkili duruş şeklidir.
+
+934
+01:01:29,772 --> 01:01:31,691
+Hedeften kasıt insan olmakla beraber,
+
+935
+01:01:31,774 --> 01:01:33,359
+...dost ya da düşman olabilir.
+
+936
+01:01:33,484 --> 01:01:35,278
+Buna dost ateşi,
+dost sikişi...
+
+937
+01:01:35,361 --> 01:01:36,654
+...veya dost tarafından düzülüş
+diyoruz.
+
+938
+01:01:36,779 --> 01:01:38,156
+Yapma Swoff,
+nöbet sendeydi.
+
+939
+01:01:38,281 --> 01:01:41,284
+Noel arifesiydi ve
+aklım eve gitmişti.
+
+940
+01:01:41,284 --> 01:01:42,660
+Ne dersin Cortez?
+
+941
+01:01:42,785 --> 01:01:46,455
+- Toprağını kazayla öldürür müyüm?
+- Elbette. Adı üstünde kaza.
+
+942
+01:01:46,581 --> 01:01:49,083
+- Görmedin duymadın, değil mi?
+- Görmedim duymadım.
+
+943
+01:01:49,167 --> 01:01:50,585
+Burası kendi çadırım bile değil.
+
+944
+01:01:50,668 --> 01:01:53,671
+Aslında, buraya hiç gelmedim.
+
+945
+01:02:05,975 --> 01:02:07,268
+Dostum, ne yapıyorsun?
+
+946
+01:02:09,061 --> 01:02:11,355
+M16A2, barut gazının geri tepmesi ile
+çalışan, şarjör ile beslenen,
+
+947
+01:02:11,481 --> 01:02:13,483
+...hava ile soğuyan dipçik tabanlı
+silahtır.
+
+948
+01:02:13,566 --> 01:02:17,653
+5,56mm çapındaki mermisinin
+ilk hızı 850 metre/saniyedir.
+
+949
+01:02:17,778 --> 01:02:19,864
+"Bu benim tüfeğim."
+Tekrar et.
+
+950
+01:02:20,990 --> 01:02:22,283
+Tekrarla.
+
+951
+01:02:23,659 --> 01:02:25,286
+Tekrarla!
+
+952
+01:02:25,369 --> 01:02:27,872
+- "Bu benim tüfeğim."
+- Aferin.
+
+953
+01:02:27,955 --> 01:02:30,458
+Söyle sıçtığımın şeyini!
+
+954
+01:02:30,458 --> 01:02:33,669
+"Bir sürü tüfek var."
+
+955
+01:02:33,794 --> 01:02:35,463
+"Ama bu tüfek benim."
+
+956
+01:02:35,588 --> 01:02:38,591
+"Tüfeğim olmazsa ben bir hiçim."
+
+957
+01:02:38,591 --> 01:02:39,967
+"Bu benim tüfeğim."
+
+958
+01:02:40,092 --> 01:02:42,678
+"Bir sürü tüfek var,
+ama bu tüfek benim."
+
+959
+01:02:42,762 --> 01:02:44,972
+"Tüfeğim olmazsa ben bir hiçim."
+
+960
+01:02:45,056 --> 01:02:47,391
+Kes zırlamayı!
+
+961
+01:02:47,391 --> 01:02:48,893
+Kes zırlamayı!
+
+962
+01:02:48,976 --> 01:02:50,895
+Zırlamayı kes ve tekrarla!
+
+963
+01:02:50,895 --> 01:02:52,063
+"Ben olmazsam...
+
+964
+01:02:52,188 --> 01:02:54,357
+"Bu benim tüfeğim.
+Bir sürü tüfek var."
+
+965
+01:02:54,482 --> 01:02:58,069
+"Ben olmazsam tüfeğim bir hiçtir!"
+Tekrarla!
+
+966
+01:02:58,069 --> 01:03:00,988
+Tekrarla!
+"Tüfeğim olmazsa ben bir hiçim!"
+
+967
+01:03:01,072 --> 01:03:02,782
+"Ben bir hiçim!"
+
+968
+01:03:02,865 --> 01:03:04,158
+- Kapa çeneni!
+- Ben bir hiçim...
+
+969
+01:03:04,158 --> 01:03:05,368
+Kapa çeneni!
+
+970
+01:03:05,493 --> 01:03:06,661
+Kalk!
+
+971
+01:03:07,578 --> 01:03:09,872
+Madem öyle sen vur.
+Vur hadi!
+
+972
+01:03:09,956 --> 01:03:11,958
+- Dağıt suratımı hadi!
+- İstemiyorum!
+
+973
+01:03:12,083 --> 01:03:14,293
+Şimdi anladın mı ne kadar
+zor olduğunu?
+
+974
+01:03:14,377 --> 01:03:15,378
+Ateşle hadi lanet homo!
+
+975
+01:03:15,461 --> 01:03:17,880
+- İstemiyorum!
+- Dost ateşi!
+
+976
+01:03:17,880 --> 01:03:20,591
+- Vur hadi kız kılıklı!
+- Hayır.
+
+977
+01:03:20,758 --> 01:03:21,884
+Lanet olsun!
+
+978
+01:03:36,566 --> 01:03:38,776
+Hassiktir! Hassiktir! Hassiktir!
+
+979
+01:03:57,962 --> 01:04:01,674
+Tatmin oldun mu sonunda?
+Şarjör takıp mermi sürdün mü?
+
+980
+01:04:02,675 --> 01:04:04,177
+Berbat ettim dostum.
+
+981
+01:04:04,260 --> 01:04:05,970
+Baksana çocuğa.
+Tir tir titriyor.
+
+982
+01:04:09,891 --> 01:04:12,059
+- Fergus, buraya gel.
+- Berbat ettim diyorum.
+
+983
+01:04:12,185 --> 01:04:13,269
+Olsun.
+
+984
+01:04:17,857 --> 01:04:19,192
+Yüzüne bak.
+
+985
+01:04:22,487 --> 01:04:25,865
+Bir daha yaparsan,
+seni ben vururum!
+
+986
+01:04:27,074 --> 01:04:28,493
+Anladın mı?
+
+987
+01:04:30,286 --> 01:04:31,496
+O halde?
+
+988
+01:04:47,094 --> 01:04:48,679
+Özür dilerim dostum.
+
+989
+01:04:55,770 --> 01:04:57,271
+Bu da neydi?
+
+990
+01:04:57,396 --> 01:04:59,065
+Yankıdır.
+
+991
+01:05:02,276 --> 01:05:04,362
+Değil.
+Ben de duydum.
+
+992
+01:05:04,487 --> 01:05:06,864
+Merkeze bildirin. Bölgede
+dost birlik var mı öğrenelim.
+
+993
+01:05:06,989 --> 01:05:08,282
+Charlie burası Lima.
+
+994
+01:05:10,368 --> 01:05:11,661
+Charlie burası Lima.
+
+995
+01:05:11,786 --> 01:05:13,287
+Bu boktan telsiz boku yemiş.
+
+996
+01:05:13,287 --> 01:05:15,581
+Kara kuvvetlerinde uydu,
+bizdeyse bu boktan telsiz.
+
+997
+01:05:15,581 --> 01:05:17,959
+İşaret sisi atsak daha iyi.
+
+998
+01:05:18,084 --> 01:05:19,794
+Tamam beyler.
+Dağılın!
+
+999
+01:05:34,559 --> 01:05:37,270
+Troy. Troy.
+
+1000
+01:05:37,395 --> 01:05:39,272
+- Kim bunlar dostum?
+- Fikrim yok.
+
+1001
+01:05:44,861 --> 01:05:46,779
+Elbiselerinin altında RPG var.
+
+1002
+01:05:46,863 --> 01:05:49,866
+Ellerinde şarbon varsa,
+yok olduk demektir.
+
+1003
+01:05:52,785 --> 01:05:57,165
+- Sol elinle değil.
+- Neler saçmalıyorsun?
+
+1004
+01:05:57,582 --> 01:06:01,586
+Sol elleriyle kıçlarını silerler.
+Bu hakaret demektir.
+
+1005
+01:06:16,476 --> 01:06:17,894
+Hat düzeni!
+
+1006
+01:06:25,067 --> 01:06:26,277
+Pekala.
+
+1007
+01:06:28,863 --> 01:06:30,573
+Şimdi ne yapıyoruz?
+
+1008
+01:06:33,284 --> 01:06:35,286
+Konuşmak istiyor gibiler.
+
+1009
+01:06:35,369 --> 01:06:37,288
+Bunu nasıl yapacaksın?
+
+1010
+01:06:44,670 --> 01:06:46,088
+Sol elini salladı!
+Vurun onu!
+
+1011
+01:06:46,088 --> 01:06:48,257
+Telaş yok, telaş yok.
+Ateş etmeyin!
+
+1012
+01:06:55,598 --> 01:06:58,684
+Swoff, ne yapıyorsun?
+
+1013
+01:06:59,560 --> 01:07:01,062
+Onu koruyun!
+
+1014
+01:07:05,191 --> 01:07:06,984
+Manyak herif.
+
+1015
+01:07:15,576 --> 01:07:16,786
+Ne oldu dostum?
+
+1016
+01:07:18,663 --> 01:07:19,872
+Ne dedin?
+
+1017
+01:07:22,083 --> 01:07:23,459
+Öyle ne yapıyor?
+
+1018
+01:07:24,085 --> 01:07:25,169
+Sakin ol.
+
+1019
+01:07:25,294 --> 01:07:27,088
+Ne bok yiyor bu?
+
+1020
+01:07:27,171 --> 01:07:29,090
+Tüfeğe dokunayım deme!
+
+1021
+01:07:29,757 --> 01:07:31,884
+Geri çekil! Geri çekil dedim!
+
+1022
+01:07:34,387 --> 01:07:35,596
+Ateş etmeyeceğiz.
+
+1023
+01:07:36,264 --> 01:07:37,473
+Ateş etmeyeceğiz!
+
+1024
+01:08:00,997 --> 01:08:03,875
+- Ne diyor?
+- Biri develerini vurmuş.
+
+1025
+01:08:04,167 --> 01:08:07,170
+- Ne?
+- Biri develerini vurmuş.
+
+1026
+01:08:08,796 --> 01:08:10,673
+Beş deveye sekiz kişi.
+
+1027
+01:08:17,972 --> 01:08:19,765
+Swoff Arapça konuştu.
+
+1028
+01:08:20,183 --> 01:08:23,686
+Zevkten bağıran ördek gibiydi
+ama neticede konuşuyordu.
+
+1029
+01:08:23,769 --> 01:08:26,272
+En azından aksiyon yaşadık.
+
+1030
+01:08:26,397 --> 01:08:30,067
+Bir 40mm'lik, devenin kellesine
+neler yapar görseniz fena olmazdı gerçi.
+
+1031
+01:08:30,693 --> 01:08:33,779
+Neler yaparmış, Fowler?
+
+1032
+01:08:34,071 --> 01:08:37,074
+Üç deniz mili mesafeden
+kafasını tersyüz eder.
+
+1033
+01:08:37,158 --> 01:08:38,784
+Kafa uçurmak da
+gayet kolaydır.
+
+1034
+01:08:38,868 --> 01:08:40,578
+Zahmetsiz, acele etmeden...
+
+1035
+01:08:46,375 --> 01:08:47,585
+Ah hayır!
+
+1036
+01:08:47,793 --> 01:08:51,088
+Vay anasına, kimler gelmiş!
+Biricik aşkım!
+
+1037
+01:08:51,172 --> 01:08:52,798
+Gösteri başlıyor çocuklar!
+
+1038
+01:08:52,882 --> 01:08:55,885
+Biraz Arapça anlatsana.
+"Al ağzına!" nasıl denir?
+
+1039
+01:08:57,887 --> 01:09:01,599
+...bu sırada ördekler sevişir..
+
+1040
+01:09:04,268 --> 01:09:06,771
+Kurtul o ezikten, faydalan
+kahramandan. Senden hoşlandım.
+
+1041
+01:09:06,896 --> 01:09:09,690
+- Otur Fowler.
+- Aradığın benim!
+
+1042
+01:09:10,858 --> 01:09:13,361
+- Beni unutamayacak.
+- Hiç komik değil dostum.
+
+1043
+01:09:13,486 --> 01:09:15,696
+Kaltak beni arzuluyordu.
+Görmedin mi?
+
+1044
+01:09:15,780 --> 01:09:17,865
+- Sen harbiden salaksın.
+- Ne alaka dostum?
+
+1045
+01:09:17,990 --> 01:09:19,492
+Öldürme fırsatın olmadıysa
+olmadı.
+
+1046
+01:09:19,575 --> 01:09:21,661
+- Bu senin sorunun dostum.
+- Dokunma bana.
+
+1047
+01:09:21,786 --> 01:09:23,496
+Öldürürsün günün birinde.
+
+1048
+01:09:23,579 --> 01:09:26,499
+Senin sıran da gelir dostum.
+
+1049
+01:09:33,464 --> 01:09:34,465
+Herkes dinlesin!
+
+1050
+01:09:34,590 --> 01:09:36,968
+Birazdan size okuyacaklarım,
+Saddam Hüseyin'in...
+
+1051
+01:09:37,093 --> 01:09:39,178
+...az önce Irak halkına
+söyledikleri.
+
+1052
+01:09:39,262 --> 01:09:42,473
+Bunu ciddiye alsanız
+iyi edersiniz.
+
+1053
+01:09:42,598 --> 01:09:44,892
+<i>"Savaşların savaşıyla
+karşı karşıyayız."</i>
+
+1054
+01:09:44,976 --> 01:09:46,894
+<i>"Irak halkının göstereceği
+fedakarlıklar..."</i>
+
+1055
+01:09:46,978 --> 01:09:49,564
+<i>"...kazanılacak zafer kadar
+önemlidir."</i>
+
+1056
+01:09:49,689 --> 01:09:53,276
+<i>"Kuveyt, ağaca getirilmesi
+gereken bir daldır."</i>
+
+1057
+01:09:53,359 --> 01:09:56,362
+<i>"Kafirlerin kanı nehir olup akacak."</i>
+
+1058
+01:09:56,487 --> 01:09:59,198
+<i>"Cihat tüm Arap halkı için
+bir ibadettir!"</i>
+
+1059
+01:09:59,490 --> 01:10:01,993
+Artık Operasyon Çöl Fırtınasındayız.
+
+1060
+01:10:02,076 --> 01:10:04,370
+Ve Tanrı'nın adalet çekici biziz.
+
+1061
+01:10:04,370 --> 01:10:07,665
+Ve o çekiç aşağı inmek üzere.
+Artık oyun oynamıyoruz.
+
+1062
+01:10:08,291 --> 01:10:09,876
+Sınıra gidiyoruz.
+
+1063
+01:10:16,799 --> 01:10:20,887
+ÇÖLDE GEÇİRİLEN ZAMAN:
+175 GÜN 14 SAAT 5 DAKİKA
+
+1064
+01:10:27,560 --> 01:10:29,687
+ASKER SAYISI: 575,000
+
+1065
+01:10:34,275 --> 01:10:35,860
+Haydi! Çabuk!
+
+1066
+01:10:35,860 --> 01:10:38,070
+Haydi herkes iş başına!
+
+1067
+01:10:38,196 --> 01:10:39,864
+Haydi! Yürüyün!
+
+1068
+01:10:39,989 --> 01:10:41,991
+Haydi! Sallanmayın!
+
+1069
+01:10:42,700 --> 01:10:43,784
+Kımıldayın!
+
+1070
+01:10:44,494 --> 01:10:45,661
+Herkes dinlesin!
+
+1071
+01:10:45,786 --> 01:10:47,997
+Yarın bu hattı aştığımızda...
+
+1072
+01:10:47,997 --> 01:10:51,584
+...ilk gün 30,000 kadar
+zayiat bekliyoruz.
+
+1073
+01:10:52,460 --> 01:10:55,588
+Gaz kullanacaklar.
+Acayip pis olacak.
+
+1074
+01:10:55,588 --> 01:10:59,300
+Bu atropin iğneleri PB
+tabletlerinizle birlikte kullanılır.
+
+1075
+01:10:59,383 --> 01:11:02,595
+Sinir gazı saldırısına
+uğramanız durumunda...
+
+1076
+01:11:02,678 --> 01:11:05,181
+...karşı tedbirleri saniyesinde
+almazsanız...
+
+1077
+01:11:05,264 --> 01:11:08,559
+...ölümler anında başlayacaktır.
+
+1078
+01:11:08,684 --> 01:11:11,771
+Madem boktan iğneyi
+dağıtacaklardı,
+
+1079
+01:11:11,771 --> 01:11:13,773
+...ne diye hapları önceden verdiler?
+
+1080
+01:11:13,773 --> 01:11:15,983
+Kapa şu amcık ağzını!
+Bıktım saçmalıklarından!
+
+1081
+01:11:15,983 --> 01:11:17,485
+Sakin ol dostum.
+
+1082
+01:11:17,568 --> 01:11:19,695
+Kimyasalla öldürülmüş askerlerin
+CNN'e çıkmasını istemezler.
+
+1083
+01:11:19,779 --> 01:11:20,988
+İmzala işte Kruger.
+
+1084
+01:11:21,072 --> 01:11:23,199
+- Bu da ne?
+- Feragat belgesi.
+
+1085
+01:11:23,282 --> 01:11:27,578
+Hapların güvenirliği kanıtlanmamış
+diyor. Göte gelirsen dava açma diye.
+
+1086
+01:11:27,662 --> 01:11:29,372
+Tamam. Anladım.
+
+1087
+01:11:29,497 --> 01:11:31,791
+Bu hapları aldıktan bir yıl sonra...
+
+1088
+01:11:31,874 --> 01:11:34,794
+...götüm tersyüz olup,
+dile gelecek.
+
+1089
+01:11:34,794 --> 01:11:37,463
+- Bırak cadalozluğu.
+- Bu haplar bir boka yaramaz.
+
+1090
+01:11:37,588 --> 01:11:39,799
+Kruger, seni taşra ayısı!
+
+1091
+01:11:40,466 --> 01:11:43,386
+1987'de, Deli Saddam
+Kürtlere karşı...
+
+1092
+01:11:43,386 --> 01:11:46,597
+...kimyasal silah kullandı ve göz açıp
+kapayana kadar binlercesini öldürdü.
+
+1093
+01:11:46,597 --> 01:11:49,475
+Hayatta kalanlarınsa,
+çocukları siki tutmuş şekilde doğdu.
+
+1094
+01:11:49,600 --> 01:11:51,894
+Ayakta sekiz parmakla,
+göt deliksiz,
+
+1095
+01:11:51,978 --> 01:11:53,271
+...geri zekalı, kör.
+
+1096
+01:11:53,396 --> 01:11:54,689
+Bunlar olacağına...
+
+1097
+01:11:54,772 --> 01:11:56,274
+...hepsini öldürseler daha iyiydi.
+
+1098
+01:11:56,274 --> 01:11:58,276
+İstediğin buysa hapları içme.
+
+1099
+01:11:58,401 --> 01:12:00,987
+Değilse, sıçtığımın belgesini
+imzalayıp...
+
+1100
+01:12:01,070 --> 01:12:03,197
+...haplarını al!
+
+1101
+01:12:04,782 --> 01:12:06,993
+Herkes!
+Hapları avuç içine alın.
+
+1102
+01:12:07,076 --> 01:12:10,079
+Çıkarın paketten.
+Göreyim çıkardığınızı.
+
+1103
+01:12:13,499 --> 01:12:15,376
+Şimdi dilinizin üzerine koyun.
+
+1104
+01:12:19,172 --> 01:12:20,798
+Yutun!
+
+1105
+01:12:20,965 --> 01:12:22,675
+Çıkarın dilinizi.
+
+1106
+01:12:26,888 --> 01:12:29,974
+Bak, şimdi daha iyi.
+Daha iyi hissetmiyor muyuz?
+
+1107
+01:12:29,974 --> 01:12:31,976
+- Evet Çavuşum!
+- Güzeel.
+
+1108
+01:12:32,477 --> 01:12:34,687
+Şimdi uyku çukurlarınızı kazın.
+
+1109
+01:12:35,480 --> 01:12:37,773
+Tanrı'nın size verdiği
+elleri kullanın.
+
+1110
+01:12:50,495 --> 01:12:52,079
+Şanslı piçler!
+
+1111
+01:12:52,497 --> 01:12:54,874
+Savaşı tek başlarına mı kazanacaklar?
+
+1112
+01:12:55,166 --> 01:12:57,376
+Ayrıca bu gece sıcacık
+yataklarında uyuyacaklar.
+
+1113
+01:12:57,502 --> 01:13:00,087
+Ne olmuş yani?
+Bizler keşif nişancılarıyız.
+
+1114
+01:13:00,087 --> 01:13:03,799
+Adamın biri savaş başlatınca,
+önden biz gideriz!
+
+1115
+01:13:04,091 --> 01:13:07,386
+Ne demezsin. Etrafına bir bak.
+Uçakları duyuyorsun.
+
+1116
+01:13:07,595 --> 01:13:09,889
+Savaşa yetişemeyeceğiz.
+
+1117
+01:13:09,972 --> 01:13:12,099
+900 metre ilerledik diyelim.
+
+1118
+01:13:12,391 --> 01:13:14,894
+Bu mesafeyi almak,
+Vietnam’da bir hafta sürerdi.
+
+1119
+01:13:14,977 --> 01:13:16,395
+Birinci Dünya Savaşında, bir yıl.
+
+1120
+01:13:16,479 --> 01:13:19,273
+Buradaysa, sadece 10 saniye!
+
+1121
+01:13:19,273 --> 01:13:20,983
+Tüfekleri hazırlayana kadar,
+
+1122
+01:13:21,067 --> 01:13:23,486
+...savaş uçup gidecek.
+
+1123
+01:13:24,487 --> 01:13:25,696
+Açın gözlerinizi!
+
+1124
+01:13:27,865 --> 01:13:29,784
+Hayret bir şey!
+
+1125
+01:13:33,079 --> 01:13:34,664
+Neler oluyor?
+
+1126
+01:13:34,789 --> 01:13:36,499
+Uyku çukurumdan çık.
+
+1127
+01:13:36,499 --> 01:13:39,502
+Boka bulaşmamız an meselesi,
+sense kafalarını karıştırıyorsun!
+
+1128
+01:13:39,502 --> 01:13:41,295
+Uyku çukurumdan çık!
+
+1129
+01:13:41,379 --> 01:13:42,964
+Şanslı günümüzdeyiz!
+Herkes dinlesin!
+
+1130
+01:13:42,964 --> 01:13:45,466
+Emir geldi!
+Yarın ayrılıyoruz, 09:00.
+
+1131
+01:13:45,591 --> 01:13:47,301
+Swofford, feragat belgesini
+bir daha imzala.
+
+1132
+01:13:47,385 --> 01:13:48,761
+Yazından bir bok anlamadım.
+
+1133
+01:13:48,761 --> 01:13:50,596
+Başüstüne Çavuşum.
+
+1134
+01:14:02,984 --> 01:14:04,068
+Tamam.
+
+1135
+01:14:04,193 --> 01:14:07,196
+Umurumda değil.
+Okumuştum zaten.
+
+1136
+01:14:07,280 --> 01:14:10,783
+Senin Troy'un gönüllü askerlik isteği
+geri çevrilmiş.
+
+1137
+01:14:10,867 --> 01:14:12,702
+Ne? Taşak geçiyorsun?
+
+1138
+01:14:12,785 --> 01:14:15,163
+Hey! Ağzından çıkana dikkat et!
+Seni çekemem.
+
+1139
+01:14:15,288 --> 01:14:17,874
+Nasıl olur...
+Tek istediği Çukur'da olmaktı.
+
+1140
+01:14:17,999 --> 01:14:20,877
+Farkındayım.
+Ama Çukur onu istemiyor.
+
+1141
+01:14:21,002 --> 01:14:23,880
+Sabıkası varmış.
+Bunu saklamış.
+
+1142
+01:14:24,297 --> 01:14:26,674
+Başvurusunda bunu gizlemiş.
+
+1143
+01:14:26,674 --> 01:14:29,886
+Eve döndükten sonra,
+artık bizimle olmayacak.
+
+1144
+01:14:29,969 --> 01:14:33,097
+Sıçıp batırmasına mani ol diye
+bunları anlatıyorum.
+
+1145
+01:14:33,181 --> 01:14:35,391
+Bunu becerebilir misin?
+
+1146
+01:14:36,476 --> 01:14:38,269
+Becerebilir misin?
+
+1147
+01:15:14,472 --> 01:15:17,391
+- Ne var?
+- Benden saklayacaktın demek?
+
+1148
+01:15:19,268 --> 01:15:20,394
+Neyi?
+
+1149
+01:15:24,774 --> 01:15:27,568
+Neden çeneni kapayıp
+kendi işine bakmıyorsun?
+
+1150
+01:15:45,503 --> 01:15:47,380
+N'oluyoruz ya?
+
+1151
+01:15:47,463 --> 01:15:49,382
+Kesin mis gibi kokuyordur.
+
+1152
+01:15:50,883 --> 01:15:52,093
+İade etmiş.
+
+1153
+01:15:52,176 --> 01:15:54,095
+Sanki yüzüğü iade ediyor.
+
+1154
+01:15:54,178 --> 01:15:55,263
+Ne yazmış?
+
+1155
+01:15:55,388 --> 01:15:57,098
+"Seni daima seveceğim...
+Kristina."
+
+1156
+01:15:57,181 --> 01:15:59,267
+Ne diye dert ediyorsun o zaman?
+
+1157
+01:15:59,392 --> 01:16:01,269
+Hiçbir şey aynı kalmaz Swoff.
+
+1158
+01:16:01,269 --> 01:16:03,980
+Sevgililerimiz,
+ailemiz ya da başkası.
+
+1159
+01:16:04,063 --> 01:16:05,982
+Bokun içine düşmek üzereyiz diye...
+
+1160
+01:16:06,065 --> 01:16:08,693
+...sivilde hayat duracak değil ya.
+
+1161
+01:16:08,776 --> 01:16:12,488
+- Kimse bunu takmaz.
+- Hayır, biz kavanozkafayız.
+
+1162
+01:16:13,364 --> 01:16:15,074
+Sen ne anlarsın?
+
+1163
+01:16:15,199 --> 01:16:17,869
+Senin kavanozkafa olduğunu
+biliyorum ya, bana yeter.
+
+1164
+01:16:17,994 --> 01:16:19,287
+Kafasını siktiğimin kavanozu!
+
+1165
+01:16:19,370 --> 01:16:21,664
+Deniz Piyade Teşkilatının
+kuruluş tarihi?
+
+1166
+01:16:21,664 --> 01:16:24,292
+- Kuruluş tarihi?
+- 10 Kasım 1775.
+
+1167
+01:16:24,375 --> 01:16:26,169
+- Amerika'dan daha eski.
+- Tam puan!
+
+1168
+01:16:26,294 --> 01:16:28,796
+- Kurulduğu yer?
+- Philadelphia Meyhanesi.
+
+1169
+01:16:28,880 --> 01:16:30,381
+Kardeşliğin şehri.
+
+1170
+01:16:30,381 --> 01:16:31,674
+A. Tarawa?
+
+1171
+01:16:31,799 --> 01:16:33,384
+İkinci Dünya Savaşındaki
+en kanlı muharebe.
+
+1172
+01:16:33,467 --> 01:16:34,469
+Dan Daly?
+
+1173
+01:16:34,594 --> 01:16:38,389
+1900, Boxer Ayaklanmasında
+37 Çinli'yi elleriyle öldürdü.
+
+1174
+01:16:38,473 --> 01:16:41,684
+- Dünya üzerindeki en güçlü silah?
+- Piyade ve tüfeği!
+
+1175
+01:16:41,684 --> 01:16:43,478
+Lanet savaşı kazanmak mı istiyorsun?
+
+1176
+01:16:43,478 --> 01:16:44,979
+Piyadelere söyle yeter!
+
+1177
+01:16:46,397 --> 01:16:48,774
+Damgayı hazırlayın!
+
+1178
+01:16:48,900 --> 01:16:50,276
+Yatırın yere!
+
+1179
+01:17:08,377 --> 01:17:09,504
+Artık senindir!
+
+1180
+01:17:11,172 --> 01:17:12,882
+Bunu hak ettin dostum.
+
+1181
+01:17:28,773 --> 01:17:31,567
+<i>Çadırımızın içini...</i>
+
+1182
+01:17:32,193 --> 01:17:33,694
+<i>...bir sirke çevirdik.</i>
+
+1183
+01:17:35,780 --> 01:17:39,200
+<i>Çünkü sirkimizdeyken,
+bizi yaralayamazlar.</i>
+
+1184
+01:17:41,494 --> 01:17:44,372
+<i>Sirkimizdeyken,
+kılımıza dokunamazlar.</i>
+
+1185
+01:17:46,666 --> 01:17:49,085
+<i>Ama buna inanmamız...</i>
+
+1186
+01:17:50,086 --> 01:17:51,379
+<i>...deli oluşumuzdandı.</i>
+
+1187
+01:17:52,088 --> 01:17:53,172
+Siper al!
+
+1188
+01:17:53,297 --> 01:17:54,590
+Sıhhiye!
+
+1189
+01:18:01,305 --> 01:18:03,683
+Hemen buraya gel!
+
+1190
+01:18:04,767 --> 01:18:06,394
+Yere yat!
+
+1191
+01:18:23,202 --> 01:18:25,204
+Muharebe eylemim...
+
+1192
+01:18:26,873 --> 01:18:28,374
+...başladı.
+
+1193
+01:18:40,803 --> 01:18:42,388
+Sıhhiye!
+
+1194
+01:18:44,098 --> 01:18:45,266
+Sıhhiye!
+
+1195
+01:18:46,267 --> 01:18:47,977
+İyi misin?
+
+1196
+01:18:50,897 --> 01:18:52,565
+Ne oldu dostum?
+
+1197
+01:18:54,484 --> 01:18:55,693
+Altıma işedim.
+
+1198
+01:18:55,776 --> 01:18:57,487
+- İG'yi bulmam gerek.
+- Ne?
+
+1199
+01:18:57,570 --> 01:18:59,572
+İleri gözetleyiciler,
+telsizle bildirdiler.
+
+1200
+01:18:59,697 --> 01:19:00,990
+- Hemen bulmamız...
+- Yere yat!
+
+1201
+01:19:01,073 --> 01:19:02,783
+- Lanet olsun!
+- Swofford, dürbünü al.
+
+1202
+01:19:02,867 --> 01:19:04,494
+Dürbünü alıp onu bul.
+
+1203
+01:19:04,494 --> 01:19:07,288
+- Troy, telsize geç!
+- Telsiz çalışmıyor.
+
+1204
+01:19:07,371 --> 01:19:10,583
+Radara gidip birkaç pil getir!
+
+1205
+01:19:10,583 --> 01:19:12,502
+- Nerede?
+- Şu tarafta!
+
+1206
+01:19:14,795 --> 01:19:16,672
+- Tanrım!
+- Kendi kendine gelmiyor.
+
+1207
+01:19:16,672 --> 01:19:18,299
+Git haydi!
+
+1208
+01:19:19,467 --> 01:19:20,593
+Lanet olsun!
+
+1209
+01:19:25,598 --> 01:19:26,766
+Sıhhiye!
+
+1210
+01:19:28,684 --> 01:19:30,102
+Sıhhiye!
+
+1211
+01:19:32,480 --> 01:19:35,066
+Öleyim deme!
+Öleyim deme!
+
+1212
+01:19:35,066 --> 01:19:37,401
+Öleyim deme!
+
+1213
+01:19:39,070 --> 01:19:40,780
+Öleyim deme!
+
+1214
+01:19:46,786 --> 01:19:48,996
+Sıçtığımın çukuru yeterince
+derin değil!
+
+1215
+01:19:49,080 --> 01:19:52,166
+- Ne diyorsun sen?
+- 77'ye pil lazım!
+
+1216
+01:19:52,291 --> 01:19:54,502
+Geberip gideceğiz yahu!
+
+1217
+01:19:54,585 --> 01:19:56,170
+77 için pil almaya geldim!
+
+1218
+01:19:56,295 --> 01:19:57,588
+Neden benimle didişiyorsun?
+
+1219
+01:19:57,672 --> 01:19:59,298
+Ne yapıyorsun?
+O piller boş!
+
+1220
+01:19:59,382 --> 01:20:00,299
+Kapa çeneni!
+
+1221
+01:20:05,304 --> 01:20:08,099
+- Nerede kaldın?
+- Siktir git!
+
+1222
+01:20:09,600 --> 01:20:11,602
+Koordinatlar bunlar.
+Bildir bakalım.
+
+1223
+01:20:16,482 --> 01:20:19,068
+Taarruzun ortasından
+geçip boş pil getirmişim!
+
+1224
+01:20:19,193 --> 01:20:20,778
+Çukur'a hoş geldin!
+
+1225
+01:20:20,778 --> 01:20:22,071
+Kahretsin!
+
+1226
+01:20:22,196 --> 01:20:24,782
+Kanı arabası gibisin!
+Geri çekilmeye başladılar bile!
+
+1227
+01:20:24,907 --> 01:20:27,368
+Skyes peşlerinden gidiyoruz dedi!
+Gösterelim onlara!
+
+1228
+01:21:08,201 --> 01:21:11,204
+Bunlar A10.
+Yaban domuzları!
+
+1229
+01:21:12,079 --> 01:21:13,998
+Bunlar adeta tank katilidir.
+
+1230
+01:21:14,081 --> 01:21:17,001
+- Lanet bir canavardır.
+- Ciddi misin Fowler.
+
+1231
+01:21:17,001 --> 01:21:21,005
+"İşte gidiyorlar
+uçsuz bucaksız maviliğe"
+
+1232
+01:21:21,005 --> 01:21:22,882
+Haydi şanslı piçler!
+
+1233
+01:21:24,300 --> 01:21:26,177
+Tanrı'nın adalet çekicini
+indirelim haydi!
+
+1234
+01:21:26,302 --> 01:21:28,179
+Fowler, görev yerine geç.
+
+1235
+01:21:28,304 --> 01:21:31,474
+- Bombaları bırakmak üzereler!
+- Yerine geç!
+
+1236
+01:21:31,599 --> 01:21:34,268
+Tanrı'nın gazabını tüm
+Irak'a gösterecekler!
+
+1237
+01:21:34,393 --> 01:21:36,771
+Fowler, görev yerine geç!
+
+1238
+01:21:39,982 --> 01:21:41,400
+Fowler...
+
+1239
+01:21:41,400 --> 01:21:43,694
+Geri dönmeleri normal mi?
+
+1240
+01:21:43,903 --> 01:21:45,571
+Görev yerlerinize!
+
+1241
+01:21:49,367 --> 01:21:50,701
+Hava taarruzu!
+
+1242
+01:22:05,174 --> 01:22:07,677
+Quebec 4 Delta,
+burası Echo 5 Charlie.
+
+1243
+01:22:07,802 --> 01:22:09,595
+Tıbbi tahliye istemi!
+Acil!
+
+1244
+01:22:09,679 --> 01:22:13,099
+Piyade aracı vuruldu,
+koordinat 671584.
+
+1245
+01:22:13,182 --> 01:22:14,892
+Sisle işaretliyoruz,
+tamam.
+
+1246
+01:22:16,102 --> 01:22:18,187
+Ne yapıyor bunlar?
+Kafayı yemişler!
+
+1247
+01:22:18,271 --> 01:22:19,897
+Aşağılık herifler!
+
+1248
+01:22:20,481 --> 01:22:22,400
+Araçların yerini belirtin.
+Devam ediyoruz.
+
+1249
+01:22:22,483 --> 01:22:24,277
+Bizi Iraklılarla mı karıştırdı
+bunlar?
+
+1250
+01:22:25,570 --> 01:22:26,988
+Yürüyün.
+
+1251
+01:22:44,672 --> 01:22:45,590
+Devam edin.
+
+1252
+01:22:45,673 --> 01:22:47,592
+Hattın ardında olabilirler.
+
+1253
+01:23:18,998 --> 01:23:23,169
+Herkes kulağını açıp dinlesin.
+Kuzeye gidiyoruz. Haydi!
+
+1254
+01:23:25,880 --> 01:23:27,590
+Gözünüzü dört açın.
+
+1255
+01:24:56,471 --> 01:24:59,682
+- Ne yapıyorsun?
+- Kaçmaya çalışıyorlardı.
+
+1256
+01:25:00,975 --> 01:25:02,894
+Boş ver dostum.
+Hadi.
+
+1257
+01:25:49,398 --> 01:25:51,275
+Fergus, al.
+
+1258
+01:25:52,777 --> 01:25:53,986
+Sağ ol.
+
+1259
+01:25:56,197 --> 01:25:57,990
+Çavuşum, tuvaletimi yapmalıyım.
+
+1260
+01:25:58,074 --> 01:25:59,784
+Ses menzilinden çıkma.
+
+1261
+01:26:03,371 --> 01:26:05,081
+Spagetti marinara...
+
+1262
+01:27:30,833 --> 01:27:33,044
+Ne gündü ama, ha?
+
+1263
+01:27:49,227 --> 01:27:51,145
+- Sen iyi misin?
+- İyiyim.
+
+1264
+01:27:52,730 --> 01:27:54,315
+Ne var orada?
+
+1265
+01:27:57,026 --> 01:27:58,236
+Hiç.
+
+1266
+01:28:00,029 --> 01:28:01,614
+Hassiktir!
+
+1267
+01:28:02,031 --> 01:28:04,116
+- Hayrola?
+- Petrol kuyuları!
+
+1268
+01:28:04,325 --> 01:28:07,119
+Petrol kuyularını ateşe verdiler.
+
+1269
+01:28:35,940 --> 01:28:39,652
+Petrol yağıyor!
+
+1270
+01:28:40,653 --> 01:28:42,738
+"Giant" filmini izlemiş miydiniz?
+
+1271
+01:28:42,947 --> 01:28:45,825
+İzlemişsinizdir mutlaka.
+James Dean filmi.
+
+1272
+01:28:46,325 --> 01:28:48,452
+<i>"Kuyumdan petrol çıktı Bick."</i>
+
+1273
+01:28:49,453 --> 01:28:52,331
+<i>"Zengin oldum Bick!
+Senden bile daha zenginim!"</i>
+
+1274
+01:28:52,331 --> 01:28:54,750
+Tamam, kapatın ağzınızı.
+Bu şey zehirli.
+
+1275
+01:28:55,918 --> 01:28:57,837
+Toprak kanıyor.
+
+1276
+01:28:58,129 --> 01:29:01,841
+Alışmaya bak.
+İçinde yaşayacağız.
+
+1277
+01:29:01,924 --> 01:29:03,718
+Çukurları kazın çocuklar.
+
+1278
+01:29:13,853 --> 01:29:14,937
+Siktir!
+
+1279
+01:29:15,730 --> 01:29:17,732
+Bu bok gözlerimi yaktı!
+
+1280
+01:29:17,815 --> 01:29:20,026
+Gözlerim yanıyor!
+Kahretsin!
+
+1281
+01:29:20,443 --> 01:29:23,738
+Hassiktir! Gözüme kaçtı!
+Göremiyorum.
+
+1282
+01:29:23,821 --> 01:29:26,115
+Hassiktir! Çok yanıyor!
+
+1283
+01:29:26,115 --> 01:29:27,533
+Swoff, su getir!
+
+1284
+01:29:27,533 --> 01:29:28,743
+Yanıyorum!
+
+1285
+01:29:28,743 --> 01:29:31,037
+Sakin ol! Geçecek!
+
+1286
+01:29:31,120 --> 01:29:33,331
+Gözlerini ovalama!
+
+1287
+01:29:33,414 --> 01:29:35,333
+Yanıyorum!
+
+1288
+01:29:35,333 --> 01:29:38,753
+Gözlerini kapat.
+Swoff, havluyu getir.
+
+1289
+01:29:39,128 --> 01:29:42,840
+Tamam. Aferin sana.
+Kıçını da sileyim mi?
+
+1290
+01:29:44,926 --> 01:29:46,552
+- Kahretsin!
+- Tekrar takın.
+
+1291
+01:29:46,552 --> 01:29:48,221
+Geçti artık dostum.
+
+1292
+01:29:48,221 --> 01:29:50,848
+- Bir şeyin kalmayacak.
+- Sağ ol dostum.
+
+1293
+01:29:50,932 --> 01:29:52,850
+Hey, herkes dinlesin!
+
+1294
+01:29:53,226 --> 01:29:55,937
+Rüzgar yön değiştirdi!
+Buradan gidiyoruz.
+
+1295
+01:29:56,020 --> 01:29:57,438
+Haydi!
+
+1296
+01:29:58,147 --> 01:29:59,941
+Buraya savaşmaya gelmiştim.
+
+1297
+01:30:00,316 --> 01:30:02,527
+Sıçtığımın petrolünden
+kurtulmakla cebelleşiyorum!
+
+1298
+01:30:02,652 --> 01:30:04,529
+Gidelim dostum!
+
+1299
+01:30:28,719 --> 01:30:31,931
+Bu Vietnam şarkısı ya. Kendi
+şarkımızı dinleyemeyecek miyiz?
+
+1300
+01:30:35,935 --> 01:30:37,353
+Hey, Krug...
+
+1301
+01:30:38,020 --> 01:30:40,731
+Fowler ne diye taa ileride kazıyor?
+
+1302
+01:30:40,731 --> 01:30:42,441
+Kazdığı falan yok.
+
+1303
+01:30:43,943 --> 01:30:46,028
+Fowler, ne yapıyorsun?
+
+1304
+01:30:46,237 --> 01:30:47,738
+Fowler!
+
+1305
+01:30:48,823 --> 01:30:51,117
+Ne kazıyorsun orada?
+
+1306
+01:30:51,617 --> 01:30:52,952
+Hiç.
+
+1307
+01:30:53,327 --> 01:30:55,246
+Çukurları buraya kazmamız
+emredildi!
+
+1308
+01:30:55,329 --> 01:30:57,540
+Sen kendi işine bak!
+
+1309
+01:31:03,921 --> 01:31:06,132
+Fowler, su ister misin?
+
+1310
+01:31:10,344 --> 01:31:13,639
+Fergie gelsene biraz.
+Sana bir şey göstereceğim.
+
+1311
+01:31:15,725 --> 01:31:18,019
+Bu benim yeni kankam.
+
+1312
+01:31:19,353 --> 01:31:21,731
+- Kim var orada?
+- Sadece arkadaşım.
+
+1313
+01:31:23,232 --> 01:31:24,233
+Sürpriz!
+
+1314
+01:31:24,317 --> 01:31:26,152
+Tanrı aşkına Fowler!
+
+1315
+01:31:26,819 --> 01:31:29,739
+Arab Ahab, ha?
+
+1316
+01:31:31,115 --> 01:31:33,326
+Çıkar onu!
+
+1317
+01:31:33,451 --> 01:31:34,952
+Kahretsin!
+
+1318
+01:31:35,036 --> 01:31:37,246
+Yanında resim çektirmesi
+beş dolar beyler.
+
+1319
+01:31:37,330 --> 01:31:39,749
+Bakın ağzına ne veriyorum.
+
+1320
+01:31:41,834 --> 01:31:44,837
+Ne oldu Swoffy?
+Swoff, Ahab'dan hoşlanmadı.
+
+1321
+01:31:44,921 --> 01:31:47,757
+Ahab'ı sevmedin mi?
+Savaştayız dostum!
+
+1322
+01:31:48,716 --> 01:31:51,344
+Kaldıramadın mı?
+Homo musun yoksa?
+
+1323
+01:31:51,427 --> 01:31:53,638
+Bana elini sürersen,
+ağzını burnunu dağıtırım!
+
+1324
+01:31:53,721 --> 01:31:55,056
+Tanrı şahidim olsun!
+
+1325
+01:31:55,723 --> 01:31:57,517
+Götür onu!
+
+1326
+01:31:58,726 --> 01:32:01,854
+Çöl bu peçeli cesetleriyle dolu!
+
+1327
+01:32:01,854 --> 01:32:05,441
+Kumda gezinmekten başka
+bir şey yaptık mı?
+
+1328
+01:32:05,441 --> 01:32:07,235
+Ben öldürmedim.
+Herif ölü!
+
+1329
+01:32:08,736 --> 01:32:09,737
+Haydi!
+
+1330
+01:32:13,324 --> 01:32:14,534
+Canınız cehenneme!
+
+1331
+01:32:17,119 --> 01:32:19,747
+Kızartma olmuş bir ton
+ceset var dostum.
+
+1332
+01:32:19,831 --> 01:32:21,332
+İstediğim kadar alırım.
+
+1333
+01:32:21,457 --> 01:32:23,334
+Ama bunu değil.
+
+1334
+01:32:23,543 --> 01:32:26,337
+Ama istediğim kadar alacağım dostum!
+
+1335
+01:32:26,921 --> 01:32:30,424
+Zaten bunu istemiyorum bile!
+
+1336
+01:32:31,843 --> 01:32:32,051
+İstemiyorum.
+
+1337
+01:32:32,718 --> 01:32:34,053
+Fowler...
+
+1338
+01:32:35,721 --> 01:32:37,140
+...toparla kendini.
+
+1339
+01:33:17,722 --> 01:33:19,223
+Geçti artık.
+
+1340
+01:33:20,433 --> 01:33:22,435
+Sana bir şey olmayacak.
+
+1341
+01:33:22,518 --> 01:33:24,145
+Geçti artık.
+
+1342
+01:33:25,354 --> 01:33:26,439
+Çüş.
+
+1343
+01:33:32,320 --> 01:33:34,739
+Her yanın petrole bulanmış!
+
+1344
+01:34:05,520 --> 01:34:09,148
+Karacılar bu boku yiyebilir
+ama Deniz Piyadeleri asla.
+
+1345
+01:34:09,232 --> 01:34:11,943
+Döner dönmez, Fowler'ı
+tuvaletçi yapacağım.
+
+1346
+01:34:32,046 --> 01:34:34,924
+Şu anda kardeşimle beraber
+aynı işte olabilirdim.
+
+1347
+01:34:35,758 --> 01:34:39,554
+Compton'da
+harçsız taş duvar işi yapıyor.
+
+1348
+01:34:41,222 --> 01:34:45,017
+Ofis binalarının iç kısımları,
+metal kolonlar falan.
+
+1349
+01:34:46,144 --> 01:34:47,854
+Şimdi onun ortağıydım.
+
+1350
+01:34:47,937 --> 01:34:52,024
+Son model Dodge Ram Charger'i
+bana verecekti.
+
+1351
+01:34:52,525 --> 01:34:55,027
+Hani 318 magnum yok mu?
+Şu meşhur canavar.
+
+1352
+01:34:56,946 --> 01:34:59,323
+Ofiste çalışırdım.
+Klima serinliğinde.
+
+1353
+01:34:59,657 --> 01:35:03,119
+Her gece karımla uyuyabilirdim.
+Düzerdim falan.
+
+1354
+01:35:04,328 --> 01:35:06,622
+Sabahları çocuklarımı
+okula bırakırdım.
+
+1355
+01:35:06,747 --> 01:35:07,832
+Ekibin başında olurdum.
+
+1356
+01:35:07,957 --> 01:35:10,626
+Üretimi % 40-50 arttırırdım.
+
+1357
+01:35:10,626 --> 01:35:12,545
+Yılda 100,000 dolar.
+
+1358
+01:35:14,338 --> 01:35:17,258
+Neden yapmıyorum biliyor musun?
+
+1359
+01:35:21,846 --> 01:35:25,141
+Çünkü işime aşığım.
+
+1360
+01:35:30,146 --> 01:35:34,025
+Orduda geçirdiğim her gün
+için Tanrı'ya şükrediyorum.
+
+1361
+01:35:42,325 --> 01:35:45,620
+Yani, bunu görme şansına
+başka kim sahip?
+
+1362
+01:36:01,135 --> 01:36:03,054
+Anlatabildim mi?
+
+1363
+01:36:03,638 --> 01:36:05,348
+Evet Çavuşum.
+
+1364
+01:36:07,225 --> 01:36:08,434
+Anladın yani.
+
+1365
+01:36:22,240 --> 01:36:25,451
+Dinleyin. Albay elimdeki en iyi
+nişancıları istedi.
+
+1366
+01:36:25,535 --> 01:36:27,453
+Bunlar sizsiniz.
+Tanrı yardımcım olsun.
+
+1367
+01:36:27,537 --> 01:36:29,747
+Çoğu teslim oldu,
+hatta tüm birimleri...
+
+1368
+01:36:29,747 --> 01:36:31,833
+...ama Cumhuriyet Muhafızları
+hala orada...
+
+1369
+01:36:31,958 --> 01:36:34,043
+...ve en zorluları da onlar.
+
+1370
+01:36:34,127 --> 01:36:36,337
+Bu yüzden dikkatli olun.
+Gidin şimdi.
+
+1371
+01:36:37,839 --> 01:36:39,841
+Başüstüne Çavuşum.
+
+1372
+01:36:40,424 --> 01:36:41,634
+Sağ olun Çavuşum.
+
+1373
+01:36:41,759 --> 01:36:43,052
+- Ne?
+- Sağ olun.
+
+1374
+01:36:43,052 --> 01:36:45,721
+Teşekkür gerekmez.
+Ölme yeter.
+
+1375
+01:36:45,930 --> 01:36:47,223
+Gidelim!
+
+1376
+01:36:56,232 --> 01:36:57,525
+Tam puan!
+
+1377
+01:36:58,151 --> 01:37:00,736
+Öldürün birini, kız kılıklılar!
+
+1378
+01:37:25,720 --> 01:37:27,847
+Sykes size güveniyor.
+
+1379
+01:37:27,930 --> 01:37:29,056
+Evet efendim.
+
+1380
+01:37:29,056 --> 01:37:31,434
+Sykes boş konuşmaz.
+
+1381
+01:37:31,559 --> 01:37:34,645
+Elimde keşif nişancılarının, uğruna
+ninelerini vurabilecekleri türde...
+
+1382
+01:37:34,729 --> 01:37:36,022
+...bir görev var.
+
+1383
+01:37:36,022 --> 01:37:38,733
+Al Jabar hava alanındaki
+kontrol kulesini...
+
+1384
+01:37:38,858 --> 01:37:42,528
+...koruyan 750
+Cumhuriyet Muhafızı var.
+
+1385
+01:37:43,237 --> 01:37:46,532
+Koordinat 703003.
+
+1386
+01:37:47,033 --> 01:37:50,828
+Gözlem raporlarına göre
+kulede iki yüksek rütbeli subay var.
+
+1387
+01:37:51,329 --> 01:37:54,040
+Tüm hava birliklerim
+18:00'e kadar kuzeyde görevde.
+
+1388
+01:37:54,123 --> 01:37:56,626
+O subayları indirebilirseniz...
+
+1389
+01:37:56,751 --> 01:37:59,045
+...geri kalanlar beyaz bayrak
+sallayabilir...
+
+1390
+01:37:59,128 --> 01:38:03,257
+...dolayısıyla beni tüm taburu
+göndermekten kurtarırsınız.
+
+1391
+01:38:03,257 --> 01:38:04,133
+Başüstüne efendim.
+
+1392
+01:38:04,258 --> 01:38:06,135
+Ramboculuk oynamıyoruz.
+
+1393
+01:38:07,220 --> 01:38:10,556
+Vuruşu garantiye almadan
+atış yapmak yok. Anlaşıldı mı?
+
+1394
+01:38:10,640 --> 01:38:12,433
+- Anlaşıldı efendim.
+- Çok güzel.
+
+1395
+01:38:14,143 --> 01:38:18,147
+Bazı subaylarım keşif nişancılarına
+assolist der.
+
+1396
+01:38:19,232 --> 01:38:22,151
+Onlara göre GHT;
+Güneşlenen Havyarcılar Takımı demektir.
+
+1397
+01:38:22,151 --> 01:38:24,320
+- Bunda haklılar mı?
+- Hayır efendim.
+
+1398
+01:38:24,737 --> 01:38:26,531
+Görelim o zaman!
+
+1399
+01:39:11,659 --> 01:39:12,827
+Temiz.
+
+1400
+01:39:24,922 --> 01:39:26,549
+Sıçayım!
+
+1401
+01:39:27,633 --> 01:39:30,052
+Kulede kimsecikler yok.
+
+1402
+01:39:31,929 --> 01:39:34,557
+Güneş batıyor. Kahretsin!
+
+1403
+01:39:34,932 --> 01:39:36,058
+Dur!
+
+1404
+01:39:38,227 --> 01:39:39,854
+Şükürler olsun.
+
+1405
+01:39:46,360 --> 01:39:48,821
+Romeo, Golf, Charlie.
+Romeo, Golf, Charlie.
+
+1406
+01:39:48,946 --> 01:39:50,823
+Sierra burası Lima. Tamam.
+
+1407
+01:39:51,657 --> 01:39:53,743
+Subaylar kulede. Tamam.
+
+1408
+01:39:53,826 --> 01:39:55,661
+Demek bunlardı, ha?
+
+1409
+01:39:59,457 --> 01:40:00,541
+Menzil?
+
+1410
+01:40:01,959 --> 01:40:03,252
+820 metre.
+
+1411
+01:40:07,632 --> 01:40:08,925
+Rüzgar?
+
+1412
+01:40:10,843 --> 01:40:12,929
+Batıdan doğuya, beş yedi.
+
+1413
+01:40:17,934 --> 01:40:20,144
+Romeo, Golf, Charlie.
+Romeo, Golf, Charlie.
+
+1414
+01:40:20,144 --> 01:40:22,730
+Atış izni isteği. Tamam.
+
+1415
+01:40:31,030 --> 01:40:33,825
+- Hazır.
+- Atışa hazırız. Tamam.
+
+1416
+01:40:43,042 --> 01:40:44,752
+Olumlu. Bitti.
+
+1417
+01:40:45,837 --> 01:40:47,630
+Atış izni verildi.
+
+1418
+01:41:03,146 --> 01:41:04,230
+Ateş.
+
+1419
+01:41:05,148 --> 01:41:06,232
+Ateş.
+
+1420
+01:41:07,233 --> 01:41:08,359
+Ateş.
+
+1421
+01:41:09,652 --> 01:41:11,445
+Hangi lanet frekanstasınız siz?
+
+1422
+01:41:11,529 --> 01:41:12,655
+Lanet olsun!
+
+1423
+01:41:12,655 --> 01:41:14,532
+Hava desteği tamam.
+Atış isteği yapıyorum.
+
+1424
+01:41:14,657 --> 01:41:16,325
+Atış iznimiz var.
+
+1425
+01:41:16,450 --> 01:41:18,953
+Şanssızlık. Sadece
+bir kişiyi vuracaktınız.
+
+1426
+01:41:18,953 --> 01:41:21,539
+Seyredin. Gözlerinize
+inanamayacaksınız.
+
+1427
+01:41:23,249 --> 01:41:25,626
+Dizler iflas.
+Üniversite futbol takımı.
+
+1428
+01:41:26,544 --> 01:41:28,337
+Atış izni istiyoruz efendim.
+
+1429
+01:41:28,463 --> 01:41:29,630
+İstek reddedildi.
+
+1430
+01:41:29,630 --> 01:41:32,258
+Bunun için kim bilir daha kaç
+fırsatınız olacak.
+
+1431
+01:41:32,258 --> 01:41:33,426
+Bir saniye.
+
+1432
+01:41:33,551 --> 01:41:36,846
+Efendim, hava desteği gelmeden
+hemen önce atışı yapalım.
+
+1433
+01:41:36,929 --> 01:41:39,557
+Aldığım emirler farklı, asker.
+Hitman 45...
+
+1434
+01:41:39,640 --> 01:41:41,642
+Yok, durun durun.
+
+1435
+01:41:41,726 --> 01:41:43,436
+- Hitman 45...
+- Durun durun.
+
+1436
+01:41:43,561 --> 01:41:45,855
+Efendim...
+Kimseye söylemeyiz.
+
+1437
+01:41:47,023 --> 01:41:49,859
+Söylememize gerek yok.
+Ne fark eder?
+
+1438
+01:41:49,942 --> 01:41:51,652
+Garanti bir atış yakaladık.
+İzin verin.
+
+1439
+01:41:51,736 --> 01:41:53,029
+Olumsuz!
+
+1440
+01:41:54,155 --> 01:41:55,656
+Albay'dan iznimiz var efendim.
+
+1441
+01:41:56,741 --> 01:41:59,952
+Hitman 45. Hitman 45.
+Burası...
+
+1442
+01:41:59,952 --> 01:42:02,830
+Herif zaten ölecek!
+İzin ver işte!
+
+1443
+01:42:02,955 --> 01:42:04,957
+Sınırı çoktan aştın onbaşı!
+
+1444
+01:42:05,041 --> 01:42:07,251
+- Ne fark eder sanki?
+- Mikrotelefonu ver.
+
+1445
+01:42:07,335 --> 01:42:08,836
+Fark etmeyecekse...
+
+1446
+01:42:08,961 --> 01:42:10,254
+...bunu tutturmanın alemi ne?
+
+1447
+01:42:10,338 --> 01:42:13,049
+Çünkü atışımız hazır!
+Geliş nedenimiz bu!
+
+1448
+01:42:13,132 --> 01:42:15,760
+- Ver şunu bana!
+- Siktir!
+
+1449
+01:42:15,843 --> 01:42:17,261
+Durun ulan!
+
+1450
+01:42:17,345 --> 01:42:19,931
+Dur!
+Onu ben öldürmeliyim!
+
+1451
+01:42:19,931 --> 01:42:23,351
+Kahretsin! Onu ben öldürmeliyim!
+
+1452
+01:42:23,559 --> 01:42:25,436
+Sıçtığımın masa başı elemanı!
+
+1453
+01:42:25,436 --> 01:42:27,230
+Siktiğimin hıyarı!
+
+1454
+01:42:27,730 --> 01:42:30,149
+- Neler yaşadığımızı bilemezsin sen!
+- Tamam!
+
+1455
+01:42:30,233 --> 01:42:31,734
+Ne tamamı?
+
+1456
+01:42:32,527 --> 01:42:35,446
+Bırak beni!
+
+1457
+01:42:39,242 --> 01:42:40,243
+Sadece...
+
+1458
+01:42:40,743 --> 01:42:42,829
+Sadece bunu açıklamak...
+
+1459
+01:42:43,329 --> 01:42:44,330
+Allah kahretsin!
+
+1460
+01:43:03,224 --> 01:43:06,144
+Siz GHT elemanları tuhaf
+yaratıklarsınız.
+
+1461
+01:43:19,949 --> 01:43:23,744
+Hitman 45. Hitman 45.
+Lima burası Bravo. Tamam.
+
+1462
+01:44:07,663 --> 01:44:10,249
+Birini öldürebilecek miyiz sence?
+
+1463
+01:44:11,125 --> 01:44:12,627
+Biliyorsam arap olayım.
+
+1464
+01:44:16,339 --> 01:44:17,757
+Seni ne zaman kovacaklar?
+
+1465
+01:44:19,258 --> 01:44:21,344
+Döndükten iki hafta sonra.
+
+1466
+01:44:22,428 --> 01:44:24,847
+Terhis belgem şimdiden elimde.
+
+1467
+01:44:27,433 --> 01:44:28,559
+Planların var mı?
+
+1468
+01:44:30,061 --> 01:44:33,648
+Uyuşturucu satarım.
+Biraz ot ekerim.
+
+1469
+01:44:37,360 --> 01:44:39,362
+Tek istediğin burada kalmak.
+
+1470
+01:44:40,655 --> 01:44:42,365
+Benimse dışarı çıkmak.
+
+1471
+01:44:45,326 --> 01:44:47,161
+Çukur'a hoş geldin.
+
+1472
+01:44:58,256 --> 01:45:00,049
+Araç nerede kaldı?
+
+1473
+01:45:00,550 --> 01:45:01,551
+Hassiktir!
+
+1474
+01:45:36,627 --> 01:45:38,337
+Scud füzeleri dostum!
+
+1475
+01:45:39,046 --> 01:45:41,340
+Hassiktir, tabura gidiyordu!
+
+1476
+01:45:41,340 --> 01:45:43,759
+Bunu bilemeyiz.
+Dost olabilir.
+
+1477
+01:45:43,759 --> 01:45:46,137
+Böyle dost ateşi
+işittin mi hiç?
+
+1478
+01:45:46,262 --> 01:45:47,346
+Siktir!
+
+1479
+01:45:51,434 --> 01:45:54,228
+- Tanrım, duydun mu?
+- Çığlık.
+
+1480
+01:45:55,354 --> 01:45:57,648
+Hattın ardındalar dostum!
+Cumhuriyet Muhafızları.
+
+1481
+01:45:57,732 --> 01:45:59,233
+Hazır mısın?
+
+1482
+01:45:59,358 --> 01:46:00,860
+Haklayalım orospu çocuklarını!
+
+1483
+01:46:00,943 --> 01:46:04,155
+- Seni koruyorum.
+- Haydi! Haydi! Haydi!
+
+1484
+01:46:35,645 --> 01:46:37,063
+Siktir!
+
+1485
+01:46:37,438 --> 01:46:39,649
+Sersem herifler,
+hala orada mıydınız?
+
+1486
+01:46:39,732 --> 01:46:42,026
+- Çavuş?
+- Bilmiyorsunuz değil mi?
+
+1487
+01:46:42,026 --> 01:46:44,946
+Parti veriyoruz.
+Biraz fazla giyiniksiniz.
+
+1488
+01:46:45,029 --> 01:46:48,032
+Bu pislik sona erdi sersemler.
+Ölmediniz.
+
+1489
+01:46:48,366 --> 01:46:49,867
+Bir sigara tüttürün.
+
+1490
+01:46:50,451 --> 01:46:52,161
+Ölmezsiniz.
+
+1491
+01:46:54,664 --> 01:46:55,832
+Partiye devam!
+
+1492
+01:46:57,166 --> 01:47:00,628
+Hey serseriler,
+kimseyi öldürdünüz mü bari?
+
+1493
+01:47:02,338 --> 01:47:04,757
+- Kimseyi öldürdünüz mü dostum?
+- Hayır.
+
+1494
+01:47:05,049 --> 01:47:06,342
+Lanet olsun!
+
+1495
+01:47:07,135 --> 01:47:11,055
+Lanet rodeo bitti artık!
+
+1496
+01:47:11,264 --> 01:47:12,849
+Eve dönüyoruz!
+
+1497
+01:47:15,560 --> 01:47:19,564
+Kamuflajlarınızı getirin çocuklar.
+Yakıyorum hepsini.
+
+1498
+01:47:20,064 --> 01:47:22,150
+İhtiyacımız kalmadı artık.
+
+1499
+01:47:23,067 --> 01:47:26,529
+Saddam'ı öldürdük!
+Artık tarih oldu!
+
+1500
+01:47:26,654 --> 01:47:28,656
+Tarih oldu artık!
+
+1501
+01:47:28,739 --> 01:47:31,951
+Bu pislik yuvasına bir daha
+gelmemiz gerekmeyecek!
+
+1502
+01:47:39,459 --> 01:47:41,252
+Tüfeğimi hiç ateşlemedim.
+
+1503
+01:47:45,840 --> 01:47:47,341
+Şimdi yap.
+
+1504
+01:48:53,950 --> 01:48:55,660
+<i>Dört gün.</i>
+
+1505
+01:48:56,953 --> 01:48:58,329
+<i>Dört saat.</i>
+
+1506
+01:48:59,247 --> 01:49:00,665
+<i>Bir dakika.</i>
+
+1507
+01:49:02,667 --> 01:49:04,252
+<i>Savaşım buydu.</i>
+
+1508
+01:49:28,234 --> 01:49:29,735
+Bira ister misin?
+
+1509
+01:49:29,861 --> 01:49:31,529
+Bakın, bira aldım!
+
+1510
+01:49:33,239 --> 01:49:35,241
+Parti zamanı!
+
+1511
+01:49:42,331 --> 01:49:44,167
+Hep sadığız Deniz Piyadeleri!
+
+1512
+01:49:45,543 --> 01:49:47,253
+Hep sadığız Deniz Piyadeleri!
+
+1513
+01:49:51,340 --> 01:49:52,758
+Başardınız.
+
+1514
+01:49:53,634 --> 01:49:55,261
+Temiş iş çıkardınız.
+
+1515
+01:49:56,053 --> 01:49:57,638
+Göğsümüzü kabarttınız.
+
+1516
+01:50:00,057 --> 01:50:01,350
+Hep sadığız.
+
+1517
+01:50:03,269 --> 01:50:04,937
+Sadık mı sadığız.
+
+1518
+01:50:05,855 --> 01:50:07,648
+Evine hoş geldin asker.
+
+1519
+01:50:08,566 --> 01:50:10,067
+Evine hoş geldin.
+
+1520
+01:50:10,568 --> 01:50:12,236
+Evine hoş geldin evlat.
+
+1521
+01:50:13,154 --> 01:50:15,364
+Evine hoş geldin Çavuşum.
+
+1522
+01:50:28,336 --> 01:50:30,755
+Otobüsünüzde oturmamın
+mahsuru var mı?
+
+1523
+01:50:32,465 --> 01:50:34,634
+<i>Bütün savaşlar farklıdır.</i>
+
+1524
+01:50:38,930 --> 01:50:41,140
+<i>Bütün savaşlar aynıdır.</i>
+
+1525
+01:51:00,952 --> 01:51:02,370
+Bana bir içki ver...
+
+1526
+01:51:18,344 --> 01:51:19,637
+Nereye?
+
+1527
+01:51:37,947 --> 01:51:39,031
+Evet?
+
+1528
+01:51:40,867 --> 01:51:42,368
+- Fergus?
+- Selam dostum.
+
+1529
+01:51:44,537 --> 01:51:46,747
+Dostum nasılsın?
+Saçlar yakıyor.
+
+1530
+01:51:46,831 --> 01:51:48,833
+- İyiyim sağ ol.
+- Gel içeri.
+
+1531
+01:51:52,170 --> 01:51:53,629
+Haberler kötü dostum.
+
+1532
+01:52:48,768 --> 01:52:50,269
+<i>Bir hikaye.</i>
+
+1533
+01:52:51,145 --> 01:52:53,731
+<i>Bir adam yıllarca
+tüfeğini ateşler...</i>
+
+1534
+01:52:54,357 --> 01:52:56,067
+<i>...ve savaşa gider.</i>
+
+1535
+01:52:57,443 --> 01:52:59,654
+<i>Sonrasında evine döner...</i>
+
+1536
+01:53:00,446 --> 01:53:03,658
+<i>...ve fark eder ki,
+hayatını nasıl yaşarsa yaşasın...</i>
+
+1537
+01:53:04,951 --> 01:53:06,536
+<i>...ister ev yapsın...</i>
+
+1538
+01:53:07,870 --> 01:53:09,330
+<i>...ister bir kadını sevsin...</i>
+
+1539
+01:53:10,665 --> 01:53:12,667
+<i>...ister çocuğunun altını değiştirsin...</i>
+
+1540
+01:53:14,460 --> 01:53:16,462
+<i>...o daima...</i>
+
+1541
+01:53:17,755 --> 01:53:19,048
+<i>...bir kavanozkafadır.</i>
+
+1542
+01:53:22,635 --> 01:53:24,554
+<i>Ve bütün kavanozkafalar...</i>
+
+1543
+01:53:25,847 --> 01:53:28,266
+<i>...öldüreniyle, öleniyle...</i>
+
+1544
+01:53:29,851 --> 01:53:32,436
+<i>...onlar daima...</i>
+
+1545
+01:53:33,855 --> 01:53:35,231
+<i>...bende yaşayacak.</i>
+
+1546
+01:53:41,154 --> 01:53:42,655
+<i>Hepimiz hala...</i>
+
+1547
+01:53:43,698 --> 01:53:45,199
+<i>...çöldeyiz.</i>
