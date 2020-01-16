@@ -1,0 +1,7052 @@
+3
+00:01:09,820 --> 00:01:13,448
+<i>Daha genç ve daha
+zayıf olduğum yıllarımda...</i>
+
+4
+00:01:13,914 --> 00:01:17,259
+<i>...babam bana iyi bir öğüt vermişti.</i>
+
+5
+00:01:19,028 --> 00:01:23,175
+<i>"Her daim kişilerin en iyi
+yanlarını görmeye çalış" derdi.</i>
+
+6
+00:01:24,760 --> 00:01:30,127
+<i>Bunun bir sonucu olarak tüm düşüncelerimi
+kendime saklama eğilimindeyimdir.</i>
+
+7
+00:01:31,440 --> 00:01:34,679
+<i>Ama benim bile bir sınırım var.</i>
+
+8
+00:01:37,561 --> 00:01:41,914
+<i>O zamanlar hepimiz çok içerdik.</i>
+
+9
+00:01:42,938 --> 00:01:46,726
+<i>Zamana daha çok ayak uydurdukça...</i>
+
+10
+00:01:47,286 --> 00:01:50,577
+<i>...daha da çok içtik.</i>
+
+11
+00:01:50,658 --> 00:01:54,739
+<i>Ve hiçbirimiz yeni bir
+şeye katkıda bulunmadı.</i>
+
+12
+00:01:56,998 --> 00:02:00,454
+New York'tan geri döndüğümde iğrenmiştim.
+
+13
+00:02:03,234 --> 00:02:05,266
+Anlıyorum Bay Carraway.
+
+14
+00:02:05,794 --> 00:02:10,264
+Herkesten, her şeyden iğrenmiştim.
+
+15
+00:02:11,503 --> 00:02:15,288
+Bir kişi hariç herkesten iğrenmiştim.
+
+16
+00:02:19,359 --> 00:02:23,023
+Bir kişi mi Bay Carraway?
+
+17
+00:02:27,394 --> 00:02:29,383
+Gatsby.
+
+18
+00:02:31,884 --> 00:02:34,062
+Kendisi bir arkadaşınız mıydı?
+
+19
+00:02:36,091 --> 00:02:38,431
+O...
+
+20
+00:02:39,053 --> 00:02:43,742
+...şimdiye kadar tanıştığım ve
+büyük ihtimalle de tanışacağım...
+
+21
+00:02:44,373 --> 00:02:48,040
+...en umutlu insandı.
+
+22
+00:02:49,870 --> 00:02:54,633
+Onda bir şeyler vardı.
+Bir hassaslık vardı. O sanki...
+
+23
+00:02:56,130 --> 00:03:00,612
+...15.000 kilometre uzaktan gelen deprem
+dalgalarını tespit eden makineler gibiydi.
+
+24
+00:03:02,110 --> 00:03:04,251
+Onunla nerede tanıştınız?
+
+25
+00:03:09,014 --> 00:03:11,544
+Bir...
+Bir partide.
+
+26
+00:03:12,624 --> 00:03:16,883
+<i>New York'ta.
+1922 yılının yazında...</i>
+
+27
+00:03:16,990 --> 00:03:21,377
+<i>...şehrin temposu histerik bir hâl almıştı.</i>
+
+28
+00:03:33,923 --> 00:03:36,469
+<i>Hisse senetleri rekor
+rakamlarla tavan yapmıştı...</i>
+
+29
+00:03:36,529 --> 00:03:41,650
+<i>...ve Wall Street sürekli
+bir yükseliş içerisindeydi.</i>
+
+30
+00:03:41,721 --> 00:03:44,040
+<i>Partiler çok daha büyüktü.</i>
+
+31
+00:03:44,235 --> 00:03:46,341
+<i>Gösteriler daha yaygındı.</i>
+
+32
+00:03:46,509 --> 00:03:48,739
+<i>Binalar daha yüksekti.</i>
+
+33
+00:03:49,167 --> 00:03:53,643
+<i>Modeller daha açıktı ve
+alkol yasağı geri tepmişti.</i>
+
+34
+00:03:53,951 --> 00:03:56,723
+<i>Bu yüzden de içkiler daha ucuzdu.</i>
+
+35
+00:04:01,388 --> 00:04:05,264
+<i>Wall Street genç ve
+hırslı kişileri kendine çekiyordu...</i>
+
+36
+00:04:06,518 --> 00:04:09,240
+<i>...ve ben o kişilerden biriydim.</i>
+
+37
+00:04:12,553 --> 00:04:15,569
+<i>Şehirden 30 kilometre ötede
+Long Island'da bir ev kiraladım.</i>
+
+38
+00:04:15,786 --> 00:04:19,405
+<i>West Egg'de yeni zenginlerin
+mansiyonları arasına...</i>
+
+39
+00:04:19,539 --> 00:04:23,015
+<i>...sıkışmış bir bekçi
+kulübesinde yaşıyordum.</i>
+
+40
+00:04:23,477 --> 00:04:27,777
+<i>Başlangıç olarak ticaret bankası ve
+yatırım hakkında 12 ciltlik bir set aldım.</i>
+
+41
+00:04:27,851 --> 00:04:29,695
+<i>Bu konulara tamamen yabancıydım.</i>
+
+42
+00:04:32,323 --> 00:04:36,632
+Beyler hiçbir şey %100 değildir. Gerçi
+kuruşuna kadar her şey yatırılmaz ama...
+
+43
+00:04:36,915 --> 00:04:41,424
+<i>Yale'deyken bir yazar olmanın hayalini
+kurardım. Ama bu hayalleri bir kenara attım.</i>
+
+44
+00:04:42,075 --> 00:04:45,695
+<i>Parıldayan güneş ve ağaçların her yanından
+fışkıran yaprakların arasında...</i>
+
+45
+00:04:45,721 --> 00:04:48,288
+<i>...yazımı çalışarak geçirmeyi planladım.</i>
+
+46
+00:04:49,452 --> 00:04:51,553
+<i>Ve Gatsby adındaki...</i>
+
+47
+00:04:51,779 --> 00:04:57,328
+<i>...henüz tanışmadığım...</i>
+
+48
+00:04:59,244 --> 00:05:03,925
+<i>...beyefendinin devasa
+kalesinin duvarları ardından...</i>
+
+49
+00:05:05,004 --> 00:05:09,371
+<i>...artarak fırlayıp gelen
+eğlence kaynağı olmasaydı...</i>
+
+50
+00:05:09,636 --> 00:05:12,391
+<i>...öyle de yapardım.</i>
+
+51
+00:05:13,759 --> 00:05:17,008
+Yani o senin komşun muydu?
+
+52
+00:05:17,277 --> 00:05:20,620
+Komşumdu.
+Evet.
+
+53
+00:05:21,949 --> 00:05:25,743
+<i>Şimdi düşündüm de, aslında yaz
+tam anlamıyla akşam yemeği için...</i>
+
+54
+00:05:25,767 --> 00:05:29,787
+<i>...kuzenim Daisy'nin
+evine gittiğimde başlamıştı.</i>
+
+55
+00:05:29,820 --> 00:05:32,573
+<i>O koyun öbür yakasında...</i>
+
+56
+00:05:32,729 --> 00:05:37,442
+<i>...East Egg, Old Money'de yaşıyordu.</i>
+
+57
+00:05:41,847 --> 00:05:45,958
+<i>Kocası Amerika'nın en zengin
+ailelerinin birinin varisiydi.</i>
+
+58
+00:05:46,697 --> 00:05:50,620
+<i>Onun adı Tom Buchanan idi.</i>
+
+59
+00:05:53,305 --> 00:05:56,462
+<i>Beraber Yale'deyken
+o bir spor yıldızıydı.</i>
+
+60
+00:05:56,630 --> 00:06:00,016
+<i>Artık eski parlak günleri
+geride kalmıştı ve o kendini...</i>
+
+61
+00:06:00,081 --> 00:06:02,232
+- Telefon Bay Buchanan.
+- Benim.
+
+62
+00:06:02,565 --> 00:06:06,061
+<i>- ...başka işlerle meşgul ediyordu.
+- Sana beni buradan aramamanı söylemiştim.</i>
+
+63
+00:06:06,069 --> 00:06:07,094
+Juarez!
+
+64
+00:06:07,928 --> 00:06:11,003
+- Shakespeare!
+- Tom!
+
+65
+00:06:12,097 --> 00:06:14,009
+Büyük Amerikan romanın nasıl gidiyor?
+
+66
+00:06:14,063 --> 00:06:16,199
+Walter Chase ile beraber
+artık hisse senedi satıyoruz.
+
+67
+00:06:16,354 --> 00:06:18,584
+Bakalım bakalım.
+Yemekten sonra seninle kasabaya inelim...
+
+68
+00:06:18,682 --> 00:06:20,650
+- Yapamam.
+- ...bizim tayfayla bir buluşalım.
+
+69
+00:06:20,937 --> 00:06:23,751
+- Yarın işte önemli bir gün olacak.
+- Saçma! Gideceğiz.
+
+70
+00:06:23,805 --> 00:06:26,275
+İlk ekibim, en iyi amatör oyuncu.
+
+71
+00:06:26,361 --> 00:06:28,597
+Görüyor musun?
+Bugün beni ben yapan budur.
+
+72
+00:06:28,750 --> 00:06:32,227
+Forest Hills, Galler Prensi de oynamıştı.
+Ne hanım evladıdır ha!
+
+73
+00:06:32,715 --> 00:06:36,840
+Hayat egemen olduğun bir şeydir Nick!
+Tabii işinde iyiysen.
+
+74
+00:07:01,451 --> 00:07:03,281
+Henry!
+Neredesin?
+
+75
+00:07:03,728 --> 00:07:04,899
+Geldim Efendim.
+
+76
+00:07:05,067 --> 00:07:07,156
+Kapılar!
+Kapa onları.
+
+77
+00:07:08,647 --> 00:07:10,010
+Henry!
+
+78
+00:07:10,113 --> 00:07:12,360
+Kusura bakmayın.
+Teşekkürler.
+
+79
+00:07:12,951 --> 00:07:15,480
+Sen misin o bir tanem?
+
+80
+00:07:18,972 --> 00:07:22,553
+<i>Daisy Buchanan.
+Altın kız.</i>
+
+81
+00:07:22,908 --> 00:07:25,095
+<i>Onun nefes kesici bir içtenliği vardı.</i>
+
+82
+00:07:25,167 --> 00:07:29,338
+<i>Sanki dünyada bu kadar görmek isteyeceği
+başka kimsenin olmadığını vaat eder gibiydi.</i>
+
+83
+00:07:29,964 --> 00:07:31,826
+Chicago'da beni özlediler mi?
+
+84
+00:07:31,827 --> 00:07:33,356
+Evet...
+
+85
+00:07:33,979 --> 00:07:36,285
+...en az 12 kişi sevgilerini iletti.
+
+86
+00:07:36,339 --> 00:07:38,188
+Ne harika.
+
+87
+00:07:38,396 --> 00:07:40,128
+Hepsi yas içindeler.
+
+88
+00:07:40,275 --> 00:07:41,274
+- Ağlıyorlar.
+- Hayır. - Evet.
+
+89
+00:07:41,418 --> 00:07:43,059
+- İnleye inleye ağlıyorlar.
+- Sana inanmıyorum.
+
+90
+00:07:43,094 --> 00:07:44,562
+- İnanmıyorum.
+- Çığlık atıyorlar, bağırıyorlar.
+
+91
+00:07:44,623 --> 00:07:46,813
+"Daisy Buchanan,
+sensiz yaşayamayız" diyorlar.
+
+92
+00:07:47,195 --> 00:07:49,930
+Mutluluktan dört köşe oldum!
+
+93
+00:07:54,853 --> 00:07:57,976
+Jordan Baker, çok ünlü bir golfçüdür.
+
+94
+00:07:59,015 --> 00:08:01,626
+<i>O gördüğüm en korkutucu kişiydi.</i>
+
+95
+00:08:01,968 --> 00:08:05,921
+Sizi Sporting Life'ın kapağında görmüştüm.
+Ben Nick Carraway.
+
+96
+00:08:06,531 --> 00:08:08,747
+Ama ona bakmak çok hoşuma gidiyordu.
+
+97
+00:08:08,836 --> 00:08:12,068
+Sabahtan beri o koltukta yatıyordum.
+
+98
+00:08:12,767 --> 00:08:14,633
+Bu yaz ikinizi birbirinize yapacağım.
+
+99
+00:08:14,662 --> 00:08:17,034
+İkinizi çamaşır dolabına kapatacağım,
+tekne turlarına çıkaracağım.
+
+100
+00:08:17,109 --> 00:08:18,659
+Dediğin tek kelimeye bile kulak asmıyorum.
+
+101
+00:08:18,697 --> 00:08:21,905
+Nick, Daisy bana West Egg'de
+olduğunu söyledi.
+
+102
+00:08:22,488 --> 00:08:24,522
+O sosyal yükselişte olan yabanıl,
+sonradan görme tiplerle...
+
+103
+00:08:24,645 --> 00:08:26,117
+...aynı yoldan ilerliyormuşsun.
+
+104
+00:08:26,143 --> 00:08:28,670
+Benim kulübem ayda 80$'lık
+karton bir kutudan ibaret.
+
+105
+00:08:28,707 --> 00:08:29,987
+Hayatın çok şahane.
+
+106
+00:08:30,215 --> 00:08:31,865
+Ben West Egg'de yaşayan birini tanıyorum.
+
+107
+00:08:31,990 --> 00:08:34,118
+Koyun o tarafında
+yaşayan kimseyi tanımıyorum.
+
+108
+00:08:34,165 --> 00:08:36,522
+Ama Gatsby'i tanıyor olmalısın.
+
+109
+00:08:37,518 --> 00:08:39,519
+Gatsby mi?
+
+110
+00:08:43,079 --> 00:08:44,334
+Ne Gatsby'si?
+
+111
+00:08:44,335 --> 00:08:47,054
+Madam, yemek servis ediliyor.
+
+112
+00:08:58,393 --> 00:09:01,614
+- Bir aile sırrı duymak ister misin?
+- Ben de bunun için geldim.
+
+113
+00:09:01,622 --> 00:09:04,431
+- Malum kişi hakkında.
+- İşler kötüden berbata döndü.
+
+114
+00:09:04,432 --> 00:09:05,747
+O kelimeden nefret ediyorum.
+
+115
+00:09:05,831 --> 00:09:09,208
+Nicky, West'ten bir kızla evleneceğin
+şeklinde bir söylenti duydum.
+
+116
+00:09:09,306 --> 00:09:10,707
+Bu bir iftira.
+Evlenecek para yok bende.
+
+117
+00:09:10,742 --> 00:09:14,082
+- Çabuk ölmeleri için yaşlı olmaları lazım.
+- Başka bir şeyden konuşamaz mıyız?
+
+118
+00:09:14,115 --> 00:09:15,455
+- Bir planımızın olması gerek.
+- Herhangi bir şey. Mesela ekinler.
+
+119
+00:09:15,486 --> 00:09:17,588
+Kendimi medeniyetsiz hissettiriyorsun Daisy.
+
+120
+00:09:17,615 --> 00:09:19,066
+Medeniyet paramparça oluyor ya.
+
+121
+00:09:20,679 --> 00:09:23,155
+"Renkli imparatorlukların yükselişi"ni
+okudunuz mu?
+
+122
+00:09:23,283 --> 00:09:26,529
+Goddard adında biri yazmış.
+Herkesin okuması gerek.
+
+123
+00:09:26,810 --> 00:09:30,695
+Kitabın ana fikri, bizim, üstün ırkın...
+
+124
+00:09:30,841 --> 00:09:35,021
+...diğer tüm ırklara karşı dikkatli olması
+gerektiği. Biz her şeyin kontrolündeyiz.
+
+125
+00:09:35,077 --> 00:09:36,934
+Tom son zamanlarda çok derin düşünüyor.
+
+126
+00:09:37,045 --> 00:09:39,206
+İçinde uzun kelimeler bulunan
+derin kitaplar okuyor.
+
+127
+00:09:39,488 --> 00:09:41,311
+Bu kanıtlanmış.
+Bilimsel bir şekilde.
+
+128
+00:09:41,538 --> 00:09:44,044
+"Onları bastırmalıyız".
+
+129
+00:09:52,255 --> 00:09:54,692
+Buchanan malikânesi.
+
+130
+00:09:55,059 --> 00:09:59,285
+Benzinlikten Bay Wilson.
+Bay Buchanan?
+
+131
+00:09:59,348 --> 00:10:02,314
+İzninizle, hemen dönerim.
+
+132
+00:10:05,566 --> 00:10:07,467
+Affedersiniz.
+
+133
+00:10:09,555 --> 00:10:13,833
+Bahsettiğin şu Bay Gatsby.
+Kendisi komşum olur.
+
+134
+00:10:14,108 --> 00:10:17,154
+Konuşma.
+Neler olduğunu duymak istiyorum.
+
+135
+00:10:18,516 --> 00:10:19,624
+Bir şeyler mi oluyor ki?
+
+136
+00:10:19,625 --> 00:10:21,141
+Herkes biliyor sanıyordum ya.
+
+137
+00:10:21,176 --> 00:10:22,081
+Ben bilmiyorum.
+
+138
+00:10:22,303 --> 00:10:24,601
+Tom'un New York'ta
+başka bir kadını varmış.
+
+139
+00:10:24,645 --> 00:10:25,455
+Başka bir kadını mı varmış?
+
+140
+00:10:25,582 --> 00:10:29,910
+En azından yemek vakti aramayacak kadar
+anlayışı olmalı, sence de öyle değil mi?
+
+141
+00:10:33,947 --> 00:10:37,705
+Seni masamda görmeye bayılıyorum Nicky.
+Bana bir gülü andırıyorsun.
+
+142
+00:10:37,947 --> 00:10:39,270
+Kendisi tam anlamıyla bir gül, değil mi?
+
+143
+00:10:39,271 --> 00:10:41,221
+- Pekâlâ, yemekten sonra...
+- Ben gül gibi hafif bile değilimdir.
+
+144
+00:10:41,386 --> 00:10:43,860
+...Nick şehre inmek istiyordu.
+Değil mi Nick? Yale Club'a.
+
+145
+00:10:43,917 --> 00:10:46,029
+- Nicky, gitme!
+- Sabah erken işe gitmem gerek.
+
+146
+00:10:46,297 --> 00:10:48,666
+- Saçmalama.
+- Konuşacak çok şeyimiz var.
+
+147
+00:10:48,941 --> 00:10:50,796
+Sadece bir iki içki içeriz.
+
+148
+00:10:56,963 --> 00:11:02,385
+<i>Hiçbirimiz 5. ziyaretçinin ısrarının o tiz,
+metalik sesini görmezden gelemiyorduk.</i>
+
+149
+00:11:03,194 --> 00:11:05,940
+- Ah Nicky.
+- Ne oldu?
+
+150
+00:11:06,055 --> 00:11:10,078
+Sadece... İşte, bence sonuçta
+her şey berbat bir hâlde.
+
+151
+00:11:10,958 --> 00:11:12,582
+- Gerçekten mi?
+- Evet.
+
+152
+00:11:12,699 --> 00:11:16,308
+Her yere gittim, her şeyi
+gördüm, her şeyi yaptım.
+
+153
+00:11:16,529 --> 00:11:21,441
+Çok kötü vakit geçirdim Nicky.
+Artık her şeye kötümser bir gözle bakıyorum.
+
+154
+00:11:25,865 --> 00:11:29,174
+Kızın, zannedersem her şeyden
+konuşup her şeyi yiyordur?
+
+155
+00:11:29,244 --> 00:11:30,707
+Pammy mi?
+
+156
+00:11:31,289 --> 00:11:32,994
+Tabii ya.
+
+157
+00:11:33,104 --> 00:11:38,266
+Bak Nick.
+O doğduğunda Tom...
+
+158
+00:11:38,455 --> 00:11:41,294
+...kim bilir nerelerdeydi?
+
+159
+00:11:45,527 --> 00:11:47,865
+Kim bilir kimlerleydi?
+
+160
+00:11:47,947 --> 00:11:52,335
+Hemşireye erkek mi kız mı diye sormuştum.
+
+161
+00:11:53,591 --> 00:11:57,187
+O da bana kız olduğunu söyledi.
+Gözümden yaş geldi.
+
+162
+00:11:57,812 --> 00:12:00,565
+İyi ki kız.
+
+163
+00:12:02,076 --> 00:12:04,843
+Ve umarım bir aptal olur.
+
+164
+00:12:04,878 --> 00:12:08,087
+Bu dünyada bir kızın
+olabileceği en iyi şey bu.
+
+165
+00:12:09,178 --> 00:12:11,745
+Güzel, küçük bir aptal.
+
+166
+00:12:14,267 --> 00:12:18,816
+Tüm parlak değerli şeyler çabucacık sönüyor.
+
+167
+00:12:20,662 --> 00:12:22,958
+Ve geri dönmüyorlar.
+
+168
+00:12:53,576 --> 00:12:58,870
+<i>Eve vardığımda komşumun iskelesinde
+bir suretin bulunduğunu fark ettim.</i>
+
+169
+00:13:04,337 --> 00:13:07,179
+<i>Ve içimden bir ses bunun...</i>
+
+170
+00:13:07,432 --> 00:13:09,951
+<i>...Bay Gatsby olduğunu söyledi.</i>
+
+171
+00:13:17,263 --> 00:13:21,802
+<i>Karanlıkta bir şeye doğru
+uzanıyor gibi görünüyordu.</i>
+
+172
+00:13:34,794 --> 00:13:36,930
+<i>Yeşil ışığa.</i>
+
+173
+00:13:41,820 --> 00:13:44,251
+Bu konuda konuşmak istemiyorum doktor.
+
+174
+00:13:44,426 --> 00:13:46,817
+Öyleyse yaz.
+
+175
+00:13:47,500 --> 00:13:50,005
+- Yazayım mı?
+- Evet.
+
+176
+00:13:50,711 --> 00:13:52,661
+Bunu neden yapayım ki?
+
+177
+00:13:52,662 --> 00:13:56,160
+Yazmanın üzüntünü
+hafiflettiğini sen söylemiştin.
+
+178
+00:13:56,260 --> 00:14:01,158
+Evet ama başka kimsenin
+üzüntüsünü pek hafifletmedi.
+
+179
+00:14:01,560 --> 00:14:03,668
+Kimseye bir yararım dokunmadı.
+
+180
+00:14:03,702 --> 00:14:08,371
+Kimsenin okumasına gerek yok.
+Sonrasında yakıp atabilirsin.
+
+181
+00:14:12,733 --> 00:14:15,718
+- Ne konuda yazayım ki?
+- Herhangi bir şey.
+
+182
+00:14:16,985 --> 00:14:19,190
+Hangisi kolayına gelirse.
+
+183
+00:14:19,419 --> 00:14:24,002
+Bir anı, bir düşünce, bir yer.
+
+184
+00:14:25,719 --> 00:14:27,849
+Yaz bir şeyler.
+
+185
+00:14:31,653 --> 00:14:33,234
+Bir yer...
+
+186
+00:14:39,004 --> 00:14:42,927
+Kül Vadisi, grotesk bir yerdi.
+
+187
+00:14:45,082 --> 00:14:49,641
+<i>West Egg ile şehrin
+tam arasındaki New York çöplüğü...</i>
+
+188
+00:14:49,667 --> 00:14:52,661
+<i>Sürekli bir gelişimde
+olan altın şehre...</i>
+
+189
+00:14:52,817 --> 00:14:56,943
+<i>...güç veren yanmış kömürün
+güçlükle yürüyen...</i>
+
+190
+00:14:57,080 --> 00:15:02,253
+<i>...kirli hava tarafından çoktan
+harap olmuş kişilerce atıldığı yer...</i>
+
+191
+00:15:03,141 --> 00:15:07,946
+<i>Bu harika yer Dr. T.J. Heckelburg
+tarafından sürekli gözetim altındaydı.</i>
+
+192
+00:15:07,976 --> 00:15:12,091
+<i>Gözleri her şeyin üzerinde olan
+unutulmuş bir göz doktoru...</i>
+
+193
+00:15:12,425 --> 00:15:15,483
+<i>Sanki Tanrı'nın gözleri gibi.</i>
+
+194
+00:15:17,457 --> 00:15:21,281
+<i>Tom beni şehre davet etmişti.
+Yale Club'da bir yemek içinmiş.</i>
+
+195
+00:15:21,635 --> 00:15:25,867
+<i>Ama ondan önce beklenmedik bir şey yaşandı.</i>
+
+196
+00:15:26,867 --> 00:15:28,317
+Hadi gel.
+
+197
+00:15:28,432 --> 00:15:29,923
+- Hadi gel.
+- Ne demek istiyorsun?
+
+198
+00:15:30,043 --> 00:15:32,426
+- Güven bana.
+- Ne yapıyoruz?
+
+199
+00:15:32,575 --> 00:15:36,463
+Ne yapıyorsun? Atlasana!
+Ne yapıyorsun? Hadi!
+
+200
+00:15:36,481 --> 00:15:38,604
+- Tom!
+- Hadi!
+
+201
+00:15:38,680 --> 00:15:42,363
+Aman Tanrım. Tom,
+bir saniye bekle olmaz mı?
+
+202
+00:15:43,099 --> 00:15:45,549
+Bastırmak lazım Nick!
+Bastırmak lazım!
+
+203
+00:15:47,638 --> 00:15:50,841
+Merhaba Wilson.
+İşler nasıl gidiyor?
+
+204
+00:15:51,798 --> 00:15:53,780
+Şikayet edemem işte.
+
+205
+00:15:55,735 --> 00:15:58,537
+Eee...
+Bana şu arabayı satacak mısın?
+
+206
+00:15:58,643 --> 00:16:00,864
+Adamlarım hâlâ üzerinde çalışıyor.
+
+207
+00:16:00,905 --> 00:16:02,600
+Bayağı bir ağır çalışıyorlar, değil mi?
+
+208
+00:16:03,154 --> 00:16:05,328
+Belki de başka birine satmalıyım.
+
+209
+00:16:05,374 --> 00:16:07,610
+Hayır, hayır, öyle demek istememiştim.
+Ben...
+
+210
+00:16:07,667 --> 00:16:10,553
+Eğer iş meselesiyse benimle konuşmalısınız.
+
+211
+00:16:11,296 --> 00:16:14,491
+Şuraya iki sandalye getir de
+millet oturabilsin, olmaz mı?
+
+212
+00:16:16,306 --> 00:16:19,603
+Elbette.
+Evet, hadi iş konuşalım.
+
+213
+00:16:20,622 --> 00:16:23,508
+Elbette.
+Ben sandalyeleri getireyim.
+
+214
+00:16:23,540 --> 00:16:25,448
+Mirt, sen neden onlarla ilgilenmiyorsun?
+
+215
+00:16:25,475 --> 00:16:26,911
+- Evet.
+- Evet, ben...
+
+216
+00:16:27,642 --> 00:16:29,763
+- Merhaba.
+- Merhaba.
+
+217
+00:16:30,136 --> 00:16:32,679
+- Buchanan. Şeker ister misin?
+- Hayır! Teşekkürler.
+
+218
+00:16:32,752 --> 00:16:34,426
+- İstemiyor musun?
+- Bayan Wilson.
+
+219
+00:16:34,466 --> 00:16:35,672
+- Peki.
+- Bu Nick Carraway.
+
+220
+00:16:35,699 --> 00:16:37,486
+Memnun oldum.
+
+221
+00:16:37,609 --> 00:16:39,452
+- Nick yazardır.
+- Öyle mi?
+
+222
+00:16:39,475 --> 00:16:41,581
+Aslında ben senet işindeyim.
+
+223
+00:16:41,604 --> 00:16:43,425
+Senden...
+
+224
+00:16:44,080 --> 00:16:45,454
+...gelecek trene binmeni istiyorum.
+
+225
+00:16:45,498 --> 00:16:47,428
+- Şimdi mi?
+- Evet.
+
+226
+00:16:47,867 --> 00:16:50,143
+Daire için köpeği de alabilir miyiz?
+
+227
+00:16:50,183 --> 00:16:51,190
+Ne istersen.
+
+228
+00:16:51,240 --> 00:16:53,243
+Bay Buchanan, soda ister misiniz?
+
+229
+00:16:53,265 --> 00:16:56,115
+- Ben böyle iyiyim.
+- İstemiyor musunuz?
+
+230
+00:16:56,403 --> 00:16:58,226
+Kardeşini de ara, ondan hoşlanır.
+
+231
+00:16:58,254 --> 00:17:00,345
+Hayır, hayır, hayır.
+Gerek yok, teşekkürler.
+
+232
+00:17:00,372 --> 00:17:03,182
+İşini bilen herkes Catherine'in
+çok güzel olduğunu söylüyor.
+
+233
+00:17:03,217 --> 00:17:03,904
+Cidden, olmaz.
+
+234
+00:17:03,934 --> 00:17:06,647
+Myrtle'ı utandırmak istemezsin değil mi?
+
+235
+00:17:08,502 --> 00:17:10,932
+Çok kaba olur.
+
+236
+00:17:49,484 --> 00:17:53,077
+Ben Catherine.
+Parti yapmıyor muyuz?
+
+237
+00:17:53,597 --> 00:17:56,262
+Bunun iyi bir vakit
+olduğundan pek emin değilim.
+
+238
+00:17:56,423 --> 00:17:59,080
+Ben de tam gidiyordum.
+Aslında onlar içeride...
+
+239
+00:17:59,088 --> 00:18:01,691
+Vay be! Chester, şu kuzen bu olmalı.
+
+240
+00:18:01,717 --> 00:18:03,475
+Çok şekermişsin!
+
+241
+00:18:03,529 --> 00:18:04,269
+Teşekkürler.
+
+242
+00:18:04,282 --> 00:18:07,078
+- Chester McKee, tanıştığımıza memnun oldum.
+- Nick Carraway.
+
+243
+00:18:07,134 --> 00:18:09,203
+Hadi ama, benden hoşlanmadın mı?
+
+244
+00:18:09,851 --> 00:18:12,608
+Myrtle? Myrtle?
+
+245
+00:18:16,709 --> 00:18:19,789
+Myrtle Curdle!
+
+246
+00:18:20,086 --> 00:18:21,363
+Cidden gitmeliyim!
+
+247
+00:18:21,364 --> 00:18:23,917
+Myrtle, millet uyumadan
+şunlara birer içki ver.
+
+248
+00:18:24,142 --> 00:18:26,092
+Tom, ben de tam gidiyordum.
+
+249
+00:18:26,093 --> 00:18:26,940
+Nick! Bekle!
+
+250
+00:18:26,941 --> 00:18:29,104
+Ben... Ben tam gidiyordum.
+Buradan gitmem gerek.
+
+251
+00:18:29,128 --> 00:18:30,020
+Saçmalık!
+
+252
+00:18:30,028 --> 00:18:32,018
+Hadi ama.
+Gel, onlarla bir konuş.
+
+253
+00:18:32,064 --> 00:18:34,491
+Tom, burada kendimi rahat hissetmiyorum.
+Daisy benim kuzenim.
+
+254
+00:18:34,549 --> 00:18:36,591
+İzlemekten hoşlandığını ona söylerim.
+
+255
+00:18:36,592 --> 00:18:38,188
+- Kolejden öyle hatırlıyorum.
+- Hayır, öyle değil...
+
+256
+00:18:38,208 --> 00:18:39,842
+Hayır, hayır, hayır.
+Ben seni yargılamıyorum.
+
+257
+00:18:39,875 --> 00:18:44,192
+Önümüzde koca bir yaz var! Şimdi,
+kenarda oturup izlemek mi istiyorsun...
+
+258
+00:18:44,393 --> 00:18:45,986
+...yoksa katılıp oynamak mı?
+
+259
+00:18:46,046 --> 00:18:48,376
+- Gel de oynayalım!
+- Senin için yeterince iyi değil miyim?
+
+260
+00:18:48,399 --> 00:18:51,136
+- Hadi!
+- Hadi! Evet!
+
+261
+00:18:52,127 --> 00:18:54,297
+Kenarda oturup izleyecek mi?
+
+262
+00:18:54,323 --> 00:18:56,041
+Yoksa katılıp bizimle oynayacak mı?
+
+263
+00:18:57,142 --> 00:18:59,320
+Şapkanı çıkar da burada kal biraz.
+
+264
+00:18:59,367 --> 00:19:00,341
+Nick...
+
+265
+00:19:00,342 --> 00:19:03,123
+- ...McKee sanat işinde.
+- Fotoğrafçılık.
+
+266
+00:19:03,155 --> 00:19:06,798
+- Evet. Nick de sanat işindedir.
+- Hayır! Hayır, hayır, hayır, pek sayılmaz!
+
+267
+00:19:07,127 --> 00:19:09,531
+- Biraz bir şeyler yazarım ama...
+- Gerçekten mi?
+
+268
+00:19:09,600 --> 00:19:12,511
+- Sen de Long Island'da mı yaşıyorsun?
+- Ben West Egg'de yaşıyorum.
+
+269
+00:19:12,569 --> 00:19:14,704
+Yaklaşık bir ay önce orada bir partideydim.
+
+270
+00:19:14,896 --> 00:19:18,495
+Gatsby diye birinin evinde.
+Onu tanır mısın?
+
+271
+00:19:18,549 --> 00:19:20,910
+Onun yanındaki evde oturuyorum.
+
+272
+00:19:20,960 --> 00:19:23,332
+O Kaiser Wilhem'in kuzeniymiş.
+
+273
+00:19:23,513 --> 00:19:26,116
+- Bilirsin ya hani şeytani Alman kral.
+- Gerçekten mi?
+
+274
+00:19:26,124 --> 00:19:29,644
+Gelsene McKee!
+Şunun bir fotoğrafını çek!
+
+275
+00:19:30,398 --> 00:19:32,534
+Tom, ben o tür modellerden değilim!
+
+276
+00:19:32,690 --> 00:19:34,888
+Ama istersen fotoğraf çekebilirsin.
+
+277
+00:19:37,691 --> 00:19:41,435
+İkisi de kocama hiç katlanamıyorlar.
+
+278
+00:19:41,643 --> 00:19:43,346
+O Wilson'ı da mı sevmiyor?
+
+279
+00:19:43,384 --> 00:19:45,139
+O açgözlü aşağılık herifin teki.
+
+280
+00:19:45,220 --> 00:19:48,677
+Almayayım, teşekkürler.
+Benim kafam içmeden de güzel.
+
+281
+00:19:48,924 --> 00:19:52,503
+Sinir hapı kullanıyorum.
+Queens'teki bir doktordan aldım.
+
+282
+00:19:52,619 --> 00:19:53,724
+Sen de ister misin?
+
+283
+00:19:53,797 --> 00:19:56,894
+Hayır, benim sinirlerim
+gayet iyi durumda, teşekkürler.
+
+284
+00:20:06,477 --> 00:20:09,634
+<i>Hayatımda sadece 2 kere sarhoş olmuştum.</i>
+
+285
+00:20:09,870 --> 00:20:14,188
+<i>Ve ikinci kez olan bu öğlendi.</i>
+
+286
+00:20:56,830 --> 00:21:00,466
+<i>Tom'un Myrtle için
+tuttuğu o gizli dairedeki gece...</i>
+
+287
+00:21:00,628 --> 00:21:04,324
+<i>...bir tür kimyasal çılgınlığın
+verdiği bir neşe içerisindeydik.</i>
+
+288
+00:21:04,472 --> 00:21:07,135
+<i>Kalplerimizden gümbürtülü
+bir şekilde hepimizin...</i>
+
+289
+00:21:07,282 --> 00:21:09,529
+<i>...üzerine gelen bir
+isteklilik dalgası vardı.</i>
+
+290
+00:21:09,540 --> 00:21:12,876
+<i>Ve birden New York'tan hoşlanmaya başladım.</i>
+
+291
+00:21:13,030 --> 00:21:15,273
+Bu Yale Club'dan daha iyi.
+
+292
+00:21:47,463 --> 00:21:49,940
+<i>Şehrin tepesinde...</i>
+
+293
+00:21:50,068 --> 00:21:55,448
+<i>...sarı pencerelerimiz insan sırlarına dair
+onların paylarına da katkıda bulunmuştur.</i>
+
+294
+00:21:56,912 --> 00:21:59,551
+<i>Sokakta buraya bakan herhangi bir kişi...</i>
+
+295
+00:22:02,837 --> 00:22:04,895
+<i>Aynı zamanda ben bir de oydum.</i>
+
+296
+00:22:04,934 --> 00:22:10,537
+<i>Yukarı bakıp düşünüyordum.
+Olaylara hem dahildim, hem de değil.</i>
+
+297
+00:22:14,018 --> 00:22:16,960
+Hayatın sayısız çeşitliliği beni...
+
+298
+00:22:17,676 --> 00:22:21,767
+...hem mest etmişti hem de
+kendinden uzaklaştırmıştı.
+
+299
+00:22:30,289 --> 00:22:32,847
+<i>Onun ismini ağzına almaya hakkın yok!</i>
+
+300
+00:22:32,848 --> 00:22:35,522
+- Daisy, Daisy, Daisy.
+- Onun adını ağzına alma hakkın yok!
+
+301
+00:22:35,630 --> 00:22:38,461
+Ne zaman istersem onun adını...
+
+302
+00:22:41,135 --> 00:22:43,087
+Aman Tanrım!
+Sen delirmişsin!
+
+303
+00:22:43,088 --> 00:22:44,415
+Sen orospunun tekisin!
+
+304
+00:22:58,944 --> 00:23:01,127
+<i>Eve nasıl geldiğime dair hiçbir fikrim yok.</i>
+
+305
+00:23:01,128 --> 00:23:06,237
+<i>Ama Gatsby'nin beni izlediğine
+dair rahatsız edici belirgin...</i>
+
+306
+00:23:06,320 --> 00:23:09,072
+<i>...bir his ile uyandığımı biliyorum.</i>
+
+307
+00:23:11,253 --> 00:23:13,308
+Seni mi izliyordu?
+
+308
+00:23:14,202 --> 00:23:18,241
+Evet, Gatsby sürekli beni izliyordu.
+
+309
+00:23:19,953 --> 00:23:22,109
+Peki bunu nereden biliyordun?
+
+310
+00:23:22,283 --> 00:23:24,189
+Bir davetiye aldım.
+
+311
+00:23:26,398 --> 00:23:28,222
+Davetiye alan tek kişi bendim.
+
+312
+00:23:28,296 --> 00:23:31,212
+<i>Demek istediğim, ben hariç kimse...</i>
+
+313
+00:23:31,573 --> 00:23:35,909
+<i>...şimdiye dek Gatsby'nin
+evine bir davetiye almamış.</i>
+
+314
+00:23:37,902 --> 00:23:41,908
+<i>New York'un geri kalanı öylece
+davetsiz bir şekilde geliyordu.</i>
+
+315
+00:23:44,405 --> 00:23:49,708
+<i>Tüm şehir arabalara doluşup
+hafta sonu boyunca her hafta...</i>
+
+316
+00:23:50,083 --> 00:23:53,140
+<i>...Gatsby'nin evine geliyordu.</i>
+
+317
+00:24:02,301 --> 00:24:07,681
+<i>Yani her kesimden, New York'un
+her köşesinden herkes geliyordu.</i>
+
+318
+00:24:08,016 --> 00:24:13,874
+<i>Bu karma karnaval
+Gatsby'nin kapısına yığılıyordu.</i>
+
+319
+00:24:14,082 --> 00:24:16,147
+Davetiyem.
+
+320
+00:24:17,379 --> 00:24:19,273
+Merhaba.
+
+321
+00:24:24,827 --> 00:24:26,428
+Bu taraftan!
+
+322
+00:24:52,024 --> 00:24:55,165
+<i>Milyarderler, playboylar, yayıncılar ve
+onların sarışın hemşireleri...</i>
+
+323
+00:24:55,302 --> 00:24:57,742
+<i>...ile dolu bir kervansaray...</i>
+
+324
+00:24:57,777 --> 00:25:01,409
+<i>Gatsby'nin plajında
+miraslarını kıyaslayan varisler...</i>
+
+325
+00:25:01,617 --> 00:25:05,473
+<i>Rulet masalarında para kaybetmekte
+olan patronum, Walter Chase.</i>
+
+326
+00:25:05,800 --> 00:25:10,860
+<i>Telefon numaralarını değişen gangster
+ve valilerin yanında dedikodu yazarları.</i>
+
+327
+00:25:11,534 --> 00:25:14,798
+<i>Film yıldızları, Broadway yönetmenleri...</i>
+
+328
+00:25:14,829 --> 00:25:18,025
+<i>...ahlak koruyucuları,
+kaçak liseliler...</i>
+
+329
+00:25:18,065 --> 00:25:22,459
+<i>...ve kimilerine göre
+Beethoven'ın varisi Uling Klipspringer.</i>
+
+330
+00:25:27,701 --> 00:25:31,638
+Ev sahibi Bay Gatsby'i nerede bulabileceğimi
+biliyor musunuz? Ben yanda oturuyorum da.
+
+331
+00:25:31,712 --> 00:25:34,568
+Gatsby mi?
+Ben Bay Gatsby'i hiç görmedim efendim.
+
+332
+00:25:34,649 --> 00:25:36,689
+Aslında kimse görmedi.
+
+333
+00:25:37,157 --> 00:25:42,783
+<i>Yalnız ve biraz utanmış bir şekilde
+kör kütük sarhoş olmaya karar verdim.</i>
+
+334
+00:26:12,149 --> 00:26:14,600
+Seni burada bulabileceğimi düşünüyordum.
+
+335
+00:26:16,651 --> 00:26:18,107
+Merhaba!
+
+336
+00:26:18,231 --> 00:26:20,081
+Yandaki evde oturduğunu hatırladım.
+
+337
+00:26:20,119 --> 00:26:21,520
+Burası bir eğlence parkı gibi!
+
+338
+00:26:21,914 --> 00:26:22,937
+Şöyle geçelim mi?
+
+339
+00:26:23,479 --> 00:26:26,966
+- Sen bir davetiye aldın mı?
+- Kimse Gatsby'nin evine davet edilmez.
+
+340
+00:26:27,174 --> 00:26:30,074
+Ama ben edildim.
+Görünüşe göre bir tek ben edilmişim.
+
+341
+00:26:30,282 --> 00:26:31,490
+Bu Gatsby de kim?
+
+342
+00:26:31,491 --> 00:26:33,843
+Savaş zamanında bir Alman casusuydu.
+
+343
+00:26:34,051 --> 00:26:36,288
+Teddy Barton, Nick Carraway.
+
+344
+00:26:36,289 --> 00:26:37,486
+Bir Alman casusu mu?
+
+345
+00:26:37,694 --> 00:26:40,024
+Hayır, hayır, hayır, hayır.
+O Kaizer'in suikastçısı.
+
+346
+00:26:40,062 --> 00:26:42,045
+- Bir zamanlar birini öldürmüş diye duydum.
+- Doğru.
+
+347
+00:26:42,051 --> 00:26:43,974
+- Eğlencesine öldürüyormuş.
+- Bedavaya.
+
+348
+00:26:44,033 --> 00:26:45,898
+Tanrı'dan daha zengin olduğu ortada.
+
+349
+00:26:46,819 --> 00:26:49,308
+Onun gerçekten de birini
+öldürdüğüne inanmıyorsun değil mi?
+
+350
+00:26:49,376 --> 00:26:51,618
+Gel onu bulalım da bu soruyu
+ona kendin sorabilirsin.
+
+351
+00:26:51,866 --> 00:26:54,501
+Bayanlar baylar, karşınızda...
+
+352
+00:26:54,671 --> 00:26:58,430
+...inanılmaz Bayan Gil McGray!
+
+353
+00:27:20,385 --> 00:27:22,623
+Bay Gatsby?
+
+354
+00:27:23,102 --> 00:27:25,041
+Hadi!
+
+355
+00:27:27,664 --> 00:27:33,199
+Ama yanılıyorsun!
+Çünkü ben gizemli Bay Gatsby'im.
+
+356
+00:27:33,527 --> 00:27:37,657
+Onu burada bulamazsınız.
+Bu ev...
+
+357
+00:27:38,749 --> 00:27:42,984
+...ve içindeki her şey tamamen
+özenle hazırlanmış bir kılığın parçası.
+
+358
+00:27:46,178 --> 00:27:49,271
+Ama Bay Gatsby diye biri yok.
+
+359
+00:27:51,473 --> 00:27:53,176
+Hadi be oradan!
+Ben onunla tanıştım.
+
+360
+00:27:53,231 --> 00:27:56,885
+Gerçekten mi? Hangisiyle?
+Prens olanla mı?
+
+361
+00:27:57,714 --> 00:28:00,685
+Casus olanla mı?
+Katil olanla mı?
+
+362
+00:28:00,937 --> 00:28:06,544
+Bay Gatsby hakkında gerçekten bir
+şeyler bilen kimseyi bulamıyorum.
+
+363
+00:28:06,963 --> 00:28:08,568
+Umurumda değil!
+
+364
+00:28:09,028 --> 00:28:13,986
+O büyük partiler veriyor ve ben büyük
+partileri severim. Çok sıkı fıkı oluyorlar.
+
+365
+00:28:14,275 --> 00:28:16,802
+Küçük partilerde hiç mahremiyet olmuyor.
+
+366
+00:28:16,865 --> 00:28:20,425
+Ama bu doğruysa tüm bunlar ne için?
+
+367
+00:28:20,927 --> 00:28:24,643
+İşte bu sevgili dostum,
+asıl soru bu.
+
+368
+00:28:24,668 --> 00:28:25,671
+Hazır mısınız?
+
+369
+00:28:44,136 --> 00:28:45,216
+Bu dansı bana bahşeder misiniz?
+
+370
+00:28:45,242 --> 00:28:47,389
+Seni çulsuz döl israfı!
+
+371
+00:28:50,195 --> 00:28:51,748
+İşte böyle!
+
+372
+00:29:02,809 --> 00:29:04,899
+Onu senden çalıyorum Carraway!
+
+373
+00:29:05,388 --> 00:29:07,907
+- Bayanlar ve baylar!
+- Hadi!
+
+374
+00:29:08,115 --> 00:29:10,831
+Ve dünyanın Jazz tarihi!
+
+375
+00:29:10,970 --> 00:29:16,265
+Eşliğinde de havai fişekler!
+
+376
+00:29:17,810 --> 00:29:19,249
+Hadi Nick!
+
+377
+00:29:19,325 --> 00:29:23,175
+Etrafına bir bak!
+Zengin kızlar fakir erkeklerle evlenmezler.
+
+378
+00:29:23,925 --> 00:29:24,795
+O benim.
+
+379
+00:29:25,033 --> 00:29:28,648
+Siman tanıdık geliyor.
+Savaş sırasında 3. Bölük'te değil miydin?
+
+380
+00:29:28,680 --> 00:29:30,389
+Evet, 9. Tabur.
+
+381
+00:29:30,412 --> 00:29:31,935
+- Ben 7.'deydim.
+- Affedersiniz.
+
+382
+00:29:31,965 --> 00:29:34,055
+Bana tanıdık geldiğini biliyordum.
+İyi vakit geçiriyor musun azizim?
+
+383
+00:29:34,095 --> 00:29:36,920
+Her şey inanılmaz.
+Ben de yandaki evde oturuyorum.
+
+384
+00:29:37,524 --> 00:29:40,985
+Bana gerçek bir davetiye gönderdi.
+Görünüşe göre davet alan tek kişi benim.
+
+385
+00:29:40,986 --> 00:29:43,364
+Hâlâ da Bay Gatsby ile tanışamadım.
+
+386
+00:29:43,388 --> 00:29:44,308
+Onunla kimse tanışmamış.
+
+387
+00:29:44,315 --> 00:29:47,689
+Onun Kaiser'in 3. kuşaktan, şeytanın da
+2. kuşaktan kuzeni olduğunu söylüyorlar.
+
+388
+00:29:47,843 --> 00:29:50,793
+Maalesef şimdiye dek iyi bir
+ev sahibi olamadım azizim.
+
+389
+00:29:50,841 --> 00:29:52,841
+Görüyorsun ya...
+
+390
+00:29:55,121 --> 00:29:57,177
+...ben Gatsby'im.
+
+391
+00:30:03,162 --> 00:30:06,068
+<i>Gülüşü hayatta 4 ya da 5 kere...</i>
+
+392
+00:30:06,090 --> 00:30:09,349
+<i>...karşılaşabileceğiniz o
+nadir gülüşlerden biriydi.</i>
+
+393
+00:30:09,863 --> 00:30:12,555
+<i>Gülüşünde tam senin anlaşılmak,
+inanılmak istediğin gibi...</i>
+
+394
+00:30:12,661 --> 00:30:16,311
+<i>...seni anladığını, sana inandığını
+belirten bir his vardı.</i>
+
+395
+00:30:16,351 --> 00:30:18,561
+Pardon azizim, bildiğini sanıyordum.
+
+396
+00:30:18,691 --> 00:30:21,887
+Lütfen, ben... Ne diyeceğimi bilemiyorum,
+lütfen beni affedin.
+
+397
+00:30:21,935 --> 00:30:24,531
+- Hiç sorun değil.
+- Çok fazla içtim.
+
+398
+00:30:24,578 --> 00:30:25,991
+- Evet?
+- Bay Gatsby, efendim...
+
+399
+00:30:26,029 --> 00:30:27,645
+- ...Chicago telefonda.
+- Pekâlâ...
+
+400
+00:30:27,917 --> 00:30:29,692
+Bir dakikaya gelirim.
+
+401
+00:30:29,693 --> 00:30:32,660
+Sabah yeni deniz uçağımla
+gezintiye çıkacağım.
+
+402
+00:30:32,675 --> 00:30:35,089
+Benimle gelmek ister misin?
+
+403
+00:30:35,190 --> 00:30:38,003
+- Ne zaman?
+- Ne zaman sana uyarsa.
+
+404
+00:30:38,137 --> 00:30:40,148
+Çok kibarsınız.
+
+405
+00:30:41,022 --> 00:30:43,590
+Sizi yeniden görmek çok güzel Bayan Baker.
+
+406
+00:30:44,489 --> 00:30:49,308
+Eğer istediğin herhangi bir şey
+olursa söylemen yeter azizim.
+
+407
+00:30:52,795 --> 00:30:56,406
+İzninizle.
+Size daha sonra katılırım.
+
+408
+00:31:02,289 --> 00:31:04,504
+Onun daha çok...
+
+409
+00:31:04,699 --> 00:31:06,817
+- Yaşlı ve mutsuz olmasını mı bekliyordun?
+- Evet.
+
+410
+00:31:07,271 --> 00:31:12,488
+Genç insanlar öylece yokluktan ortaya çıkıp
+Long Island'da bir saray satın almazlar.
+
+411
+00:31:14,320 --> 00:31:17,165
+Bana bir keresinde Oxford'lu
+olduğunu söylemişti.
+
+412
+00:31:17,557 --> 00:31:19,353
+Ama ben ona inanmıyorum.
+
+413
+00:31:19,402 --> 00:31:21,480
+- Neden ki?
+- Bilmiyorum.
+
+414
+00:31:21,569 --> 00:31:23,605
+Orada okuduğuna inanmıyorum da ondan.
+
+415
+00:31:23,841 --> 00:31:25,278
+Affedersiniz.
+
+416
+00:31:25,592 --> 00:31:30,062
+Bayan Baker, Bay Gatsby sizinle
+yalnız olarak konuşmak istiyor.
+
+417
+00:31:30,728 --> 00:31:33,804
+- Benimle mi?
+- Evet hanımefendi.
+
+418
+00:33:13,273 --> 00:33:16,409
+Nick. Nick!
+Nick!
+
+419
+00:33:17,451 --> 00:33:19,974
+Az önce çok şaşırtıcı bir şey duydum!
+
+420
+00:33:20,048 --> 00:33:21,925
+Neredeydin sen?
+Araba bekliyor.
+
+421
+00:33:21,933 --> 00:33:23,916
+- Hadi, gidiyoruz.
+- Bu harika bir şey.
+
+422
+00:33:24,102 --> 00:33:27,898
+Şimdi her şey mantıklı geliyor.
+Şimdi her şey mantıklı geliyor!
+
+423
+00:33:27,929 --> 00:33:29,695
+Hadi gel!
+
+424
+00:33:29,722 --> 00:33:31,978
+- Ne mantıklı geliyor?
+- Her şey.
+
+425
+00:33:31,995 --> 00:33:34,038
+Hadi bu çılgınlık.
+Buradan gitmemiz gerek.
+
+426
+00:33:34,054 --> 00:33:37,240
+Gelmiş sana bundan bahsediyorum ama
+kimseye söylemeyeceğime söz vermiştim.
+
+427
+00:33:37,274 --> 00:33:38,413
+Söyle işte.
+
+428
+00:33:38,738 --> 00:33:42,415
+Nick, özür dilerim ama söz verdim.
+Kimseye söylemeyeceğime dair söz verdim.
+
+429
+00:33:49,215 --> 00:33:51,809
+Onu senden uzaklaştırmak zorunda
+kaldığım için üzgünüm azizim.
+
+430
+00:33:52,124 --> 00:33:56,160
+Unutma sakın, yarın sabah şu
+deniz uçağı ile havalanıyoruz.
+
+431
+00:33:56,433 --> 00:33:57,391
+Evet!
+
+432
+00:33:57,392 --> 00:33:59,802
+Bay Gatsby efendim, Philadelphia telefonda.
+
+433
+00:33:59,843 --> 00:34:01,273
+Peki.
+
+434
+00:34:02,518 --> 00:34:05,642
+- İyi geceler azizim.
+- İyi geceler.
+
+435
+00:34:06,322 --> 00:34:08,420
+Teşekkürler.
+
+436
+00:34:16,351 --> 00:34:20,541
+Nick! Beni görmeye gel!
+Haftaya bir çay içeriz.
+
+437
+00:34:20,560 --> 00:34:22,532
+Telefon defterinde numaram var.
+
+438
+00:34:23,053 --> 00:34:24,755
+Seni ararım.
+
+439
+00:34:54,867 --> 00:35:00,179
+<i>Onun deniz uçağına bindik ve
+onun 2 partisine daha katıldım.</i>
+
+440
+00:35:00,668 --> 00:35:03,522
+<i>Hatta plajını da kullandım.</i>
+
+441
+00:35:03,755 --> 00:35:05,340
+<i>Ama biliyor musun doktor...</i>
+
+442
+00:35:05,459 --> 00:35:09,139
+<i>...fark ettim ki aslında
+Gatsby hakkında...</i>
+
+443
+00:35:09,258 --> 00:35:12,412
+<i>...tek bir şey bile bilmiyormuşum.</i>
+
+444
+00:35:12,792 --> 00:35:14,744
+<i>Ta ki...</i>
+
+445
+00:35:36,049 --> 00:35:39,292
+Çok hoş değil mi azizim?
+Daha önce hiç görmemiş miydin?
+
+446
+00:35:39,676 --> 00:35:43,856
+Tamamen modifiyelidir.
+Turbo motorlu.
+
+447
+00:35:44,318 --> 00:35:47,398
+Giyin hadi, yemeğe gidiyoruz.
+
+448
+00:36:04,149 --> 00:36:08,599
+Bana bir bak azizim. Benim için...
+Benim için düşüncelerin nedir?
+
+449
+00:36:08,665 --> 00:36:11,781
+- Düşüncelerim mi?
+- Evet, evet. Düşüncelerin nedir?
+
+450
+00:36:12,657 --> 00:36:15,208
+Tüm bu, duymuş olabileceğin tüm bu...
+
+451
+00:36:15,276 --> 00:36:17,874
+...saçma suçlamalardan yanlış
+bir izlenim almanı istemem.
+
+452
+00:36:17,968 --> 00:36:20,504
+Seni temin ederim ki onlar bir avuç yalan.
+Hikâyeleri duymuşsundur.
+
+453
+00:36:20,530 --> 00:36:22,493
+- Yani, şimdi...
+- Sana tek gerçeği söyleyeyim.
+
+454
+00:36:22,559 --> 00:36:24,053
+Benim hakkımdaki tek gerçeği.
+
+455
+00:36:24,126 --> 00:36:26,516
+Ben ülkenin ortasından gelen
+zengin bir ailenin çocuğuyum.
+
+456
+00:36:26,570 --> 00:36:29,088
+Maalesef ki şu an hepsi ölü.
+
+457
+00:36:30,816 --> 00:36:33,706
+Bir Amerikalı olarak büyütüldüm
+ama Oxford'da eğitim aldım çünkü...
+
+458
+00:36:33,718 --> 00:36:37,002
+...yıllar boyunca atalarım hep orada okumuş.
+Anlarsın ya bu bir aile geleneği.
+
+459
+00:36:37,221 --> 00:36:41,272
+<i>O konuşma tarzı yok mu? Herkesin onun
+yalan söylediğini düşünmesine şaşmamalı.</i>
+
+460
+00:36:41,473 --> 00:36:44,667
+Ailem öldükten sonra
+elime büyük miktarda para geçti.
+
+461
+00:36:44,869 --> 00:36:48,018
+Ondan sonra Avrupa'nın tüm büyük
+şehirlerinde genç bir prens gibi yaşadım.
+
+462
+00:36:48,638 --> 00:36:50,795
+- Avrupa mı?
+- Evet, Avrupa.
+
+463
+00:36:50,796 --> 00:36:54,211
+Paris, Venedik, Roma,
+Viyana, Zürih...
+
+464
+00:36:54,419 --> 00:36:58,936
+...Helsinki, Moskova, İstanbul.
+Oralarda mücevher topladım. Başlıca yakut.
+
+465
+00:36:58,991 --> 00:37:02,345
+...büyük avlar peşinde koştum.
+Sadece kendim için bir şeyler de çizdim.
+
+466
+00:37:04,399 --> 00:37:07,955
+<i>Tam hikâyesi daha
+fantastik bir hâl alamaz derken...</i>
+
+467
+00:37:08,011 --> 00:37:09,699
+Daha sonra savaş kapıya dayandı azizim.
+
+468
+00:37:09,713 --> 00:37:14,156
+<i>...Alman ordusunu tek başına
+yenerek bir savaş kahramanı olmuş.</i>
+
+469
+00:37:14,183 --> 00:37:17,659
+Argonne Ormanı'nda iki kurulu
+makineli tüfek aldım, sonra...
+
+470
+00:37:17,698 --> 00:37:20,694
+5'e 1 sayıca azınlıktaydık... İki tarafta da
+bir kilometrelik boşluk vardı...
+
+471
+00:37:20,728 --> 00:37:22,778
+Ayakta bir tane bile
+Alman askeri kalmamıştı...
+
+472
+00:37:22,812 --> 00:37:25,558
+Orada 2 gün kaldık ve
+bir sürü ceset yığını gördük.
+
+473
+00:37:25,586 --> 00:37:28,342
+130 asker, sadece 16 Lewis Gun vardı.
+
+474
+00:37:28,382 --> 00:37:31,945
+Tüm müttefik devletler bana bir
+madalya verdi. Karadağ bile.
+
+475
+00:37:34,329 --> 00:37:36,736
+Al, işte bu Karadağ'dan.
+
+476
+00:37:37,024 --> 00:37:40,015
+"Binbaşı Jay Gatsby,
+sıra dışı cesareti için".
+
+477
+00:37:40,243 --> 00:37:41,310
+Aynen öyle.
+
+478
+00:37:41,537 --> 00:37:45,013
+Bu da sürekli yanımda taşıdığım bir şeydir.
+Oxford'daki günlerimden bir hatıra.
+
+479
+00:37:45,159 --> 00:37:49,365
+Fotoğraf Trinity Quad'da çekilmişti.
+Sol tarafımdaki adam şimdi Doncaster dükü.
+
+480
+00:37:49,434 --> 00:37:51,204
+<i>Ne diyebilirdim ki?</i>
+
+481
+00:37:52,072 --> 00:37:54,808
+<i>Fotoğrafın gerçek olduğu şüphesizdi.</i>
+
+482
+00:37:54,995 --> 00:37:57,258
+<i>Tüm dedikleri doğru olabilir miydi?</i>
+
+483
+00:37:57,554 --> 00:38:00,173
+Ama elbette ki benim sözüme
+güvenmek zorunda değilsin azizim.
+
+484
+00:38:00,191 --> 00:38:04,034
+Bugün yemekte seni New York'un en seçkin
+iş adamlarından biriyle tanıştıracağım.
+
+485
+00:38:04,048 --> 00:38:07,024
+Sevgili dostum Bay Meyer Wolfsheim ile.
+
+486
+00:38:07,070 --> 00:38:10,273
+O sana söylediklerimi onaylayacak ve
+iyi vasıflı biri olduğuma kefil olacaktır.
+
+487
+00:38:10,335 --> 00:38:11,938
+Buna hiç gerek yok.
+
+488
+00:38:11,983 --> 00:38:13,558
+Yok canım, var.
+
+489
+00:38:13,603 --> 00:38:15,606
+Hayatım hakkında bir şeyler
+bilmene hakkın var diye düşündüm.
+
+490
+00:38:15,647 --> 00:38:17,510
+Benim öyle biri olduğumu
+düşünmeni istemedim.
+
+491
+00:38:17,852 --> 00:38:20,501
+Yani benim öyle boş biri
+olduğumu düşünmeni istemedim.
+
+492
+00:38:20,541 --> 00:38:22,824
+- Hayır!
+- Görüyorsun ya azizim, ben...
+
+493
+00:38:22,864 --> 00:38:25,834
+Bugün senden büyük
+bir istekte bulunacağım.
+
+494
+00:38:26,062 --> 00:38:27,236
+Büyük bir istek mi?
+
+495
+00:38:27,237 --> 00:38:31,345
+Evet, Bayan Baker bu öğlen seni ona çaya
+götürdüğümde her şeyi anlatacaktır.
+
+496
+00:38:33,389 --> 00:38:35,826
+Jordan mı?
+Onun bununla ne alakası var?
+
+497
+00:38:36,410 --> 00:38:38,439
+Seni temin ederim ki öyle
+sinsice bir şey değil.
+
+498
+00:38:38,463 --> 00:38:42,013
+Bayan Baker dürüst bir sporcu. O doğru
+olmadığını düşündüğü hiçbir şeyi yapmaz.
+
+499
+00:38:42,470 --> 00:38:44,500
+Kenara çek!
+Arabayı kenara çek!
+
+500
+00:38:44,562 --> 00:38:46,805
+Pekâlâ azizim, pekâlâ!
+
+501
+00:38:52,059 --> 00:38:55,095
+Pekâlâ, bir dahaki sefere
+sizi tanırım Bay Gatsby.
+
+502
+00:38:55,136 --> 00:38:57,559
+- Özür dilerim!
+- Teşekkürler.
+
+503
+00:38:59,382 --> 00:39:02,052
+- Eski Oxford arkadaşlarından mıydı?
+- Yani ben...
+
+504
+00:39:02,520 --> 00:39:05,239
+Bir keresinde komisere
+bir iyilik yapmıştım da.
+
+505
+00:39:05,269 --> 00:39:07,112
+Her sene bana bir Noel kartı gönderir.
+
+506
+00:39:07,747 --> 00:39:11,054
+Zannedersem o da yemekte olacaktır.
+
+507
+00:39:15,598 --> 00:39:19,449
+<i>Köprüye ulaştığımızda
+zannedersem kafam karışmıştı.</i>
+
+508
+00:39:31,362 --> 00:39:33,939
+<i>Ne düşüneceğimi bilmiyordum.</i>
+
+509
+00:39:34,251 --> 00:39:36,974
+<i>Ama Queensboro Köprüsü'nden görmek...</i>
+
+510
+00:39:36,977 --> 00:39:40,533
+<i>...her zaman şehri ilk defa
+görmüş gibi hissettirir.</i>
+
+511
+00:39:41,264 --> 00:39:44,713
+<i>Size sanki dünyadaki tüm gizem...</i>
+
+512
+00:39:44,863 --> 00:39:48,375
+<i>...ve güzellikleri vaat edermiş gibi durur.</i>
+
+513
+00:39:48,908 --> 00:39:51,204
+<i>Burada her şey olabilir!</i>
+
+514
+00:39:51,258 --> 00:39:54,096
+<i>Bu köprüden de geçtikten sonra ben...</i>
+
+515
+00:39:54,266 --> 00:39:59,189
+<i>...başımıza her şey gelebilir
+Gatsby bile, diye düşündüm.</i>
+
+516
+00:40:07,206 --> 00:40:09,177
+Evladım!
+
+517
+00:40:09,202 --> 00:40:11,202
+Meyer, Meyer, Meyer.
+
+518
+00:40:11,556 --> 00:40:13,959
+- Çok hoş kokuyorsun. Şu hâline bir bak!
+- Sen asıl kendine bir bak!
+
+519
+00:40:14,006 --> 00:40:16,364
+Bay Carraway, bu benim sevgili dostum
+Bay Meyer Wolfsheim.
+
+520
+00:40:16,992 --> 00:40:19,149
+Çok memnun oldum Bay Carraway.
+
+521
+00:40:19,243 --> 00:40:21,392
+- Ben de öyle.
+- Hakkındaki her şeyi biliyorum.
+
+522
+00:40:21,417 --> 00:40:22,787
+- Demek öyle.
+- Evet.
+
+523
+00:40:22,827 --> 00:40:25,818
+- Bay Gatsby sürekli sizden bahsediyor.
+- Gerçekten mi?
+
+524
+00:40:26,867 --> 00:40:28,257
+Geçelim mi?
+
+525
+00:40:28,433 --> 00:40:29,921
+Hadi gel!
+
+526
+00:40:31,099 --> 00:40:34,440
+Ufak bir yemek için bize katıl.
+
+527
+00:40:59,368 --> 00:41:01,616
+Çek ellerini üzerimden!
+
+528
+00:41:02,072 --> 00:41:06,206
+Walter Chase söyle ki ya çenesini
+kapalı tutar ya da bir kuruş para alamaz.
+
+529
+00:41:06,414 --> 00:41:08,039
+Onu daha sonra konuşuruz.
+
+530
+00:41:08,040 --> 00:41:10,264
+- Viski mi Bay Gatsby?
+- Viski olsun.
+
+531
+00:41:10,323 --> 00:41:12,352
+- Tamam!
+- Arkadaşıma iyi bak.
+
+532
+00:41:16,999 --> 00:41:18,992
+Bu gelecek ağırsıklet şampiyonumuz.
+
+533
+00:41:19,029 --> 00:41:20,815
+Patronuna saygılarımı sun.
+
+534
+00:41:20,872 --> 00:41:23,892
+Jay, tutuklusun!
+
+535
+00:41:23,893 --> 00:41:27,515
+Dikkatli olun, tam bir caz çılgınına
+dönüyorsunuz komiser bey!
+
+536
+00:41:31,482 --> 00:41:33,550
+Az önce konuştuğum komiserdi.
+
+537
+00:41:40,063 --> 00:41:42,639
+O masalara dikkat edin ha, Senatör.
+
+538
+00:41:42,662 --> 00:41:44,429
+Bahisim senden yana Jay!
+
+539
+00:41:50,484 --> 00:41:53,741
+Istakoz al. Onu yermantarı
+ve çeşitli otlar ile süslüyorlar.
+
+540
+00:42:04,448 --> 00:42:07,559
+Senet işleri nasıl gidiyor Bay Carraway?
+
+541
+00:42:07,700 --> 00:42:08,593
+İyi, teşekkürler.
+
+542
+00:42:08,661 --> 00:42:11,657
+Anladığıma göre kendine bir
+iş bağlantısı arıyormuşsun.
+
+543
+00:42:11,708 --> 00:42:15,317
+Hayır. Hayır hayır, hayır, hayır.
+Bu o kişi değil Meyer.
+
+544
+00:42:15,426 --> 00:42:18,409
+Hatırlasana, bu sana
+bahsettiğim şu arkadaş.
+
+545
+00:42:18,454 --> 00:42:21,993
+Amanın, özür dilerim.
+Başkasıyla karıştırdım.
+
+546
+00:42:23,507 --> 00:42:27,041
+İzin verirseniz,
+şu görüşmeyi yapmam gerekiyor.
+
+547
+00:42:30,682 --> 00:42:32,852
+- Şansınız iyi gidiyor mu Senatör?
+- Ne adam ama.
+
+548
+00:42:32,883 --> 00:42:35,914
+Orta yakanın en iyi
+ailelerinin birinden gelme.
+
+549
+00:42:36,269 --> 00:42:38,325
+Maalesef ki şimdi hepsi ölü.
+
+550
+00:42:38,467 --> 00:42:42,837
+Savaştan hemen sonra Gatsby ile
+tanışma şerefine kavuştuktan sonra...
+
+551
+00:42:43,544 --> 00:42:47,249
+...iyi yetişmiş bir adam
+bulduğumu anladım.
+
+552
+00:42:47,331 --> 00:42:52,316
+Bir savaş kahramanı,
+bir sürü madalyası var ve...
+
+553
+00:42:52,450 --> 00:42:55,185
+Ve, bir Oxford adamı.
+
+554
+00:42:55,312 --> 00:42:58,081
+- Oxford'u bilir misin?
+- Evet, duymuştum.
+
+555
+00:42:58,178 --> 00:43:02,021
+Öyleyse iş evli kadınlara gelince böyle bir
+adama güvenebileceğini biliyorsundur.
+
+556
+00:43:03,430 --> 00:43:09,272
+Bir arkadaş ile, senin gibi biri ile,
+karına şöyle bir yan gözle bile bakmaz.
+
+557
+00:43:10,905 --> 00:43:14,948
+- Ben evli değilim
+- Ama Wall Street'de çalışıyorsun değil mi?
+
+558
+00:43:14,977 --> 00:43:16,694
+Evet.
+
+559
+00:43:18,715 --> 00:43:23,390
+Şu kravat iğneme bir bak.
+İnsan azıdişinin en iyi örneği.
+
+560
+00:43:23,458 --> 00:43:24,603
+Beyler?
+
+561
+00:43:25,617 --> 00:43:26,880
+Her şey yolunda mı?
+
+562
+00:43:26,935 --> 00:43:31,564
+Evet! Evet, biz de... Biz de tam
+başkalarının karılarından bahsediyorduk.
+
+563
+00:43:31,880 --> 00:43:33,710
+- Başkalarının karılarından mı?
+- Evet.
+
+564
+00:43:33,811 --> 00:43:35,596
+Benim buradaki işim bitmiştir.
+
+565
+00:43:35,765 --> 00:43:40,274
+Sizleri spor ve kadın hakkındaki
+konuşmanızla baş başa bırakayım.
+
+566
+00:43:40,337 --> 00:43:43,137
+- Başkalarının karıları öyle mi?
+- Merhaba hanımlar.
+
+567
+00:43:45,874 --> 00:43:48,071
+Kim ki o?
+Bir aktör mü?
+
+568
+00:43:48,072 --> 00:43:51,307
+Meyer mı?
+Hayır, hayır, hayır. O bir kumarbaz.
+
+569
+00:43:53,975 --> 00:43:56,767
+O 1919 World Series'te hile yapan adam.
+
+570
+00:43:57,192 --> 00:43:59,174
+- Hile mi yaptı?
+- Hile yaptı.
+
+571
+00:43:59,401 --> 00:44:01,413
+Bunu nasıl başardı ki?
+
+572
+00:44:01,652 --> 00:44:04,365
+Herhalde bir fırsat gördü.
+
+573
+00:44:04,573 --> 00:44:07,064
+Çok zeki bir adamdır.
+
+574
+00:44:15,772 --> 00:44:18,422
+Şimdi azizim, şu Bayan Baker ve...
+
+575
+00:44:18,481 --> 00:44:20,898
+- ...ve konuştuğumuz şu ricaya gelirsek...
+- Nick?
+
+576
+00:44:21,331 --> 00:44:24,247
+- Nick!
+- Tom! Ne tesadüf!
+
+577
+00:44:24,308 --> 00:44:26,704
+- Nasıl gidiyor?
+- İyi, iyi.
+
+578
+00:44:26,759 --> 00:44:29,857
+Nick, Daisy çok sinirlenmiş.
+Onu aramamışsın.
+
+579
+00:44:29,971 --> 00:44:33,606
+Bay Gatsby, bu Bay Buchanan.
+
+580
+00:44:35,430 --> 00:44:37,519
+Sizinle tanışmak bir zevktir.
+
+581
+00:44:39,853 --> 00:44:42,957
+Seni bu fazilet yuvasında
+göreceğimi hiç sanmazdım.
+
+582
+00:44:42,971 --> 00:44:45,241
+Ben sadece Bay Gatsby ile yemek yiyordum.
+
+583
+00:44:53,865 --> 00:44:54,838
+Yardımcı olabilir miyim efendim?
+
+584
+00:44:54,896 --> 00:44:57,545
+Jordan Baker, ünlü spor yıldızı nerede?
+Şu golfçü...
+
+585
+00:44:57,946 --> 00:45:00,365
+Tamam, onu gördüm.
+Teşekkürler.
+
+586
+00:45:00,940 --> 00:45:03,067
+Gatsby ile ne tür bir oyun oynuyorsunuz?
+
+587
+00:45:03,094 --> 00:45:04,783
+- Beyefendi size katılacak mı?
+- Bir saniye lütfen.
+
+588
+00:45:04,813 --> 00:45:06,290
+- Nick lütfen, otur bir.
+- Her şey çok tuhaf.
+
+589
+00:45:06,310 --> 00:45:07,800
+Beni havalı sarı arabasıyla alıyor...
+
+590
+00:45:07,826 --> 00:45:09,482
+- ...baştan sona hayatını ve de...
+- Lütfen biraz sessiz konuş.
+
+591
+00:45:09,515 --> 00:45:11,136
+- ...savaşı anlatıyor sonra...
+- Seni herkes duyabiliyor.
+
+592
+00:45:11,150 --> 00:45:15,637
+- Neymiş bu devasa ricası?
+- Daisy'i çaya davet etmeni istiyor.
+
+593
+00:45:16,953 --> 00:45:19,020
+Daisy?
+
+594
+00:45:19,834 --> 00:45:23,077
+Ve Gatsby.
+Neden ki?
+
+595
+00:45:23,768 --> 00:45:26,311
+Nereden başlayacağımı bilmiyorum.
+
+596
+00:45:26,424 --> 00:45:31,345
+Geçen geceye kadar Gatsby ile zaten
+tanışmış olduğumu fark etmemiştim.
+
+597
+00:45:31,527 --> 00:45:34,471
+5 sene önce Louisville'de tanışmıştık.
+
+598
+00:45:35,504 --> 00:45:38,460
+O yeni İngiliz golf
+ayakkabılarımı aldığım gündü.
+
+599
+00:45:42,249 --> 00:45:46,816
+Daisy, Camp Taylor'daki memurlar
+arasındaki açık ara en popüler kızdı.
+
+600
+00:45:47,299 --> 00:45:48,384
+Merhaba Jordan.
+
+601
+00:45:49,018 --> 00:45:53,567
+Memurlardan biri onunla arabadaydı.
+O kişi Gatsby'di.
+
+602
+00:45:53,775 --> 00:45:58,105
+Ve ona bakışları her kızın kendine o şekilde
+bakılmasını isteyeceği türden bir bakıştı.
+
+603
+00:45:58,493 --> 00:46:00,693
+Eee, sonra ne oldu anlat.
+
+604
+00:46:01,481 --> 00:46:02,834
+Bilmiyorum ki.
+
+605
+00:46:03,145 --> 00:46:04,799
+Saldırın!
+
+606
+00:46:07,277 --> 00:46:09,486
+<i>Gatsby savaşa gönderildi.</i>
+
+607
+00:46:09,725 --> 00:46:12,946
+<i>Savaş sona erdiğinde Daisy bekledi...</i>
+
+608
+00:46:13,283 --> 00:46:17,399
+<i>...ama bilinmeyen bir nedenden
+ötürü Gatsby geri dönemedi.</i>
+
+609
+00:46:17,682 --> 00:46:23,143
+<i>Bir sene sonra hayatına Chicago'dan
+Tom Buchanan girdi ve onun kalbini çaldı.</i>
+
+610
+00:46:23,233 --> 00:46:28,057
+<i>Ona 350.000 dolar
+değerinde bir inci kolye verdi.</i>
+
+611
+00:46:28,827 --> 00:46:31,690
+<i>Düğün sabahı Daisy bir mektup aldı.</i>
+
+612
+00:46:31,704 --> 00:46:34,074
+Ona Daisy fikrini değiştirmiş deyin!
+
+613
+00:46:34,127 --> 00:46:35,933
+- Bu da ne?
+- Anne, lütfen!
+
+614
+00:46:35,992 --> 00:46:38,310
+- Ver şunu bana!
+- Hayır!
+
+615
+00:46:38,423 --> 00:46:40,123
+Beni rahat bırak!
+
+616
+00:46:40,160 --> 00:46:41,535
+Kimsenin bundan haberi olmamalı.
+
+617
+00:46:41,536 --> 00:46:45,519
+- Ama mektupta ne yazılıydı?
+- Bilmiyorum, bana söylemedi.
+
+618
+00:46:46,094 --> 00:46:47,579
+Ama artık çok geçti.
+
+619
+00:46:47,709 --> 00:46:51,955
+O gün saat 5'te Daisy Fey,
+Tom Buchanan ile...
+
+620
+00:46:52,043 --> 00:46:56,086
+...Louisville'in şimdiye dek
+gördüğü en büyük bir törende evlendi.
+
+621
+00:47:00,542 --> 00:47:03,852
+Balayından sonra onları
+Santa Barbara'da gördüm.
+
+622
+00:47:04,025 --> 00:47:07,662
+Çok dokunaklıydı aslında. Daha önce kocasına
+hiç bu kadar aşık bir kız görmemiştim.
+
+623
+00:47:08,102 --> 00:47:10,751
+Bir hafta sonra Tom arabasıyla kaza yaptı.
+
+624
+00:47:10,812 --> 00:47:13,927
+Yanındaki kadın Santa Barbara
+otelinin oda hizmetçisiydi.
+
+625
+00:47:13,969 --> 00:47:15,771
+Olay tüm gazetelere yansıdı.
+
+626
+00:47:16,985 --> 00:47:19,650
+- Tuhaf bir tesadüf.
+- Ne?
+
+627
+00:47:19,711 --> 00:47:22,955
+Gatsby'nin evinin koyun
+hemen karşısında olması.
+
+628
+00:47:23,548 --> 00:47:28,096
+Tesadüf değil ki. O evi Daisy'nin
+yakınında olabilmek için aldı.
+
+629
+00:47:28,486 --> 00:47:31,834
+Tüm o partileri bir gece
+belki gelir diye vermiş.
+
+630
+00:47:31,908 --> 00:47:36,059
+Herkese sürekli Daisy'i soruyormuş.
+Onu tanıyan karşılaştığı ilk kişi bendim.
+
+631
+00:47:37,157 --> 00:47:40,207
+Tüm bunların hepsi
+5 yıldır görmediği bir kız için.
+
+632
+00:47:40,272 --> 00:47:42,941
+Ve şimdi de benden Daisy'i
+çaya davet etmemi istiyor.
+
+633
+00:47:43,615 --> 00:47:45,802
+Onun bu alçakgönüllülüğü...
+
+634
+00:47:46,218 --> 00:47:48,054
+İnsanın nefesini kesiyor, değil mi?
+
+635
+00:47:48,077 --> 00:47:50,860
+Merhaba tatlım.
+Nereye gidiyorsunuz bakalım çocuklar?
+
+636
+00:47:50,958 --> 00:47:52,748
+- Long Island lütfen.
+- Long Island.
+
+637
+00:47:52,801 --> 00:47:55,928
+Peki ya sence yapmalı mıyım?
+Yani Daisy Gatsby'i görmek istiyor mu ki?
+
+638
+00:47:56,058 --> 00:47:57,947
+Onun kesinlikle bunu bilmemesi gerekiyor.
+
+639
+00:47:58,273 --> 00:48:01,832
+Senin sadece onu davet etmen gerekiyor.
+Böylece Gatsby geçerken uğrayabilecek.
+
+640
+00:48:02,645 --> 00:48:05,162
+<i>Ortadan ikiye ayrılmış
+gibi hissettiğimi hatırlıyorum.</i>
+
+641
+00:48:05,483 --> 00:48:09,244
+<i>Kuzenim Daisy'i, evli bir kadını
+neredeyse hiç tanımadığım bir adamla...</i>
+
+642
+00:48:09,353 --> 00:48:12,682
+<i>...bir araya getirmek doğru muydu?</i>
+
+643
+00:48:17,452 --> 00:48:21,585
+<i>Eve döndüğümde Gatsby'nin
+evi sanki parti varmışçasına...</i>
+
+644
+00:48:21,615 --> 00:48:25,031
+<i>...tepeden tırnağa aydınlatılmıştı.</i>
+
+645
+00:48:28,067 --> 00:48:30,504
+<i>Ama hiç ses gelmiyordu.</i>
+
+646
+00:48:44,864 --> 00:48:47,167
+- Teşekkürler.
+- İyi akşamlar efendim.
+
+647
+00:48:56,039 --> 00:49:00,121
+Evin Dünya Fuarı'nın
+Coney Island'daki hâli gibi görünüyor.
+
+648
+00:49:00,482 --> 00:49:02,431
+- Öyle mi?
+- Evet.
+
+649
+00:49:02,506 --> 00:49:06,125
+Odaların bazılarına şöyle
+bir bakıyordum da...
+
+650
+00:49:06,525 --> 00:49:08,761
+...Coney Island'a gidelim mi
+ne dersin azizim?
+
+651
+00:49:08,915 --> 00:49:10,531
+İstersen benim arabamı alabiliriz.
+
+652
+00:49:10,577 --> 00:49:12,358
+Bu akşam çok geç oldu şimdi.
+
+653
+00:49:12,396 --> 00:49:15,442
+Şöyle bir havuza dalabiliriz.
+Yaz boyunca hiç kullanmadım.
+
+654
+00:49:15,482 --> 00:49:16,749
+Benim yatmam gerekli.
+
+655
+00:49:17,812 --> 00:49:19,434
+Peki.
+
+656
+00:49:26,929 --> 00:49:28,485
+Mutluluk duyarım.
+
+657
+00:49:29,332 --> 00:49:32,528
+Daisy'i arayıp çaya davet edeceğim.
+
+658
+00:49:32,535 --> 00:49:33,451
+Sorun değildi, ben, ben...
+
+659
+00:49:33,508 --> 00:49:35,756
+- Hangi gün sana uyar?
+- Hangi gün sana uyarsa.
+
+660
+00:49:35,822 --> 00:49:37,395
+Seni hiç sıkıntıya sokmak istemem.
+
+661
+00:49:37,458 --> 00:49:39,228
+Yarından sonraki gün iyi midir?
+
+662
+00:49:39,510 --> 00:49:41,541
+Yarından sonraki gün mü?
+
+663
+00:49:42,120 --> 00:49:46,217
+Benim... Ama şimdi
+bu çimenleri kestirmek gerekir.
+
+664
+00:49:52,285 --> 00:49:56,005
+Bak şimdi azizim, sen çok
+para kazanmıyorsun değil mi?
+
+665
+00:49:56,053 --> 00:49:58,364
+- Pek sayılmaz.
+- Beni yanlış anlamazsan...
+
+666
+00:49:58,936 --> 00:50:02,699
+...şimdi benim kenardan
+yürüttüğüm ufak bir işim var.
+
+667
+00:50:03,019 --> 00:50:05,786
+Bir tür ikinci iş.
+Yani beni anlıyorsun değil mi?
+
+668
+00:50:06,155 --> 00:50:08,285
+Sen hisse senedi
+satıyorsun değil mi azizim?
+
+669
+00:50:08,426 --> 00:50:09,823
+- Satmaya çalışıyorum.
+- Peki öyleyse...
+
+670
+00:50:09,964 --> 00:50:12,346
+...benim iş biraz gizli bir mesele...
+
+671
+00:50:12,373 --> 00:50:14,516
+...ama kenarda iyi miktar
+bir para biriktirebilirsin.
+
+672
+00:50:14,542 --> 00:50:16,157
+Yok, teşekkürler.
+Ben oldukça meşgulüm.
+
+673
+00:50:16,200 --> 00:50:18,704
+Wolfsheim ile iş yapmak zorunda
+olmayacaksın, seni temin ederim.
+
+674
+00:50:18,741 --> 00:50:20,691
+Bu bir iyilik Jay,
+sadece bir iyilik.
+
+675
+00:50:23,488 --> 00:50:26,063
+Evet, memnuniyetle yaparım.
+
+676
+00:50:26,469 --> 00:50:28,847
+- İyilik mi?
+- Evet!
+
+677
+00:50:33,322 --> 00:50:35,861
+- Öyleyse iyi akşamlar.
+- İyi akşamlar.
+
+678
+00:50:54,199 --> 00:50:55,866
+Günaydın.
+
+679
+00:51:23,779 --> 00:51:27,779
+Gazetelerin birinde yağmurun
+saat 4'e kadar duracağı yazılıydı.
+
+680
+00:51:28,335 --> 00:51:31,575
+Sanırım o gazete...
+Sanırım o gazete "The Journal"dı.
+
+681
+00:51:34,421 --> 00:51:35,904
+Hemen sağ tarafa beyler.
+
+682
+00:51:35,931 --> 00:51:38,826
+Sağ tarafa, oturma odasına.
+Teşekkürler.
+
+683
+00:51:43,204 --> 00:51:45,130
+Her şey yolunda mı?
+
+684
+00:51:45,347 --> 00:51:48,020
+Eğer onu soruyorsan
+çimenler güzel görünüyor.
+
+685
+00:51:48,298 --> 00:51:51,036
+Çimen mi?
+Ne çimeni?
+
+686
+00:51:54,612 --> 00:51:56,420
+Ben de kek satın almıştım.
+
+687
+00:52:07,995 --> 00:52:10,363
+İhtiyacın olan her şey var mı?
+
+688
+00:52:10,378 --> 00:52:11,909
+Biraz daha çiçek olsa olurmuş.
+
+689
+00:52:13,036 --> 00:52:15,028
+Bence iyi iş çıkardılar,
+sence de öyle değil mi?
+
+690
+00:52:15,198 --> 00:52:18,606
+- Çok güzel.
+- Abartılı mı olmuş sence?
+
+691
+00:52:19,840 --> 00:52:22,269
+Bence senin istediğin şekilde olmuş.
+
+692
+00:52:22,322 --> 00:52:24,563
+Bence de öyle.
+
+693
+00:52:46,240 --> 00:52:47,861
+Tüm gün onu bekleyemem.
+
+694
+00:52:47,862 --> 00:52:49,483
+Ben gidiyorum.
+
+695
+00:52:49,769 --> 00:52:51,759
+Saçmalama.
+Daha 4'e 2 dakika var.
+
+696
+00:52:51,803 --> 00:52:53,366
+Kimsenin çaya geldiği yok, çok geç...
+
+697
+00:53:01,834 --> 00:53:04,006
+Bu o!
+
+698
+00:53:17,559 --> 00:53:20,108
+Burada yaşadığından emin misin bir tanem?
+
+699
+00:53:20,142 --> 00:53:21,759
+Evet, tam benlik bir yer.
+
+700
+00:53:22,473 --> 00:53:25,862
+Neden yalnız gelmem gerekiyordu?
+Bana aşık mısın yoksa?
+
+701
+00:53:26,003 --> 00:53:29,904
+Carraway kalesinin sırrı yüzünden.
+Şoförüne buradan uzaklaşmasını söyle.
+
+702
+00:53:30,346 --> 00:53:33,902
+Bir saat sonra geri gel Ferdie.
+Onun adı Ferdie.
+
+703
+00:53:47,430 --> 00:53:51,502
+Aman Tanrım!
+İnanamıyorum.
+
+704
+00:53:53,327 --> 00:53:57,358
+Sen...
+Sen bir sera falan mı yağmaladın?
+
+705
+00:53:58,078 --> 00:54:00,606
+Bana gerçekten de aşık.
+
+706
+00:54:14,148 --> 00:54:15,360
+Alır mısın?
+
+707
+00:54:15,907 --> 00:54:18,692
+- Çok tuhaf.
+- Tuhaf olan ne?
+
+708
+00:54:27,489 --> 00:54:29,276
+Ne yapıyorsun sen?
+
+709
+00:55:19,392 --> 00:55:22,214
+Seni yeniden gördüğüme memnun oldum.
+
+710
+00:55:24,353 --> 00:55:29,916
+Merhaba. Ben de seni yeniden
+gördüğüme memnun oldum.
+
+711
+00:55:58,213 --> 00:56:00,354
+Biz... Biz...
+
+712
+00:56:01,487 --> 00:56:03,919
+Biz daha önceden tanışıyoruz.
+
+713
+00:56:06,517 --> 00:56:10,055
+Bunu düzeltmesi için
+derhal birini yollarım.
+
+714
+00:56:26,251 --> 00:56:28,468
+Saat için üzgünüm.
+
+715
+00:56:28,789 --> 00:56:30,121
+O eski bir saatti.
+
+716
+00:56:30,167 --> 00:56:32,630
+- Ama hoş, hoş bir saat.
+- Evet.
+
+717
+00:56:34,553 --> 00:56:38,529
+- Yıllar boyunca hiç karşılaşmadık.
+- Önümüzdeki Kasım ayında 5 yıl olacak.
+
+718
+00:56:40,882 --> 00:56:42,608
+- Çay alır mısınız?
+- Evet, teşekkürler.
+
+719
+00:56:42,609 --> 00:56:43,912
+- Teşekkürler canım.
+- Teşekkürler azizim.
+
+720
+00:56:43,952 --> 00:56:45,683
+- Limon mu şeker mi?
+- İkisini de almayayım.
+
+721
+00:56:45,730 --> 00:56:47,150
+Teşekkürler.
+
+722
+00:57:06,104 --> 00:57:08,232
+- Benim kasabaya uğramam gerek.
+- Kasabaya mı?
+
+723
+00:57:08,253 --> 00:57:10,135
+- Hemen dönerim.
+- Nick, benim...
+
+724
+00:57:10,137 --> 00:57:13,212
+- ...seninle bir şey konuşmam gerek.
+- Evet, hemen dönerim!
+
+725
+00:57:13,620 --> 00:57:17,063
+Tanrım! Bu bir hata!
+Bu çok, çok kötü bir hata!
+
+726
+00:57:17,102 --> 00:57:19,706
+Sen utanıyorsun hepsi bu.
+Daisy de utanıyor.
+
+727
+00:57:21,459 --> 00:57:24,769
+- Utanıyor mu?
+- Evet, en az senin kadar.
+
+728
+00:57:24,794 --> 00:57:26,433
+Bu kadar sesli konuşma!
+
+729
+00:57:26,434 --> 00:57:27,854
+Küçük bir çocuk gibi davranıyorsun.
+
+730
+00:57:27,855 --> 00:57:30,384
+Kaba davranıyorsun. Daisy içeride
+bir başına oturuyor ve sen gelmiş...
+
+731
+00:58:06,535 --> 00:58:08,912
+<i>Bu kısma kadar hikâyeme şöyle bir bakınca...</i>
+
+732
+00:58:09,004 --> 00:58:12,910
+<i>...o yaz boyunca ikinci kez başkalarının...</i>
+
+733
+00:58:13,517 --> 00:58:16,446
+<i>...sırlarını saklamış olduğumu fark ettim.</i>
+
+734
+00:58:17,800 --> 00:58:22,815
+<i>Bir kez daha olaylara
+hem dahildim, hem de değil.</i>
+
+735
+00:58:51,527 --> 00:58:53,695
+Yağmur durdu.
+
+736
+00:58:56,752 --> 00:58:59,654
+Evet, öyle değil mi?
+
+737
+00:59:12,141 --> 00:59:14,243
+Bunun hakkında ne düşünüyorsun Daisy?
+
+738
+00:59:16,142 --> 00:59:20,147
+- Gel de bir bak.
+- Nicy, ne tuhaf.
+
+739
+00:59:21,421 --> 00:59:23,982
+Bak, bu benim evim.
+
+740
+00:59:26,608 --> 00:59:29,367
+Hemen orada, koyun öteki yanında.
+
+741
+00:59:34,872 --> 00:59:37,270
+Biliyorum.
+
+742
+00:59:37,927 --> 00:59:40,762
+Benim evimde de aynı manzara var.
+
+743
+00:59:41,957 --> 00:59:44,281
+Senin evin neresi?
+
+744
+00:59:46,699 --> 00:59:50,547
+Nick, Daisy ile ikinizin
+evime gelmenizi istiyorum.
+
+745
+00:59:50,667 --> 00:59:52,136
+Ona etrafı göstermek isterim.
+
+746
+00:59:52,371 --> 00:59:54,170
+Benim gelmemi istediğinden emin misin?
+
+747
+00:59:54,378 --> 00:59:58,156
+Kesinlikle azizim.
+Kesinlikle.
+
+748
+00:59:59,745 --> 01:00:02,872
+- Bahçıvan, kapıları açın.
+- Kapıları açın!
+
+749
+01:00:02,907 --> 01:00:06,000
+Kapıları Normandiya'daki
+bir kaleden getirttim.
+
+750
+01:00:07,897 --> 01:00:11,636
+- Jay, bu çok büyük!
+- Beğendin mi?
+
+751
+01:00:12,808 --> 01:00:14,218
+Bayıldım.
+
+752
+01:00:14,780 --> 01:00:17,804
+- Ama burada tek başına nasıl yaşıyorsun?
+- Tek başıma yaşamıyorum ki.
+
+753
+01:00:18,119 --> 01:00:22,202
+Sürekli ilginç, ünlü
+kişilerle dolu tutuyorum.
+
+754
+01:00:23,366 --> 01:00:25,534
+Benimle gel.
+
+755
+01:00:29,969 --> 01:00:33,830
+Evim iyi görünüyor değil mi? Ön cephenin
+tamamının ışığı alışını görüyor musun?
+
+756
+01:00:33,880 --> 01:00:35,967
+Müthiş.
+
+757
+01:00:38,914 --> 01:00:41,394
+Hadi gelin.
+Kraliyet turu istiyorum!
+
+758
+01:00:41,455 --> 01:00:43,870
+Modern olan her şeyi
+çok sevdiğimi bilmelisiniz.
+
+759
+01:00:43,918 --> 01:00:46,481
+Oraya bastır, dışarı çıkarır.
+
+760
+01:00:56,082 --> 01:00:57,538
+Bir el golf oynamak isteyen var mı?
+
+761
+01:00:57,548 --> 01:00:59,851
+Golfte şampiyon olduğumu
+biliyorsun, değil mi?
+
+762
+01:00:59,876 --> 01:01:01,031
+- Harika!
+- Devam et.
+
+763
+01:01:05,272 --> 01:01:07,056
+Ben gösteririm.
+Ben nasıl yapılacağını gösteririm.
+
+764
+01:01:08,005 --> 01:01:11,025
+Şöyle sallanacaksın.
+Hazır. Nişan al. Vur!
+
+765
+01:01:14,304 --> 01:01:16,969
+- Çok kaba vuruyorum.
+- Tamam, yakın çekiminize hazır mısın?
+
+766
+01:01:17,134 --> 01:01:18,647
+- Bir anı bile kaçırmak istemiyorum.
+- Sen göz alıcı bir ışıksın.
+
+767
+01:01:18,657 --> 01:01:20,741
+Vogue'un kapağına çıkabilecek gibi
+görünüyor, sence de öyle değil mi?
+
+768
+01:01:20,852 --> 01:01:21,792
+Kamerayı aç.
+
+769
+01:01:34,265 --> 01:01:36,993
+- Çok güzel!
+- Bu özel yapım bir Wurlitzer.
+
+770
+01:01:37,074 --> 01:01:39,424
+- Bunu çalabilen birisi var mı ya?
+- Klipspringer çalabiliyor.
+
+771
+01:01:39,683 --> 01:01:41,619
+- Birisi gitsin Ewing'i uyandırsın!
+- Elbette efendim.
+
+772
+01:01:41,647 --> 01:01:44,166
+Müzik! Müzik gelsin de
+gece boyunca dans edebilelim.
+
+773
+01:01:44,196 --> 01:01:46,361
+Ewing tuhaf bir dâhidir.
+Her şeyi çalabilir.
+
+774
+01:01:46,409 --> 01:01:50,254
+Her şeyin müthiş görünmesini sağlıyor,
+sence de öyle değil mi azizim?
+
+775
+01:01:53,272 --> 01:01:56,001
+İngiltere'de bana
+kıyafet alan bir adamım var.
+
+776
+01:01:56,062 --> 01:01:58,112
+Daha önce böyle bir şey hiç görmemiştim.
+
+777
+01:01:58,147 --> 01:01:59,548
+Hanımefendi için...
+
+778
+01:02:00,230 --> 01:02:03,387
+Her sezon başında bana
+seçme bir grup yollar.
+
+779
+01:02:04,320 --> 01:02:06,122
+Bu ipektir.
+
+780
+01:02:06,431 --> 01:02:08,741
+- Bu flanel.
+- Çok güzel!
+
+781
+01:02:08,838 --> 01:02:10,533
+Hint kumaşı.
+
+782
+01:02:12,291 --> 01:02:13,240
+Keten!
+
+783
+01:02:14,174 --> 01:02:17,280
+- Nicky, o bir zırdeli!
+- Sana yardımcı olamam!
+
+784
+01:02:17,348 --> 01:02:21,096
+Salondaki her şeyi yeniden
+düzenlemek zorunda kalacaksın.
+
+785
+01:02:21,170 --> 01:02:22,138
+Onları mahvedeceksin!
+
+786
+01:02:26,129 --> 01:02:27,845
+Jay, kes şunu!
+
+787
+01:02:27,879 --> 01:02:29,879
+- Al bakalım!
+- Hayır, Jay!
+
+788
+01:02:46,961 --> 01:02:48,934
+Ne oldu?
+
+789
+01:02:50,784 --> 01:02:53,723
+Daisy, lütfen söyle canım.
+Ne oldu?
+
+790
+01:02:58,367 --> 01:03:01,401
+Bu beni üzüyor.
+
+791
+01:03:03,070 --> 01:03:05,883
+- Neden?
+- Çünkü...
+
+792
+01:03:09,713 --> 01:03:14,030
+<i>5 kayıp yıl Daisy'nin
+dudaklarının ucuna gelmişti.</i>
+
+793
+01:03:15,489 --> 01:03:18,702
+<i>Ama söyleyebildiği tek şey...</i>
+
+794
+01:03:24,660 --> 01:03:27,989
+Çünkü daha önce böyle
+güzel kıyafetler görmemiştim.
+
+795
+01:03:49,288 --> 01:03:54,707
+Sis olmasaydı yeşil ışığı görebilirdik.
+
+796
+01:04:00,058 --> 01:04:01,861
+Hangi yeşil ışık?
+
+797
+01:04:03,086 --> 01:04:07,227
+İskelenizin ucunda gece boyunca yanan ışık.
+
+798
+01:04:09,779 --> 01:04:13,561
+<i>Muhtemelen Gatsby
+o ışığın büyük öneminin...</i>
+
+799
+01:04:13,699 --> 01:04:17,467
+<i>...sonsuza dek kaybolduğunu fark etmişti.</i>
+
+800
+01:04:18,530 --> 01:04:21,984
+<i>Şimdi bir kez daha o, iskeledeki
+yeşil bir ışıktan ibaret olmuştu...</i>
+
+801
+01:04:22,014 --> 01:04:26,789
+<i>...ve hayatındaki büyülü
+nesnelerin sayısı bir azalmıştı.</i>
+
+802
+01:04:28,235 --> 01:04:29,955
+Bu kim?
+Baban mı?
+
+803
+01:04:29,985 --> 01:04:32,808
+Hayır, o Bay Dan Cody azizim.
+
+804
+01:04:33,792 --> 01:04:35,208
+O şu an ölü.
+
+805
+01:04:35,249 --> 01:04:38,235
+Uzun yıllar önce benim en iyi arkadaşımdı.
+
+806
+01:04:38,761 --> 01:04:41,955
+Bana hiç böyle bir saç stilin
+olduğunu söylememiştin. Ya da bir yatın.
+
+807
+01:04:42,010 --> 01:04:44,215
+Sana bir şey göstermek istiyorum.
+
+808
+01:04:45,502 --> 01:04:47,439
+Otur.
+
+809
+01:04:47,987 --> 01:04:51,894
+Burada topladığım bir sürü kırpıntı var.
+Hepsi senin hakkında.
+
+810
+01:04:55,648 --> 01:04:58,539
+Mektuplarımı saklamışsın.
+
+811
+01:04:58,914 --> 01:05:02,635
+Bu senden aldığım ilk fotoğraftı.
+
+812
+01:05:03,454 --> 01:05:06,288
+- Bu mektubu hatırlıyorsun, değil mi?
+- "Birbirimizi kaybedip...
+
+813
+01:05:06,322 --> 01:05:09,504
+<i>...bu devasa aşkımızı çöpe atamayız.</i>
+
+814
+01:05:09,592 --> 01:05:13,023
+<i>Eve dön. Burada bekliyor ve...</i>
+
+815
+01:05:13,525 --> 01:05:16,784
+<i>...sana dair tüm rüyaların
+gerçekleşmesini umuyor olacağım."</i>
+
+816
+01:05:20,519 --> 01:05:22,326
+İzninizle.
+
+817
+01:05:30,718 --> 01:05:33,043
+Şimdi konuşamam azizim.
+
+818
+01:05:35,581 --> 01:05:40,416
+Burasının ne kadar küçük bir kasaba
+olduğunu bilmelisin. Beni dinle! Beni dinle!
+
+819
+01:05:44,299 --> 01:05:46,559
+Küçük bir kasaba dediler.
+
+820
+01:05:52,662 --> 01:05:56,836
+Beni dinle. Eğer küçük kasaba anlayışı
+Detroit ise bize bir faydası dokunmaz...
+
+821
+01:05:56,849 --> 01:05:58,304
+...beni anlıyor musun?
+
+822
+01:06:03,919 --> 01:06:06,114
+Sonra konuşuruz azizim.
+
+823
+01:06:07,010 --> 01:06:08,775
+Peki.
+
+824
+01:06:12,047 --> 01:06:14,367
+Klipspringer.
+
+825
+01:06:14,954 --> 01:06:17,015
+Uyanmış olmalı.
+
+826
+01:06:19,374 --> 01:06:21,225
+Geçelim mi?
+
+827
+01:07:12,156 --> 01:07:15,518
+Keşke seninle yapılacak her şeyi yapsaydım.
+
+828
+01:07:22,262 --> 01:07:24,511
+Ömrüm boyunca...
+
+829
+01:07:26,704 --> 01:07:30,386
+...keşke hep böyle olabilseydim.
+
+830
+01:07:36,666 --> 01:07:39,095
+Olacak.
+
+831
+01:07:42,453 --> 01:07:47,246
+<i>Keşke sadece Daisy'e sahip olmak
+Gatsby için yeterli olsaydı.</i>
+
+832
+01:07:48,001 --> 01:07:52,804
+<i>Ama onun hayatı ve Daisy'nin içindeki
+rolü için büyük bir vizyonu vardı.</i>
+
+833
+01:07:54,198 --> 01:07:59,816
+<i>O yazın sonuna, Gatsby'i gördüğüm
+son geceye kadar bunu bilmiyordum.</i>
+
+834
+01:08:01,011 --> 01:08:05,800
+<i>O zaman bana küçüklüğünden beri
+kendine hayal ettiği hayatı anlattı.</i>
+
+835
+01:08:06,435 --> 01:08:10,810
+Şöyle ki Doktor, Gatsby'nin gerçek adı...
+
+836
+01:08:12,681 --> 01:08:14,397
+...James Gatz imiş.
+
+837
+01:08:15,433 --> 01:08:20,074
+<i>Annesi babası North Dakota'lı
+aşırı yoksul birer çiftçiymiş.</i>
+
+838
+01:08:20,650 --> 01:08:23,818
+<i>Ama Gatsby onları ailesi
+olarak bile kabul etmemiş.</i>
+
+839
+01:08:24,530 --> 01:08:28,305
+<i>Kendi hayal dünyasında, o tanrının oğluymuş.</i>
+
+840
+01:08:29,893 --> 01:08:32,754
+<i>Kaderinde zaferler varmış.</i>
+
+841
+01:08:33,478 --> 01:08:38,985
+<i>Kaderinin peşine düşmek üzere,
+16 yaşındaki Gatz çok, çok uzaklara kaçmış.</i>
+
+842
+01:08:39,323 --> 01:08:44,317
+<i>Bir öğlen, Superior Gölü kıyısında
+tehlikede olan bir yat fark etmiş.</i>
+
+843
+01:08:44,391 --> 01:08:50,111
+<i>Orada tehlikeyi atlatmış ve gemi ile kaptanı
+alkolik milyoner Dan Cody'i kurtarmış.</i>
+
+844
+01:08:53,296 --> 01:08:56,251
+Kıyıya vuracaksınız!
+Hadi bayım, kıyıya vuracağız!
+
+845
+01:08:56,352 --> 01:09:00,362
+Sen ne halt ediyorsun azizim?
+
+846
+01:09:00,398 --> 01:09:03,834
+<i>Bu onun için bir fırsatmış
+ve o fırsatı değerlendirmiş.</i>
+
+847
+01:09:03,878 --> 01:09:07,621
+İşte o anda adımı Jay Gatsby
+olarak değiştirmeye karar verdim.
+
+848
+01:09:07,682 --> 01:09:11,766
+<i>Yatı tehlikeden uzaklaştırmış
+ve geleceğine doğru sürmüş.</i>
+
+849
+01:09:11,873 --> 01:09:17,633
+<i>Gatsby 5 yıl boyunca yetenek ve hırsını
+göstermiş, beraber dünyayı dolaşmışlar.</i>
+
+850
+01:09:18,294 --> 01:09:21,180
+İyi bir adamdı yaşlı Dane.
+Bana her şeyi öğretti.
+
+851
+01:09:21,369 --> 01:09:24,246
+<i>Bir centilmen gibi nasıl giyinileceğini,
+davranılacağını ve konuşulacağını öğretti.</i>
+
+852
+01:09:24,540 --> 01:09:26,306
+Jay Gatsby.
+
+853
+01:09:26,401 --> 01:09:27,600
+İyi görünüyor, değil mi?
+
+854
+01:09:27,641 --> 01:09:30,517
+<i>- Gatsby Cody'nin servetini
+miras almayı umdu. - Azizim...</i>
+
+855
+01:09:30,567 --> 01:09:35,719
+<i>Ama Cody öldüğünde ailesi
+Gatsby'i miras konusunda kandırmış.</i>
+
+856
+01:09:36,030 --> 01:09:39,313
+<i>Centilmen rolü oynama
+yeteneği ona kalmış...</i>
+
+857
+01:09:39,368 --> 01:09:42,920
+<i>...ama bir kere daha fakir biriymiş.</i>
+
+858
+01:09:45,423 --> 01:09:51,067
+<i>Yazın ortasına kadar
+Gatsby manşetlere çıkmış.</i>
+
+859
+01:10:01,650 --> 01:10:04,493
+<i>Para nereden geldi?</i>
+
+860
+01:10:17,591 --> 01:10:20,465
+<i>Tüm New York'un bilmek istediği şey buydu.</i>
+
+861
+01:10:20,566 --> 01:10:23,899
+<i>Ve Daisy'i Gatsby'nin
+dopdolu partilerinden birine...</i>
+
+862
+01:10:24,214 --> 01:10:28,964
+<i>...eşlik ettiğinde Tom'un
+aklındaki soru da buydu.</i>
+
+863
+01:10:29,044 --> 01:10:30,204
+Etrafa bakınadurun.
+
+864
+01:10:30,970 --> 01:10:32,280
+Ben hemen dönerim.
+
+865
+01:10:33,061 --> 01:10:36,549
+Tüm bu yeni zenginler adi birer
+içkiciden ibaret, biliyorsunuz değil mi?
+
+866
+01:10:36,831 --> 01:10:40,727
+Gatsby değil.
+O bir iş adamı, bir sürü eczanesi var.
+
+867
+01:10:41,183 --> 01:10:43,166
+- İş adamı mı?
+- Senatör Gulick'i takdim edebilir miyim?
+
+868
+01:10:43,265 --> 01:10:45,861
+- Bu Bay Carraway.
+- Senatör.
+
+869
+01:10:46,642 --> 01:10:48,278
+Bayan Buchanan.
+
+870
+01:10:48,367 --> 01:10:50,445
+- Memnun oldum.
+- Sizinle tanışmak bir zevk.
+
+871
+01:10:50,750 --> 01:10:53,767
+Ve de Bay Buchanan, polo oyuncusu.
+
+872
+01:10:56,128 --> 01:10:56,941
+Hayır, hayır öyle değil.
+
+873
+01:10:56,968 --> 01:10:59,917
+- Tanıştığıma memnun oldum, Buchanan.
+- Aynı şekilde.
+
+874
+01:10:59,944 --> 01:11:02,254
+Senatör, sizinle sonra görüşürüz.
+Belki de Craps masasında.
+
+875
+01:11:02,264 --> 01:11:04,080
+Polo oyuncusu olarak
+anılmamayı tercih ederim.
+
+876
+01:11:04,159 --> 01:11:07,305
+Tom, başarılarından gurur duymalısın.
+
+877
+01:11:09,537 --> 01:11:12,778
+- Size etrafı göstereyim mi?
+- Elbette.
+
+878
+01:11:14,749 --> 01:11:17,499
+İsmini duyduğunuz pek çok
+kişinin simalarını biliyor olmalısınız.
+
+879
+01:11:17,531 --> 01:11:18,328
+Kesinlikle.
+
+880
+01:11:18,355 --> 01:11:22,288
+Biz fazla dolaşmayız,
+tek kişi bile tanıyacağımı sanmam.
+
+881
+01:11:22,310 --> 01:11:25,280
+Öyle mi? Belki de şuradaki
+hanımefendiyi tanıyorsunuzdur.
+
+882
+01:11:25,326 --> 01:11:28,450
+O Marlene Wood!
+Fotoğraflarına bayılıyorum.
+
+883
+01:11:28,519 --> 01:11:31,995
+Sizi onunla tanıştırmamı ister misiniz?
+
+884
+01:11:32,585 --> 01:11:35,209
+Cidden polo oyuncusu olarak
+anılmamayı tercih ederim.
+
+885
+01:11:41,648 --> 01:11:44,084
+Tüm bu şeyler beni heyecanlandırıyor.
+
+886
+01:11:44,820 --> 01:11:46,962
+Ufak, hoş bir dans.
+
+887
+01:11:49,664 --> 01:11:53,839
+Zannedersem daha önce sizinle tanışmıştık
+Bay Buchanan. Yaklaşık bir ay önce.
+
+888
+01:11:56,463 --> 01:11:58,309
+Doğru ya!
+
+889
+01:11:58,567 --> 01:12:01,492
+Siz bizim Nick ileydiniz.
+Berber dükkânında.
+
+890
+01:12:02,511 --> 01:12:06,126
+Evet, öyle.
+Bakın, karınızı tanıyorum.
+
+891
+01:12:09,005 --> 01:12:11,806
+- Öyle mi?
+- Evet.
+
+892
+01:12:16,157 --> 01:12:19,873
+Bay Gatsby, efendim.
+Bay Sleghorn burada.
+
+893
+01:12:19,874 --> 01:12:22,350
+- Hayır, şimdi olmaz.
+- Ve de gitar eşliğinde...
+
+894
+01:12:23,125 --> 01:12:26,032
+...Foxtrot.
+
+895
+01:12:39,453 --> 01:12:44,069
+Bay Buchanan,
+affedersiniz ama izniniz olursa...
+
+896
+01:12:47,029 --> 01:12:48,794
+Elbette.
+
+897
+01:12:51,881 --> 01:12:54,852
+Ben kendi kendime
+yapacak bir şeyler bulurum.
+
+898
+01:12:55,789 --> 01:12:58,717
+Adres falan yazmak zorunda kalırsan al.
+
+899
+01:13:17,974 --> 01:13:19,832
+Bir mükemmel parti daha Jay.
+
+900
+01:13:19,833 --> 01:13:22,714
+Bunun yerine yılan oynatıcılarına
+gitmelisiniz Bay McKlenehan.
+
+901
+01:13:23,303 --> 01:13:26,741
+Tüm bunlar tamamen senin
+hayal gücünle mi ortaya çıktı?
+
+902
+01:13:27,873 --> 01:13:29,513
+Hayır.
+
+903
+01:13:30,563 --> 01:13:33,355
+Sen başından beri zaten oradaydın.
+
+904
+01:13:33,563 --> 01:13:35,860
+Her fikrimde.
+
+905
+01:13:36,068 --> 01:13:37,978
+Her kararımda.
+
+906
+01:13:38,867 --> 01:13:42,324
+Elbette eğer beğenmediğin
+bir şey varsa değiştiririm.
+
+907
+01:13:45,404 --> 01:13:47,775
+Her şey harika.
+
+908
+01:13:47,888 --> 01:13:51,409
+Her şey senin mükemmel,
+karşı konulamaz hayal gücünden çıkma.
+
+909
+01:13:56,422 --> 01:13:59,027
+Acaba onunla hangi cehennemde tanıştı?
+
+910
+01:14:07,730 --> 01:14:10,365
+- Ben seni sonra bulurum.
+- Peki.
+
+911
+01:14:14,307 --> 01:14:16,182
+Benimle gel.
+
+912
+01:14:24,324 --> 01:14:26,020
+Teşekkürler.
+
+913
+01:15:48,398 --> 01:15:50,447
+Karımı gördün mü?
+
+914
+01:15:52,387 --> 01:15:54,180
+Hayır.
+
+915
+01:15:54,520 --> 01:15:57,014
+Bir süredir görmedim.
+
+916
+01:15:59,275 --> 01:16:03,300
+Viski.
+Tuhaf, senatör onu burada görmüş.
+
+917
+01:16:08,401 --> 01:16:11,091
+Keşke buradan kaçıp gidebilsek.
+
+918
+01:16:20,054 --> 01:16:22,884
+Kaçmak mı?
+Hayır.
+
+919
+01:16:23,410 --> 01:16:27,499
+Daisy, hayatım bu...
+Bu saygıdeğer bir davranış olmazdı.
+
+920
+01:16:27,557 --> 01:16:29,894
+Sen buralarda mı oturuyorsun Nick?
+
+921
+01:16:32,016 --> 01:16:35,292
+- Hemen yandaki evde.
+- Öyle mi?
+
+922
+01:16:39,250 --> 01:16:41,128
+Burada yaşayacağız.
+
+923
+01:16:41,273 --> 01:16:45,975
+Bu evde.
+Sen ve ben.
+
+924
+01:16:49,169 --> 01:16:51,092
+Hayatım...
+
+925
+01:16:52,955 --> 01:16:55,738
+...Tom'a söylemenin vakti geldi.
+
+926
+01:17:01,022 --> 01:17:03,164
+İyi geceler beyler!
+
+927
+01:17:03,745 --> 01:17:05,865
+Ne kargaşa ama.
+
+928
+01:17:08,886 --> 01:17:14,603
+Eğer onu görürsen
+onu arıyordum, öyle söyle.
+
+929
+01:17:16,499 --> 01:17:18,297
+Ne kadar eğlenmiştik, hatırlıyor musun?
+
+930
+01:17:18,337 --> 01:17:21,001
+Neden yeniden öyle
+eğlenemiyoruz bilmiyorum.
+
+931
+01:17:21,042 --> 01:17:22,868
+Orada kimse var mı?
+
+932
+01:17:25,257 --> 01:17:28,244
+Merhaba Nicky.
+Biz de tam bir şeyler tartışıyorduk.
+
+933
+01:17:28,245 --> 01:17:31,294
+- Ne hakkında?
+- Bir şeyler hakkında işte.
+
+934
+01:17:32,820 --> 01:17:35,021
+Gelecek hakkında.
+
+935
+01:17:36,176 --> 01:17:38,494
+Renkli İmparatorluk'ların geleceği hakkında.
+
+936
+01:17:39,966 --> 01:17:43,030
+Sorun Tom.
+O partide dolanıp duruyor...
+
+937
+01:17:43,152 --> 01:17:44,149
+- ...seni arıyor.
+- Efendim.
+
+938
+01:17:44,885 --> 01:17:49,534
+Bay Gatsby, efendim. Sorun Bay Sleghorn.
+Kendisi oldukça duygusal bir hâlde.
+
+939
+01:17:50,977 --> 01:17:52,642
+İzninizle.
+
+940
+01:17:56,084 --> 01:17:59,044
+Nick.
+Onunla ilgilenebilir misin?
+
+941
+01:17:59,132 --> 01:18:01,190
+Elbette.
+
+942
+01:18:03,902 --> 01:18:08,047
+<i>Gatsby bir tür tartışmayı
+halletmek için ortadan kayboldu.</i>
+
+943
+01:18:10,001 --> 01:18:12,224
+<i>Daisy onu bekledi.</i>
+
+944
+01:18:15,470 --> 01:18:18,986
+<i>Ama Gatsby bir türlü geri dönmedi.</i>
+
+945
+01:18:21,083 --> 01:18:25,598
+Bu sert tipler konusunda sana güveniyorum.
+Ama sen ortalıklarda yoktun.
+
+946
+01:18:25,961 --> 01:18:28,696
+Onunla yine aynı şey.
+Sana neler oluyor Jay?
+
+947
+01:18:32,535 --> 01:18:35,018
+- Neredeydin?
+- Nicky'leydim.
+
+948
+01:18:35,101 --> 01:18:37,799
+Bay Gatsby bize etrafı gösteriyordu.
+
+949
+01:18:37,928 --> 01:18:41,778
+Bu hayvanat bahçesini ortaya
+çıkarmak için iyi kasmış olsa gerek.
+
+950
+01:18:44,165 --> 01:18:47,891
+Onun kim olduğunu,
+ne iş yaptığını bilmek isterim.
+
+951
+01:18:48,642 --> 01:18:51,971
+Ve sanırım bunu bizzat öğreneceğim.
+
+952
+01:19:30,446 --> 01:19:33,171
+Demek buradasın!
+Daisy az önce ayrıldı.
+
+953
+01:19:33,212 --> 01:19:36,115
+Sana harika vakit geçirdiğini
+söylememi istedi.
+
+954
+01:19:36,330 --> 01:19:37,581
+Hoşuna gitmedi.
+
+955
+01:19:37,846 --> 01:19:40,659
+- Elbette ki gitti!
+- Hayır, hayır, hayır.
+
+956
+01:19:41,424 --> 01:19:45,208
+Hayır, hoşuna gitmedi o...
+O iyi vakit geçirmedi.
+
+957
+01:19:45,791 --> 01:19:49,487
+Şu an kendimi ondan çok uzakta hissediyorum.
+Anlamasını sağlamak çok zor.
+
+958
+01:19:49,634 --> 01:19:53,091
+- Partiyi mi kast ediyorsun?
+- Parti mi?
+
+959
+01:19:54,528 --> 01:19:56,787
+Partiler hiç umurumda değil.
+
+960
+01:19:57,002 --> 01:19:59,090
+Şimdilik hepsi bu kadar beyler.
+
+961
+01:19:59,091 --> 01:20:00,211
+- Teşekkürler.
+- Teşekkürler efendim.
+
+962
+01:20:01,520 --> 01:20:03,452
+Bak şimdi...
+
+963
+01:20:04,909 --> 01:20:07,890
+...Tom'a onu hiç sevmediğini
+söylemesi gerekli.
+
+964
+01:20:07,939 --> 01:20:09,370
+- Ne?
+- Evet.
+
+965
+01:20:10,081 --> 01:20:13,601
+Böylece Louisville'e,
+ailesinin evine dönebiliriz.
+
+966
+01:20:13,869 --> 01:20:16,501
+Ailesi çok hoş insanlar azizim.
+
+967
+01:20:16,711 --> 01:20:19,015
+Orada evleneceğiz.
+
+968
+01:20:19,357 --> 01:20:24,795
+Şimdi... Şimdi biz Daisy ile sanki 5 yıl
+öncesindeymişiz gibi yeniden başlayacağız.
+
+969
+01:20:24,852 --> 01:20:26,530
+Yerinde olsam ondan fazla şey istemezdim.
+
+970
+01:20:26,604 --> 01:20:28,588
+- Fazla şey istemez miydin?
+- Hayır.
+
+971
+01:20:33,403 --> 01:20:36,035
+Kusura bakma azizim ama...
+
+972
+01:20:36,456 --> 01:20:40,622
+Durum çok vahim çünkü
+anlamasını sağlamak çok zor.
+
+973
+01:20:41,097 --> 01:20:43,584
+Anlamasını sağlamak o kadar zor ki...
+
+974
+01:20:43,585 --> 01:20:46,508
+Tüm bu şeyleri onun için aldım,
+tüm bu şeyleri onun için aldım...
+
+975
+01:20:46,531 --> 01:20:49,517
+...ama şimdi o...
+Şimdi o sadece kaçıp gitmek istiyor.
+
+976
+01:20:50,834 --> 01:20:52,437
+Bunları bırakıp gitmek istiyor.
+
+977
+01:20:52,477 --> 01:20:56,485
+Jay!
+Geçmişi geri getiremezsin.
+
+978
+01:20:57,978 --> 01:21:01,149
+- Geçmişi geri getirilemez mi?
+- Hayır.
+
+979
+01:21:02,364 --> 01:21:06,456
+Elbette ki getirilebilir.
+Elbette getirilebilir.
+
+980
+01:21:08,299 --> 01:21:11,759
+Şimdi her şeyi düzelteceğim,
+her şey eskisi gibi olacak.
+
+981
+01:21:11,967 --> 01:21:15,901
+Her şey o kadar... O geceden beri
+her şey o kadar karmaşık ki...
+
+982
+01:21:17,340 --> 01:21:19,609
+<i>Geçmiş hakkında oldukça çok konuştu.</i>
+
+983
+01:21:20,403 --> 01:21:22,930
+<i>Sanki bir şeyi hatırlamak
+istiyormuş gibiydi.</i>
+
+984
+01:21:23,428 --> 01:21:27,746
+Başa bir dönebilseydim...
+
+985
+01:21:29,587 --> 01:21:34,308
+Başa dönebilseydim...
+Onu tekrar bulabilirdim.
+
+986
+01:21:34,382 --> 01:21:39,469
+<i>Daisy'e aşık olduğu zamanki hâlini...</i>
+
+987
+01:21:40,903 --> 01:21:44,736
+<i>5 yıl önce, Louisville'de bir gece...</i>
+
+988
+01:21:44,784 --> 01:21:49,646
+<i>...Gatsby büyük bir şans eseri
+kendini Daisy'nin evinde bulmuş.</i>
+
+989
+01:21:50,046 --> 01:21:53,833
+İlk önce Camp Taylor'dan subaylarla
+beraber onun evine gitmiştim.
+
+990
+01:21:54,462 --> 01:21:57,215
+Daha önce hiç bu kadar
+güzel bir evde bulunmamıştım.
+
+991
+01:21:58,554 --> 01:22:03,197
+<i>Üniforması gerçeği,
+büyük vizyonu hariç bir şeyi olmayan...</i>
+
+992
+01:22:03,777 --> 01:22:07,089
+<i>...çulsuz bir delikanlı
+olduğunu gizliyordu.</i>
+
+993
+01:22:07,118 --> 01:22:09,450
+- Daisy, danstan kaçma.
+- Kaçmıyordum anne.
+
+994
+01:22:09,485 --> 01:22:11,494
+Burada pek çok cesur subay var.
+
+995
+01:22:11,551 --> 01:22:14,293
+Ve de çoğu ünlü ailelerden.
+
+996
+01:22:14,413 --> 01:22:17,582
+<i>Hep hayatta yukarı
+tırmanabileceğimi biliyordum.</i>
+
+997
+01:22:17,617 --> 01:22:20,466
+<i>Ama sadece yalnız olursam tırmanabilirdim.</i>
+
+998
+01:22:24,421 --> 01:22:28,747
+O zaman bu kızı öpünce...
+
+999
+01:22:30,975 --> 01:22:33,813
+<i>...sonsuza dek ona
+bağlı kalacağımı biliyordum.</i>
+
+1000
+01:22:37,742 --> 01:22:40,108
+O yüzden durdum.
+
+1001
+01:22:41,519 --> 01:22:45,252
+Durdum ve...
+Bekledim.
+
+1002
+01:22:47,133 --> 01:22:49,868
+Bir süre daha bekledim.
+
+1003
+01:22:49,968 --> 01:22:55,485
+<i>Zihninin bir daha asla tanrının zihni
+gibi her şeyle uğraşacak kadar...</i>
+
+1004
+01:22:57,246 --> 01:23:01,367
+<i>...boş olmayacağını biliyordu.</i>
+
+1005
+01:23:02,674 --> 01:23:06,567
+<i>Ona aşık olmasının kaderini
+değiştireceğini biliyordu.</i>
+
+1006
+01:23:07,527 --> 01:23:09,944
+<i>Ebediyen.</i>
+
+1007
+01:23:13,120 --> 01:23:16,116
+Sonra kendimi bırakıverdim.
+
+1008
+01:23:24,319 --> 01:23:27,419
+<i>Onun için bir çiçek gibi açmış...</i>
+
+1009
+01:23:29,881 --> 01:23:33,111
+<i>...ve bütünleşme tamamlanmıştı.</i>
+
+1010
+01:23:42,248 --> 01:23:46,060
+<i>Benim gibi bir adamın aşık olmasının
+büyük bir hata olduğunu biliyordum.</i>
+
+1011
+01:23:46,696 --> 01:23:49,039
+Daha 32 yaşındayım,
+bir zamanlar Daisy'i kaybettiğimi...
+
+1012
+01:23:49,174 --> 01:23:52,230
+...unutabilsem hâlâ büyük
+bir adam olabilirim ama...
+
+1013
+01:23:52,785 --> 01:23:57,942
+...hayatım azizim, hayatım...
+Hayatım böyle olmak zorunda.
+
+1014
+01:24:02,634 --> 01:24:05,275
+Yukarı gitmeye devam etmek zorunda.
+
+1015
+01:24:10,697 --> 01:24:16,494
+Onun Tom'a gidip
+onu asla sevmediğini söylemesi gerekli.
+
+1016
+01:24:21,594 --> 01:24:25,751
+Sadece ona biraz daha vakit tanımam
+gerekiyor azizim. Biraz daha vakit.
+
+1017
+01:24:32,210 --> 01:24:36,679
+Endişelenme azizim, endişelenme.
+Onu burada koruyabilirim.
+
+1018
+01:24:39,359 --> 01:24:41,288
+İyi geceler azizim.
+
+1019
+01:24:49,470 --> 01:24:52,462
+Geçmiş hakkında yanılıyorsun azizim!
+
+1020
+01:24:54,624 --> 01:24:56,442
+Yanılıyorsun.
+
+1021
+01:25:20,542 --> 01:25:23,144
+<i>Yaz boyunca sürekli komşumun
+evinden müzik sesleri geliyordu.</i>
+
+1022
+01:25:23,473 --> 01:25:26,576
+<i>Nahoş bahçelerine erkekler,
+kızlar bir kelebek misali girdi çıktı.</i>
+
+1023
+01:25:26,620 --> 01:25:29,728
+<i>Onların eşliğinde de fısıldamalar,
+gülüşmeler ve yıldızlar vardı.</i>
+
+1024
+01:25:30,680 --> 01:25:34,355
+- Kahvaltı alır mısın?
+- Evet. Teşekkürler, teşekkürler.
+
+1025
+01:25:35,772 --> 01:25:38,897
+Gülüşme mi?
+Teşekkürler.
+
+1026
+01:25:40,297 --> 01:25:44,053
+Hayır, fısıldamalar,
+şampanya ve yıldızlar olacak.
+
+1027
+01:25:45,449 --> 01:25:47,376
+Ama...
+
+1028
+01:25:47,992 --> 01:25:50,864
+...Tom ve Daisy'nin ziyaretinden sonra...
+
+1029
+01:25:51,110 --> 01:25:54,925
+<i>...Gatsby'nin ışıkları birer birer söndü.</i>
+
+1030
+01:25:55,230 --> 01:25:57,998
+<i>Başka parti olmadı.</i>
+
+1031
+01:25:59,758 --> 01:26:02,897
+<i>Daisy onu gizlice ziyarete geldi.</i>
+
+1032
+01:26:05,403 --> 01:26:11,133
+<i>Jay Gatsby için yaz boyunca bir
+memnuniyet kaynağı olan şöhreti...</i>
+
+1033
+01:26:12,485 --> 01:26:14,933
+<i>...şimdi bir tehdit hâline gelmişti.</i>
+
+1034
+01:26:43,587 --> 01:26:45,652
+Eve gitmek istemiyorum.
+
+1035
+01:26:48,615 --> 01:26:51,312
+Tüm hizmetçilerini kovmuşsun diye duydum.
+
+1036
+01:26:51,759 --> 01:26:54,688
+Daisy bazen öğlenleri geliyor.
+
+1037
+01:26:54,700 --> 01:26:56,817
+Ben de ne yapacağımıza...
+
+1038
+01:26:57,249 --> 01:27:00,520
+...karar verene kadar dedikodu yapmayacak
+kişilerin burada kalmasını istedim.
+
+1039
+01:27:01,094 --> 01:27:04,971
+Bilmen gerekir ki bu kasabalar
+birbirine çok yakındır azizim.
+
+1040
+01:27:05,319 --> 01:27:07,929
+Bu gazetelere çıkarsa
+ne olur anlıyor musun?
+
+1041
+01:27:07,983 --> 01:27:11,306
+Zaten onların hepsi Wolfsheim'ın
+bir iyilik yapmak istediği kişilerdi.
+
+1042
+01:27:11,767 --> 01:27:15,728
+Yemek yapıp yatak hazırlayabildikten
+sonra ne fark ederler ki, değil mi?
+
+1043
+01:27:19,382 --> 01:27:21,943
+Nick, Daisy hazır.
+
+1044
+01:27:22,120 --> 01:27:25,550
+O hazır, istediği sadece tek bir şey var.
+
+1045
+01:27:25,647 --> 01:27:29,846
+Yarın öğle yemeği için Bayan Baker
+ile onun evinde olmanızı istiyor.
+
+1046
+01:27:31,559 --> 01:27:34,083
+Gelir misin azizim?
+
+1047
+01:27:34,306 --> 01:27:36,187
+Daisy'nin sana ihtiyacı var.
+
+1048
+01:27:39,813 --> 01:27:42,115
+Bizim sana ihtiyacımız var.
+
+1049
+01:27:48,439 --> 01:27:50,906
+Gelir misin azizim?
+
+1050
+01:28:07,983 --> 01:28:12,495
+Bir yerlerde güneşin her sene
+daha da ısındığını okumuştum.
+
+1051
+01:28:13,791 --> 01:28:16,791
+Bir saniye, tam tersiydi.
+
+1052
+01:28:17,134 --> 01:28:19,807
+Güneş her sene soğuyor.
+
+1053
+01:28:21,475 --> 01:28:25,883
+Bugün dışarıda, şu koyda olmak isterdim.
+
+1054
+01:28:28,610 --> 01:28:30,854
+Ben sizin hemen karşınızda oturuyorum.
+
+1055
+01:28:33,738 --> 01:28:35,708
+Hemen orada.
+
+1056
+01:28:40,835 --> 01:28:42,600
+Demek öyle.
+
+1057
+01:28:47,637 --> 01:28:51,617
+Şöyle ki, her gece...
+
+1058
+01:28:52,017 --> 01:28:55,888
+...iskelenizin sonundaki o ışığın
+yanıp sönüşünü görebiliyorum.
+
+1059
+01:28:57,176 --> 01:28:59,129
+Ne ışığı?
+
+1060
+01:29:06,765 --> 01:29:10,001
+Anlayacağınız Bay Buchanan,
+yakın olmak istedim.
+
+1061
+01:29:15,527 --> 01:29:17,298
+- Daisy ile bizim...
+- Çok sıcak!
+
+1062
+01:29:17,432 --> 01:29:19,474
+Her şey karmakarışık!
+
+1063
+01:29:19,562 --> 01:29:21,632
+Bu öğlen ne yapacağız ki ya da...
+
+1064
+01:29:21,670 --> 01:29:23,622
+...yarın?
+Ya da önümüzdeki 30 yıl?
+
+1065
+01:29:23,730 --> 01:29:25,902
+Böyle karamsar olma şimdi.
+
+1066
+01:29:25,943 --> 01:29:27,579
+Hadi şehre gidelim.
+Kim şehre gitmek ister?
+
+1067
+01:29:27,612 --> 01:29:28,933
+Şehre mi?
+
+1068
+01:29:29,421 --> 01:29:32,439
+Kadınların böyle anlık
+hevesleri oluyor işte!
+
+1069
+01:29:51,459 --> 01:29:53,260
+Daisy?
+
+1070
+01:29:58,256 --> 01:30:00,390
+Çok havalı görünüyorsun.
+
+1071
+01:30:02,676 --> 01:30:05,154
+Hep böyle havalı görünür.
+
+1072
+01:30:05,648 --> 01:30:08,805
+Times Meydanı'ndaki o reklamdaki adam gibi.
+
+1073
+01:30:10,544 --> 01:30:13,577
+Havalı, hoş giysili adam hani.
+
+1074
+01:30:19,775 --> 01:30:22,651
+<i>Gatsby'e onu sevdiğini söylemişti.</i>
+
+1075
+01:30:24,483 --> 01:30:26,346
+<i>Ve Tom da bunu fark etmişti.</i>
+
+1076
+01:30:26,653 --> 01:30:28,421
+Hadi şehre gidelim!
+
+1077
+01:30:28,709 --> 01:30:31,159
+Benim için çok iyi olur.
+Harika bir fikir.
+
+1078
+01:30:31,192 --> 01:30:33,235
+Henry, hemen arabayı getirttir.
+
+1079
+01:30:33,272 --> 01:30:35,241
+Öyle bir anda gidiyor muyuz?
+En azından önce bir sigara içsem?
+
+1080
+01:30:35,270 --> 01:30:36,648
+Öğle yemeği boyunca içtin zaten.
+
+1081
+01:30:36,673 --> 01:30:39,649
+Hadi ama, gel eğlenelim.
+Hava böyle telaşa gelinmeyecek kadar sıcak.
+
+1082
+01:30:39,702 --> 01:30:41,543
+Daisy, bu senin dâhiyane fikrindi!
+
+1083
+01:30:41,675 --> 01:30:43,524
+Niye böyle yapıyorsun?
+Hadi hep beraber şehre gidelim.
+
+1084
+01:30:43,934 --> 01:30:45,621
+Fikrimi değiştirdim seni akılsız.
+
+1085
+01:30:45,664 --> 01:30:48,456
+Hadi ama.
+Plaza'da kocaman bir daire tutarız.
+
+1086
+01:30:49,251 --> 01:30:54,013
+Viski ve buz dolu bir kova alırız.
+Eğlenceli olur.
+
+1087
+01:30:54,260 --> 01:30:57,211
+Hadi ama, bu senin fikrindi.
+
+1088
+01:30:58,533 --> 01:31:00,507
+Peki, senin dediğin olsun Tom.
+
+1089
+01:31:00,754 --> 01:31:02,975
+Hadi Jordan.
+
+1090
+01:31:07,326 --> 01:31:09,725
+Bize katılacak mısınız Bay Gatsby?
+
+1091
+01:31:10,189 --> 01:31:12,679
+2 şişe viski.
+Havluya sar da getir.
+
+1092
+01:31:12,692 --> 01:31:13,962
+Hadi Nick!
+
+1093
+01:31:19,049 --> 01:31:22,754
+Bay Gatsby, acaba benim
+spor arabamla gidebilir misiniz?
+
+1094
+01:31:22,789 --> 01:31:25,086
+Ben de diğer herkesi sizin
+sirk vagonunuzda götüreyim.
+
+1095
+01:31:25,116 --> 01:31:27,893
+Fazla benzin kaldığını sanmıyorum azizim.
+
+1096
+01:31:27,926 --> 01:31:29,869
+Yok canım.
+Yeterince benzin var.
+
+1097
+01:31:29,880 --> 01:31:32,330
+Biterse ben de bir eczaneye uğrarım.
+
+1098
+01:31:32,463 --> 01:31:35,699
+Bu günlerde eczanelerden her şeyin
+alınabildiğini duydum.
+
+1099
+01:31:36,479 --> 01:31:40,149
+- Sen Nick ve Jordan'ı al.
+- Zannedersem alınabilir, evet.
+
+1100
+01:31:40,182 --> 01:31:42,069
+Sizinle Plaza'da görüşürüz.
+
+1101
+01:31:42,115 --> 01:31:45,517
+Ben arabada 2 sigara içen adam olacağım.
+
+1102
+01:31:52,179 --> 01:31:54,349
+Benim epey aptal olduğumu
+düşünüyor olmalısınız, değil mi?
+
+1103
+01:31:54,368 --> 01:31:57,278
+Ama bazen bana ne yapacağımı söyleyen
+ikinci bir görüşüm vardır benim.
+
+1104
+01:31:57,314 --> 01:31:59,514
+Bu eleman için ufak bir soruşturma yaptım.
+
+1105
+01:31:59,541 --> 01:32:01,121
+Ve de onun bir Oxford adamı
+olduğunu mu öğrendin?
+
+1106
+01:32:01,247 --> 01:32:04,635
+Oxford, New Mexico olur ancak. Adam pembe
+bir takım elbise giyiyor tanrı aşkına.
+
+1107
+01:32:29,294 --> 01:32:32,155
+Tom, benzinimiz neredeyse bitti.
+
+1108
+01:32:39,955 --> 01:32:43,655
+Wilson? Ne bekliyorsun?
+Hadi benzin ver bize.
+
+1109
+01:32:44,430 --> 01:32:46,235
+Kendi başıma mı yapmak zorundayım?
+
+1110
+01:32:46,266 --> 01:32:47,742
+Buraya manzaraya bakmaya mı
+geliyorum sanıyorsun?
+
+1111
+01:32:47,765 --> 01:32:51,002
+- Kusura bakma, hastayım.
+- Neden?
+
+1112
+01:32:51,183 --> 01:32:52,361
+Neden, ne oldu?
+
+1113
+01:32:52,402 --> 01:32:55,232
+Bilmiyorum.
+Kendimi bitik hissediyorum.
+
+1114
+01:32:55,381 --> 01:32:56,811
+Acayip fena paraya ihtiyacım var.
+
+1115
+01:32:57,010 --> 01:33:00,065
+- Ne?
+- Karımla beraber batıya gitmek istiyoruz.
+
+1116
+01:33:01,827 --> 01:33:04,160
+Karın öyle mi istiyor?
+
+1117
+01:33:04,307 --> 01:33:07,573
+<i>Tom paniğin sıcak kamçılarını hissediyordu.</i>
+
+1118
+01:33:08,214 --> 01:33:12,495
+<i>Daha bir saat önce elinin
+altında olan karısı ve metresi...</i>
+
+1119
+01:33:12,563 --> 01:33:15,739
+<i>...şimdi kontrolünden kayıp gidiyordu.</i>
+
+1120
+01:33:15,789 --> 01:33:19,238
+Geçtiğimiz iki günde
+tuhaf bir şekilde akıllandım.
+
+1121
+01:33:20,277 --> 01:33:24,073
+İşte geliyor. İstese de
+istemese de o batıya gidiyor.
+
+1122
+01:33:24,994 --> 01:33:28,634
+- Borcum ne kadar?
+- Bir dolar. Bir dolar 20 sent.
+
+1123
+01:33:28,855 --> 01:33:31,378
+Arabayı alabilirsin.
+Yarın sana gönderirim.
+
+1124
+01:34:25,312 --> 01:34:27,317
+İyi!
+İyi, iyi.
+
+1125
+01:34:28,664 --> 01:34:30,669
+Bir pencere daha açın.
+
+1126
+01:34:30,775 --> 01:34:31,911
+Başka pencere kalmadı.
+
+1127
+01:34:32,026 --> 01:34:34,412
+Öyleyse arayıp bir balta isteyelim.
+
+1128
+01:34:34,459 --> 01:34:38,315
+Neden sıcaklığı unutmuyorsun ki?
+Söylenip durunca daha beter oluyor.
+
+1129
+01:34:38,432 --> 01:34:41,333
+Sen onu neden rahat bırakmıyorsun azizim?
+
+1130
+01:34:42,836 --> 01:34:45,793
+Bu senin büyük lafın, değil mi?
+
+1131
+01:34:45,887 --> 01:34:46,786
+Ne o?
+
+1132
+01:34:47,631 --> 01:34:50,458
+"Azizim".
+Nereden kaptın bu lafı?
+
+1133
+01:34:50,566 --> 01:34:54,144
+Bak şimdi Tom, eğer şahsi görüşlerde
+bulunacaksan burada bir dakika durmam.
+
+1134
+01:34:54,617 --> 01:34:58,928
+Bay Gatsby, duyduğuma göre
+bir Oxford adamıymışsınız.
+
+1135
+01:35:03,130 --> 01:35:04,524
+Hayır, tam olarak sayılmaz.
+Hayır.
+
+1136
+01:35:04,624 --> 01:35:07,899
+Evet, Oxford'a gittiğinizi duydum.
+
+1137
+01:35:09,281 --> 01:35:10,610
+Evet, oraya gittim.
+
+1138
+01:35:10,685 --> 01:35:14,304
+Elbette. Pembe takım elbiseli
+adam Oxford'a gitmiştir.
+
+1139
+01:35:14,326 --> 01:35:15,702
+Tom!
+
+1140
+01:35:15,903 --> 01:35:17,536
+Oraya gittim dedim, değil mi?
+
+1141
+01:35:17,678 --> 01:35:21,234
+Evet, duydum.
+Ne zaman gittiğini bilmek isterim.
+
+1142
+01:35:21,806 --> 01:35:23,584
+Ne zaman gittiğimi bilmek mi istiyorsun?
+
+1143
+01:35:33,947 --> 01:35:36,120
+Evet Bay Gatsby?
+
+1144
+01:35:38,167 --> 01:35:41,125
+1919 yılındaydı, orada sadece 5 ay kaldım.
+
+1145
+01:35:41,142 --> 01:35:44,822
+Bu yüzden kendimi bir
+Oxford adamı olarak sayamam.
+
+1146
+01:35:44,849 --> 01:35:49,687
+O savaşa katılan subaylar
+için tanınmış bir fırsattı.
+
+1147
+01:35:50,859 --> 01:35:54,129
+<i>Ayağa kalkıp Gatsby'nin
+sırtını sıvazlayasım gelmişti.</i>
+
+1148
+01:35:54,209 --> 01:35:55,845
+Ben sana bir içki hazırlayayım Tom.
+
+1149
+01:35:56,442 --> 01:35:59,631
+- İç de kendi kendine böyle aptal görünme.
+- Dur bir dakika.
+
+1150
+01:35:59,765 --> 01:36:02,994
+Bay Gatsby'e bir soru daha soracağım.
+
+1151
+01:36:03,100 --> 01:36:05,384
+Buyurun, buyurun devam edin
+Bay Buchanan. Devam edin.
+
+1152
+01:36:05,832 --> 01:36:10,342
+Sen benim evimde ne tür bir
+kıyamet koparmaya çalışıyorsun ki?
+
+1153
+01:36:10,376 --> 01:36:12,728
+O kıyamet koparmıyor.
+Sen koparıyorsun.
+
+1154
+01:36:13,112 --> 01:36:14,631
+Lütfen kendine biraz hakim ol.
+
+1155
+01:36:14,732 --> 01:36:16,124
+Kendime hakim mi olayım?
+
+1156
+01:36:16,322 --> 01:36:19,745
+Zannedersem son moda arkana
+yaslanıp bilinmedik bir yerden...
+
+1157
+01:36:19,758 --> 01:36:23,594
+...çıkıp gelen tanınmadık kişinin
+karınla sevişmesine izin vermek olmuş.
+
+1158
+01:36:23,760 --> 01:36:26,529
+Eğer fikir buysa beni yok sayabilirsiniz.
+
+1159
+01:36:27,092 --> 01:36:32,069
+İşte bu günlerde insanlar aile hayatını,
+aile kurumlarını hiçe saymaya başladı.
+
+1160
+01:36:32,142 --> 01:36:37,079
+Bir bakmışsın her şeyi fırlatıp atmışız
+ve zencilerle beyazlar evlenmeye başlamış!
+
+1161
+01:36:37,105 --> 01:36:39,388
+Karın seni sevmiyor!
+
+1162
+01:36:44,670 --> 01:36:47,857
+Seni hiç sevmedi.
+O beni seviyor.
+
+1163
+01:36:52,508 --> 01:36:55,482
+- Çıldırmış olmalısın.
+- Hayır azizim.
+
+1164
+01:36:55,901 --> 01:36:59,384
+Hayır, anlayacağın...
+O seni hiç sevmedi.
+
+1165
+01:36:59,641 --> 01:37:02,982
+Seninle sadece beklemekten yorgun düştüğü
+ve benim yorgun olduğum için evlendi.
+
+1166
+01:37:03,299 --> 01:37:06,869
+Bu çok, çok korkunç bir hataydı
+ama kalbinde...
+
+1167
+01:37:07,656 --> 01:37:10,127
+Kalbinde benden başka kimseyi sevmedi.
+
+1168
+01:37:10,183 --> 01:37:11,462
+- Gitmeliyiz artık.
+- Kalın.
+
+1169
+01:37:11,496 --> 01:37:13,367
+- Hadi hep beraber eve gidelim.
+- Otur yerine Daisy!
+
+1170
+01:37:13,422 --> 01:37:16,418
+Lütfen, lütfen otur.
+
+1171
+01:37:17,021 --> 01:37:18,949
+Hadi Daisy.
+
+1172
+01:37:20,155 --> 01:37:21,458
+Daisy?
+
+1173
+01:37:22,838 --> 01:37:23,724
+Neler oluyor?
+
+1174
+01:37:23,766 --> 01:37:26,288
+- Her şeyi öğrenmek istiyorum.
+- Az önce olanları sana söyledim.
+
+1175
+01:37:26,310 --> 01:37:28,300
+Bu 5 senedir böyle.
+
+1176
+01:37:28,508 --> 01:37:32,877
+Onunla 5 senedir görüşüyor musunuz?
+
+1177
+01:37:32,934 --> 01:37:35,644
+Hayır, hayır. Hayır, görüşmüyoruz.
+Görüşmüyoruz, görüşemedik ama...
+
+1178
+01:37:35,660 --> 01:37:38,643
+...ikimiz de bunca zamandır
+birbirimizi seviyoruz, değil mi?
+
+1179
+01:37:39,684 --> 01:37:41,334
+Hepsi bu kadar mı?
+
+1180
+01:37:42,612 --> 01:37:43,894
+Sen delirmişsin!
+
+1181
+01:37:44,037 --> 01:37:46,517
+Ben 5 yıl önce olanlardan konuşamam.
+
+1182
+01:37:46,659 --> 01:37:48,328
+Çünkü o zamanlar Daisy'i tanımıyordum.
+
+1183
+01:37:48,435 --> 01:37:51,582
+Ayrıca onun bir kilometre bile yakınına
+nasıl girdiğini biliyorsam Arap olayım.
+
+1184
+01:37:51,625 --> 01:37:54,684
+Tabii arka kapıdan ona
+malzeme getirdiysen orası ayrı.
+
+1185
+01:37:54,719 --> 01:37:59,669
+Ama geri kalan her şey bir yalandan ibaret!
+Daisy evlendiğimizde beni seviyordu...
+
+1186
+01:37:59,722 --> 01:38:01,284
+...ve şimdi de seviyor.
+
+1187
+01:38:01,392 --> 01:38:02,232
+- Hayır! Hayır.
+- Seviyor.
+
+1188
+01:38:02,233 --> 01:38:04,342
+- Üzgünüm Bay Buchanan.
+- Ama seviyor!
+
+1189
+01:38:04,379 --> 01:38:05,582
+- Hayır.
+- Hayır, hayır. Beni seviyor.
+
+1190
+01:38:05,603 --> 01:38:07,761
+Seviyor, hatta dahası ben de
+Daisy'i seviyorum.
+
+1191
+01:38:11,757 --> 01:38:13,567
+Seni seviyorum Daisy.
+
+1192
+01:38:13,702 --> 01:38:17,089
+Gerçi arada bir alem yapıyorum
+ama hep sana geri dönüyorum.
+
+1193
+01:38:17,105 --> 01:38:19,255
+- Alemmiş!
+- Ve kalbimin derinliklerinde onu...
+
+1194
+01:38:19,275 --> 01:38:21,551
+- ...onu sürekli seviyorum.
+- Beni tiksindiriyorsun.
+
+1195
+01:38:21,615 --> 01:38:23,885
+Chicago'dan neden ayrıldık biliyor musun?
+
+1196
+01:38:23,967 --> 01:38:26,490
+Sana o küçük alemin hikâyesini
+anlatmamış olmalarına şaşırdım.
+
+1197
+01:38:26,529 --> 01:38:29,298
+Tamam, her şey bitti artık
+Daisy, canım her şey bitti.
+
+1198
+01:38:29,364 --> 01:38:32,727
+Ona gerçeği söyle hadi.
+Onu hiç sevmediğini söyle...
+
+1199
+01:38:32,793 --> 01:38:35,736
+Söyle de bu...
+Bu tamamen sona ersin.
+
+1200
+01:38:35,770 --> 01:38:37,257
+Onu nasıl sevebilirim ki?
+Nasıl mümkün olur?!
+
+1201
+01:38:37,980 --> 01:38:43,362
+Planladığımız gibi onu hiç sevmediğini
+söyle de tüm bunlar tamamen sona ersin.
+
+1202
+01:38:45,063 --> 01:38:46,412
+Daisy.
+
+1203
+01:38:47,526 --> 01:38:48,971
+Daisy, söyle ona.
+
+1204
+01:38:49,774 --> 01:38:51,966
+Onu hiç sevmediğimi mi?
+
+1205
+01:38:52,899 --> 01:38:54,058
+Hiç mi?
+
+1206
+01:38:54,386 --> 01:38:56,633
+- Hayır.
+- Hayır.
+
+1207
+01:38:57,472 --> 01:38:59,784
+Kapiolani'de de mi?
+
+1208
+01:39:03,093 --> 01:39:07,214
+Ayakkabıların ıslanmasın diye seni
+Punch Bowl'dan aşağı taşıdığım o gün de mi?
+
+1209
+01:39:11,266 --> 01:39:12,836
+Hiç mi?
+
+1210
+01:39:12,888 --> 01:39:15,003
+Lütfen yapma.
+
+1211
+01:39:15,247 --> 01:39:17,022
+Daisy.
+
+1212
+01:39:17,727 --> 01:39:21,457
+Hayır Jay!
+Çok fazla şey istiyorsun.
+
+1213
+01:39:21,726 --> 01:39:25,402
+Şimdi seni seviyorum, bu yeterli değil mi?
+Geçmiş için elimden bir şey gelmez.
+
+1214
+01:39:25,482 --> 01:39:29,138
+Bir keresinde onu sevmiştim.
+Ama seni de sevdim.
+
+1215
+01:39:31,004 --> 01:39:34,647
+<i>Onu sevdin ama beni de mi sevmiştin?
+Sen beni...</i>
+
+1216
+01:39:34,943 --> 01:39:37,599
+Bu bile bir yalan!
+Senin hayatta olduğunu bilmiyordu!
+
+1217
+01:39:37,628 --> 01:39:40,535
+Daisy ile aramızda asla
+bilemeyeceğin şeyler var Gatsby.
+
+1218
+01:39:40,563 --> 01:39:42,079
+İkimizin de asla unutamayacağı şeyler!
+
+1219
+01:39:42,103 --> 01:39:44,406
+Benim sadece Daisy ile yalnız
+konuşmam gerekiyor. Şimdi sen...
+
+1220
+01:39:44,430 --> 01:39:49,220
+Sen onu heyecanlandırdın değil mi azizim?
+Daisy...
+
+1221
+01:39:49,274 --> 01:39:52,230
+Yalnız olduğumuzda bile Tom'u hiç
+sevmediğimi söyleyemem, bu doğru olmaz.
+
+1222
+01:39:52,557 --> 01:39:54,927
+- Elbette olmaz.
+- Sanki umurunda ya.
+
+1223
+01:39:54,971 --> 01:39:57,807
+Elbette umurumda.
+Bundan sonra sana daha iyi bakacağım.
+
+1224
+01:39:57,825 --> 01:40:00,028
+Artık Daisy'e bakmayacaksın sen!
+
+1225
+01:40:00,751 --> 01:40:02,448
+- O seni terk ediyor.
+- Saçmalık!
+
+1226
+01:40:02,480 --> 01:40:04,329
+- Ama öyle!
+- Hayır, hayır, hayır, hayır, hayır.
+
+1227
+01:40:04,361 --> 01:40:05,691
+Hayır, o beni terk etmiyor.
+
+1228
+01:40:05,788 --> 01:40:09,351
+Senin gibi bir üçkağıtçı
+için hele hiç olmaz.
+
+1229
+01:40:09,393 --> 01:40:11,692
+Bay Gatsby, siz tam olarak kimsiniz ki?
+
+1230
+01:40:11,759 --> 01:40:14,286
+Şöyle ki, yaptığınız işler üzerine
+ufak bir soruşturma yaptım.
+
+1231
+01:40:14,448 --> 01:40:16,535
+Siz Meyer Wolfsheim'ın adamlarındansınız.
+
+1232
+01:40:16,571 --> 01:40:17,627
+Lütfen, hadi eve gidelim!
+
+1233
+01:40:17,661 --> 01:40:21,328
+Şimdi o ve bu Wolfsheim bir
+sürü eczane satın almışlar...
+
+1234
+01:40:21,563 --> 01:40:24,106
+...ve el altından kaçak alkol satmışlar.
+
+1235
+01:40:24,132 --> 01:40:25,472
+Ne olmuş yani azizim?
+
+1236
+01:40:25,506 --> 01:40:26,799
+Bana "azizim" deme sakın!
+
+1237
+01:40:26,828 --> 01:40:32,499
+Ve bu eczane işi Wolfsheim ile çevirdiğiniz
+diğer işlere kıyasla oldukça ufak kalıyor.
+
+1238
+01:40:32,535 --> 01:40:35,113
+Arkadaşın Walter Chase işin
+içine girmeyecek kadar gururluymuş.
+
+1239
+01:40:35,133 --> 01:40:36,620
+Bu konuya iyice kafa yordum.
+
+1240
+01:40:36,621 --> 01:40:41,554
+Nasıl oluyor da Walter Chase gibi saygın bir
+bankacı boğazına kadar borca batabiliyor?
+
+1241
+01:40:41,591 --> 01:40:43,594
+- Ben sana nasıl oluyor anlatayım.
+- Hem de Wolfsheim gibi bir adiye!
+
+1242
+01:40:43,627 --> 01:40:46,036
+- Buna açgözlülük deniyor azizim.
+- Tabii ya.
+
+1243
+01:40:46,051 --> 01:40:49,700
+Ve her hafta sonu şu eğlence
+parkında Wall Street'in yarısını...
+
+1244
+01:40:49,718 --> 01:40:51,480
+...bedava içkinle dolduruyorsun.
+
+1245
+01:40:51,582 --> 01:40:54,263
+Seni işin içine sokmaya
+çalışmadığına şaştım.
+
+1246
+01:40:55,918 --> 01:40:57,641
+Aman Tanrım çalışmış bile.
+
+1247
+01:40:57,713 --> 01:41:01,550
+- Onun bununla hiçbir alakası...
+- Senin küçük haraç içinle bir alakası yok.
+
+1248
+01:41:02,824 --> 01:41:04,713
+Daisy?
+Daisy!
+
+1249
+01:41:06,375 --> 01:41:08,644
+Bu adamın kim olduğunu göremiyor musun?
+
+1250
+01:41:08,760 --> 01:41:13,545
+Bu eviyle. Ve partileriyle.
+Ve süslü elbiseleriyle...
+
+1251
+01:41:14,359 --> 01:41:18,259
+O sadece Wolfsheim'ın, bir gangsterin yüzü.
+
+1252
+01:41:18,428 --> 01:41:21,151
+Onun Walter Chase gibi saygıdeğer
+birine pençelerini geçirebilmesi için var.
+
+1253
+01:41:21,212 --> 01:41:24,210
+Senin saygıdeğer tek yanın azizim, paran.
+
+1254
+01:41:24,684 --> 01:41:25,761
+Paran, hepsi bu.
+
+1255
+01:41:26,106 --> 01:41:28,175
+Bende de en az senin kadar para var,
+bu da demek oluyor ki biz eşitiz.
+
+1256
+01:41:28,199 --> 01:41:29,942
+Hayır!
+Hayır.
+
+1257
+01:41:30,861 --> 01:41:36,599
+Farklıyız.
+Ben farklıyım, onlar farklı, o farklı.
+
+1258
+01:41:36,933 --> 01:41:39,133
+Hepimiz senden farklıyız.
+
+1259
+01:41:39,180 --> 01:41:41,544
+Bak, biz farklı şekilde doğmuşuz.
+
+1260
+01:41:43,649 --> 01:41:45,295
+Bu kanımızda var.
+
+1261
+01:41:45,318 --> 01:41:49,401
+Ve yapacağın, söyleyeceğin,
+çalacağın ya da hayalini kuracağın...
+
+1262
+01:41:49,646 --> 01:41:52,565
+...hiçbir şey bunu değiştiremez.
+
+1263
+01:41:52,726 --> 01:41:54,122
+Daisy gibi bir kız..
+
+1264
+01:41:54,168 --> 01:41:56,038
+Kapa çeneni sen!
+Kapa çeneni!
+
+1265
+01:41:56,213 --> 01:42:00,170
+Kapa çeneni! Kapa çeneni!
+Kapa çeneni!
+
+1266
+01:42:09,008 --> 01:42:11,359
+<i>Gatsby o an...</i>
+
+1267
+01:42:11,838 --> 01:42:16,336
+<i>...sanki birini öldürmüş gibi görünüyordu.</i>
+
+1268
+01:42:29,478 --> 01:42:33,561
+En... En derin...
+
+1269
+01:42:33,638 --> 01:42:37,454
+En derin özürlerimi sunarım.
+
+1270
+01:42:40,029 --> 01:42:43,625
+Sanırım...
+Öfkeye kapıldım.
+
+1271
+01:42:44,230 --> 01:42:46,633
+Evet öyle Bay Gatsby.
+
+1272
+01:42:47,379 --> 01:42:49,935
+Bize şu güzel Oxford
+terbiyesini gösterdiniz.
+
+1273
+01:42:49,955 --> 01:42:52,038
+Daisy, canım.
+
+1274
+01:42:52,073 --> 01:42:55,523
+Bunların hiçbirinin...
+Sonuç olarak...
+
+1275
+01:42:56,112 --> 01:43:00,266
+Daisy.
+Daisy, bir şey söyle canım.
+
+1276
+01:43:00,404 --> 01:43:02,681
+Öfkeye kapıldım, hepsi bu.
+
+1277
+01:43:02,796 --> 01:43:05,506
+<i>Heyecanlı bir şekilde konuşmaya başladı.</i>
+
+1278
+01:43:05,629 --> 01:43:09,692
+<i>Ama her kelimesiyle Daisy
+gittikçe içine kapanıyordu.</i>
+
+1279
+01:43:11,384 --> 01:43:14,039
+Lütfen Tom, buna daha fazla katlanamam!
+
+1280
+01:43:17,346 --> 01:43:22,316
+Siz ikiniz neden eve gitmiyorsunuz?
+Bay Gatsby'nin arabasıyla.
+
+1281
+01:43:22,341 --> 01:43:23,877
+- Daisy, canım bana bak.
+- Hadi gidin.
+
+1282
+01:43:23,903 --> 01:43:26,484
+- Daisy.
+- Seni rahatsız etmez.
+
+1283
+01:43:26,911 --> 01:43:30,080
+Sanırım bu küçük flörtün
+sona erdiğinin farkındadır.
+
+1284
+01:43:30,121 --> 01:43:32,168
+Daisy?
+Daisy!
+
+1285
+01:43:45,813 --> 01:43:50,819
+Bundan biraz ister misiniz?
+Jordan? Nick?
+
+1286
+01:43:53,117 --> 01:43:56,785
+- Nick?
+- Ne var?
+
+1287
+01:43:56,849 --> 01:43:59,550
+- Biraz ister misin?
+- Hayır.
+
+1288
+01:44:00,945 --> 01:44:02,836
+Şimdi hatırladım.
+
+1289
+01:44:04,758 --> 01:44:07,108
+Bugün benim doğum günüm.
+
+1290
+01:44:10,712 --> 01:44:12,690
+Doğum günün kutlu olsun.
+
+1291
+01:44:15,005 --> 01:44:19,134
+<i>30.
+Yalnızlıkla dolu olacak 10 yılın işareti.</i>
+
+1292
+01:44:19,431 --> 01:44:22,851
+<i>Gatsby ile Daisy serin
+alacakaranlığı yararak ölüme doğru...</i>
+
+1293
+01:44:22,966 --> 01:44:27,287
+<i>...sürerken 30 yaşın vurduğu
+ağır darbenin acısı...</i>
+
+1294
+01:44:29,115 --> 01:44:31,485
+<i>...kayboldu gitti.</i>
+
+1295
+01:44:34,662 --> 01:44:37,911
+Bana yalan söyleyeyim deme!
+Bunu nereden buldun?
+
+1296
+01:44:37,938 --> 01:44:40,532
+Beni kandırabilirsin
+ama Tanrı'yı kandıramazsın!
+
+1297
+01:44:40,790 --> 01:44:43,024
+Tanrı her şeyi görür!
+
+1298
+01:44:44,915 --> 01:44:48,264
+Myrtle!
+Neredesin?
+
+1299
+01:44:55,350 --> 01:44:58,023
+Dur!
+Dur!
+
+1300
+01:44:58,024 --> 01:45:02,390
+- Myrtle! Bebeğim!
+- Dur!
+
+1301
+01:45:04,225 --> 01:45:06,643
+Lütfen!
+
+1302
+01:45:40,313 --> 01:45:43,507
+Yavaşlayın! Yavaşlayın!
+Önünüzde kaza yeri var bayım.
+
+1303
+01:45:43,715 --> 01:45:47,768
+Güzel! Sonunda Wilson'a biraz
+iş çıkacak. Hadi gidip bakalım.
+
+1304
+01:45:47,769 --> 01:45:49,215
+Saat 3 buçuk.
+
+1305
+01:45:49,820 --> 01:45:51,431
+Sadece bakacağız.
+
+1306
+01:45:52,305 --> 01:45:53,646
+Hadi!
+
+1307
+01:46:30,604 --> 01:46:32,663
+<i>Tamam millet, biraz yer açın.</i>
+
+1308
+01:46:32,801 --> 01:46:35,067
+<i>Arka tarafta biraz yer açın.</i>
+
+1309
+01:46:52,480 --> 01:46:54,315
+Bayım?
+
+1310
+01:46:55,451 --> 01:46:58,384
+- Bayım, sizden geri çekilmenizi...
+- Çek ellerini üzerimden!
+
+1311
+01:46:58,592 --> 01:47:00,359
+Ben iyiyim!
+
+1312
+01:47:01,763 --> 01:47:03,943
+İyiyim.
+
+1313
+01:47:05,004 --> 01:47:07,238
+Onu tanıyorsunuz, değil mi?
+
+1314
+01:47:13,243 --> 01:47:15,492
+Pek sayılmaz, hayır.
+
+1315
+01:47:17,159 --> 01:47:19,557
+Pekâlâ, geri çekilebilir misiniz bayım?
+
+1316
+01:47:22,874 --> 01:47:24,497
+Ne olmuş?
+
+1317
+01:47:24,864 --> 01:47:27,177
+Yola fırlamış.
+
+1318
+01:47:27,563 --> 01:47:29,999
+Çarpan orospu çocuğu
+arabasını durdurmamış bile.
+
+1319
+01:47:30,039 --> 01:47:34,462
+Ben olayı gördüm!
+Sarı bir arabaydı. Büyük, sarı bir araba.
+
+1320
+01:47:34,525 --> 01:47:35,755
+Evet, bir anda ortaya çıktı.
+
+1321
+01:47:35,772 --> 01:47:39,081
+Evet. Evet, büyük sarı,
+güzel bir araba. Özel üretim.
+
+1322
+01:47:40,185 --> 01:47:43,651
+Bana ne tür bir araba olduğunu
+söylemene gerek yok.
+
+1323
+01:47:44,012 --> 01:47:45,735
+Ben ne tür bir araba olduğunu biliyorum!
+
+1324
+01:47:47,428 --> 01:47:50,351
+- Wilson, Wilson. Wilson, kendine gel!
+- Ben ne tür bir araba olduğunu biliyorum!
+
+1325
+01:47:50,454 --> 01:47:52,824
+- Ben ne tür bir araba olduğunu biliyorum!
+- Bu adamın sessiz, sakin bir ortama...
+
+1326
+01:47:52,959 --> 01:47:55,064
+...ihtiyacı olduğunu
+göremiyor musunuz? Bak!
+
+1327
+01:47:55,621 --> 01:47:57,738
+Ben New York'tan buraya daha yeni geldim.
+
+1328
+01:47:58,053 --> 01:48:01,344
+Dinle Wilson!
+Sana benim spor arabayı getiriyordum.
+
+1329
+01:48:01,505 --> 01:48:03,135
+Otur, otur!
+
+1330
+01:48:03,781 --> 01:48:05,231
+Şuna bir içki verin!
+Şuna bir içki verin!
+
+1331
+01:48:05,297 --> 01:48:07,707
+O sarı araba benim değildi.
+Beni duyuyor musun?
+
+1332
+01:48:07,784 --> 01:48:09,580
+Onu öğlenden beri görmedim.
+
+1333
+01:48:11,671 --> 01:48:13,555
+Senin araban ne renk?
+
+1334
+01:48:13,663 --> 01:48:16,115
+Mavi.
+Spor araba.
+
+1335
+01:48:16,230 --> 01:48:17,628
+Buraya New York'tan daha yeni geldik.
+
+1336
+01:48:17,697 --> 01:48:19,201
+Evet, az önce durdular.
+
+1337
+01:48:26,588 --> 01:48:28,484
+Peki.
+
+1338
+01:48:29,284 --> 01:48:31,080
+Mavi.
+
+1339
+01:48:33,980 --> 01:48:36,022
+Al hadi.
+
+1340
+01:48:37,161 --> 01:48:39,095
+Bizi biraz yalnız bırak.
+
+1341
+01:48:40,200 --> 01:48:42,672
+Wilson...
+
+1342
+01:48:45,555 --> 01:48:48,309
+Sarı araba kimin?
+
+1343
+01:48:51,182 --> 01:48:54,441
+Gatsby adındaki bir adamın.
+Jay Gatsby'nin.
+
+1344
+01:48:56,255 --> 01:48:58,513
+O bir düzenbaz George.
+O...
+
+1345
+01:48:59,096 --> 01:49:02,965
+...herkesin gazetelerde
+bahsettiği şu partileri veren kişi.
+
+1346
+01:49:08,122 --> 01:49:12,077
+Belki de Myrtle ile oynaşan kişi de odur.
+
+1347
+01:49:12,425 --> 01:49:14,834
+Belki de onu bu yüzden öldürmüştür!
+
+1348
+01:49:14,891 --> 01:49:16,421
+Evet, belki de.
+
+1349
+01:49:18,806 --> 01:49:21,553
+Orasını ancak tanrı bilir.
+
+1350
+01:49:24,290 --> 01:49:27,644
+Ona layığını vermelisin.
+
+1351
+01:49:36,035 --> 01:49:37,478
+Gatsby.
+
+1352
+01:49:38,592 --> 01:49:42,500
+Öyle bir adam için bir şeyler yapılmalı.
+
+1353
+01:49:44,898 --> 01:49:48,307
+Bunun hesabını verecek.
+Hesabını öyle bir verecek ki.
+
+1354
+01:49:55,454 --> 01:49:57,374
+Korkak herif!
+
+1355
+01:49:58,406 --> 01:50:00,532
+Arabasını durdurmamış bile.
+
+1356
+01:50:02,669 --> 01:50:05,058
+Şimdi de onu savunacak mısın?
+
+1357
+01:50:24,479 --> 01:50:26,368
+Ben bir taksi çağırayım Nick.
+
+1358
+01:50:26,418 --> 01:50:29,168
+Neden beklerken içeri gelip
+biraz yemek almıyorsun?
+
+1359
+01:50:29,303 --> 01:50:32,100
+Yok teşekkürler.
+Ben dışarıda beklerim.
+
+1360
+01:50:33,593 --> 01:50:35,967
+Senin neyin var?
+
+1361
+01:50:40,559 --> 01:50:43,135
+- İçeri gelmiyor musun Nick?
+- Hayır, teşekkürler.
+
+1362
+01:50:43,149 --> 01:50:46,928
+- Saat daha 9 buçuk.
+- Hayır, bıktım artık! Herkesten.
+
+1363
+01:51:02,846 --> 01:51:05,189
+Merhaba azizim.
+
+1364
+01:51:13,270 --> 01:51:15,394
+Ne yapıyorsun sen?
+
+1365
+01:51:16,376 --> 01:51:19,528
+- Sadece oturuyorum.
+- Evet onu görebiliyorum!
+
+1366
+01:51:19,755 --> 01:51:21,612
+Yolda bir kargaşa gördün mü?
+
+1367
+01:51:21,662 --> 01:51:23,731
+Ezdiğin o kadın ölmüş Jay!
+
+1368
+01:51:24,046 --> 01:51:26,992
+Ben de öyle düşünmüştüm, ben...
+Daisy'e öyle düşündüğümü söylemiştim.
+
+1369
+01:51:27,039 --> 01:51:28,362
+- Daisy mi?
+- Bu şok da...
+
+1370
+01:51:28,375 --> 01:51:30,081
+Ağzından çıkanı kulağın duyuyor mu senin?
+
+1371
+01:51:30,105 --> 01:51:31,768
+Nasıl yapabildin?
+Bunu nasıl yapabildin?
+
+1372
+01:51:31,814 --> 01:51:33,100
+- Senin sorunun ne?
+- Bağırma!
+
+1373
+01:51:33,254 --> 01:51:34,920
+Sen lanet olası bir korkaktan
+başka bir şey değilsin!
+
+1374
+01:51:35,059 --> 01:51:38,529
+Bağırma azizim, lütfen!
+Durmanın bir anlamı yoktu.
+
+1375
+01:51:38,571 --> 01:51:39,809
+- Anlamı yok muydu?
+- Yoktu.
+
+1376
+01:51:39,975 --> 01:51:41,908
+Yok muydu?
+Peki ya o kadın ne olacak?
+
+1377
+01:51:41,943 --> 01:51:44,682
+Anlamı yoktu. O... O...
+Kadın zaten olay anında ölmüştü.
+
+1378
+01:51:44,775 --> 01:51:47,038
+Evet, onu paramparça etmişsin!
+Oradaydım, kadını gördüm.
+
+1379
+01:51:47,067 --> 01:51:51,176
+Anlıyorum! Anlıyorum! Bu benim hatamdı!
+Benim hatamdı, o birden...
+
+1380
+01:51:51,221 --> 01:51:55,271
+...birden yola fırladı. Sanki bizimle
+konuşmaya çalışıyor gibiydi.
+
+1381
+01:51:55,278 --> 01:51:57,599
+Her şey çok hızlı gerçekleşti!
+O...
+
+1382
+01:51:57,639 --> 01:52:00,849
+- O zamanında direksiyonu kırmayı
+denedi ama... - O mu?
+
+1383
+01:52:18,361 --> 01:52:20,516
+Çarpan kişi Daisy'di.
+
+1384
+01:52:24,907 --> 01:52:27,464
+Hayır, ben...
+
+1385
+01:52:29,157 --> 01:52:32,476
+Bak, New York'tan ayrıldıktan sonra o...
+
+1386
+01:52:32,530 --> 01:52:34,764
+O çok gergindi.
+Arabayı kullanmanın...
+
+1387
+01:52:35,580 --> 01:52:37,943
+...sinirlerini yatıştıracağını düşündü.
+
+1388
+01:52:37,977 --> 01:52:42,060
+Ama... O kadın,
+bir anda önümüze fırladı.
+
+1389
+01:52:44,357 --> 01:52:46,873
+Her şey çok hızlı gerçekleşti.
+
+1390
+01:52:46,936 --> 01:52:49,096
+Onun, Daisy'nin hatası değildi.
+
+1391
+01:53:11,162 --> 01:53:13,993
+Arabayı Daisy'nin kullandığını
+kimsenin bilmemesi gerekli.
+
+1392
+01:53:15,638 --> 01:53:17,764
+Söz ver bana.
+
+1393
+01:53:18,078 --> 01:53:19,430
+Jay.
+
+1394
+01:53:19,616 --> 01:53:21,747
+Sen eve gidip biraz dinlenmelisin.
+
+1395
+01:53:21,814 --> 01:53:23,298
+Burada bekleyeceğim.
+
+1396
+01:53:23,398 --> 01:53:25,528
+Gerekirse gece boyunca burada beklerim.
+
+1397
+01:53:25,541 --> 01:53:27,108
+Hayır, hayır, hayır.
+Bu iyi bir fikir değil.
+
+1398
+01:53:27,125 --> 01:53:30,416
+Eğer onu bu öğlen çıkan tatsızlık
+için rahatsız etmeye kalkarsa...
+
+1399
+01:53:30,438 --> 01:53:31,854
+...eğer onu rahatsız etmeye kalkarsa...
+
+1400
+01:53:31,873 --> 01:53:33,477
+...eğer bir şiddet uygulamaya kalkarsa...
+
+1401
+01:53:33,493 --> 01:53:35,836
+- ...herhangi bir şekilde...
+- Tom ona... Tom ona dokunmaz.
+
+1402
+01:53:35,864 --> 01:53:38,840
+- Hatta onu düşünmüyor bile Jay.
+- Ona güvenmiyorum.
+
+1403
+01:53:38,888 --> 01:53:43,491
+- Ona güvenmiyorum.
+- Peki, peki.
+
+1404
+01:53:46,221 --> 01:53:48,017
+Sen burada bekle.
+
+1405
+01:53:49,168 --> 01:53:51,514
+Ben bir gürültü patırtı var mı bakayım.
+
+1406
+01:53:52,371 --> 01:53:55,018
+Bakar mısın?
+
+1407
+01:53:57,989 --> 01:53:59,860
+Teşekkürler azizim.
+
+1408
+01:54:10,847 --> 01:54:12,867
+Endişelenecek bir şey yok.
+
+1409
+01:54:12,914 --> 01:54:17,431
+İzin ver her şey ile ilgileneyim.
+Seninle ilgileneyim.
+
+1410
+01:54:20,829 --> 01:54:23,988
+Sadece seni kasabadan uzaklaştırmak için.
+
+1411
+01:54:23,989 --> 01:54:27,614
+Dinlenmen için. Endişelenme.
+Her şey yolunda olacak.
+
+1412
+01:55:01,657 --> 01:55:04,407
+- Merhaba azizim.
+- Jay.
+
+1413
+01:55:05,050 --> 01:55:08,701
+- Her şey yolunda mı?
+- Evet, her şey yolunda.
+
+1414
+01:55:09,777 --> 01:55:13,018
+Saat 4'te pencereye çıktı.
+
+1415
+01:55:13,860 --> 01:55:15,232
+Orada dikildi, sonra...
+
+1416
+01:55:16,587 --> 01:55:19,189
+...ışıkları söndürdü, yani...
+
+1417
+01:55:19,214 --> 01:55:21,214
+Neyse.
+
+1418
+01:55:22,045 --> 01:55:24,542
+Bana biraz yardım et, olur mu azizim?
+
+1419
+01:55:24,795 --> 01:55:28,089
+<i>Ona az önce gördüklerimi
+anlatmalıydım ama...</i>
+
+1420
+01:55:29,164 --> 01:55:31,614
+<i>...söyleyebildiğim tek şey şuydu.</i>
+
+1421
+01:55:31,980 --> 01:55:35,516
+Jay, tüm olanları düşünürsek
+senin buralardan gitmen gerekli.
+
+1422
+01:55:35,623 --> 01:55:37,773
+Bu gece gitmelisin.
+Arabanın izini sürerler.
+
+1423
+01:55:37,795 --> 01:55:40,542
+Gideyim mi? Şimdi gidemem.
+Bu gece olmaz.
+
+1424
+01:55:40,665 --> 01:55:42,756
+Jay, bir kadının öldüğünün farkında mısın?
+
+1425
+01:55:42,810 --> 01:55:44,872
+Daisy sabah beni arayacak.
+
+1426
+01:55:45,280 --> 01:55:48,605
+Ve beraber kaçmak için plan yapacağız.
+
+1427
+01:55:50,184 --> 01:55:51,286
+Daisy, o...
+
+1428
+01:55:51,299 --> 01:55:53,035
+Olanları düşünmek için
+biraz vakte ihtiyacı var.
+
+1429
+01:55:53,036 --> 01:55:56,829
+Hepsi bu!
+Burada konuşuyoruz, teşekkürler.
+
+1430
+01:55:59,949 --> 01:56:03,147
+- Onun sadece düşünmek için
+vakte ihtiyacı var. - Hayır, Jay...
+
+1431
+01:56:03,182 --> 01:56:06,345
+- Konu Daisy olunca.
+- Sadece düşünmek için vakte ihtiyacı var.
+
+1432
+01:56:06,576 --> 01:56:09,523
+Sabah beni arayacak.
+
+1433
+01:56:17,622 --> 01:56:19,903
+Benimle bir bekle.
+
+1434
+01:56:23,837 --> 01:56:26,369
+Güneş doğmak üzere.
+
+1435
+01:56:29,289 --> 01:56:32,961
+<i>Bu sonunda bana gerçeği söylediği geceydi.</i>
+
+1436
+01:56:33,169 --> 01:56:34,086
+<i>Tamamını.</i>
+
+1437
+01:56:37,137 --> 01:56:41,362
+Bir süre boyunca düşündüm.
+Pek çok şeyim vardı ama...
+
+1438
+01:56:41,924 --> 01:56:44,954
+...işin aslı benim...
+Benim içim boş.
+
+1439
+01:56:44,983 --> 01:56:47,946
+Zannedersem bu yüzden
+hakkımda bir şeyler uyduruyorum.
+
+1440
+01:56:47,962 --> 01:56:51,678
+Ama uzun süredir sana tüm
+hikâyemi anlatmak istiyordum.
+
+1441
+01:56:53,297 --> 01:56:56,473
+Ben çok, çok fakir bir
+şekilde büyüdüm azizim.
+
+1442
+01:56:56,781 --> 01:56:59,717
+<i>- Ailem...
+- Sıradan başlangıçlarını...</i>
+
+1443
+01:56:59,825 --> 01:57:03,226
+<i>...Dan Cody ile hayatında büyük
+değişim yaratan geziyi anlattı.</i>
+
+1444
+01:57:03,607 --> 01:57:09,371
+<i>Savaşı, Oxford'u ve iş için
+Wolfsheim'a nasıl katıldığını anlattı.</i>
+
+1445
+01:57:11,139 --> 01:57:14,410
+<i>Aynı zamanda o gece
+Gatsby'nin sıra dışı bir şekilde...</i>
+
+1446
+01:57:14,567 --> 01:57:17,379
+<i>...umut dolu olma lütfuna
+sahip olduğunu da fark ettim.</i>
+
+1447
+01:57:17,491 --> 01:57:21,605
+Sadece benim onu sevmediğimi, onun da
+beni sevdiğini öğrenince şaşırmıştım azizim.
+
+1448
+01:57:21,679 --> 01:57:24,876
+<i>Başka kimsede bulamadığım bir lütuf...</i>
+
+1449
+01:57:24,925 --> 01:57:29,234
+İyi bir kızın ne kadar sıra dışı
+olabileceğini hiç fark etmemiştim.
+
+1450
+01:57:29,424 --> 01:57:32,848
+<i>Ve de büyük ihtimalle bir daha
+hiç bulamayacağım bir lütuf.</i>
+
+1451
+01:57:33,049 --> 01:57:36,736
+Hayatımı içinde Daisy ile düşünmüştüm.
+Nasıl evleneceğimizi...
+
+1452
+01:57:36,764 --> 01:57:39,318
+...ayda bu kadar fazla dolarla nasıl
+baş edeceğimizi düşünmüştüm.
+
+1453
+01:57:40,750 --> 01:57:43,026
+Mektupta ne yazıyordu?
+
+1454
+01:57:44,952 --> 01:57:48,977
+Savaştan sonra benim neden...
+Neden geri dönemediğim yazılıydı.
+
+1455
+01:57:50,266 --> 01:57:55,629
+<i>Ondan ben bir şeyler sahibi olana
+dek beklemesini istedim. Ama o...</i>
+
+1456
+01:57:56,191 --> 01:57:58,630
+Anlayacağın ben kendimi
+onunla evli gibi hissediyordum.
+
+1457
+01:58:01,362 --> 01:58:02,953
+Hepsi buydu.
+
+1458
+01:58:03,647 --> 01:58:09,378
+<i>Her şey onun içindi. Ev, partiler.
+Her şey!</i>
+
+1459
+01:58:16,604 --> 01:58:18,638
+Tanrı her şeyi görür.
+
+1460
+01:58:27,399 --> 01:58:29,962
+Bay Gatsby, efendim affedersiniz ama...
+
+1461
+01:58:29,963 --> 01:58:32,431
+- ...Chicago aradı, durum...
+- Şimdi olmaz.
+
+1462
+01:58:33,510 --> 01:58:38,950
+- Telefonu şahsi bir arama için açık tut.
+- Şahsi bir arama mı? Elbette.
+
+1463
+01:58:39,187 --> 01:58:42,000
+Affedersiniz Bay Gatsby, efendim ama
+yapraklar çıkmaya başlamadan önce...
+
+1464
+01:58:42,007 --> 01:58:43,780
+...bugün havuzun suyunu çekeceğim.
+
+1465
+01:58:43,800 --> 01:58:45,333
+Bugün olmaz.
+
+1466
+01:58:47,776 --> 01:58:50,141
+Bugün olmaz.
+Çok güzel görünüyor.
+
+1467
+01:58:50,809 --> 01:58:52,264
+Biliyor musun azizim...
+
+1468
+01:58:53,370 --> 01:58:55,654
+Yaz boyunca o havuzu
+bir kere bile kullanmadım.
+
+1469
+01:58:55,683 --> 01:58:59,557
+Gel biraz yüzelim.
+Telefonu havuzun kenarına getirtin.
+
+1470
+01:59:13,427 --> 01:59:15,834
+Benim gitmem gerek Jay.
+
+1471
+01:59:18,098 --> 01:59:21,226
+- Çalışmam gerek.
+- Anlıyorum.
+
+1472
+01:59:23,026 --> 01:59:25,466
+Öyleyse seni geçireyim.
+
+1473
+01:59:33,716 --> 01:59:39,396
+- Seni sonra ararım.
+- Lütfen ara azizim. Lütfen.
+
+1474
+01:59:42,274 --> 01:59:45,070
+Zannedersem Daisy de arayacaktır.
+
+1475
+01:59:48,332 --> 01:59:52,986
+Ben...
+Zannedersem öyle.
+
+1476
+01:59:52,987 --> 01:59:54,145
+Evet.
+
+1477
+01:59:56,503 --> 01:59:58,684
+Neyse, görüşmek üzere.
+
+1478
+02:00:17,764 --> 02:00:19,992
+Jay?
+
+1479
+02:00:20,961 --> 02:00:23,419
+Onların hepsi çürük.
+
+1480
+02:00:24,107 --> 02:00:27,420
+Hepsi bir araya gelse bir sen edemezler.
+
+1481
+02:00:37,411 --> 02:00:40,143
+<i>İyi ki ona öyle demişim.</i>
+
+1482
+02:00:42,018 --> 02:00:45,387
+<i>Ona söylediğim tek iltifat buydu.</i>
+
+1483
+02:00:48,807 --> 02:00:54,175
+<i>O sabah Wall Streat her zamanki
+altın kükremesiyle yükselişe geçti.</i>
+
+1484
+02:00:54,247 --> 02:00:57,655
+<i>Ama benim adam akıllı iş yapasım yoktu.</i>
+
+1485
+02:00:58,670 --> 02:01:01,845
+<i>Gatsby'nin arayıp haberleri
+vermesini bekledim.</i>
+
+1486
+02:01:04,034 --> 02:01:06,826
+<i>Bu sırada o da Daisy'i bekliyordu.</i>
+
+1487
+02:01:49,940 --> 02:01:52,192
+Gatsby Malikânesi.
+
+1488
+02:01:52,688 --> 02:01:56,849
+Bay Gatsby aramanıza
+çok sevinecektir, evet.
+
+1489
+02:02:17,989 --> 02:02:20,695
+Daisy...
+
+1490
+02:02:41,114 --> 02:02:43,382
+Alo? Alo?
+
+1491
+02:02:43,576 --> 02:02:46,332
+<i>Alo?
+Her şey yolunda mı?</i>
+
+1492
+02:02:52,029 --> 02:02:54,688
+Alo? Alo?
+
+1493
+02:03:08,978 --> 02:03:14,041
+<i>O günün geri kalanını
+polis, fotoğrafçı ve gazetecilerin...</i>
+
+1494
+02:03:14,073 --> 02:03:17,041
+<i>...bitmek bilmeyen
+talimi olarak hatırlıyorum.</i>
+
+1495
+02:03:18,642 --> 02:03:21,452
+<i>Manşetler tam bir kâbustu.</i>
+
+1496
+02:03:22,003 --> 02:03:24,312
+<i>Her şeyi Gatsby'nin üzerine yıktılar.</i>
+
+1497
+02:03:24,364 --> 02:03:28,720
+<i>Myrtle ile olan ilişkiyi,
+araba kazasını, her şeyi.</i>
+
+1498
+02:03:28,784 --> 02:03:31,116
+<i>Ve ben bunların hiçbirinin
+doğru olmadığı şeklindeki tek ve...</i>
+
+1499
+02:03:31,178 --> 02:03:36,187
+<i>...onurlu gerçeği söylemekten
+başka bir şey diyemiyordum.</i>
+
+1500
+02:03:36,282 --> 02:03:39,985
+Canım, babacığın en sevdiği
+2 kızıyla ilgileniyor.
+
+1501
+02:03:40,027 --> 02:03:43,000
+- Nereye gidiyoruz?
+- Tatile çıkıyoruz.
+
+1502
+02:03:43,049 --> 02:03:45,715
+- Gitmeliyiz.
+- Sadece sen, ben ve babacığın.
+
+1503
+02:03:49,341 --> 02:03:50,684
+Buchanan Malikânesi.
+
+1504
+02:03:50,745 --> 02:03:54,541
+Bayan Buchanan ile konuşabilir miyim?
+Ben Bay Carraway, kuzeni.
+
+1505
+02:03:54,564 --> 02:03:57,006
+Madam şu an müsait değil
+Mösyö Carraway.
+
+1506
+02:03:57,378 --> 02:04:00,184
+Eğer onunla konuşursan
+cenazenin yarın olduğunu söyle.
+
+1507
+02:04:00,266 --> 02:04:02,756
+Üzgünüm Mösyö ama gittiler.
+
+1508
+02:04:02,891 --> 02:04:05,206
+Gittiler mi?
+Ne zaman döneceklerini biliyor musun?
+
+1509
+02:04:08,591 --> 02:04:11,946
+Hayır, çoktan yola koyuldular.
+
+1510
+02:04:15,049 --> 02:04:19,689
+Lütfen.
+Orada olmak isteyeceğini biliyorum, o...
+
+1511
+02:04:19,690 --> 02:04:22,780
+Ona bu mesajı bir iletsen...
+İzin ver onunla konuşayım, lütfen.
+
+1512
+02:04:22,794 --> 02:04:27,670
+Onunla konuşmak istiyorsunuz ama
+elimde başka bir bilgi yok Mösyö.
+
+1513
+02:04:27,858 --> 02:04:29,894
+- Lütfen!
+- Görüşmek üzere.
+
+1514
+02:04:29,906 --> 02:04:32,921
+Ben...
+Alo?
+
+1515
+02:04:41,663 --> 02:04:45,688
+<i>Tom ve Daisy umursamaz kişilerdi.</i>
+
+1516
+02:04:46,008 --> 02:04:49,119
+<i>Her şeyi, her kesi mahvettiler sonra da...</i>
+
+1517
+02:04:49,240 --> 02:04:52,903
+<i>...paralarına ve devasa
+umursamazlıklarına geri döndüler.</i>
+
+1518
+02:04:56,873 --> 02:04:58,102
+Defolun gidin buradan!
+
+1519
+02:04:58,122 --> 02:05:02,185
+Hadi!
+Defolun gidin!
+
+1520
+02:05:15,089 --> 02:05:19,531
+<i>Çanlar çaldım, yazdım, yalvardım yakardım.</i>
+
+1521
+02:05:20,993 --> 02:05:26,642
+<i>Ama konukseverliğinin
+zevkini çıkaran o yüzlerce kişiden...</i>
+
+1522
+02:05:26,801 --> 02:05:29,824
+<i>...biri bile cenazeye katılmadı.</i>
+
+1523
+02:05:29,973 --> 02:05:32,393
+<i>Ve Daisy'den...</i>
+
+1524
+02:05:32,457 --> 02:05:34,844
+<i>...bir çiçek bile gelmedi.</i>
+
+1525
+02:05:36,190 --> 02:05:41,297
+<i>Sadece bana sahipti.
+Ona değer veren tek kişi bendim.</i>
+
+1526
+02:06:12,286 --> 02:06:17,236
+<i>Gatsby'nin ölümünden sonra
+New York benim için lanetliydi.</i>
+
+1527
+02:06:19,006 --> 02:06:20,960
+<i>O şehir...</i>
+
+1528
+02:06:22,285 --> 02:06:26,206
+<i>...bir zamanlar altın
+altın ışıldayan serabım...</i>
+
+1529
+02:06:27,661 --> 02:06:30,519
+<i>...şimdi beni tiksindiriyordu.</i>
+
+1530
+02:06:33,393 --> 02:06:36,096
+<i>New York'taki son gecemde...</i>
+
+1531
+02:06:36,868 --> 02:06:41,895
+<i>...o devasa, tutarsız eve
+bir kez daha geri döndüm.</i>
+
+1532
+02:06:42,029 --> 02:06:45,425
+<i>"Wolfsheim Associates" evi boşalttırmıştı.</i>
+
+1533
+02:06:45,466 --> 02:06:48,699
+Tüm o partileri bir gece
+belki gelir diye vermiş.
+
+1534
+02:06:48,727 --> 02:06:50,426
+Burası bir eğlence parkı gibi!
+
+1535
+02:06:50,454 --> 02:06:52,091
+Burada tek başına nasıl yaşıyorsun?
+
+1536
+02:06:52,139 --> 02:06:55,404
+Her şeyin müthiş görünmesini sağlıyor,
+sence de öyle değil mi azizim?
+
+1537
+02:06:55,978 --> 02:07:00,014
+Müzik! Müzik gelsin de
+gece boyunca dans edebilelim.
+
+1538
+02:07:01,939 --> 02:07:04,158
+Gelir misin azizim?
+Sana ihtiyacımız var.
+
+1539
+02:07:04,205 --> 02:07:06,366
+Keşke hep böyle olabilse.
+
+1540
+02:07:06,994 --> 02:07:09,187
+Olacak.
+
+1541
+02:07:10,264 --> 02:07:12,905
+<i>Hep beraber Gatsby'nin evine gelip onun...</i>
+
+1542
+02:07:13,073 --> 02:07:15,905
+<i>...yolsuzluklarını tahmin
+etmeye çalıştığımızı hatırladım.</i>
+
+1543
+02:07:16,889 --> 02:07:22,558
+<i>Oysa yolsuzlukla alakası olmayan rüyasını
+bizden gizleyerek karşımıza çıkıyordu.</i>
+
+1544
+02:07:23,287 --> 02:07:27,944
+Her şey senin mükemmel,
+karşı konulamaz hayal gücünden çıkma.
+
+1545
+02:07:34,289 --> 02:07:37,030
+<i>Ay daha da yükseldi.</i>
+
+1546
+02:07:37,722 --> 02:07:41,926
+<i>Ve orada dikilip eski, bilinmeyen
+bir dünyanın düşüncelerine dalmışken...</i>
+
+1547
+02:07:42,288 --> 02:07:46,114
+<i>...Daisy'nin iskelesinin sonundaki
+yeşil ışığı ilk fark ettiğinde Gatsby'nin...</i>
+
+1548
+02:07:46,135 --> 02:07:48,637
+<i>...düştüğü şaşkınlığı hatırladım.</i>
+
+1549
+02:07:53,675 --> 02:07:56,827
+<i>Uzun bir yoldan gelmişti...</i>
+
+1550
+02:07:56,889 --> 02:08:02,706
+<i>...ve hayali ulaşamaması neredeyse imkânsız
+olacak kadar yakın görünmüş olmalıydı.</i>
+
+1551
+02:08:06,534 --> 02:08:10,097
+<i>Ama o, hayalinin çoktan
+geride kaldığını bilmiyordu.</i>
+
+1552
+02:08:11,691 --> 02:08:14,779
+<i>Gatsby yeşil ışığa...</i>
+
+1553
+02:08:14,993 --> 02:08:19,517
+<i>...her sene bizi geride bırakan
+orgazmik bir geleceğe inanıyordu.</i>
+
+1554
+02:08:19,839 --> 02:08:22,723
+<i>O zaman bizi atlatmıştı
+ama bu önemli değil.</i>
+
+1555
+02:08:22,858 --> 02:08:28,164
+<i>Yarın gelir daha hızlı koşarız,
+kollarımızı daha ileri uzatırız.</i>
+
+1556
+02:08:28,937 --> 02:08:33,453
+<i>Ve uygun bir sabah...
+Böylece denemeye devam ederiz...</i>
+
+1557
+02:08:34,005 --> 02:08:36,893
+<i>Durmaksızın geriye fırlatılıp dursa da...</i>
+
+1558
+02:08:37,168 --> 02:08:40,898
+<i>...akıntıya karşı...</i>
+
+1559
+02:08:41,095 --> 02:08:44,454
+<i>...yol alan tekneler...</i>
+
+1560
+02:09:13,118 --> 02:09:19,118
+<b>MUHTEŞEM GATSBY</b>
