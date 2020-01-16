@@ -1,0 +1,3455 @@
+1
+00:00:13,965 --> 00:00:22,199
+DÜNYANIN 600 KM ÜZERİNDE SICAKLIK
+126 İLE -100 DERECE ARASINDA DEĞİŞMEKTEDİR.
+
+2
+00:00:22,953 --> 00:00:25,016
+SES İLETİMİ YOK
+
+3
+00:00:25,293 --> 00:00:27,019
+HAVA BASINCI YOK
+
+4
+00:00:27,140 --> 00:00:30,074
+OKSİJEN YOK
+
+5
+00:00:31,593 --> 00:00:34,856
+UZAYDA HAYAT İMKANSIZ
+
+6
+00:00:36,728 --> 00:00:39,496
+<b>YERÇEKİMİ</b>
+
+7
+00:01:03,230 --> 00:01:06,550
+<i>Lütfen yedek kapsül 1. ve 2.
+kısım üzerinde...</i>
+
+8
+00:01:07,110 --> 00:01:10,110
+<i>...P-1 ATA sökme işinin
+tamamlandığını doğrulayın.</i>
+
+9
+00:01:10,870 --> 00:01:16,870
+<i>- DMA M-1, M-2, M-3 ve M-4 tamamlandı.
+- Tamam. Anlaşıldı Explorer.</i>
+
+10
+00:01:18,230 --> 00:01:22,630
+<i>Dr. Stone, Houston konuşuyor.
+EKG sonuçların dikkat çekiyor.</i>
+
+11
+00:01:23,390 --> 00:01:27,350
+<i>- Ben iyiyim Houston.
+- Tıp aynı fikirde değil doktor.</i>
+
+12
+00:01:27,430 --> 00:01:31,030
+<i>- Miden bulanıyor mu?
+- Alışılmıştan farklı değil Houston.</i>
+
+13
+00:01:31,110 --> 00:01:32,710
+<i>Teşhis normal.</i>
+
+14
+00:01:33,350 --> 00:01:36,470
+<i>İletişim bağlantısı kartları
+veri kabulü için hazır.</i>
+
+15
+00:01:37,830 --> 00:01:40,950
+<i>İşe yararsa, yarın iniş yaptığımızda
+hepinize içki ısmarlayacağım.</i>
+
+16
+00:01:41,870 --> 00:01:43,350
+<i>Bu bir randevudur doktor.</i>
+
+17
+00:01:43,430 --> 00:01:46,070
+<i>Unutma, Houston margaritaya
+meyillidir.</i>
+
+18
+00:01:48,150 --> 00:01:50,270
+<i>İletişim kartını yüklüyorum.</i>
+
+19
+00:01:50,390 --> 00:01:52,110
+<i>Lütfen bağlantıyı doğrulayın.</i>
+
+20
+00:01:52,830 --> 00:01:55,270
+<i>Olumsuz, hiçbir veri göremiyoruz.</i>
+
+21
+00:01:56,230 --> 00:01:58,910
+<i>Beklemede kal Houston,
+iletişim kartını yeniden yükleyeceğim.</i>
+
+22
+00:01:58,990 --> 00:02:00,550
+<i>Beklemedeyim.</i>
+
+23
+00:02:00,990 --> 00:02:04,670
+<i>- Houston, bu görev hakkında içimde
+kötü bir his var.- Lütfen açıklayın.</i>
+
+24
+00:02:05,110 --> 00:02:06,990
+<i>Bak sana bir hikaye anlatayım.</i>
+
+25
+00:02:07,070 --> 00:02:10,150
+<i>96 yılıydı.
+42 gün yukarıda kalmıştım.</i>
+
+26
+00:02:10,630 --> 00:02:13,830
+<i>Texas'ın üzerinden her geçtiğimizde
+Bayan Kowalski'nin de...</i>
+
+27
+00:02:13,910 --> 00:02:17,590
+<i>...yukarıya baktığını, beni düşündüğünü
+bilerek dışarıya bakardım.</i>
+
+28
+00:02:17,870 --> 00:02:20,710
+<i>Altı hafta boyunca
+o kadına öpücükler gönderdim.</i>
+
+29
+00:02:20,750 --> 00:02:24,470
+<i>Edward'a iniş yaptığımız gün
+onun şu avukatla kaçtığını öğrendim.</i>
+
+30
+00:02:24,505 --> 00:02:26,927
+<i>Dolayısıyla arabama atladım ve
+doğruca...- Tijuana'ya gittin.</i>
+
+31
+00:02:26,962 --> 00:02:29,350
+<i>Hikayeyi yanlış
+anlatıyorsun Kowalski.</i>
+
+32
+00:02:29,390 --> 00:02:33,390
+<i>Houston'ın hatırladığına göre
+senin 74 model Ferrari'nle kaçmıştı.</i>
+
+33
+00:02:33,430 --> 00:02:37,230
+<i>Mühendislik sırt roketleri prototipinin
+tam yakıt durumunu istiyor.</i>
+
+34
+00:02:37,310 --> 00:02:42,550
+5 saatlik kullanımdan sonra tankın %30'unu
+harcadım. Mühendisliğe teşekkürlerimle.
+
+35
+00:02:42,670 --> 00:02:48,230
+Dönme eksenlerinde bir arıza haricinde bu
+sırt roketleri güvenebileceğimiz bir ürün.
+
+36
+00:02:48,910 --> 00:02:50,630
+Mühendislik teşekkürlerini iletiyor.
+
+37
+00:02:50,670 --> 00:02:53,730
+<i>Mühendisliğe hala 67 model Corvette'i
+tercih ettiğimi söyle. Favorim o benim.</i>
+
+38
+00:02:53,748 --> 00:02:56,750
+<i>- Bahsi geçmişken...
+- Corvette'in hikayesini biliyoruz Matt.</i>
+
+39
+00:02:56,917 --> 00:03:00,336
+- Mühendislik bile mi?
+- Özellikle de onlar.
+
+40
+00:03:01,568 --> 00:03:03,192
+Seni özleyeceğiz Matt.
+
+41
+00:03:03,680 --> 00:03:09,670
+- Haberleşme kartı tekrar başlatılıyor.
+- Teşekkürler Doktor.Şerif, durumun nedir?
+
+42
+00:03:09,813 --> 00:03:13,435
+Neredeyse bitiyor. Pil modülü
+A-1 ile C'yi değiştiriyorum.
+
+43
+00:03:15,030 --> 00:03:19,630
+<i>Biraz daha spesifik olabilir misin? Kesin
+olmayan tahminler Houston'u geriyor.</i>
+
+44
+00:03:19,790 --> 00:03:24,710
+Yo, yo, Houston. Endişelenmeyin.
+Endişe kalp için hiç iyi değildir.
+
+45
+00:03:25,030 --> 00:03:27,710
+Houston, sistem aktifleştirilmeye hazır.
+
+46
+00:03:28,230 --> 00:03:31,950
+Hubble teleskobu bağlandı.
+Yükseltme tamamen faal.
+
+47
+00:03:32,030 --> 00:03:35,635
+<i>Duyduğun şu alkışlar
+senin için Şerif. Tebrikler.</i>
+
+48
+00:03:35,670 --> 00:03:38,390
+<i>Rahatla, günün geri kalanında
+izin yap.</i>
+
+49
+00:03:42,510 --> 00:03:47,350
+<i>Matt, görev uzmanımız Şerif'in yukarıda
+ne yaptığına dair bir görüntün var mı?</i>
+
+50
+00:03:48,130 --> 00:03:51,210
+Anlaşılan bir tür Makarena
+dansı yapıyor.
+
+51
+00:03:51,290 --> 00:03:55,010
+Yani en makul tahminim bu olur.
+
+52
+00:03:55,090 --> 00:03:57,050
+<i>Dr. Stone, burası Houston.</i>
+
+53
+00:03:57,170 --> 00:04:02,650
+<i>Revir vücut ısınızın 35.9'a düştüğünü
+ve nabzınızın 70'e çıktığını belirledi.</i>
+
+54
+00:04:03,290 --> 00:04:05,010
+<i>Kendinizi nasıl hissediyorsunuz?</i>
+
+55
+00:04:05,130 --> 00:04:06,810
+Houston, ben iyiyim.
+
+56
+00:04:06,850 --> 00:04:10,450
+Sıfır yerçekiminde midemdekileri tutmak
+göründüğünden biraz daha zormuş sadece.
+
+57
+00:04:10,930 --> 00:04:15,010
+<i>Dr. Stone, Revir Explorer'a
+dönmek ister misiniz diye soruyor...</i>
+
+58
+00:04:15,090 --> 00:04:18,650
+Olumsuz. Bir haftadır buradayız Houston.
+Hadi şunu bitirelim artık.
+
+59
+00:04:18,690 --> 00:04:20,950
+- Kart takıldı!
+- Hayır, olumsuz.
+
+60
+00:04:21,090 --> 00:04:25,210
+<i>Korkarım bu tarafta hiçbir
+şey almıyoruz Doktor.</i>
+
+61
+00:04:26,290 --> 00:04:27,930
+Tekrar deneyin.
+
+62
+00:04:28,010 --> 00:04:30,130
+<i>Hayır, hâlâ hiçbir şey yok.</i>
+
+63
+00:04:32,170 --> 00:04:36,090
+- Houston, lütfen şu müziği kapatır mısınız?
+- Kowalski?
+
+64
+00:04:36,170 --> 00:04:39,570
+- Hiç sorun değil.
+- Teşekkürler Kowalski.
+
+65
+00:04:42,770 --> 00:04:46,210
+<i>- Peki şimdi Houston?
+- Olumsuz.</i>
+
+66
+00:04:46,330 --> 00:04:48,690
+Houston veriyi yanlış
+yorumluyor olabilir mi?
+
+67
+00:04:49,170 --> 00:04:51,810
+<i>İyi de hiçbir veri almıyoruz ki.</i>
+
+68
+00:04:52,290 --> 00:04:56,330
+<i>Mühendislik bileşen hasarı için
+görsel kontrol öneriyor.</i>
+
+69
+00:04:57,170 --> 00:04:59,770
+Dur neler olduğuna bir bakayım.
+
+70
+00:05:00,330 --> 00:05:02,690
+Burada neyimiz varmış?
+
+71
+00:05:09,610 --> 00:05:12,490
+Görsel inceleme herhangi bir arızalı
+bileşen belirlemedi.
+
+72
+00:05:12,570 --> 00:05:15,050
+Sorun haberleşme panelinden
+kaynaklanıyor olmalı.
+
+73
+00:05:15,290 --> 00:05:17,770
+<i>Anlaşılan durum bu.</i>
+
+74
+00:05:17,850 --> 00:05:21,450
+<i>Mühendislik senin bunun olabileceğine
+dair bizi uyardığını itiraf etti.</i>
+
+75
+00:05:21,570 --> 00:05:26,650
+<i>Onlardan alabileceğin tek özür bu olur.
+Seni dinlemeliydik Doktor.</i>
+
+76
+00:05:26,770 --> 00:05:28,490
+- Çalış hadi. - Anlaşılan doğaçlama
+yapmamız gerekecek.
+
+77
+00:05:28,530 --> 00:05:30,570
+Hallediyorum.
+
+78
+00:05:31,170 --> 00:05:35,055
+- Ne kadar zamanını alır sence?
+- Bir saat. - Olağanüstü.
+
+79
+00:05:35,090 --> 00:05:39,690
+<i>Sisteminizi Hubble'a yerleştirmek
+bu görevin tüm amacını teşkil ediyor...</i>
+
+80
+00:05:39,730 --> 00:05:42,250
+<i>...dolayısıyla sabrınıza
+müteşekkiriz Doktor.</i>
+
+81
+00:05:42,490 --> 00:05:46,090
+<i>Kowalski bu gibi şeylere aldırmadığını
+biliyoruz ama...</i>
+
+82
+00:05:46,170 --> 00:05:48,930
+<i>...bilgin olsun, bu gecikme Anatoly
+Soloyev'in uzay yürüyüşü rekorunu...</i>
+
+83
+00:05:48,970 --> 00:05:51,730
+<i>...kırman için yeteri kadar
+uzun sürmeyecek.</i>
+
+84
+00:05:51,850 --> 00:05:55,210
+- Sanki biraz eksik kalacak gibisin...
+- 75 dakika kadar mı?
+
+85
+00:05:55,330 --> 00:05:57,730
+Aklımın ucuna bile gelmedi.
+
+86
+00:05:57,770 --> 00:06:01,610
+<i>Matt...
+Seninle çalışmak bir ayrıcalıktı.</i>
+
+87
+00:06:01,770 --> 00:06:03,930
+Bilmukabele Houston.
+
+88
+00:06:04,090 --> 00:06:06,250
+<i>Son yürüyüşünün tadını çıkar.</i>
+
+89
+00:06:06,410 --> 00:06:09,930
+Panelin sökülmesinde Dr. Stone'a
+yardıma gidebilir miyim?
+
+90
+00:06:09,970 --> 00:06:12,530
+- Yardım çok makbule geçer.
+- İzin verilmiştir.
+
+91
+00:06:12,610 --> 00:06:14,530
+Teşekkürler Houston.
+
+92
+00:06:14,770 --> 00:06:17,410
+- Eğlenceye katılabilir miyim?
+- Elbette.
+
+93
+00:06:17,445 --> 00:06:19,210
+Kendini nasıl hissediyorsun?
+
+94
+00:06:19,930 --> 00:06:22,610
+Tamburlu kurutma makinesinde
+sıkılmış bir Çivava gibi.
+
+95
+00:06:22,930 --> 00:06:25,210
+Zor bir hafta oldu.
+
+96
+00:06:25,690 --> 00:06:30,090
+İçini rahatlatacaksa, ilk seferinde
+böbreklerim hariç her şeyi çıkardım.
+
+97
+00:06:30,930 --> 00:06:32,970
+Hay aksi.
+
+98
+00:06:38,530 --> 00:06:40,410
+Affedersin.
+
+99
+00:06:40,890 --> 00:06:42,855
+Bir hastane laboratuarının
+zemin katında...
+
+100
+00:06:42,890 --> 00:06:44,890
+..her şeyin yere düştüğü
+bir yerde çalışmaya alışkınım.
+
+101
+00:06:44,970 --> 00:06:46,610
+Teşekkür ederim.
+
+102
+00:06:46,650 --> 00:06:50,695
+Buradaki dahi sensin ne de olsa.
+Ben sadece otobüsü sürüyorum.
+
+103
+00:06:50,730 --> 00:06:55,450
+Şu panoyu bir saat içinde
+çalıştırabilirsem dahi de bana.
+
+104
+00:06:55,490 --> 00:06:58,610
+- Explorer, burası Houston.
+- Söyle Houston.
+
+105
+00:06:58,650 --> 00:07:02,690
+<i>NORAD, bir Rus uydusunun
+bir füzeyle vurulduğunu bildiriyor.</i>
+
+106
+00:07:02,770 --> 00:07:08,090
+<i>Darbe bir moloz bulutu yarattı.
+Saatte 20.000 mil/saat hızla dönüyor.</i>
+
+107
+00:07:08,290 --> 00:07:12,010
+<i>Mevcut debris yörüngesi
+sizin yörüngenizle çakışmıyor.</i>
+
+108
+00:07:12,050 --> 00:07:13,890
+<i>Sizi gelişmelerden haberdar ederiz.</i>
+
+109
+00:07:13,925 --> 00:07:15,730
+Anlaşıldı Houston.
+
+110
+00:07:16,130 --> 00:07:21,370
+- Endişelenmeli miyiz? - Bırakalım aşağıdaki
+çocuklar bizim için endişelensin.
+
+111
+00:07:22,490 --> 00:07:25,450
+Explorer, kolu çalıştır ve
+kargo bölümüne doğrult.
+
+112
+00:07:25,485 --> 00:07:27,330
+<i>Kargo bölümü için beklemede kalın.</i>
+
+113
+00:07:28,210 --> 00:07:32,170
+Doktor, şimdi NASA için çalıştığına
+göre bizi nasıl buluyorsun?
+
+114
+00:07:32,205 --> 00:07:34,034
+Piyangoyu kazanmak gibi, değil mi?
+
+115
+00:07:34,450 --> 00:07:37,570
+Araştırmamdan nakit akışını
+kesmedikleri için sevindim sadece.
+
+116
+00:07:37,605 --> 00:07:40,050
+- Eğitimin ne kadar sürdü?
+- Altı ay.
+
+117
+00:07:40,085 --> 00:07:41,557
+Tatiller de dahil mi?
+
+118
+00:07:41,810 --> 00:07:45,010
+- Bu tarama sistemi nedir?
+- Önemli bir şey değil Matt.
+
+119
+00:07:46,003 --> 00:07:48,645
+Evrenin ucunu taramak için
+bir çift yeni göz işte.
+
+120
+00:07:48,770 --> 00:07:52,050
+Hastane kullanımı için tasarlandı
+ancak buradaki bir prototip.
+
+121
+00:07:52,570 --> 00:07:54,335
+Kilitleme için beklemede kalın.
+
+122
+00:07:54,370 --> 00:07:59,730
+Dinle, prototipleri finanse etmezler.
+Hatta şu mavi gözlerinin hatırına olsa bile.
+
+123
+00:08:01,890 --> 00:08:03,690
+Gözlerim kahverengi.
+
+124
+00:08:05,050 --> 00:08:07,490
+Hayır, şu anda gözlerin kıpkırmızı.
+
+125
+00:08:07,970 --> 00:08:11,650
+Kowalski, bu harika değil de nedir?
+
+126
+00:08:16,770 --> 00:08:19,170
+Gel de onun Harvard'a
+gttiğini düşün.
+
+127
+00:08:21,370 --> 00:08:26,250
+Bir şeyi kabul etmen gerek.
+Şu manzarayı yenemezsin.
+
+128
+00:08:29,970 --> 00:08:32,690
+Burada olmanın neyini seviyorsun?
+
+129
+00:08:34,370 --> 00:08:36,530
+Sessizliğini.
+
+130
+00:08:37,450 --> 00:08:40,490
+Buna alışabilirim.
+
+131
+00:09:00,250 --> 00:09:01,655
+Muhteşem.
+
+132
+00:09:01,690 --> 00:09:05,010
+Houston, ilk inceleme açısından
+haberleşme paneli bozuk görünüyor.
+
+133
+00:09:05,090 --> 00:09:07,450
+Yardımcı panele
+bir bağlantı çekeyim mi?
+
+134
+00:09:07,650 --> 00:09:10,130
+<i>Uzman sensin Doktor.
+Karar sana ait.</i>
+
+135
+00:09:10,250 --> 00:09:12,650
+Houston, bu görevle ilgili
+kötü hislerim var.
+
+136
+00:09:13,170 --> 00:09:14,690
+Lütfen açıklayın.
+
+137
+00:09:14,770 --> 00:09:18,330
+Mardi Gras 1987 hakkında
+hissettiklerimle aynı.
+
+138
+00:09:19,210 --> 00:09:24,050
+<i>Olumlu, kontrolün Mardi Gras
+hikayesini duymamış olması şaşırtıcı.</i>
+
+139
+00:09:24,410 --> 00:09:25,935
+<i>Lütfen devam edin.</i>
+
+140
+00:09:25,970 --> 00:09:28,855
+Daha birinci gün ve ben
+Bourbon caddesinde...
+
+141
+00:09:28,890 --> 00:09:31,570
+...arkadaşlarımdan birinin
+kız kardeşini arıyorum.
+
+142
+00:09:32,050 --> 00:09:35,250
+Cadde insanlarla tıklım tıklım,
+bu kızı bulmamın olanağı yok diyordum.
+
+143
+00:09:35,290 --> 00:09:36,890
+Geçersizleştirme başlatılıyor.
+
+144
+00:09:36,930 --> 00:09:40,850
+Derken birdenbire karşıya baktım
+ve kız orada, çağırmak üzereydim ki...
+
+145
+00:09:40,890 --> 00:09:43,290
+...kızı kısa boylu, kıllı, plaj şortu
+ve yarım kol tişört giymiş...
+
+146
+00:09:43,325 --> 00:09:45,690
+...bir herifle el ele gördüm.
+
+147
+00:09:45,890 --> 00:09:49,170
+Sonra herifin herif olmadığını
+fark ettim.
+
+148
+00:09:49,410 --> 00:09:51,250
+Meğer benim kızın
+el ele tutuştuğu...
+
+149
+00:09:51,330 --> 00:09:53,610
+<i>- ISS, burası Houston.
+- Devam et Houston.</i>
+
+150
+00:09:53,650 --> 00:09:56,090
+- Explorer, burası Houston.
+- Devam edin Houston.
+
+151
+00:09:56,170 --> 00:09:58,930
+<i>Görev iptal. Tekrar ediyorum,
+görev iptal.</i>
+
+152
+00:09:58,970 --> 00:10:01,015
+<i>Teleskoptan acil ayrılma
+işlemini başlatın.</i>
+
+153
+00:10:01,050 --> 00:10:05,290
+<i>Tekrar giriş prosedürlerini başlatın.
+ISS acil tahliyeyi başlatın.</i>
+
+154
+00:10:05,370 --> 00:10:06,770
+Hepsi anlaşıldı ve başlatıldı Houston.
+
+155
+00:10:06,810 --> 00:10:10,650
+Matt, Explorer'a acil dönüş.
+Tekrar ediyorum, Explorer'a acil dönüş.
+
+156
+00:10:10,730 --> 00:10:13,010
+Anlaşıldı. Explorer,
+"hava kilidini" hazırlayın.
+
+157
+00:10:13,050 --> 00:10:15,695
+- Hava kilidi takıldı. Çekmeye hazır.
+- Houston, açıklayın.
+
+158
+00:10:15,730 --> 00:10:18,570
+<i>Füze çarpışmasından gelen moloz
+bir zincir reaksiyona neden oldu.</i>
+
+159
+00:10:18,605 --> 00:10:21,410
+<i>Başka bir uyduyu vurdu
+ve yeni bir moloz oluşturdu.</i>
+
+160
+00:10:21,490 --> 00:10:25,210
+<i>Sizin irtifanıza doğru yüksek hızlı bir
+mermiden daha hızlı ilerliyor.</i>
+
+161
+00:10:25,250 --> 00:10:27,010
+- Hepsi anlaşıldı mı?
+- Anlaşıldı.
+
+162
+00:10:27,045 --> 00:10:29,650
+Şuna bir son ver Dr. Stone.
+
+163
+00:10:29,690 --> 00:10:32,330
+Yapamam, pano halen
+başlatma işlemini yapıyor.
+
+164
+00:10:32,370 --> 00:10:34,930
+- Sana tekrar sormayacağım.
+- Bir saniye.
+
+165
+00:10:34,970 --> 00:10:38,010
+Bir saniye filan değil, hemen!
+Kapat şunu!
+
+166
+00:10:38,450 --> 00:10:40,290
+Bu bir emirdir.
+
+167
+00:10:40,330 --> 00:10:42,730
+Tamam. Özür dilerim. Özür dilerim.
+Bitirdim. Bitirdim.
+
+168
+00:10:42,765 --> 00:10:45,587
+<i>Kowalski teleskoptan ayrılma
+işlemini başlat.</i>
+
+169
+00:10:45,622 --> 00:10:48,410
+- Pekala Şerif, hadi yapalım şunu.
+- Anlaşıldı Matt.
+
+170
+00:10:48,530 --> 00:10:51,810
+- Houston, güncelleme.
+- Tam bir zincir reaksiyonumuz var.
+
+171
+00:10:51,850 --> 00:10:54,410
+Rusların kendi uydularından
+birini vurmasının...
+
+172
+00:10:54,450 --> 00:10:57,010
+...kasıtsız yan etkilerinden biri
+olduğu teyit edildi.
+
+173
+00:10:57,130 --> 00:10:59,970
+- Kendi uydularını mı vurdular?
+- Tasarruf hakkı.
+
+174
+00:11:00,050 --> 00:11:02,850
+Muhtemelen bozulmuş bir casus
+uyduydu. Şimdi şarapnel oldu.
+
+175
+00:11:02,970 --> 00:11:08,770
+- Explorer, HST'yi sökmeye hazırız.
+- 3, 2, 1 ve bırakıyorum.
+
+176
+00:11:09,090 --> 00:11:11,210
+Explorer, veriler yolda.
+
+177
+00:11:11,250 --> 00:11:13,375
+Geri tepkime nasıl Houston?
+
+178
+00:11:13,410 --> 00:11:16,250
+<i>İyi değil,
+sistemlerimizin çoğu gitti!</i>
+
+179
+00:11:16,450 --> 00:11:20,210
+<i>Moloz zincir reaksiyonu kontrolden
+çıktı ve hızla yayılıyor.</i>
+
+180
+00:11:20,245 --> 00:11:23,010
+<i>Birden çok uydu yok oldu ve
+yok olmaya devam ediyor.</i>
+
+181
+00:11:23,050 --> 00:11:26,170
+- "Birden çok uyduyu" tanımla.
+- Çoğu imha oldu.
+
+182
+00:11:26,210 --> 00:11:28,415
+<i>Telekomünikasyon sistemleri çöktü.</i>
+
+183
+00:11:28,450 --> 00:11:30,690
+<i>Her an bir iletişim kesintisi bekleyin.</i>
+
+184
+00:11:30,770 --> 00:11:33,055
+Kowalski,
+moloz saat 9 yönünde görünüyor.
+
+185
+00:11:33,090 --> 00:11:35,450
+Kuzey Amerika'nın yarısı
+facebooklarını kaybetti.
+
+186
+00:11:35,610 --> 00:11:40,010
+<i>Explorer, tekrar ediyorum,
+her an iletişim kesintisi bekleniyor.</i>
+
+187
+00:11:40,090 --> 00:11:41,530
+Anlaşıldı Houston.
+
+188
+00:11:41,810 --> 00:11:45,370
+Houston, Kowalski konuşuyor.
+Molozla görsel teması doğruluyorum.
+
+189
+00:11:45,410 --> 00:11:47,330
+Bir yayın uydusunun enkazı.
+Tekrar ediyorum...
+
+190
+00:11:48,730 --> 00:11:51,330
+Dr. Stone daha hızlı bir
+nakil istiyor.
+
+191
+00:11:51,365 --> 00:11:52,879
+Gitmeliyiz. Gitmeliyiz.
+Acele, acele, acele.
+
+192
+00:11:52,914 --> 00:11:55,983
+Kennedy meteorolojik şartların atmosfere
+dönüşe uygun olmadığını bildiriyor.
+
+193
+00:11:56,850 --> 00:11:58,410
+Houston, Explorer. Anlaşıldı.
+
+194
+00:11:58,530 --> 00:12:01,410
+Explorer, Dr. Stone yükleme alanına doğru
+daha hızlı bir güzergah istiyor.
+
+195
+00:12:01,450 --> 00:12:03,015
+Explorer, duyuyor musunuz?
+
+196
+00:12:03,050 --> 00:12:04,730
+Explorer, Dr. Stone'u
+geri çekmek için izin?
+
+197
+00:12:04,770 --> 00:12:06,930
+Sen git Kowalski.
+
+198
+00:12:07,050 --> 00:12:09,690
+Houston, burası Explorer,
+duyuyor musunuz?
+
+199
+00:12:09,930 --> 00:12:11,770
+- Houston'u kaybettik.
+- Gel aşağı.
+
+200
+00:12:11,810 --> 00:12:15,170
+- Houston'u kaybettik.
+- Kahretsin. Kayışları sök.
+
+201
+00:12:15,205 --> 00:12:16,410
+- Buradan kurtulmak zorundayız.
+- Tamam.
+
+202
+00:12:16,450 --> 00:12:18,730
+- Yardıma ihtiyacın var mı Matt?
+- Hayır, bizi beklemeyin.
+
+203
+00:12:18,810 --> 00:12:22,650
+- Sıkıştı. - Bir adamımız gitti!
+Bir adamımızı kaybettik!
+
+204
+00:12:23,210 --> 00:12:25,810
+Houston, burası Explorer,
+duyuyor musunuz?
+
+205
+00:12:26,850 --> 00:12:28,895
+Hayır! Hayır!
+
+206
+00:12:28,930 --> 00:12:32,250
+- Explorer vuruldu! - Hayır!
+Explorer, duyuyor musunuz?
+
+207
+00:12:32,490 --> 00:12:35,290
+Explorer, duyuyor musunuz?
+Explorer, tamam! Explorer!
+
+208
+00:12:36,810 --> 00:12:40,730
+Astronot, yapının dışında!
+Dr. Stone, yapının dışında!
+
+209
+00:12:40,765 --> 00:12:43,970
+- Dr. Stone ayır kendini! - Hayır!
+- Kendini ayırmak zorundasın!
+
+210
+00:12:44,010 --> 00:12:46,399
+Dr. Stone kendini ayırmazsan o kol
+seni çok uzağa sürükleyecek!
+
+211
+00:12:46,434 --> 00:12:49,290
+- Sesimi dinle! Dikkatini toplamak
+zorundasın!
+
+212
+00:12:49,329 --> 00:12:52,010
+Görüş alanımdan çıkıyorsun! Birkaç saniye
+sonra seni takip edemeyeceğim.
+
+213
+00:12:52,050 --> 00:12:54,935
+Kendini ayırmak zorundasın.
+Seni artık göremiyorum!
+
+214
+00:12:54,970 --> 00:12:57,570
+- Yap şunu hemen!
+- Deniyorum! Deniyorum! Deniyorum!
+
+215
+00:12:59,351 --> 00:13:05,350
+Houston, Dr. Stone'u göremiyorum.
+Houston, Dr. Stone'u göremiyorum.
+
+216
+00:13:13,890 --> 00:13:17,610
+Dr. Stone, duyuyor musun?
+Tekrar ediyorum, duyuyor musun?
+
+217
+00:13:17,690 --> 00:13:20,290
+- Evet, duyuyorum! Ayrıldım!
+- Konumunu bildir.
+
+218
+00:13:21,090 --> 00:13:24,970
+Bilemiyorum, bilemiyorum, dönüp duruyorum.
+Yapamıyorum! Yapamıyorum!
+
+219
+00:13:25,050 --> 00:13:28,010
+Matt, GPS çöktü. Yapamam.
+Çöktü. Yapamıyorum...
+
+220
+00:13:28,580 --> 00:13:31,750
+- Bana bir görsel ver. - Söyledim ya sana,
+hiçbir şey yok. Hiç bir şey göremiyorum!
+
+221
+00:13:31,785 --> 00:13:35,695
+- Explorer'ı görebiliyor musun? - Hayır!
+- ISS'i görebiliyor musun? - Hayır!
+
+222
+00:13:35,730 --> 00:13:39,170
+Dikkatini toplamalısın. Güneşi ve dünyayı
+kullanarak koordinatlarını ver bana.
+
+223
+00:13:39,210 --> 00:13:42,090
+- Nefes alamıyorum! Nefes alamıyorum!
+- Koordinatlarını ver bana!
+
+224
+00:13:42,450 --> 00:13:46,970
+Dr. Stone, duyuyor musun?
+Tekrar ediyorum, duyuyor musun?
+
+225
+00:13:54,569 --> 00:13:56,594
+Explorer'ı görebiliyor musun?
+
+226
+00:13:56,817 --> 00:13:58,716
+ISS'i görebiliyor musun?
+
+227
+00:13:58,717 --> 00:14:00,218
+Dikkatini toplamanı istiyorum.
+Herhangi bir şey ver bana.
+
+228
+00:14:00,219 --> 00:14:02,491
+Güneşi ve dünyayı kullanarak
+koordinatlarını ver bana.
+
+229
+00:14:02,492 --> 00:14:04,686
+Koordinatları ver bana.
+
+230
+00:14:38,817 --> 00:14:40,944
+Kowalski? Kowalski, duyuyor musun?
+
+231
+00:14:42,582 --> 00:14:46,530
+Kowalski...bir...bir görselim var.
+Kowalski, bir görselim var.
+
+232
+00:14:46,733 --> 00:14:52,512
+Saat 12 yönünde, kuzeyde
+Explorer'ı görüyorum.
+
+233
+00:14:53,540 --> 00:14:57,208
+Mekik ise kadranın ortasında.
+
+234
+00:14:59,830 --> 00:15:02,590
+Çin istasyonunu görebiliyorum.
+
+235
+00:15:03,550 --> 00:15:06,350
+Hayır, orası
+Uluslararası Uzay İstasyonu.
+
+236
+00:15:06,510 --> 00:15:11,590
+ISS, duyuyor musunuz?
+ISS saat yedi yönünde.
+
+237
+00:15:19,830 --> 00:15:22,510
+Yüzbaşı Kowalski, duyuyor musunuz?
+
+238
+00:15:27,670 --> 00:15:30,150
+Explorer, duyuyor musunuz?
+
+239
+00:15:38,870 --> 00:15:41,390
+Houston, duyuyor musunuz?
+
+240
+00:15:45,310 --> 00:15:49,315
+Houston, ben...Görev Uzmanı
+Ryan Stone, ben...
+
+241
+00:15:49,350 --> 00:15:52,910
+...yapıdan koptum ve sürükleniyorum.
+Duyuyor musunuz?
+
+242
+00:15:58,870 --> 00:16:01,590
+Duyan var mı?
+
+243
+00:16:04,217 --> 00:16:05,673
+Kimse yok mu?
+
+244
+00:16:07,862 --> 00:16:10,132
+Duyuyor musunuz?
+
+245
+00:16:13,750 --> 00:16:15,670
+Lütfen duyun.
+
+246
+00:16:17,630 --> 00:16:19,550
+Lütfen.
+
+247
+00:16:38,165 --> 00:16:40,075
+- Dr. Stone, duyuyor musun?
+- Evet Yüzbaşı Kowalski. Evet.
+
+248
+00:16:40,110 --> 00:16:44,430
+- Evet, Yüzbaşı Kowalski, buradayım,
+buradayım! - Tekrar ediyorum, duyuyor musun?
+
+249
+00:16:44,470 --> 00:16:47,590
+- Evet, evet, duyuyorum, buradayım.
+Buradayım. - Fenerini yak.
+
+250
+00:16:48,030 --> 00:16:51,190
+- Fenerim...Fenerim mi?
+- Yak ki seni görebileyim.
+
+251
+00:16:52,870 --> 00:16:56,395
+Pekala. Tamam.
+
+252
+00:16:56,430 --> 00:16:57,751
+Buradayım, buradayım.
+Buradayım.
+
+253
+00:16:57,852 --> 00:17:01,769
+İşte oradasın. Sık dişini.
+Durumunu bildir.
+
+254
+00:17:02,790 --> 00:17:05,190
+İyiyim. İyiyim.
+Bir şeyim yok.
+
+255
+00:17:05,230 --> 00:17:07,310
+Durumun.
+Göstergeleri oku bana.
+
+256
+00:17:07,345 --> 00:17:12,885
+- 3... 3... 3.6 Psi.
+- Oksijenin, oksijenini oku bana.
+
+257
+00:17:12,985 --> 00:17:17,554
+Oksijenim azalıyor. Hızla azalıyor.
+Dokuz!
+
+258
+00:17:17,590 --> 00:17:18,755
+Hayır, sekiz, yüzde sekiz.
+
+259
+00:17:18,790 --> 00:17:21,470
+- Tamam, çok hızlı nefes alıyorsun.
+- Yüzde 83.9.
+
+260
+00:17:21,474 --> 00:17:24,008
+Oksijen yakıyorsun ve biz
+bunu yapmak istemiyoruz...
+
+261
+00:17:24,109 --> 00:17:27,429
+- Gevşemek istiyoruz, anlaşıldı mı?
+- Tamam, affedersin. Tamam, anlaşıldı,
+
+262
+00:17:27,530 --> 00:17:30,304
+- Tamam. Neredeyse yanına vardım.
+- Lütfen acele et.
+
+263
+00:17:31,510 --> 00:17:35,750
+- O feneri kılıfa koyabilirsin Dr. Stone.
+- Affedersin, affedersin.
+
+264
+00:17:40,230 --> 00:17:44,830
+Seni tuttum. Pekala, şimdi seni
+kendime bağlayacağım.
+
+265
+00:17:46,670 --> 00:17:50,150
+Biliyorum, ne kadar çarpıcı bir
+görünümüm olduğunu hiç fark etmedin.
+
+266
+00:17:50,190 --> 00:17:54,030
+Fakat şimdi gözünü dikip bakmayı kesmeni
+ve şu bağlantıya yardım etmeni istiyorum.
+
+267
+00:17:54,230 --> 00:17:56,550
+- Tamam mı?
+- Tamam. Tamam.
+
+268
+00:18:00,230 --> 00:18:02,270
+Tamam, işte başlıyoruz.
+
+269
+00:18:02,350 --> 00:18:05,710
+Tamam, seni şu roketlerden
+kurtarmak için biraz iteceğim.
+
+270
+00:18:05,745 --> 00:18:07,185
+- Hayır, hayır, hayır.
+- İtiş değil.
+
+271
+00:18:07,285 --> 00:18:08,715
+- Hayır, hayır, hayır!
+- Bir dürtme.
+
+272
+00:18:08,750 --> 00:18:11,527
+Hayır, olmaz olmaz, olmaz!
+Kahretsin, yapma! Hayır!
+
+273
+00:18:19,190 --> 00:18:22,470
+Gördün mü bak? Sen nereye gidersen
+ben de oraya gidiyorum.
+
+274
+00:18:27,590 --> 00:18:29,230
+Böylesi daha iyi.
+
+275
+00:18:29,790 --> 00:18:32,550
+Hadi gidelim buradan.
+
+276
+00:18:33,790 --> 00:18:36,030
+- Allah kahretsin.
+- Ne demek istediğini biliyorum.
+
+277
+00:18:36,830 --> 00:18:40,230
+- Lanet olsun!
+- Oksijen yakıyorsun.
+
+278
+00:18:40,350 --> 00:18:44,190
+Mekiğe geri döneceğiz.
+Nasıl plan ama? Duyuyor musun?
+
+279
+00:18:44,225 --> 00:18:45,390
+Anasını!
+
+280
+00:18:45,470 --> 00:18:47,270
+Tamam, anlaşıldı.
+
+281
+00:18:47,510 --> 00:18:49,590
+Kayıp Houston,
+Kowalski konuşuyor.
+
+282
+00:18:49,625 --> 00:18:51,670
+Dr. Stone ve ben
+üsse geri döneceğiz.
+
+283
+00:18:51,710 --> 00:18:55,230
+Explorer'a hava kilidini hazırlamasını
+bildirebilir misiniz? Anlaşıldı mı?
+
+284
+00:18:56,190 --> 00:18:59,230
+Houston, Kowalski konuşuyor.
+Duydunuz mu?
+
+285
+00:18:59,790 --> 00:19:02,390
+Kayıp Houston,
+Kowalski konuşuyor.
+
+286
+00:19:02,430 --> 00:19:04,070
+Bizi duyamıyorlar.
+
+287
+00:19:04,610 --> 00:19:06,250
+Bunu bilmiyoruz, bu yüzden
+konuşmaya devam ediyoruz.
+
+288
+00:19:06,410 --> 00:19:09,770
+Eğer birileri dinliyorsa
+hayatını kurtarabilirler.
+
+289
+00:19:09,970 --> 00:19:14,050
+- Saatini 90 dakikaya ayarla.
+- Neden 90?
+
+290
+00:19:14,090 --> 00:19:17,530
+Houston molozun hızını
+50,000 mil/saat olarak belirledi...
+
+291
+00:19:17,570 --> 00:19:20,255
+Şimdiki yörüngemizi dikkate
+alırsan, kıçımıza tekmeyi...
+
+292
+00:19:20,290 --> 00:19:23,050
+...tekrar yemeden önce yaklaşık
+90 dakikamız var demektir.
+
+293
+00:19:23,085 --> 00:19:25,450
+Oksijen yüzde 6'ya indi.
+
+294
+00:19:26,597 --> 00:19:29,745
+Buralarda bağlı olmamak
+oldukça korkutucu, öyle değil mi?
+
+295
+00:19:31,010 --> 00:19:33,810
+- Evet, epey korkutucu bir şey.
+- Çok iyi kıvırdın.
+
+296
+00:19:38,530 --> 00:19:41,010
+Sen de fena sayılmazdın.
+
+297
+00:19:44,530 --> 00:19:47,215
+Kayıp Houston,
+Kowalski konuşuyor.
+
+298
+00:19:47,250 --> 00:19:53,050
+Halihazırda Explorer'dan
+yaklaşık 900 metre uzaktayız.
+
+299
+00:19:53,210 --> 00:19:58,050
+Dr. Stone ve ben Görev Uzmanı
+Şerif'in cesedini alarak...
+
+300
+00:19:58,085 --> 00:19:59,930
+...mekiğe geri götürmek istiyoruz.
+
+301
+00:20:00,010 --> 00:20:02,210
+Almaya gidebilir miyim?
+
+302
+00:20:04,370 --> 00:20:08,050
+- Anlaşıldı.
+- Nerede o? Nerede o?
+
+304
+00:20:35,195 --> 00:20:37,045
+Aman Tanrım. Aman Tanrım.
+
+305
+00:20:41,810 --> 00:20:43,650
+Yakala onu!
+
+306
+00:20:46,290 --> 00:20:47,610
+Yakala onu!
+
+307
+00:20:47,690 --> 00:20:49,610
+Çalışıyorum! Çalışıyorum!
+
+308
+00:20:53,930 --> 00:20:55,884
+- Beni uzağa çekiyorsun.
+- Yakaladım onu!
+
+309
+00:20:55,919 --> 00:20:57,959
+- Sanki sevgilinmiş gibi yapış ona.
+- Tuttum onu. Tamam. Tuttum onu.
+
+310
+00:20:58,690 --> 00:21:02,290
+Siz ikiniz takla atarken
+iticilerimi bağlayamıyorum.
+
+311
+00:21:31,790 --> 00:21:33,470
+Aman Tanrım.
+
+312
+00:21:34,190 --> 00:21:37,350
+Umarım yüklü bir sigorta
+poliçen vardır Houston.
+
+313
+00:21:37,470 --> 00:21:42,075
+Explorer'ın gördüğü hasar
+felaket düzeyde.
+
+314
+00:21:42,110 --> 00:21:46,350
+- Hayatta kalanları aramayı başlatıyorum.
+- Oksijen yüzde 5'e düştü.
+
+315
+00:21:46,670 --> 00:21:49,150
+İşte gidiyoruz.
+Kenarlara dikkat et!
+
+316
+00:21:57,750 --> 00:21:59,270
+Bu tarafa! Bu tarafa!
+
+317
+00:22:50,990 --> 00:22:53,670
+Kayıp Houston,
+Görev Uzmanı Dr. Stone...
+
+318
+00:22:53,790 --> 00:22:57,235
+...ve Görev Komutanı
+Matthew Kowalski'nin...
+
+319
+00:22:57,270 --> 00:23:00,790
+...STS 157'den tek sağ kurtulanlar
+olduğunu teyit ediyorum.
+
+320
+00:23:03,190 --> 00:23:07,310
+İtaat etmediğim için özür dilerim.
+Emrettiğin anda çalışmayı bırakmalıydım.
+
+321
+00:23:07,350 --> 00:23:08,835
+Ne olursa olsun
+yine de darbeyi yiyecektik.
+
+322
+00:23:08,870 --> 00:23:11,710
+Bunu değiştirmek için
+yapabileceğin bir şey yoktu.
+
+323
+00:23:15,670 --> 00:23:18,550
+- Hey...
+- Evet?
+
+324
+00:23:18,750 --> 00:23:23,070
+Pekala, uzay istasyonuna
+gitmemiz gerekiyor.
+
+325
+00:23:23,990 --> 00:23:25,790
+O tarafta.
+
+326
+00:23:26,750 --> 00:23:28,270
+Bu biraz uzun bir yol olacak...
+
+327
+00:23:28,310 --> 00:23:32,590
+...ama Dünya'ya dönmek için kaçış kapsülünü,
+Soyuz'u kullanmamız lazım.
+
+328
+00:23:32,630 --> 00:23:34,350
+Anlaştık mı?
+
+329
+00:23:35,470 --> 00:23:39,070
+Dr. Stone? Anlaştık mı?
+
+330
+00:23:39,910 --> 00:23:41,630
+Anlaştık.
+
+331
+00:23:41,710 --> 00:23:44,430
+Pekala, önce sen.
+
+332
+00:23:45,950 --> 00:23:48,310
+Tanrım.
+
+333
+00:23:56,910 --> 00:23:59,710
+Kayıp Houston,
+Kowalski konuşuyor.
+
+334
+00:23:59,790 --> 00:24:03,390
+Dr. Stone ve ben
+ISS'e giderek, yeniden giriş için...
+
+335
+00:24:03,430 --> 00:24:07,150
+...oradaki Soyuz'lardan birini
+kullanmaya karar verdik.
+
+336
+00:24:07,185 --> 00:24:09,830
+ISS, eğer bizi duyuyorsanız...
+
+337
+00:24:10,270 --> 00:24:12,910
+...bir kurtarma görevi
+gerçekten işimize yarar.
+
+338
+00:24:26,230 --> 00:24:28,870
+Oksijen yüzde 2'ye düştü.
+
+339
+00:24:28,905 --> 00:24:30,550
+Neredeyse vardık.
+
+340
+00:24:31,550 --> 00:24:33,750
+Sence de güzel değil mi?
+
+341
+00:24:34,910 --> 00:24:38,150
+- Ne?
+- Güneşin doğuşu.
+
+342
+00:24:39,510 --> 00:24:42,270
+İşte en çok özleyeceğim şey bu.
+
+343
+00:24:46,630 --> 00:24:49,510
+Evin nerede Dr. Stone?
+
+344
+00:24:52,110 --> 00:24:54,350
+Ryan, evin nerede?
+
+345
+00:24:56,110 --> 00:25:01,670
+- Ev mi?
+- Aşağıda işte. Yeryüzü.
+
+346
+00:25:02,110 --> 00:25:04,550
+Çadırını nerede kuruyorsun?
+
+347
+00:25:07,070 --> 00:25:10,870
+- Zürih Gölü'nde.
+- O da nerede?
+
+348
+00:25:13,630 --> 00:25:15,070
+Illinois.
+
+349
+00:25:15,150 --> 00:25:18,470
+Illinoise.
+Merkezi saat dilimi.
+
+350
+00:25:19,230 --> 00:25:21,630
+Bu da kabaca saat...
+
+351
+00:25:21,910 --> 00:25:23,510
+Akşam 8 yapıyor.
+
+352
+00:25:23,550 --> 00:25:26,990
+Zürih Gölü'nün iyi insanları
+saat 8'de ne yapar peki?
+
+353
+00:25:28,390 --> 00:25:32,750
+Bilmiyorum. Başaramayacağım.
+Seni yavaşlatıyorum.
+
+354
+00:25:32,830 --> 00:25:35,590
+Ne yapıyor olurdun?
+
+355
+00:25:37,110 --> 00:25:41,310
+Hadi Ryan.
+Saat 8.
+
+356
+00:25:41,350 --> 00:25:45,150
+18 saatlik bir nöbetten sonra
+hastaneden şimdi çıktın.
+
+357
+00:25:45,350 --> 00:25:47,790
+Eve mi gidersin?
+
+358
+00:25:50,190 --> 00:25:53,230
+Radyo.
+
+359
+00:25:53,390 --> 00:25:55,630
+Radyo dinliyorum.
+
+360
+00:25:56,070 --> 00:25:58,350
+İşte böyle, dur tahmin edeyim.
+
+361
+00:25:58,385 --> 00:26:03,550
+NPR mi? Klasikler?
+Top 40?
+
+362
+00:26:06,070 --> 00:26:10,030
+Herhangi bir şey. Konuşmadıkları sürece
+aldırmam, arabayı sürerim sadece.
+
+363
+00:26:12,430 --> 00:26:15,070
+Peki nereye gidersin?
+
+364
+00:26:15,110 --> 00:26:19,355
+Sadece sürerim.
+
+365
+00:26:19,390 --> 00:26:24,750
+Aşağıda neyi özlersin?
+Bir Bay Stone var mı?
+
+366
+00:26:26,030 --> 00:26:30,430
+- Yok.
+- Özel biri yok mu?
+
+367
+00:26:32,310 --> 00:26:36,590
+Aşağılarda yukarıya bakıp
+seni düşünen biri?
+
+368
+00:26:38,670 --> 00:26:40,830
+Ryan?
+
+369
+00:26:46,790 --> 00:26:49,230
+Bir kızım vardı.
+
+370
+00:26:59,390 --> 00:27:01,550
+Dört yaşındaydı.
+
+371
+00:27:03,470 --> 00:27:08,830
+Okulda kovalamaca oynuyordu.
+Kaydı, başını çarptı ve her şey bitti.
+
+372
+00:27:10,710 --> 00:27:12,990
+Olabilecek en aptalca şey..
+
+373
+00:27:18,710 --> 00:27:21,830
+Haberi aldığımda direksiyondaydım.
+
+374
+00:27:22,590 --> 00:27:25,390
+O zamandan beri
+yaptığım şey bu.
+
+375
+00:27:26,070 --> 00:27:27,830
+Uyanıyorum...
+
+376
+00:27:28,670 --> 00:27:32,910
+...işe gidiyorum ve
+direksiyona geçiyorum.
+
+377
+00:27:59,350 --> 00:28:02,030
+Oksijen yüzde 1'e düştü.
+
+378
+00:28:13,830 --> 00:28:16,030
+Evet, hem iyi hem kötü haberlerim var.
+
+379
+00:28:16,110 --> 00:28:18,635
+İyi haber şu ki
+ISS'e beş dakika uzaktayız...
+
+380
+00:28:18,670 --> 00:28:21,230
+...ve Rusların votkayı nereye
+sakladıklarını biliyorum.
+
+381
+00:28:21,470 --> 00:28:24,670
+Bu iyi çünkü artık tükenmek üzereyim.
+
+382
+00:28:25,030 --> 00:28:27,390
+Kötü haber ise Anatoly'nin
+rekorunu kırmam için...
+
+383
+00:28:27,430 --> 00:28:29,790
+...yaklaşık 10 dakika lazım ve...
+
+384
+00:28:31,230 --> 00:28:32,390
+Ne oluyor?
+
+385
+00:28:32,430 --> 00:28:35,630
+Kırmızı çizgideyim,
+oksijen tankımın basıncı düşük.
+
+386
+00:28:35,670 --> 00:28:38,470
+Tankında oksijen kalmadı ama
+hala takımının içinde var.
+
+387
+00:28:38,505 --> 00:28:41,270
+- Anladım.
+- Ağız dolusu değil azar azar almalısın.
+
+388
+00:28:42,050 --> 00:28:44,250
+Şarap gibi içeceksin,
+bira gibi değil.
+
+389
+00:28:44,290 --> 00:28:46,450
+Yudum, yudum Ryan.
+
+390
+00:28:46,610 --> 00:28:49,570
+<i>Kayıp Houston, ISS'i görüyoruz.</i>
+
+391
+00:28:49,690 --> 00:28:53,490
+İstasyon boşaltılmış olmalı,
+zira ilk Soyuz kayıp.
+
+392
+00:28:53,530 --> 00:28:57,850
+İkinci Soyuz'da yüzeysel hasar görünüyor
+ve kızakları da açılmış...
+
+393
+00:28:57,890 --> 00:29:02,370
+...ve atmosfere dönüş kapsülü
+olarak kullanılması imkansız.
+
+394
+00:29:02,515 --> 00:29:04,513
+Dönüyor olmamız gerekmez mi?
+Yine sürükleniyoruz.
+
+395
+00:29:04,548 --> 00:29:07,490
+Henüz değil. Gaz konusunda
+şaka yapmıyordum.
+
+396
+00:29:07,590 --> 00:29:11,650
+Tüpte bir iki nefeslik gaz kalmıştır.
+Tabii şanslıysak.
+
+397
+00:29:23,850 --> 00:29:25,290
+Sakin ol.
+
+398
+00:29:34,690 --> 00:29:36,050
+Nişan al.
+
+399
+00:29:36,690 --> 00:29:37,890
+Ateş!
+
+400
+00:29:44,010 --> 00:29:46,010
+Fren! Fren!
+Fren yapmalısın!
+
+401
+00:29:46,090 --> 00:29:47,810
+Yapamam, tüp boş.
+
+402
+00:29:47,850 --> 00:29:50,890
+Sert çarpacağız.
+Bir şeylere tutunmaya çalış.
+
+403
+00:30:02,010 --> 00:30:03,690
+Ne yapacağım?
+
+404
+00:30:04,610 --> 00:30:06,330
+Ne yapacağım?
+
+405
+00:30:16,176 --> 00:30:17,549
+Ryan!
+
+406
+00:30:21,010 --> 00:30:23,370
+Bağ koptu. Ayrıldım!
+
+407
+00:30:23,490 --> 00:30:24,970
+Ayrıldım.
+
+408
+00:30:25,050 --> 00:30:26,770
+Bir şeye tutun!
+
+409
+00:30:28,730 --> 00:30:30,610
+Bir şeye tutun.
+
+410
+00:30:46,170 --> 00:30:47,570
+Ryan!
+
+411
+00:30:49,396 --> 00:30:50,895
+- Elimi tut.
+- Tuttum.
+
+412
+00:30:50,930 --> 00:30:53,130
+Yakaladım seni.
+Buraya, buraya.
+
+413
+00:30:57,330 --> 00:30:58,450
+Kahretsin.
+
+414
+00:30:58,690 --> 00:31:00,970
+Hayır, hayır, olamaz!
+
+415
+00:31:02,490 --> 00:31:03,850
+Tuttum seni.
+
+416
+00:31:12,570 --> 00:31:14,130
+Tuttum seni.
+
+417
+00:31:16,930 --> 00:31:20,010
+Sıkı tutun, seni çekmeye başlayacağım.
+
+418
+00:31:20,050 --> 00:31:23,650
+- Dinle doktor.
+- Sadece tutun, bekle, seni çekeceğim.
+
+419
+00:31:23,690 --> 00:31:25,370
+- Ryan, dinle.
+- Seni içeri çekeceğim.
+
+420
+00:31:25,410 --> 00:31:26,770
+- Beni bırakmalısın.
+- Olmaz.
+
+421
+00:31:26,895 --> 00:31:29,528
+İp çok gevşek.
+Seni de beraberimde çekiyorum.
+
+422
+00:31:29,810 --> 00:31:31,807
+Beni bırakmak zorundasın
+aksi halde ikimiz de öleceğiz.
+
+423
+00:31:31,907 --> 00:31:35,149
+- Hayır bırakmayacağım! Böyle iyiyiz!
+- Hayır.
+
+424
+00:31:40,490 --> 00:31:42,050
+<i>Ryan bırak.</i>
+
+425
+00:31:42,330 --> 00:31:43,570
+Olmaz. Hayır.
+
+426
+00:31:43,610 --> 00:31:46,410
+Bir yere gitmiyorsun.
+Hiçbir yere gitmiyorsun.
+
+427
+00:31:46,450 --> 00:31:48,090
+<i>Buna sen karar veremezsin.</i>
+
+428
+00:31:48,210 --> 00:31:51,010
+Hayır hayır, lütfen, yapma bunu.
+
+429
+00:31:51,170 --> 00:31:54,770
+Lütfen, lütfen yapma bunu.
+
+430
+00:31:55,650 --> 00:31:58,090
+Lütfen yapma Matt.
+Lütfen yapma bunu.
+
+431
+00:32:00,810 --> 00:32:02,930
+<i>Başaracaksın Ryan.</i>
+
+432
+00:32:03,810 --> 00:32:05,410
+Hayır!
+
+433
+00:32:27,170 --> 00:32:30,570
+Seni yakalamıştım. Seni yakalamıştım!
+Seni yakalamıştım.
+
+434
+00:32:45,450 --> 00:32:47,490
+<i>Ryan beni duyuyor musun?</i>
+
+435
+00:32:50,050 --> 00:32:51,650
+<i>Duyuyor musun?</i>
+
+436
+00:32:51,890 --> 00:32:55,370
+Karbon dioksit alarmım çaldı.
+Karbon dioksit alarmım çaldı.
+
+437
+00:32:55,850 --> 00:32:58,330
+<i>Bak, istasyona gitmelisin.</i>
+
+438
+00:32:58,450 --> 00:33:00,530
+<i>Hava kilidini görüyor musun?</i>
+
+439
+00:33:09,410 --> 00:33:10,970
+<i>Ryan, duyuyor musun?</i>
+
+440
+00:33:14,961 --> 00:33:16,577
+Hava kilidini ara.
+
+441
+00:33:19,250 --> 00:33:22,090
+<i>Başının üstünde,
+Zarya modülün yanında.</i>
+
+442
+00:33:25,570 --> 00:33:27,090
+<i>Görüyor musun?</i>
+
+443
+00:33:27,130 --> 00:33:30,730
+Evet, görüyorum. Görüyorum.
+
+444
+00:33:30,850 --> 00:33:33,530
+<i>Güzel. Gitmek istediğin yer orası.</i>
+
+445
+00:33:34,013 --> 00:33:36,123
+Artık sersemlemeye başladın, değil mi?
+
+446
+00:33:37,130 --> 00:33:38,730
+Evet. Evet.
+
+447
+00:33:38,810 --> 00:33:44,250
+<i>Çünkü karbondioksit soluyorsun,
+bilincini kaybedeceksin.</i>
+
+448
+00:33:44,330 --> 00:33:45,810
+- İstasyona gitmen lazım.
+- Tamam.
+
+449
+00:33:46,497 --> 00:33:49,089
+O ikinci Soyuz atmosfere dönüş için
+çok fazla hasar almış...
+
+450
+00:33:49,301 --> 00:33:51,995
+...ama küçük bir Pazar gezintisi için
+gayet iyi idare eder.
+
+451
+00:33:52,299 --> 00:33:54,003
+Pazar gezintisi mi?.
+
+452
+00:33:54,407 --> 00:33:59,109
+Batıya bak.
+Uzaktaki o noktayı görüyor musun?
+
+453
+00:33:59,290 --> 00:34:01,810
+<i>- Orası Çin İstasyonu.
+- Evet.</i>
+
+454
+00:34:01,970 --> 00:34:05,370
+<i>Soyuz'ı alıp oraya gitmelisin.</i>
+
+455
+00:34:06,210 --> 00:34:09,170
+<i>Çin filikası bir Shenzou.</i>
+
+456
+00:34:09,450 --> 00:34:10,970
+Bir Shenzou'da uçmadım hiç.
+
+457
+00:34:11,130 --> 00:34:15,770
+<i>Önemli değil. Atmosfere dönüş
+protokolü Soyuz ile aynıdır.</i>
+
+458
+00:34:16,690 --> 00:34:18,570
+Tamam.
+
+459
+00:34:19,770 --> 00:34:22,370
+<i>Soyuz'ı da hiç sürmedin, değil mi?</i>
+
+460
+00:34:22,570 --> 00:34:24,450
+Sadece simülasyonda.
+
+461
+00:34:24,610 --> 00:34:26,850
+<i>İyi, o halde biliyorsun.</i>
+
+462
+00:34:28,770 --> 00:34:30,450
+Ama çarpmıştım.
+
+463
+00:34:30,490 --> 00:34:33,410
+<i>Simülasyonun da amacı o zaten.</i>
+
+464
+00:34:36,250 --> 00:34:37,650
+Her seferinde.
+
+465
+00:34:37,770 --> 00:34:39,690
+Her seferinde çarptım.
+
+466
+00:34:39,770 --> 00:34:43,210
+<i>Bu lanet şeyi dünyaya doğrultuyorsun.
+Roket bilimi değil bu.</i>
+
+467
+00:34:44,150 --> 00:34:48,350
+<i>Yarın bu saatlerde Zürih Gölü'ne
+müthiş bir hikaye ile döneceksin.</i>
+
+468
+00:34:49,030 --> 00:34:50,710
+<i>Duyuyor musun?</i>
+
+469
+00:34:52,070 --> 00:34:53,710
+<i>Ryan, duyuyor musun?</i>
+
+470
+00:34:54,230 --> 00:34:55,950
+Soyuz'la alıp seni almaya geliyorum.
+
+471
+00:34:55,990 --> 00:34:57,950
+<i>- Hayır gelmiyorsun.
+- Gelip seni alacağım.</i>
+
+472
+00:34:58,030 --> 00:35:00,550
+<i>- Hayır, senin çok önündeyim.
+- Gelip seni alacağım.</i>
+
+473
+00:35:00,585 --> 00:35:03,390
+<i>Maalesef o gemi çoktan kalktı.</i>
+
+474
+00:35:03,990 --> 00:35:06,670
+<i>Ryan, boş vermeyi öğrenmelisin.</i>
+
+475
+00:35:07,270 --> 00:35:09,990
+<i> Ama "başaracağım" dediğini
+duymak istiyorum.</i>
+
+476
+00:35:12,030 --> 00:35:14,150
+<i>Hadi Ryan, söyle.</i>
+
+477
+00:35:15,750 --> 00:35:17,350
+Başaracağım.
+
+478
+00:35:17,390 --> 00:35:19,670
+<i>Tamamdır, devam et.</i>
+
+479
+00:35:20,230 --> 00:35:23,870
+<i>"Ryan" bir bayan için nasıl isimdir?</i>
+
+480
+00:35:25,070 --> 00:35:26,830
+Babam erkek istemiş.
+
+481
+00:35:26,950 --> 00:35:29,070
+<i>Hava kilidine ulaştın mı?</i>
+
+482
+00:35:30,150 --> 00:35:33,110
+<i>- Henüz değil.
+- Devam et.</i>
+
+483
+00:35:33,310 --> 00:35:36,150
+<i>Şimdi aramıza mesafe
+girdi ya...</i>
+
+484
+00:35:36,270 --> 00:35:38,950
+<i>- ...sana çekici geliyorum, değil mi?
+- Ne?</i>
+
+485
+00:35:39,030 --> 00:35:43,070
+<i>İnsanlar güzel mavi
+gözlerim olduğunu söyler.</i>
+
+486
+00:35:45,383 --> 00:35:50,708
+Güzel, çok güzel mavi
+gözlerin var.
+
+487
+00:35:51,065 --> 00:35:53,030
+<i>Gözlerim kahverengi.</i>
+
+488
+00:35:56,110 --> 00:35:58,430
+<i>- İyi haberi duymak ister misin?
+- Nedir?</i>
+
+489
+00:35:58,870 --> 00:36:04,030
+<i>Anatoly'nin rekorunu kıracağım ve sanırım
+benimki daha uzun süre kalıcı olacak.</i>
+
+490
+00:36:04,930 --> 00:36:06,730
+<i>Hayır, seni almaya geliyorum.</i>
+
+491
+00:36:09,330 --> 00:36:11,170
+<i>- Aman Tanrım.
+- Ne? Ne oldu?</i>
+
+492
+00:36:12,810 --> 00:36:14,410
+<i>Vay canına.</i>
+
+493
+00:36:15,890 --> 00:36:18,370
+<i>- Ryan?</i>
+
+494
+00:36:18,610 --> 00:36:21,610
+<i>Ganj Nehri'nde güneşi görmelisin.</i>
+
+495
+00:36:23,730 --> 00:36:25,250
+<i>Harika.</i>
+
+496
+00:40:50,850 --> 00:40:54,010
+Neredesin? Neredesin?
+Bağlantı, bağlantı...
+
+497
+00:40:54,050 --> 00:40:56,210
+İşte buradasın.
+
+498
+00:41:06,410 --> 00:41:09,010
+Matt, ben Ryan, duyuyor musun?
+
+499
+00:41:11,370 --> 00:41:14,290
+Matt, ben Ryan, duyuyor musun?
+
+500
+00:41:17,010 --> 00:41:21,090
+Matt, başardım, istasyondayım.
+Duyuyor musun?
+
+501
+00:41:26,690 --> 00:41:29,050
+Hadi Matt, konuş benimle.
+
+502
+00:41:29,090 --> 00:41:31,930
+Nerede olduğunu söyle, konumunu bildir.
+
+503
+00:41:32,650 --> 00:41:36,370
+Neredesin? Gördüğün bir şey söyle.
+Sadece gördüğün bir şey söyle.
+
+504
+00:41:40,970 --> 00:41:45,250
+Hadi ama, Cape Canaveral'dan ayrıldığımızdan
+beri susmadın, şimdi mi susuyorsun?
+
+505
+00:41:45,330 --> 00:41:49,370
+Konuş benimle, bir şey söyle.
+Ne olursa, önemli değil.
+
+506
+00:41:58,070 --> 00:42:01,670
+Mardi Gras'tan bahset.
+Kıllı adamdan bahset.
+
+507
+00:42:01,750 --> 00:42:03,830
+Ne olduğunu anlat.
+
+508
+00:42:03,990 --> 00:42:06,430
+Kıllı adama ne oldu?
+
+509
+00:42:12,150 --> 00:42:14,550
+Lütfen konuş benimle.
+
+510
+00:42:18,510 --> 00:42:19,990
+Lütfen.
+
+511
+00:42:35,550 --> 00:42:37,510
+Kayıp Houston.
+
+512
+00:42:39,710 --> 00:42:43,990
+Ben, Görev Uzmanı Ryan Stone
+ISS'ten bildiriyorum.
+
+513
+00:42:45,550 --> 00:42:50,350
+Görev amirimiz Matthew Kowalski
+ile tüm iletişim koptu.
+
+514
+00:42:53,310 --> 00:42:55,950
+Telsiz iletişimi yok.
+
+515
+00:42:57,510 --> 00:42:59,870
+Görsel temas yok.
+
+516
+00:43:02,300 --> 00:43:04,140
+Anlaşıldı mı?
+
+517
+00:43:04,500 --> 00:43:10,500
+Ben, Ryan Stone, SDS 157'den
+hayatta kalan tek kişiyim.
+
+518
+00:43:23,860 --> 00:43:25,540
+Şimdi ne oldu?
+
+519
+00:43:34,020 --> 00:43:38,660
+<i>YANGIN</i>
+
+520
+00:45:05,580 --> 00:45:07,980
+Pekala. Nerede bu,
+nerede bu?
+
+521
+00:45:08,100 --> 00:45:09,980
+Güç düğmesi nerede?
+
+522
+00:45:12,691 --> 00:45:16,771
+Harika, tıpkı eğitimde olduğu gibi.
+Gövdeden ayrıl, gövdeden ayrıl.
+
+523
+00:45:17,313 --> 00:45:21,070
+Ayrılıyor. Kırmızı.
+
+524
+00:45:21,105 --> 00:45:22,358
+Tamam.
+
+525
+00:45:29,416 --> 00:45:33,063
+Tamam, nerede bu?
+Nerede bu?
+
+526
+00:45:33,257 --> 00:45:34,257
+Hadi.
+
+527
+00:45:35,317 --> 00:45:36,319
+Tamam.
+
+528
+00:45:40,340 --> 00:45:43,340
+Tamam, bunu hatırlıyorum.
+Bunu hatırlıyorum.
+
+529
+00:45:57,140 --> 00:46:00,140
+Dört dakikan yok.
+Elle idare edeceğiz.
+
+530
+00:46:02,785 --> 00:46:04,023
+Hadi.
+
+531
+00:46:04,337 --> 00:46:07,635
+Tamam. Aktifleştir.
+Gövdeden ayrıl.
+
+532
+00:46:36,340 --> 00:46:38,820
+Buradan gitmek için son yedi dakika.
+
+533
+00:46:44,648 --> 00:46:46,657
+Pekala, tamam.
+
+534
+00:47:02,650 --> 00:47:04,012
+Ne... ne?
+
+535
+00:47:13,456 --> 00:47:15,685
+Hayır hayır, olamaz!
+
+536
+00:47:45,060 --> 00:47:46,780
+Dur, dur, dur!
+
+537
+00:47:56,652 --> 00:47:58,683
+Hadi, hadi, hadi!
+
+538
+00:47:58,953 --> 00:48:00,459
+Hadi!
+
+539
+00:48:00,461 --> 00:48:02,444
+Hadi, hadi, hadi!
+
+540
+00:48:03,377 --> 00:48:05,140
+İşte böyle, işte böyle.
+
+541
+00:48:05,860 --> 00:48:08,820
+Devam et, devam et, devam et.
+
+542
+00:48:11,460 --> 00:48:12,780
+Hadi.
+
+543
+00:48:48,420 --> 00:48:49,740
+Harika.
+
+544
+00:49:35,620 --> 00:49:39,540
+Uydu enkazı olasılığı ile
+birlikte açık bir gökyüzü.
+
+545
+00:50:52,180 --> 00:50:55,860
+Pekala, şimdi bunu ayırıp
+eve gideceğiz. Çocuk oyuncağı.
+
+546
+00:51:21,868 --> 00:51:23,267
+Tamam.
+
+547
+00:51:27,151 --> 00:51:28,857
+Tamam, neyimiz varmış?
+
+548
+00:51:29,399 --> 00:51:31,293
+Peki, tamam.
+
+549
+00:51:41,862 --> 00:51:43,207
+Ha siktir.
+
+550
+00:51:50,334 --> 00:51:52,367
+Tamam, hadi.
+
+551
+00:51:52,466 --> 00:51:53,467
+Hadi, hadi.
+
+552
+00:51:54,305 --> 00:51:55,307
+Pekala.
+
+553
+00:53:16,980 --> 00:53:18,340
+Tanrım.
+
+554
+00:53:26,500 --> 00:53:28,300
+Uzaydan nefret ediyorum.
+
+555
+00:53:48,060 --> 00:53:49,980
+Kes sesini.
+
+556
+00:53:53,820 --> 00:53:55,500
+Pekala.
+
+557
+00:54:08,964 --> 00:54:10,179
+Bu iyi.
+
+558
+00:54:11,900 --> 00:54:13,660
+Pekala.
+
+559
+00:54:14,380 --> 00:54:16,820
+Hadi dengeni sağlayalım.
+
+560
+00:54:31,620 --> 00:54:33,420
+Pekala.
+
+561
+00:54:34,420 --> 00:54:37,260
+Gidip Çin istasyonunu ziyaret edelim.
+
+562
+00:54:38,060 --> 00:54:39,620
+Kayıp Houston.
+
+563
+00:54:40,050 --> 00:54:45,930
+Tiangong batıda yaklaşık
+100 km uzaklıkta...
+
+564
+00:54:46,090 --> 00:54:49,530
+...ve ben rotasından...
+
+565
+00:54:49,770 --> 00:54:53,770
+...13 derece kadar sapmış durumdayım.
+Yörüngeyi düzelteceğim.
+
+566
+00:55:15,281 --> 00:55:18,459
+Tamam. Tamam.
+
+567
+00:55:18,660 --> 00:55:20,117
+Tamam.
+
+568
+00:55:22,490 --> 00:55:28,490
+SKD'yi başlatıyorum.
+5, 4, 3, 2, 1...
+
+569
+00:55:43,050 --> 00:55:45,370
+Ne oluyor? Ne oluyor?
+Hadi, hadi.
+
+570
+00:55:48,610 --> 00:55:49,850
+Bir...
+
+571
+00:56:04,570 --> 00:56:06,250
+Hadi, hadi.
+
+572
+00:56:10,090 --> 00:56:11,890
+Yok artık!
+
+573
+00:56:12,250 --> 00:56:14,450
+Yok daha neler!
+
+574
+00:56:18,541 --> 00:56:20,332
+Hayır! Sakın ola ki...
+
+575
+00:56:30,530 --> 00:56:32,490
+<i>Kayıp Houston.</i>
+
+576
+00:56:32,770 --> 00:56:35,570
+<i>Kayıp Houston.
+Konuşan Doktor Ryan Stone.</i>
+
+577
+00:56:35,770 --> 00:56:40,170
+<i>Soyuz TMA 14M'den arıyorum.</i>
+
+578
+00:56:40,290 --> 00:56:43,930
+<i>Yakıtım bitti ve sürükleniyorum,
+duyuyor musunuz?</i>
+
+579
+00:56:45,850 --> 00:56:50,050
+<i>Houston, ben Doktor Ryan Stone.</i>
+
+580
+00:56:50,248 --> 00:56:51,250
+Duyuyor musunuz?
+
+581
+00:56:55,879 --> 00:57:01,166
+Houston, ben Doktor Ryan Stone,
+duyuyor musunuz?
+
+582
+00:57:03,858 --> 00:57:08,608
+Houston, burası Missish... Görev
+Uzmanı Ryan Stone, duyuyor musunuz?
+
+583
+00:57:10,370 --> 00:57:13,770
+Houston, Houston lütfen
+kimliğimi doğrulayın.
+
+584
+00:57:13,930 --> 00:57:17,490
+Houston, AM frekansından bağlısınız,
+duyuyor musunuz?
+
+585
+00:57:18,730 --> 00:57:20,490
+Duyuyor musunuz?
+
+586
+00:57:20,690 --> 00:57:24,210
+Orası Çin istasyonu mu? Tiangong mu?
+Duyuyor musunuz?
+
+587
+00:57:25,610 --> 00:57:29,010
+Mayday. Duyuyor musunuz?
+Mayday. Mayday.
+
+588
+00:57:29,290 --> 00:57:31,490
+<i>- Mayday.
+- Evet, mayday?</i>
+
+589
+00:57:31,530 --> 00:57:36,050
+Evet, evet mayday.
+Mayday. Mayday.
+
+590
+00:57:36,885 --> 00:57:39,124
+Aningaaq.
+
+591
+00:57:41,836 --> 00:57:44,859
+Bu...? Bu senin...?
+Bu senin adın mı?
+
+592
+00:57:44,861 --> 00:57:47,913
+Aningaaq senin...senin adın mı?
+Bu senin adın mı?
+
+593
+00:57:49,678 --> 00:57:50,680
+Mayday!
+
+594
+00:57:50,810 --> 00:57:56,810
+Hayır hayır, benim adım mayday değil, Stone.
+Doktor Stone. Yardım lazım.
+
+595
+00:57:57,250 --> 00:57:58,810
+Ben...
+
+596
+00:58:01,460 --> 00:58:02,461
+Bunlar köpek.
+
+597
+00:58:04,030 --> 00:58:05,825
+Dünya'dan çağırıyorlar.
+
+598
+00:58:09,247 --> 00:58:11,067
+Dünya'dan çağırıyorlar.
+
+599
+00:58:23,730 --> 00:58:25,250
+Aningaaq...
+
+600
+00:58:26,010 --> 00:58:29,450
+..köpekleri benim için tekrar havlatır
+mısın lütfen? havlayabilirler mi acaba?
+
+601
+00:58:30,683 --> 00:58:35,234
+Köpeklerini. Köpekler işte.
+Hav, hav. Köpekler.
+
+602
+00:59:19,130 --> 00:59:22,250
+Öleceğim Aningaaq.
+
+603
+00:59:24,530 --> 00:59:28,090
+Biliyorum hepimiz öleceğiz.
+Bunu herkes biliyor.
+
+604
+00:59:28,250 --> 00:59:30,810
+Ama ben bugün öleceğim.
+
+605
+00:59:33,090 --> 00:59:37,050
+Bunu bilmek tuhaf bir duygu.
+
+606
+00:59:39,250 --> 00:59:42,850
+Ama mesele şu ki hâlâ korkuyorum.
+
+607
+00:59:43,090 --> 00:59:45,450
+Çok korkuyorum.
+
+608
+00:59:47,650 --> 00:59:51,570
+Kimse benim için yas tutmayacak.
+Kimse ruhuma dua etmeyecek.
+
+609
+00:59:54,370 --> 00:59:56,410
+Benim için yas tutar mısın?
+
+610
+00:59:57,650 --> 00:59:59,850
+Benim için dua eder misiniz?
+
+611
+01:00:00,250 --> 01:00:02,370
+Yoksa artık çok mu geç?
+
+612
+01:00:06,450 --> 01:00:11,125
+Yani kendim için dua ederdim ama
+hayatımda hiç dua etmedim. Yani...
+
+613
+01:00:11,810 --> 01:00:14,090
+Kimse dua etmeyi öğretmedi.
+
+614
+01:00:17,890 --> 01:00:20,370
+Kimse nasıl dua edileceğini öğretmedi.
+
+615
+01:00:31,170 --> 01:00:33,170
+Bir bebek.
+
+616
+01:00:45,290 --> 01:00:48,330
+Demek yanında bir bebek var, öyle mi?
+
+617
+01:00:50,250 --> 01:00:52,690
+Söylediğin şey ninni mi?
+
+618
+01:00:55,800 --> 01:00:57,600
+Çok güzel.
+
+619
+01:00:59,680 --> 01:01:02,440
+Ben de bebeğime söylerdim.
+
+620
+01:01:05,520 --> 01:01:08,200
+Umarım onu yakında görürüm.
+
+621
+01:02:18,040 --> 01:02:21,680
+Çok güzel Aningaaq.
+Aynen böyle söylemeye devam et.
+
+622
+01:02:23,040 --> 01:02:25,960
+Söyle de uyuyayım.
+
+623
+01:02:27,560 --> 01:02:30,680
+Söylemeye devam et. Devam et.
+
+624
+01:03:01,080 --> 01:03:02,920
+Hayır, hayır, olamaz!
+
+625
+01:03:45,809 --> 01:03:47,854
+Saatini kontrol et.
+13 saat ve 11 dakika.
+
+626
+01:03:48,169 --> 01:03:51,107
+Anatoly'i ara ve ona
+tozu yuttuğunu söyle.
+
+627
+01:03:51,880 --> 01:03:54,320
+- Burası biraz kasvetli değil mi?
+- Buraya nasıl geldin?
+
+628
+01:03:54,400 --> 01:03:58,040
+- İnan bana bu müthiş bir hikaye.
+- Fakat nasıl?
+
+629
+01:03:59,860 --> 01:04:01,380
+Böylesi daha iyi.
+
+630
+01:04:01,940 --> 01:04:05,660
+Fazladan batarya buldum.
+
+631
+01:04:05,780 --> 01:04:08,420
+İyi ki dikkatimi dağıtmaman için
+seni uzaklaştırmışım.
+
+632
+01:04:08,500 --> 01:04:10,100
+İtiraf edeyim...
+
+633
+01:04:10,460 --> 01:04:12,860
+...seni gördüğüme sevindim.
+Başaracağını sanmıyordum.
+
+634
+01:04:12,900 --> 01:04:15,480
+- Votkayı buldun mu?
+- Sen...
+
+635
+01:04:15,839 --> 01:04:18,632
+- ...onun yerini bana hiç söylemedin.
+- Şey...
+
+636
+01:04:24,483 --> 01:04:27,820
+Anatoly'e. Na zdorovje.
+
+637
+01:04:33,780 --> 01:04:36,500
+- Hayır.
+- İçmiyor musun? Pekala.
+
+638
+01:04:36,900 --> 01:04:38,740
+Hadi gidelim buradan.
+
+639
+01:04:40,180 --> 01:04:44,940
+Çin İstasyonu 160 km kadar uzakta.
+Küçük bir Pazar gezintisi.
+
+640
+01:04:45,020 --> 01:04:46,980
+- Yapamayız.
+- Tabii ki yapabiliriz.
+
+641
+01:04:47,060 --> 01:04:48,785
+Yakıt yok, her şeyi denedim.
+
+642
+01:04:48,820 --> 01:04:50,545
+Her zaman yapabileceğimiz şeyler vardır.
+
+643
+01:04:50,580 --> 01:04:53,980
+- Her şeyi denedim.
+- Yumuşak iniş jetlerini denedin mi?
+
+644
+01:04:54,015 --> 01:04:55,538
+- Onlar iniş için. O yüzden...
+- İniş kalkıştır.
+
+645
+01:04:55,573 --> 01:04:56,860
+İkisi de aynı şey.
+
+646
+01:04:56,900 --> 01:04:58,665
+Eğitimde bunu öğrenmedin mi?
+
+647
+01:04:58,700 --> 01:05:00,500
+İniş simülasyonunu hiç
+kullanmadığımı söylemiştim.
+
+648
+01:05:00,540 --> 01:05:02,860
+- Ama biliyorsun değil mi?
+- Her seferinde çarpmıştım.
+
+649
+01:05:02,900 --> 01:05:05,940
+Dinle beni, dönmek mi yoksa
+burada kalmak mı istiyorsun?
+
+650
+01:05:08,700 --> 01:05:11,260
+Burada olmak güzel biliyorum.
+
+651
+01:05:14,020 --> 01:05:18,420
+Tüm sistemleri kapatabilir...
+
+652
+01:05:18,780 --> 01:05:20,980
+...tüm ışıkları söndürebilir...
+
+653
+01:05:21,740 --> 01:05:24,740
+...ve gözlerini kapatıp
+herkesi dışarıda bırakabilirsin.
+
+654
+01:05:25,060 --> 01:05:27,340
+Burada sana zarar verebilecek
+hiç kimse yok.
+
+655
+01:05:27,740 --> 01:05:29,300
+Burası güvenli.
+
+656
+01:05:32,340 --> 01:05:35,460
+Yani devam etmenin anlamı ne?
+Yaşamanın anlamı ne?
+
+657
+01:05:39,980 --> 01:05:41,660
+Çocuğun öldü.
+
+658
+01:05:41,700 --> 01:05:44,220
+Bundan daha beter olacağı yok.
+
+659
+01:05:46,300 --> 01:05:48,940
+Ama yine de mesele
+şimdi yapacağın şey.
+
+660
+01:05:50,180 --> 01:05:54,060
+Gitmeye karar verirsen,
+bu karara uygun davranmalısın.
+
+661
+01:05:54,500 --> 01:05:57,220
+Arkana yaslan ve sürüşün keyfini çıkar.
+
+662
+01:05:57,500 --> 01:06:01,020
+Ayaklarını yere sağlam basıp
+hayatını yaşamaya başlamalısın.
+
+663
+01:06:01,100 --> 01:06:02,700
+Buraya nasıl geldin?
+
+664
+01:06:02,780 --> 01:06:05,180
+Söylemiştim ya, müthiş bir hikaye.
+
+665
+01:06:05,380 --> 01:06:06,940
+Ryan.
+
+666
+01:06:07,060 --> 01:06:08,340
+Efendim?
+
+667
+01:06:08,540 --> 01:06:10,380
+Eve gitme zamanı.
+
+668
+01:06:53,780 --> 01:06:55,860
+İniş.
+
+669
+01:06:57,460 --> 01:07:00,100
+İniş... İniş kalkıştır.
+
+670
+01:07:17,180 --> 01:07:21,020
+Tamam, iniş, iniş. İniş yeşil.
+
+671
+01:07:31,300 --> 01:07:32,980
+Pekala.
+
+672
+01:07:34,540 --> 01:07:36,380
+Tamam, iniş. Peki.
+
+673
+01:07:38,700 --> 01:07:43,700
+Peki, yumuşak iniş jetleri inişten üç metre
+önce otomatik olarak harekete geçer.
+
+674
+01:07:46,140 --> 01:07:48,540
+Akıllı hergelenin tekisin Matt.
+
+675
+01:07:48,620 --> 01:07:50,500
+Motor...
+
+676
+01:07:50,580 --> 01:07:54,860
+Motor ünitesindeki çarktan kurtulmam lazım.
+
+677
+01:07:56,020 --> 01:07:57,900
+Tamam, pekala.
+
+678
+01:07:58,220 --> 01:07:59,540
+Pekala.
+
+679
+01:08:01,180 --> 01:08:02,620
+Pekala.
+
+680
+01:08:05,140 --> 01:08:07,780
+Üçlü modül ayrımı.
+
+681
+01:08:08,220 --> 01:08:09,780
+Ayrıl.
+
+682
+01:08:23,820 --> 01:08:25,460
+Pekala.
+
+683
+01:08:26,140 --> 01:08:28,580
+Houston, işte işin püf noktası.
+
+684
+01:08:28,740 --> 01:08:34,740
+Soyuz yeryüzünden üç metre
+yüksekte olduğumuzu sanmalı.
+
+685
+01:08:37,260 --> 01:08:38,340
+Pekala.
+
+686
+01:08:38,420 --> 01:08:44,260
+Matt, bu hafta boyunca bitmek bilmez
+hikayeni dinlemek zorunda kaldığım için...
+
+687
+01:08:44,295 --> 01:08:46,380
+...bana bir iyilik yapmanı istiyorum.
+
+688
+01:08:47,048 --> 01:08:52,355
+Çok pis, düğüm düğüm kahverengi
+saçları olan küçük bir kız göreceksin.
+
+689
+01:08:53,500 --> 01:08:55,220
+Fırçalamayı sevmiyor.
+
+690
+01:08:55,820 --> 01:08:57,260
+Sorun değil.
+
+691
+01:08:57,580 --> 01:08:59,700
+Adı Sarah.
+
+692
+01:09:00,180 --> 01:09:02,700
+Rica etsem ona...
+
+693
+01:09:02,740 --> 01:09:05,260
+...annesinin kırmızı ayakkabısını
+bulduğunu söyler misin?
+
+694
+01:09:05,940 --> 01:09:08,620
+Aklı fikri o ayakkabıdaydı Matt.
+
+695
+01:09:09,020 --> 01:09:11,460
+Tam da yatağının altındaydı.
+
+696
+01:09:15,300 --> 01:09:19,820
+Onu benim için kucakla ve öp.
+Onu özlediğimi söyle.
+
+697
+01:09:20,260 --> 01:09:22,700
+Meleğim olduğunu söyle.
+
+698
+01:09:23,300 --> 01:09:27,180
+Beni çok gururlandırıyor.
+Çok gururlandırıyor.
+
+699
+01:09:31,580 --> 01:09:34,140
+Pes etmediğimi söyle ona.
+
+700
+01:09:41,060 --> 01:09:43,500
+Onu sevdiğimi de söyle Matt.
+
+701
+01:09:44,100 --> 01:09:46,900
+Onu çok sevdiğimi söyle.
+
+702
+01:09:48,940 --> 01:09:51,300
+Bunu benim için yapar mısın?
+
+703
+01:09:53,580 --> 01:09:55,380
+Bunu duyuyor musun?
+
+704
+01:09:57,020 --> 01:09:58,540
+İşte başlıyoruz.
+
+705
+01:10:35,380 --> 01:10:38,060
+İrtifa kaybediyorsun Tiangong.
+
+706
+01:10:40,460 --> 01:10:44,220
+Düşmeye devam edersen,
+atmosferi boylayacaksın.
+
+707
+01:10:44,540 --> 01:10:48,100
+Ama bensiz olmaz,
+çünkü sen benim son sürüşümsün.
+
+708
+01:10:48,828 --> 01:10:50,295
+Tamam.
+
+709
+01:10:51,169 --> 01:10:52,670
+Bekle.
+
+710
+01:10:59,780 --> 01:11:01,300
+5...
+
+711
+01:11:02,260 --> 01:11:03,660
+4...
+
+712
+01:11:04,620 --> 01:11:06,100
+3...
+
+713
+01:11:06,700 --> 01:11:08,660
+Artık başka sürüş yok.
+
+714
+01:11:10,180 --> 01:11:11,700
+Hadi eve gidelim.
+
+715
+01:11:16,532 --> 01:11:19,136
+Dengede kal.
+Tamam, hadi, hadi.
+
+716
+01:11:19,171 --> 01:11:21,740
+Hadi! Hadi!
+Lütfen dengelen.
+
+717
+01:11:22,700 --> 01:11:25,180
+Hadi! Hadi!
+
+718
+01:11:28,980 --> 01:11:33,460
+Neredesin, neredesin? 45.
+90. 180.
+
+719
+01:11:40,980 --> 01:11:41,980
+Hadi.
+
+720
+01:11:51,740 --> 01:11:52,900
+Pekala, tamam.
+
+721
+01:11:54,620 --> 01:11:56,402
+Tamam.
+
+722
+01:12:08,420 --> 01:12:09,420
+Hadi.
+
+723
+01:12:10,300 --> 01:12:11,540
+Lanet olsun.
+
+724
+01:12:12,820 --> 01:12:15,460
+Aşağı, aşağı.
+
+725
+01:12:16,100 --> 01:12:17,580
+Annene gel bakayım.
+
+726
+01:13:30,940 --> 01:13:32,060
+Pekala.
+
+727
+01:13:38,460 --> 01:13:40,700
+Tamam. Lanet olsun.
+
+728
+01:13:47,380 --> 01:13:48,740
+Pekala.
+
+729
+01:13:50,740 --> 01:13:52,340
+Shenzou.
+
+730
+01:13:52,820 --> 01:13:54,620
+Shenzou, Shenzou.
+
+731
+01:13:54,940 --> 01:13:58,780
+Kahretsin. Bu taraftan. Shenzou.
+
+732
+01:14:06,460 --> 01:14:09,900
+Neredesin? Hadi, neredesin?
+Bu da ne?
+
+733
+01:14:57,860 --> 01:15:01,500
+Soyuz'da güç düğmesi burada.
+Buldum.
+
+734
+01:15:04,180 --> 01:15:06,820
+Pekala, ayrılma, ayrılma nerede?
+
+735
+01:15:08,300 --> 01:15:09,620
+Mini mini...
+
+736
+01:15:10,380 --> 01:15:12,140
+Pekala, bu hiç iyi değil.
+
+737
+01:15:12,300 --> 01:15:13,700
+O...
+
+738
+01:15:14,300 --> 01:15:15,580
+...piti piti.
+
+739
+01:15:16,620 --> 01:15:18,580
+Çince bilmiyorum.
+
+740
+01:15:19,980 --> 01:15:22,260
+O piti piti.
+
+741
+01:15:23,740 --> 01:15:26,540
+Tamam, şimdi iyi.
+
+742
+01:15:34,820 --> 01:15:37,180
+Houston, kayıp Houston.
+
+743
+01:15:37,220 --> 01:15:40,940
+Ben, görev uzmanı Ryan Stone,
+Shenzou'dan bildiriyorum.
+
+744
+01:15:41,020 --> 01:15:43,660
+Thiangong'dan ayrılmak üzereyim.
+
+745
+01:15:47,860 --> 01:15:50,540
+Bu görev hakkında içimde kötü bir his var.
+
+746
+01:15:52,940 --> 01:15:55,180
+Bana bir hikayeyi anımsatıyor Houston.
+
+747
+01:15:57,460 --> 01:16:00,340
+Boş...boş ver hikayeyi Houston.
+
+748
+01:16:00,940 --> 01:16:02,220
+Hikayeyi dert etme.
+
+749
+01:16:03,898 --> 01:16:07,053
+Burası sıcak olmaya başladı.
+Tamam. Pekala.
+
+750
+01:16:09,860 --> 01:16:14,540
+Pekala, görebildiğim kadarıyla,
+sadece iki muhtemel sonuç var.
+
+751
+01:16:15,220 --> 01:16:19,340
+Ya tek parça halinde iner ve
+anlatacak müthiş bir hikayem olur...
+
+752
+01:16:19,500 --> 01:16:22,020
+...ya da 10 dakika içinde
+yanıp kül olurum.
+
+753
+01:16:23,380 --> 01:16:25,780
+Her halükarda,
+hangisi olursa olsun...
+
+754
+01:16:25,980 --> 01:16:28,420
+...zararı yok!
+
+755
+01:16:35,420 --> 01:16:37,300
+Çünkü her iki halde de...
+
+756
+01:16:39,260 --> 01:16:41,780
+...bu feci bir sürüş olacak.
+
+757
+01:16:43,820 --> 01:16:45,460
+Hazırım.
+
+758
+01:18:51,600 --> 01:18:56,756
+Kayıp Shenzou, burası Houston.
+FM frekansını belirtin.
+
+759
+01:18:58,242 --> 01:19:00,868
+Radarlarımız seni atmosfere
+dönüş yörüngesinde saptadı.
+
+760
+01:19:00,903 --> 01:19:03,820
+<i>Duyuyorsanız lütfen
+kimliği doğrulayın.</i>
+
+761
+01:19:23,860 --> 01:19:29,020
+- Burası Houston, lütfen kimliği raporlayın.
+- Çok soğuk, feci sıkıcı.
+
+762
+01:19:30,020 --> 01:19:31,800
+<i>...mesajlar, hemen orada...</i>
+
+763
+01:19:33,286 --> 01:19:36,179
+Lütfen kimliği doğrulayın.
+
+764
+01:19:36,180 --> 01:19:40,008
+Sizi alması için
+bir kurtarma ekibi yolladık.
+
+765
+01:19:40,500 --> 01:19:43,140
+<i>Kurtarma görevlileri yolda.</i>
+
+766
+01:19:46,500 --> 01:19:48,390
+<i>Kayıp Shenzou, burası Houston.</i>
+
+767
+01:19:48,900 --> 01:19:54,009
+<i>Sizi almaları için
+bir kurtarma ekibi gönderdik.</i>
+
+768
+01:22:44,620 --> 01:22:47,531
+Teşekkür ederim.
+
+769
+01:22:53,460 --> 01:22:55,375
+Olamaz.
