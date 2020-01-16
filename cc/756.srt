@@ -1,0 +1,943 @@
+1
+00:01:57,659 --> 00:01:59,702
+Nasılsınız?
+
+2
+00:01:59,787 --> 00:02:01,579
+Benim adım Deems Taylor,
+
+3
+00:02:01,663 --> 00:02:04,832
+Ortak yetenekleri ile "Fantasia" denilen
+bu yeni eğlence türünü yaratan...
+
+4
+00:02:04,917 --> 00:02:07,960
+Walt Disney, Leopold Stokowski,
+diğer tüm sanatçı ve müzisyenler adına
+
+5
+00:02:08,045 --> 00:02:11,631
+sizlere hoşgeldiniz demek...
+
+6
+00:02:11,715 --> 00:02:16,093
+benim için bir zevktir.
+
+7
+00:02:18,305 --> 00:02:19,972
+Görecekleriniz,
+
+8
+00:02:20,057 --> 00:02:22,642
+müziğin bir grup sanatçının
+
+9
+00:02:22,726 --> 00:02:25,895
+zihinlerinde ve hayallerinde oluşturduğu
+
+10
+00:02:25,979 --> 00:02:28,439
+tasarım, görüntü ve öykülerdir.
+
+11
+00:02:28,524 --> 00:02:29,982
+Diğer bir deyişle bunlar,
+
+12
+00:02:30,067 --> 00:02:32,860
+eğitimli müzisyenlerin yorumları
+olmayacaktır.
+
+13
+00:02:32,945 --> 00:02:35,238
+Böyle olması sanırım daha iyi.
+
+14
+00:02:35,322 --> 00:02:38,699
+Fantasia programında üç tür
+müzik yer almaktadır.
+
+15
+00:02:38,784 --> 00:02:41,744
+Birinci tür, belirli bir öykü anlatmaktadır.
+
+16
+00:02:41,829 --> 00:02:44,831
+İkincisi, kesin bir konusu
+olmamasına karşın,
+
+17
+00:02:44,915 --> 00:02:48,501
+belirli resimler çizen türdür.
+
+18
+00:02:48,585 --> 00:02:50,127
+Üçüncü türde ise,
+
+19
+00:02:50,212 --> 00:02:53,381
+müzik sadece kendisi olarak vardır.
+
+20
+00:02:53,465 --> 00:02:56,509
+Şimdi, Fantasia programımızın
+açılış parçası olan,
+
+21
+00:02:56,593 --> 00:03:00,137
+Toccata ve Fugue,
+bu üçüncü türe aittir.
+
+22
+00:03:00,222 --> 00:03:02,515
+Biz buna mutlak müzik diyoruz.
+
+23
+00:03:02,599 --> 00:03:07,103
+Parça adının da müziğin formunu
+tanımlamasının dışında bir anlamı yoktur.
+
+24
+00:03:07,187 --> 00:03:11,941
+Perdede görecekleriniz,
+bir konser salonunda
+
+25
+00:03:12,025 --> 00:03:14,026
+oturup müzik dinlerken
+aklınızdan geçebilecek
+
+26
+00:03:14,111 --> 00:03:17,697
+çeşitli soyut görüntülerin
+resmedilmesidir.
+
+27
+00:03:17,781 --> 00:03:20,575
+Başlangıçta, orkestranın varlığından haberdarsınızdır
+
+28
+00:03:20,659 --> 00:03:23,911
+Ve filmimiz şefin ve müzisyenlerin
+
+29
+00:03:23,996 --> 00:03:25,872
+çeşitli izlenimleri ile başlar.
+
+30
+00:03:25,956 --> 00:03:29,834
+Daha sonra müzik, hayal gücümüze
+başka şeyler önermeye başlar.
+
+31
+00:03:29,918 --> 00:03:33,588
+Bunlar, örneğin sadece renk öbekleri olabilir...
+
+32
+00:03:33,672 --> 00:03:37,091
+Veya, bulut şekilleri ya da
+uçsuz bucaksız manzaralar...
+
+33
+00:03:37,175 --> 00:03:42,138
+veya belirli belirsiz gölgeler,
+uzayda süzülen geometrik objeler.
+
+34
+00:03:43,140 --> 00:03:44,599
+Ve şimdi Johann Sebastian Bach'ın
+
+35
+00:03:44,683 --> 00:03:48,936
+R Minor Toccata ve Fugue' ünü sunuyoruz.
+
+36
+00:03:49,021 --> 00:03:52,398
+Walt Disney ve yardımcılarının
+resimleriyle yorumlanmış olarak...
+
+37
+00:03:52,482 --> 00:03:54,942
+şef Leopold Stokowski yönetimindeki,
+
+38
+00:03:55,027 --> 00:03:58,696
+Philadelphia Orkestrası'nın icrası ile.
+
+39
+00:13:44,240 --> 00:13:48,660
+Bir sanatçının kendi eseri hakkında
+ne kadar yanılabildiği ilginçtir.
+
+40
+00:13:48,745 --> 00:13:52,331
+Tchaikovsky'nin gerçekten nefret
+ettiği tek eseri ...
+
+41
+00:13:52,415 --> 00:13:54,041
+Fındıkkıran Suiti'dir.
+
+42
+00:13:54,125 --> 00:13:56,960
+Bu da eserleri arasında
+muhtemelen en sevilenidir.
+
+43
+00:13:57,045 --> 00:14:00,214
+St. Petersburg opera salonu için yazdığı,
+
+44
+00:14:00,298 --> 00:14:01,548
+Fındıkıran isimli bir bale eserinden
+
+45
+00:14:01,633 --> 00:14:04,927
+alıntılmış danslardan oluşmaktadır.
+
+46
+00:14:05,011 --> 00:14:08,430
+Zamanında pek başarılı olmamıştır,
+günümüzde de pek icra edilmez.
+
+47
+00:14:08,515 --> 00:14:12,142
+Ancak, eminim duyduğunuzda
+suiti tanıyacaksınız.
+
+48
+00:14:12,227 --> 00:14:15,812
+Bu arada, perdede bir
+fındıkkıran görmeyeceksiniz.
+
+49
+00:14:15,897 --> 00:14:18,106
+Adından başka ona
+benzeyen bir şey yok.
+
+50
+00:28:51,188 --> 00:28:55,108
+Şimdi çok belirli bir öykü anlatan
+bir müzik parçası dinleyeceğiz.
+
+51
+00:28:55,192 --> 00:28:57,902
+Aslında, bu parçada önce öykü gelmiş,
+
+52
+00:28:57,986 --> 00:29:01,364
+besteci de ona uygun müziği bestelemiştir.
+
+53
+00:29:01,448 --> 00:29:05,493
+Bu, neredeyse 2000 yıl geriye
+giden çok eski bir öyküdür.
+
+54
+00:29:05,577 --> 00:29:09,080
+Bir büyücü ve çırağı
+hakkındaki efsane.
+
+55
+00:29:09,164 --> 00:29:12,417
+Çırak, işi öğrenmeye çok istekli, zeki biriydi.
+
+56
+00:29:12,501 --> 00:29:15,086
+Aslında, belki biraz fazlaca zekiydi...
+
+57
+00:29:15,170 --> 00:29:18,714
+çünkü daha kontrol etmesini öğrenmeden
+ustasının en iyi büyü oyunlarını...
+
+58
+00:29:18,799 --> 00:29:21,509
+uygulamaya başlamıştı.
+
+59
+00:29:21,593 --> 00:29:24,929
+Örneğin, bir gün, ustası ondan,
+
+60
+00:29:25,013 --> 00:29:29,058
+bir kazanı doldurmak için su taşımasını
+istediğinde, aklına parlak bir fikir gelir
+
+61
+00:29:29,143 --> 00:29:32,770
+kendi yerine suyu taşıyacak
+bir süpürgeye can vermek...
+
+62
+00:29:32,855 --> 00:29:35,606
+Başlangıçta fikir işe yarasa da...
+
+63
+00:29:35,691 --> 00:29:38,943
+Süpürgenin su taşımasını durdurmak için gerekli
+
+64
+00:29:39,027 --> 00:29:42,280
+sihirli formülü maalesef unutunca,
+
+65
+00:29:42,364 --> 00:29:45,199
+bitiremeyeceği bir işe giriştiğini farkeder.
+
+66
+00:39:11,099 --> 00:39:14,601
+Bay Stokowski. Bay Stokowski.
+
+67
+00:39:16,980 --> 00:39:19,898
+Kutlarım, efendim.
+
+68
+00:39:19,983 --> 00:39:22,484
+Kutlamalar sana, Miki.
+
+69
+00:39:22,569 --> 00:39:24,403
+Çok teşekkürler.
+
+70
+00:39:24,487 --> 00:39:27,740
+Evet, hoşçakalın, görüşürüz.
+
+71
+00:39:29,117 --> 00:39:30,617
+Görüşürüz.
+
+72
+00:39:38,960 --> 00:39:43,005
+Igor Stravinsky "Bahar Ayini"
+balesini yazdığında...
+
+73
+00:39:58,271 --> 00:39:59,730
+Tekrarlıyorum,
+
+74
+00:39:59,814 --> 00:40:03,734
+Igor Stravinsky "Bahar Ayini"
+balesini yazdığında...
+
+75
+00:40:03,818 --> 00:40:07,154
+...kendi sözleriyle amacı,
+'ilkel yaşamı ifade etmekti.'
+
+76
+00:40:07,238 --> 00:40:11,241
+Ve böylece Walt Disney ve sanatçı
+arkadaşları onun sözüne uydular.
+
+77
+00:40:11,326 --> 00:40:14,161
+Baleyi orijinal formunda basit bir
+kabile dansları serisi olarak...
+
+78
+00:40:14,245 --> 00:40:19,041
+...sunmak yerine bunu bir pagan ayin
+olarak görselleştirdiler...
+
+79
+00:40:19,125 --> 00:40:23,087
+Dünyada yaşamın oluşmasının öyküsü olarak.
+
+80
+00:40:23,171 --> 00:40:25,506
+İzleyeceğiniz öykü,
+
+81
+00:40:25,590 --> 00:40:28,008
+hiç kimsenin hayal ürünü değildir.
+
+82
+00:40:28,093 --> 00:40:32,179
+Bu gezegenin varlığının ilk birkaç
+milyar yılında olup bitenin,
+
+83
+00:40:32,263 --> 00:40:35,557
+bilim tarafınca düşünülen şekline
+sadık kalan bir canlandırmasıdır.
+
+84
+00:40:35,642 --> 00:40:39,478
+Bu bölümün senaryosunu
+sanat değil bilim yazmıştır.
+
+85
+00:40:39,562 --> 00:40:42,523
+Bilime göre, burada ilk hayat bulanlar,
+
+86
+00:40:42,607 --> 00:40:44,983
+tek hücreli organizmalardı.
+
+87
+00:40:45,068 --> 00:40:49,279
+Suyun altında yaşayan,
+
+88
+00:40:49,364 --> 00:40:51,698
+minicik önemsiz beyaz veya yeşil kabarcıklar.
+
+89
+00:40:51,783 --> 00:40:54,368
+Daha sonra, zaman geçtikçe,
+okyanuslar çok çeşitli
+
+90
+00:40:54,452 --> 00:40:56,662
+deniz canlılarına mekan olmaya başladı.
+
+91
+00:40:56,746 --> 00:40:59,790
+Son olarak, yaklaşık 1 milyar sene sonra,
+
+92
+00:40:59,874 --> 00:41:02,626
+diğerlerinden daha meraklı bazı balıklar,
+
+93
+00:41:02,710 --> 00:41:06,672
+karaya tırmandılar ve ilk amfibiyumlar oldular
+
+94
+00:41:06,756 --> 00:41:09,883
+Ve sonra, bir kaç yüz milyon sene evvel,
+
+95
+00:41:09,968 --> 00:41:14,096
+doğa bir başka aşamaya geçti ve dinozorları üretti.
+
+96
+00:41:14,180 --> 00:41:17,141
+Dinozor ismi Yunanca'da
+
+97
+00:41:17,225 --> 00:41:19,268
+kötü kertenkele anlamına gelen
+iki kelimeden gelmektedir.
+
+98
+00:41:19,352 --> 00:41:21,478
+Onlar da gerçekten öyleydiler.
+
+99
+00:41:21,563 --> 00:41:23,772
+Türlü şekil ve boyutlardaydılar,
+
+100
+00:41:23,857 --> 00:41:27,484
+bir tavuk boyutundaki korkunç
+ufak sürüngenlerden...
+
+101
+00:41:27,569 --> 00:41:30,737
+yüz tonluk kabuslara kadar.
+
+102
+00:41:30,822 --> 00:41:32,906
+Pek akıllı değillerdi.
+
+103
+00:41:32,991 --> 00:41:35,784
+En büyüklerinin beyni bile
+bir güvercin beyni kadardı.
+
+104
+00:41:35,869 --> 00:41:39,329
+Havada, suda ve karada yaşadılar.
+
+105
+00:41:39,414 --> 00:41:41,582
+Genel olarak vejeteryandılar,
+
+106
+00:41:41,666 --> 00:41:44,334
+oldukça cana yakın ve geçinmesi kolaydılar.
+
+107
+00:41:44,419 --> 00:41:48,005
+Ancak aralarında belalılar ve gangsterler de vardı.
+
+108
+00:41:48,089 --> 00:41:51,508
+Aralarında en kötüsü,
+tyrannosaurus rex adında bir zorba idi,
+
+109
+00:41:51,593 --> 00:41:55,387
+Dünya yüzüne gelmiş geçmiş en acımasuz katildi.
+
+110
+00:41:56,264 --> 00:42:00,601
+Dinozorlar 200 milyon yıl boyunca
+yaradılışın efendileri oldular.
+
+111
+00:42:00,685 --> 00:42:04,354
+Ve sonra... doğrusu,
+biz ne olduğunu tam olarak bilmiyoruz.
+
+112
+00:42:04,439 --> 00:42:08,442
+Bazı bilim adamları,
+büyük kuraklık ve depremlerin
+
+113
+00:42:08,526 --> 00:42:11,862
+dünyayı dev bir toz küresine
+dönüştürdüğünü düşünüyorlar.
+
+114
+00:42:11,946 --> 00:42:15,782
+Sonuçta, dinozorlar
+Dünya yüzünden silinip gittiler.
+
+115
+00:42:15,867 --> 00:42:17,826
+Öykümüz burada sona eriyor.
+
+116
+00:42:17,911 --> 00:42:21,538
+Başlangıcı, zamanın çok geçmişlerde,
+
+117
+00:42:21,623 --> 00:42:23,707
+Dünya'da yaşam olmadığı bir zamandaydı.
+
+118
+00:42:23,791 --> 00:42:25,542
+Buhar bulutlarından, kaynayan denizlerden
+
+119
+00:42:25,627 --> 00:42:29,213
+ve patlayan volkanlardan
+başka bir şeyin olmadığı.
+
+120
+00:42:29,297 --> 00:42:33,258
+Şimdi kendinizi milyarlarca ve milyarlarca
+
+121
+00:42:33,343 --> 00:42:35,844
+yıl önce uzaydan aşağıya,
+
+122
+00:42:35,929 --> 00:42:39,306
+.boş bir yokluk denizinde dönüp duran,
+
+123
+00:42:39,390 --> 00:42:42,351
+..bu yalnız, çilekeş küçük gezegene
+bakıyor olarak hayal edin.
+
+124
+01:05:27,048 --> 01:05:29,925
+Şimdi 15 dakikalık bir ara vereceğiz.
+
+125
+01:08:48,666 --> 01:08:51,043
+Programımızın ikinci yarısına
+geçmeden önce,
+
+126
+01:08:51,127 --> 01:08:53,587
+size birisini tanıtmak istiyorum.
+
+127
+01:08:53,671 --> 01:08:56,632
+Fantasia için çok önemli olan birisini.
+
+128
+01:08:56,716 --> 01:08:59,051
+Çok utangaç ve çekingendir.
+
+129
+01:08:59,135 --> 01:09:02,679
+Bir gün ona Disney stüdyolarında
+tesadüfen rastladım.
+
+130
+01:09:02,764 --> 01:09:04,681
+Onu tanıyınca da, onun sadece takımın
+
+131
+01:09:04,766 --> 01:09:08,393
+vazgeçilmez bir elemanı değil...
+
+132
+01:09:08,478 --> 01:09:12,147
+yetenekleri hiç farkedilmemiş
+
+133
+01:09:12,232 --> 01:09:13,524
+bir sahne yıldızı
+olduğunu da farkettim.
+
+134
+01:09:13,608 --> 01:09:17,694
+Ve bu fırsattan yararlanarak size
+mutlulukla takdim ediyorum...
+
+135
+01:09:17,779 --> 01:09:19,738
+...ses izi.
+
+136
+01:09:20,990 --> 01:09:22,491
+Pekala, haydi.
+
+137
+01:09:22,575 --> 01:09:24,952
+Tamamdır. Çekinme.
+
+138
+01:09:27,747 --> 01:09:29,456
+Aferin ses izi.
+
+139
+01:09:29,541 --> 01:09:32,042
+Şimdi onu izlerken, her güzel sesin
+ayni güzellikte bir...
+
+140
+01:09:32,126 --> 01:09:35,045
+görüntü de oluşturduğunu farkettim.
+
+141
+01:09:35,129 --> 01:09:38,924
+Şimdi bakın.
+Ses izi bize bir ses oluşturur mu lütfen?
+
+142
+01:09:39,801 --> 01:09:43,428
+Devam et! Heyecanlanma.
+Haydi! Herhangi bir ses.
+
+143
+01:09:46,057 --> 01:09:49,643
+Şey, düşündüğüm
+tam da bu değildi.
+
+144
+01:09:50,937 --> 01:09:53,605
+Sanırım arp'ı duyuyor ve görüyoruz.
+
+145
+01:10:13,835 --> 01:10:18,005
+Şimdi bir yaylı çalgı, diyelim ki, keman.
+
+146
+01:10:39,402 --> 01:10:43,155
+Ve şimdi...
+Bir nefesli enstrüman, flüt.
+
+147
+01:10:49,412 --> 01:10:51,079
+Çok hoş.
+
+148
+01:10:51,164 --> 01:10:54,291
+Şimdi de bir üflemeli çalgı daha, trompet.
+
+149
+01:11:11,684 --> 01:11:16,021
+Pekala. Şimdi de kalın sesli
+bir enstrüman. Bason.
+
+150
+01:11:26,574 --> 01:11:30,160
+Devam et. Devam et, bitir hadi?
+
+151
+01:11:35,583 --> 01:11:39,378
+Şimdi bitirirken, bazı vurgulu
+enstrümanları da görsek.
+
+152
+01:11:39,462 --> 01:11:41,505
+Bas davul ile başlıyoruz.
+
+153
+01:12:07,573 --> 01:12:09,741
+Çok teşekkürler eski dost.
+
+154
+01:12:15,707 --> 01:12:18,709
+Beethoven'in "Pastoral" olarak
+adlandırdığı senfonisinin,
+
+155
+01:12:18,793 --> 01:12:22,337
+yani altıncı senfonisinin,
+tüm eserleri arasında
+
+156
+01:12:22,422 --> 01:12:24,673
+belirli bir öykü anlatan bir kaç
+eserinden biri olduğu söylenir.
+
+157
+01:12:24,757 --> 01:12:27,676
+O büyük bir doğa tutkunu idi
+ve bu senfonide...
+
+158
+01:12:27,760 --> 01:12:30,846
+kırsaldaki bir günün
+müzikal bir resmini çizer.
+
+159
+01:12:30,930 --> 01:12:32,931
+Tabii Beethoven'in anlattığı kırsal
+
+160
+01:12:33,016 --> 01:12:35,684
+onun tanıdığı kırsaldı.
+
+161
+01:12:35,768 --> 01:12:38,520
+Fakat müziği bundan çok
+daha geniş bir alanı içerir.
+
+162
+01:12:38,604 --> 01:12:42,566
+Bu yüzden Walt Disney Pastoral senfoniye
+mitolojik bir ortam verdi.
+
+163
+01:12:42,650 --> 01:12:47,070
+Sahne,  tanrıların mekanı Olimpos dağıdır,.
+
+164
+01:12:47,155 --> 01:12:50,532
+Ve burada, ilk önce,
+yayla ve ormanlardaki
+
+165
+01:12:50,616 --> 01:12:52,451
+olağanüstü yaratıklara rastlıyoruz,
+
+166
+01:12:52,535 --> 01:12:56,538
+tek boynuzlu at, yarı keçi orman tanrısı,
+uçan at pegasus
+
+167
+01:12:56,622 --> 01:12:59,291
+ve ailesi insan başlı atlar, centaurlar
+
+168
+01:12:59,375 --> 01:13:03,795
+yarı insan yarı at olan o garip yaratıklar.
+
+169
+01:13:03,880 --> 01:13:06,882
+Ve kız arkadaşları, centauretler.
+
+170
+01:13:06,966 --> 01:13:10,177
+Daha sonra, eski arkadaşımız şarap tanrısı Bacchus'a rastlıyoruz.
+
+171
+01:13:10,261 --> 01:13:12,387
+müridlerine başkanlık ederken.
+
+172
+01:13:12,472 --> 01:13:14,347
+Partiyi bir fırtına böler.
+
+173
+01:13:14,432 --> 01:13:17,100
+Ve sonra, Vulcan'ı görüyoruz
+yıldırımları tavlıyor..
+
+174
+01:13:17,185 --> 01:13:20,145
+ve tanrıların kralı Zeus'a yolluyor,
+
+175
+01:13:20,229 --> 01:13:22,397
+o da onlarla dart oynuyor.
+
+176
+01:13:22,482 --> 01:13:26,234
+Fırtına dindiğinde, gökkuşağı
+tanrısı  Iris'i görüyoruz,
+
+177
+01:13:26,319 --> 01:13:30,155
+Ve Apollo 2 tekerlekli güneş
+arabasını gökyüzünde sürüyor.
+
+178
+01:13:30,239 --> 01:13:32,199
+Ve sonra, uyku tanrısı Morpheus,
+
+179
+01:13:32,283 --> 01:13:34,951
+her şeyi gece pelerini ile örtüyor,
+
+180
+01:13:35,036 --> 01:13:37,996
+ve Diana, yeni ayı yay olarak kullanarak,
+
+181
+01:13:38,081 --> 01:13:42,501
+gökyüzünü yıldızlarla bezeyen
+ateşten bir ok fırlatıyor.
+
+182
+01:36:12,725 --> 01:36:16,812
+Şimdi yazılmış en ünlü ve sevilen
+balelerden birini yapacağız.
+
+183
+01:36:16,896 --> 01:36:20,441
+Ponchielli'nin "La Gioconda" operasından
+"Saatlerin Dansı"
+
+184
+01:36:20,525 --> 01:36:23,193
+Bu günün saatlerinin bir dansıdır.
+
+185
+01:36:23,278 --> 01:36:26,447
+İlk grup dansçılar, şafağın zarif ışıklarını
+
+186
+01:36:26,531 --> 01:36:28,824
+betimleyen kostümler içerisindedirler.
+
+187
+01:36:28,908 --> 01:36:30,367
+Sonra ikinci bir grup gelir.
+
+188
+01:36:30,452 --> 01:36:33,537
+Öğle saatlerinin parlak ışığını temsil
+eden kıyafetler giymişlerdir.
+
+189
+01:36:33,621 --> 01:36:36,331
+Bunlar çekilirken, akşamüstünün
+harikülade renk tonlarını
+
+190
+01:36:36,416 --> 01:36:40,878
+temsil eden kostümler içindeki
+üçüncü bir grup girer.
+
+191
+01:36:40,962 --> 01:36:45,549
+Dah sonra son grup, siyahlar içinde,
+gecenin kasvetli saatleri.
+
+192
+01:36:45,633 --> 01:36:48,302
+Orkestra aniden, karanlık saatlerin,
+
+
+193
+01:36:48,386 --> 01:36:53,140
+ışığın saatlerine mağlup olduğu
+muhteşem finali patlatır.
+
+194
+01:36:53,224 --> 01:36:57,019
+Bunların tümü Venedikli bir 
+soylu olan Alvise Dükünün,
+
+195
+01:36:57,103 --> 01:37:00,772
+sarayındaki büyük salon ve
+ötesindeki bahçede geçer.
+
+196
+01:49:23,974 --> 01:49:26,434
+"Fantasia" programımızın sonuncusu
+
+197
+01:49:26,518 --> 01:49:29,562
+biribirinden çok farklı
+iki müzik parçasının birleşimidir...
+
+198
+01:49:29,647 --> 01:49:34,234
+Yapısal ve duygusal olarak o kadar
+farklılar ki birbirlerini tamamlıyorlar.
+
+199
+01:49:34,318 --> 01:49:36,736
+Birincisi Rusya'nın en büyük bestecilerinden
+Modeste Moussorgsky'nin...
+
+200
+01:49:36,820 --> 01:49:40,907
+"Çıplak Dağda Bir Gece" si.
+
+201
+01:49:40,991 --> 01:49:45,078
+İkincisi Franz Schubert'in
+Dünyaca ünlü "Ave Maria" sı.
+
+202
+01:49:45,162 --> 01:49:47,956
+Burada müziksel ve dramatik olarak,
+bir savaşın resmini görüyoruz.
+
+203
+01:49:48,040 --> 01:49:50,583
+Küfür ile kutsal arasındaki savaşın.
+
+204
+01:49:50,668 --> 01:49:53,419
+Geleneklere göre Çıplak Dağ,
+
+205
+01:49:53,504 --> 01:49:56,756
+Şeytan ve müritlerinin 
+toplantı yeridir.
+
+206
+01:49:56,840 --> 01:50:00,802
+Cadılar Bayramı'nın bir benzeri olan 
+Walpurgis Gecesi'nde,
+
+207
+01:50:00,886 --> 01:50:04,722
+..kötü yaratıklar efendilerine 
+tapınmak amacıyla bir araya gelirler.
+
+208
+01:50:04,807 --> 01:50:07,433
+Onun büyülerinin etkisi altında
+çılgınca dans ederler
+
+209
+01:50:07,518 --> 01:50:10,311
+şafak sökene ve kilise çanları 
+cehennem ordusunu kaçırıp,
+
+210
+01:50:10,396 --> 01:50:15,275
+karanlık mekanlarına 
+geri gönderene kadar.
+
+211
+01:50:15,359 --> 01:50:18,861
+Ve sonra, umut ve yaşamın,
+umutsuzluk ve ölüme
+
+212
+01:50:18,946 --> 01:50:23,032
+karşı zaferinin habercisi 
+Ave Maria'yı işitiriz.
