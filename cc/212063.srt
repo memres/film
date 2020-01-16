@@ -1,0 +1,3892 @@
+2
+00:01:24,646 --> 00:01:31,443
+Bazen gece yatağımda yatıp
+
+3
+00:01:31,527 --> 00:01:34,231
+uyumaya çalışırken,
+
+4
+00:01:34,321 --> 00:01:40,904
+tek düşünebildiğim Vermeer'in bir tablosunu
+yapmaya çalışmayı deneme amacı oluyor.
+
+5
+00:01:40,993 --> 00:01:44,444
+Gerçekten ben bir Vermeer
+tablosu yapmaya çalışacağım.
+
+6
+00:01:44,538 --> 00:01:50,575
+İlk bakışta,
+neredeyse imkansız görünüyor.
+
+7
+00:01:50,668 --> 00:01:53,669
+Ve yapıp yapamayacağımı bilmiyorum.
+
+8
+00:01:55,923 --> 00:01:59,042
+Eğer yapabilirsem epey kaydadeğer olur,
+
+9
+00:02:00,343 --> 00:02:02,382
+çünkü ben bir ressam değilim.
+
+10
+00:02:13,521 --> 00:02:16,770
+Bahsettiği Vermeer
+Johannes Vermeer,
+
+11
+00:02:16,857 --> 00:02:19,430
+1600'lü yılarda yaşamış olan
+Hollanda'lı sanatçı.
+
+12
+00:02:19,526 --> 00:02:23,108
+Kimileri onu dünyanın gelmiş geçmiş
+en büyük ressamı olarak görür.
+
+13
+00:02:23,195 --> 00:02:27,940
+Vermeer'e baktığınızda,
+tuval üstündeki resimden daha fazlası vardır.
+
+14
+00:02:28,033 --> 00:02:32,943
+Sinema perdesinden parlayan
+bir görüntü gibidir.
+
+15
+00:02:33,079 --> 00:02:38,618
+Bu büyülü kalite 350 yıldır
+dünyayı şaşırtmaktadır.
+
+16
+00:02:38,708 --> 00:02:40,784
+Vermeer bunu nasıl yaptı?
+
+17
+00:02:40,877 --> 00:02:43,284
+Hollandalı sanatçılar tipik olarak
+çıraklık döneminde öğrenir
+
+18
+00:02:43,379 --> 00:02:47,079
+ve çalışmalarını kanıtlamak için
+yazılı kayıt tutarlar.
+
+19
+00:02:47,174 --> 00:02:50,756
+Ama Vermeer hakkında
+böyle evraklar hiçbir zaman bulunmadı.
+
+20
+00:02:50,844 --> 00:02:54,923
+Ve garip bir şekilde, bu karmakarışık
+görüntülere x ışını tuttuğunuzda,
+
+21
+00:02:55,014 --> 00:02:58,631
+altında sanatçının çizimini göremezsiniz.
+
+22
+00:02:58,725 --> 00:03:02,259
+Vermeer'in, kavranılamaz dehası ile
+
+23
+00:03:02,353 --> 00:03:07,145
+tuvale gidip sihirli bir şekilde
+resmini ışıkla yaptığı anlaşılıyor.
+
+24
+00:03:10,151 --> 00:03:12,903
+Vermeer bu güzel resimleri
+
+25
+00:03:12,987 --> 00:03:15,063
+teknoloji kullanarak da yapmış olabilir.
+
+26
+00:03:15,156 --> 00:03:18,987
+Eğer böyle yaptıysa, elbette,
+bunun dokümanı olamaz,
+
+27
+00:03:19,076 --> 00:03:25,789
+fazla eğitim almadan da bu fevkalade
+tabloları yapmış olabilir.
+
+28
+00:03:25,873 --> 00:03:31,163
+Onun bir deneyci olması da mümkün,
+
+29
+00:03:31,252 --> 00:03:33,624
+biraz tamirci, biraz da antisosyal.
+
+30
+00:03:33,713 --> 00:03:37,710
+Ve, bu şekilde, ona bir yakınlık duydum,
+çünkü ben bir bilgisayar grafikçisiyim,
+
+31
+00:03:37,800 --> 00:03:41,298
+ve biz gerçekçi ve güzel bir görüntü
+için teknolojiyi kullanırız,
+
+32
+00:03:41,386 --> 00:03:44,137
+ve belki Vermeer'in de yaptığı budur.
+
+33
+00:03:45,681 --> 00:03:48,682
+Tim Jenison bir ressam değil,
+o bir mucit.
+
+34
+00:03:48,809 --> 00:03:52,058
+Onun işlerin nasıl yapıldığını
+ortaya çıkarma yeteneği var.
+
+35
+00:03:52,145 --> 00:03:56,059
+Tim Iowa'da büyürken,
+onun kırık bir piyanosu vardı,
+
+36
+00:03:56,148 --> 00:03:58,817
+onu tamir etti ve kendi kendine
+swing müziği çalmasını öğrendi
+
+37
+00:03:58,901 --> 00:04:03,277
+ve piyano kağıtlarını yavaşlatarak
+Fats Waller'in parmaklarını takip etti.
+
+38
+00:04:03,446 --> 00:04:06,980
+Tim birkaç yıl bir rock
+grubunda klavye çaldı
+
+39
+00:04:07,074 --> 00:04:10,692
+ve kendi kendine elektronik eşyaları
+tamir etmeyi öğrendi.
+
+40
+00:04:10,869 --> 00:04:12,363
+Şaşırtıcı sihirbaz!
+
+41
+00:04:12,537 --> 00:04:14,862
+Evlendi, bir ailesi oldu,
+
+42
+00:04:14,956 --> 00:04:19,083
+ve langırt makineleri ile video oyunlarını
+tamir eden bir iş kurdu.
+
+43
+00:04:19,209 --> 00:04:23,621
+Sonra, 1990 yılı civarında, masa üstü
+bilgisayarlarını
+
+44
+00:04:23,713 --> 00:04:26,204
+canlı yayın yapan tv stüdyolarına
+çevirmeyi icat etti.
+
+45
+00:04:26,549 --> 00:04:30,000
+Adını Video Toaster koydu,
+ve bu ona Emmy ödülü kazandırdı.
+
+46
+00:04:30,093 --> 00:04:33,592
+Bu onu Işıkdalgası gibi
+muhteşem başarılara yönlendirdi,
+
+47
+00:04:33,680 --> 00:04:36,170
+3 Boyutlu görüntüleri mümkün kılan bir program,
+
+48
+00:04:36,265 --> 00:04:40,559
+onun şirketi NewTek'e,  2003 yılında
+Emmy ödülü kazandırdı.
+
+49
+00:04:40,894 --> 00:04:43,811
+Tim şu anda San Antonio, Texas'da oturuyor,
+
+50
+00:04:43,897 --> 00:04:46,518
+ve şirketi,
+radyo /tv yayıncılığında, web de
+
+51
+00:04:46,607 --> 00:04:50,190
+ve canlı performanslarda
+kullanılan TriCaster 'i üretiyor.
+
+52
+00:04:50,903 --> 00:04:54,852
+Bütün bunlar Tim'e para
+ve boş zaman kazandırdı ve şunları yaptı,
+
+53
+00:04:56,616 --> 00:04:58,822
+Frankie, dudak senkronizasyon ördeği.
+
+54
+00:05:02,079 --> 00:05:07,582
+Tamamen ev dekorasyonu mağazından aldıklarıyla
+yaptığı bir uçak.
+
+55
+00:05:07,667 --> 00:05:08,698
+O bir elektrikli pervane.
+
+56
+00:05:08,793 --> 00:05:10,500
+Onun elektrikli pervanesi.
+
+57
+00:05:10,586 --> 00:05:14,369
+Işığı açtığınızda,
+yere konuyor,
+
+58
+00:05:14,464 --> 00:05:17,963
+ve tam ışığın altında duruyor.
+
+59
+00:05:19,301 --> 00:05:21,128
+Ve bu.
+
+60
+00:05:32,062 --> 00:05:35,727
+Tim'in dört farklı kiliseden toplayıp
+yaptığı bir borulu org.
+
+61
+00:05:35,815 --> 00:05:38,436
+Başladığım zaman,
+daha fazla boruya ihtiyaç vardı,
+
+62
+00:05:38,526 --> 00:05:42,143
+çünkü hiçbir zaman yeterli olmadı,bu yüzden benim
+burada üç tane borulu orgum var,
+
+63
+00:05:42,279 --> 00:05:45,647
+artı bir elektronik org,
+klavye için kullandığım.
+
+64
+00:05:45,740 --> 00:05:49,073
+Tim ve ben gerçekten çok uzun
+zamandır arkadaşız.
+
+65
+00:05:49,160 --> 00:05:52,077
+Eğer bir sanat varsa,
+o çizebilir, gördüğünüz gibi...
+
+66
+00:05:52,162 --> 00:05:54,914
+Uzay mekiği fırlatıldığında
+biz birlikte ağladık.
+
+67
+00:05:54,998 --> 00:05:57,239
+Onun Learjet'i ile
+güneş tutulmasını izlemek için
+
+68
+00:05:57,333 --> 00:05:59,906
+Cabo San Lucas'a uçtuk.
+
+69
+00:06:00,002 --> 00:06:01,876
+Yani, şeytan bunun içinde.
+
+70
+00:06:01,962 --> 00:06:06,090
+Benim adım Penn,
+Tanrı'nın en güzel lütfu olan
+
+71
+00:06:06,174 --> 00:06:10,041
+tutulmayı görmeden önceki son günü.
+
+72
+00:06:10,845 --> 00:06:13,928
+Tim bir astronot eğitim uçağında
+ağırlıksız
+
+73
+00:06:14,014 --> 00:06:16,469
+ve o denemem için bana da ayarladı.
+
+74
+00:06:16,558 --> 00:06:19,843
+Kendi saçımın üstüne kustum.
+
+75
+00:06:19,936 --> 00:06:24,264
+Tim ressam değildi ve hala da değil.
+
+76
+00:06:24,523 --> 00:06:28,816
+Bu yüzden neden Vermeer'i
+
+77
+00:06:28,901 --> 00:06:31,474
+kafasına taktığını bilmiyorum.
+
+78
+00:06:31,695 --> 00:06:35,775
+Tim'in Vermeer projesi 11 yıl önce başladı,
+2002 yılında,
+
+79
+00:06:35,866 --> 00:06:40,278
+kızı ona David Hockney'nin Gizli Bilgi
+kitabını verdikten sonra.
+
+80
+00:06:40,369 --> 00:06:44,616
+Hockney, resimlerin böyle de olabileceğini,
+
+81
+00:06:44,706 --> 00:06:46,284
+şöyle de olabileceğini yazmıştı,
+
+82
+00:06:46,374 --> 00:06:49,957
+çünkü sanatçılar onlara yardımcı
+olabilecek yeni aletler buluyorlardı.
+
+83
+00:06:50,044 --> 00:06:55,204
+17. Yüzyılın Hollanda'sında yüksek kaliteli
+mercekler ve aynalar her yerde kullanılıyordu.
+
+84
+00:06:55,299 --> 00:06:57,457
+Teleskoplar modaydı
+
+85
+00:06:57,550 --> 00:07:02,425
+ve bilim meraklıları görüntüleri
+canlı yansıtmanın yollarını deniyorlardı.
+
+86
+00:07:02,513 --> 00:07:05,466
+Hockney, Vermeer'in zamanındaki sanatçıların
+sadece gelenekselliği kullanmadıklarını,
+
+87
+00:07:05,557 --> 00:07:09,257
+doğru bir şekilde resim yapmak için,
+
+88
+00:07:09,352 --> 00:07:13,396
+sadece gözlerini ve hayallerini
+kullanmadıklarını söylüyordu.
+
+89
+00:07:13,481 --> 00:07:18,023
+Onlar gizlice karanlık odalardan.
+ve optik makinelerden yardım alıyorlardı.
+
+90
+00:07:18,109 --> 00:07:22,486
+Camera obscura Latincede "karanlık oda"
+anlamına geliyordu.
+
+91
+00:07:22,697 --> 00:07:24,488
+Bir kutu yap, ebadı farketmez.
+
+92
+00:07:24,573 --> 00:07:26,482
+Ayakkabı kutusu ebadında olabilir,
+
+93
+00:07:26,575 --> 00:07:29,445
+ama hadi bunu içinde durabilecek
+büyüklükte yapalım.
+
+94
+00:07:29,536 --> 00:07:31,409
+Bu bir karanlık oda.
+
+95
+00:07:31,537 --> 00:07:35,830
+Kutunun bir kenarında küçük bir delik açarsanız
+sürpriz bir şey görürsünüz.
+
+96
+00:07:35,916 --> 00:07:39,450
+Kutunun dışındaki bir şeyin görüntüsü,
+ışık altında,
+
+97
+00:07:39,544 --> 00:07:44,620
+deliğin karşısındaki duvara yansır,
+ama başaşağı ve geriye doğru.
+
+98
+00:07:44,757 --> 00:07:48,836
+Deliğe bir büyüteç koyarak görüntüyü
+daha parlak ve net hale getirebilirsiniz,
+
+99
+00:07:48,927 --> 00:07:51,797
+büyütecin kavisini ve yerini
+
+100
+00:07:51,888 --> 00:07:55,090
+değiştirerek
+görüntünün ebadını değiştirebilirsiniz.
+
+101
+00:07:57,893 --> 00:08:00,727
+İşte David Hockney bir TV programında.
+
+102
+00:08:00,812 --> 00:08:03,100
+O bir karanlık odanın içinde,
+
+103
+00:08:03,189 --> 00:08:07,435
+büyütecin içinden yansıyan canlı bir
+mankenin görüntüsünü takip ediyor.
+
+104
+00:08:10,028 --> 00:08:11,937
+Hockney en çok bir ressamın
+
+105
+00:08:12,030 --> 00:08:15,445
+büyüteçten yansıyan görüntüyü nasıl
+yakaladığına odaklanmış durumda.
+
+106
+00:08:16,283 --> 00:08:21,988
+Bana göre, bir video adamı olarak,
+Vermeer'in en çarpıcı yanı
+
+107
+00:08:22,080 --> 00:08:25,282
+Bu görüntüye bakıyorum,
+ve bir video sinyali görüyorum.
+
+108
+00:08:25,374 --> 00:08:30,534
+Video kamerasından çıkmış gibi
+bir şey görüyorum.
+
+109
+00:08:30,629 --> 00:08:35,539
+By yüzden bir ressamın bunu nasıl
+kopyaladığını düşündüm .
+
+110
+00:08:35,633 --> 00:08:40,875
+Artık birçok insan karanlık
+odada çalışıyor
+
+111
+00:08:40,971 --> 00:08:45,513
+ve yansıyan görüntüyü resmetmeye çalışıyor.
+
+112
+00:08:45,641 --> 00:08:49,638
+Bunu ben de denedim, birçok kişi de denedi
+ama bu imkansız.
+
+113
+00:08:49,770 --> 00:08:53,019
+Bu şey seninle kavga ediyor,
+sana karşı çıkıyor,
+
+114
+00:08:53,106 --> 00:08:54,564
+Bu her şeyden daha kötü.
+
+115
+00:08:55,232 --> 00:08:57,439
+Yansıtma üzerinde resim yapmak
+işe yaramadı.
+
+116
+00:08:57,526 --> 00:09:01,108
+Bu, projeksiyonun mavisine
+çok yakın bir mavi.
+
+117
+00:09:01,196 --> 00:09:03,069
+Bunun kurumamış bir boya olduğunu farzedin.
+
+118
+00:09:03,156 --> 00:09:07,200
+Onu projeksiyonun içine koyduğunuzda,
+çok koyu gözüküyor.
+
+119
+00:09:07,326 --> 00:09:09,567
+Diğer yandan, bu harika bir uyum.
+
+120
+00:09:09,661 --> 00:09:12,827
+Bu renk , projeksiyonun rengine
+tam uyuyor.
+
+121
+00:09:12,914 --> 00:09:15,950
+Bunu yapabilen tek renk beyaz.
+
+122
+00:09:18,919 --> 00:09:21,623
+Tim, Vermeer'i çalışmak için
+bütün dünyayı gezdi.
+
+123
+00:09:26,676 --> 00:09:29,510
+Buna  " ışıkla boyamak" dediler
+Vermeer "ışıkla boyadı."
+
+124
+00:09:29,595 --> 00:09:32,132
+Işıkla boya yapamazsın,
+Boya boya ile yapılır.
+
+125
+00:09:32,222 --> 00:09:37,927
+Aslında söyledikleri
+Vermeer'in gerçeğe benzettiği mi,
+
+126
+00:09:38,018 --> 00:09:41,434
+yoksa öylesine ortaya çıktığı mı.
+
+127
+00:09:41,521 --> 00:09:46,266
+Odanın karşısından baktığınızda
+bir slayt gibi görünüyor,
+
+128
+00:09:46,359 --> 00:09:49,359
+renkli bir fotoğraf filmi gibi.
+
+129
+00:10:10,504 --> 00:10:14,501
+Vermeer'i görmek bir vahiy gibiydi.
+
+130
+00:10:14,591 --> 00:10:17,840
+Bu, benim doğru yolda
+olduğumu destekledi .
+
+131
+00:10:17,927 --> 00:10:23,466
+Bu odada benim gördüğüm, bütün renklerin
+tam olarak temsil edilişiydi.
+
+132
+00:10:25,808 --> 00:10:32,474
+Birden içimde renklerin bu kadar
+keskin oluşunun yolunun
+
+133
+00:10:32,564 --> 00:10:33,975
+mekanikle ilgisi olduğu önsezisi doğdu.
+
+134
+00:10:34,065 --> 00:10:36,307
+17. yüzyılda yapılamayacak bir yol.
+
+135
+00:10:36,526 --> 00:10:41,816
+İki rengi aynada karşılaştırma
+fikrini hatırladım,
+
+136
+00:10:41,905 --> 00:10:44,443
+ve uzun süre bu daha ileri gitmedi.
+
+137
+00:10:44,532 --> 00:10:45,813
+Küvette otururken,
+
+138
+00:10:45,909 --> 00:10:48,992
+bilirsiniz, "buldum" anları
+hep orada çıkar,
+
+139
+00:10:49,078 --> 00:10:52,612
+ama, bilmiyorum
+banyo suyunda bir şey var...
+
+140
+00:10:52,706 --> 00:10:54,579
+çok rahatlatıcı
+
+141
+00:10:54,666 --> 00:10:58,745
+ve boşlukta bir aynanın asılı
+olduğunu hayal ettim,
+
+142
+00:10:58,836 --> 00:11:02,252
+ve orada olduğunu anladım
+
+143
+00:11:02,339 --> 00:11:07,000
+Ve bir parça kağıt koparıp,
+ıslanmamasına dikkat ederek,
+
+144
+00:11:07,093 --> 00:11:10,793
+bir çizim yaptım, ve o zaman
+farkettim ki
+
+145
+00:11:10,888 --> 00:11:14,932
+Vermeer tablolarını ayna kullanarak
+yapmış olabilirdi.
+
+146
+00:11:19,103 --> 00:11:23,764
+Test etmek için kayınpederimin masada duran
+lise fotoğrafını dayadım.
+
+147
+00:11:23,857 --> 00:11:26,811
+Üzerine resim yapmak için
+sıkıştırılmış bir fiber koydum .
+
+148
+00:11:26,901 --> 00:11:30,768
+Küçük bir aynayı 45 derece açıyla yerleştirdim.
+
+149
+00:11:32,448 --> 00:11:36,148
+Ve hayatımda ilk kez,
+Vermeer'in yapmış olabileceği bir şeyi yaptım.
+
+150
+00:11:36,284 --> 00:11:39,735
+Yağlı boya ve fırça aldım.
+
+151
+00:11:39,829 --> 00:11:42,201
+In Vermeer'in gözünde
+bu bir yansıtmaydı,
+
+152
+00:11:42,289 --> 00:11:44,282
+görüntüyü yansıtan bir büyüteç.
+
+153
+00:11:44,374 --> 00:11:47,873
+Ama ayna kullanarak boyamayı göstermek için,
+
+154
+00:11:47,961 --> 00:11:49,419
+biz burada bir fotoğraf kullanacağız.
+
+155
+00:11:49,504 --> 00:11:55,007
+Yansımayı görüyorsunuz,
+tuvalim de hemen burada.
+
+156
+00:11:55,092 --> 00:11:59,302
+Ve aynanın kenarından,
+ikisini de tek seferde görebiliyorum.
+
+157
+00:11:59,387 --> 00:12:01,011
+Aynı rengi yakalayana kadar
+
+158
+00:12:01,097 --> 00:12:05,509
+koyulaştırırarak yada açarak
+boya uygulayacağım.
+
+159
+00:12:05,600 --> 00:12:08,767
+Ve o noktada,
+tamamen aynı renk olduğunda,
+
+160
+00:12:08,853 --> 00:12:10,845
+aynanın kenarı kaybolacak.
+
+161
+00:12:10,938 --> 00:12:15,018
+Tamam, ben bu işte bir aptalım,
+
+162
+00:12:15,108 --> 00:12:20,647
+bu işlemi daha önce iki kez yapmıştım.
+
+163
+00:12:23,073 --> 00:12:26,940
+Yaptığım şey
+kafamı aşağı ve yukarı oynatmak
+
+164
+00:12:27,035 --> 00:12:30,735
+böylelikle önce orijinali
+sonra da tuvalimi görebilirim.
+
+165
+00:12:30,830 --> 00:12:34,115
+İkisine de aynı anda bakıyorum.
+
+166
+00:12:34,208 --> 00:12:36,580
+Tam alın hizasında,
+birbirine uyduğunu görüyorsun,
+
+167
+00:12:36,668 --> 00:12:38,993
+çünkü aynanın kenarını göremiyorsun.
+
+168
+00:12:39,087 --> 00:12:42,253
+Bu, bu senin resmi tamamen
+eşleştirmenin ipucu.
+
+169
+00:12:42,340 --> 00:12:46,040
+Bu subjektif değil, objektif.
+
+170
+00:12:46,134 --> 00:12:50,630
+Ben bu noktada, fotoğraf filmindeki
+bir insan parçasıyım.
+
+171
+00:12:53,557 --> 00:12:56,344
+Burada yaptığın
+aslında akıtmak mı?
+
+172
+00:12:56,435 --> 00:13:03,053
+Evet, yüzeydeki boyanın rengini
+açıyorum yada koyulaştırıyorum.
+
+173
+00:13:03,149 --> 00:13:06,849
+Çizgileri takip etmiyorsun,
+çünkü çizgi yok.
+
+174
+00:13:06,944 --> 00:13:11,818
+Evet, bu Vermeer'i sıradışı kılan
+karakteristik bir özellik ,
+
+175
+00:13:11,906 --> 00:13:13,448
+çizgilerin olmaması,
+
+176
+00:13:13,532 --> 00:13:16,782
+ve tabloların altında da hiç çizgi yoktu.
+
+177
+00:13:17,619 --> 00:13:20,952
+Resme nüfuz eden kabarcıklar var
+gibi görünüyor.
+
+178
+00:13:21,039 --> 00:13:22,948
+Yaptığın şey...
+
+179
+00:13:23,040 --> 00:13:26,456
+sanki aklını kullanarak...
+
+180
+00:13:26,543 --> 00:13:28,251
+yaptığın bir şey değil gibi.
+
+181
+00:13:28,337 --> 00:13:29,416
+Hayır, bu...
+
+182
+00:13:29,504 --> 00:13:31,295
+onu çılgınca yapan bu şey.
+
+183
+00:13:31,381 --> 00:13:35,248
+Biliyorsun, bu işte daha iyi olsaydım,
+daha sistematik olabilirdi,
+
+184
+00:13:35,342 --> 00:13:38,711
+Daha sistematik bir şekilde
+geliştirebilirdim, ama...
+
+185
+00:13:38,804 --> 00:13:40,511
+denesem bile önemi yok,
+
+186
+00:13:40,597 --> 00:13:44,890
+tuval ile aynayı karşılaştırarak
+yeteri kadar zaman geçirsem bile
+
+187
+00:13:44,975 --> 00:13:49,304
+boya etrafa bulaşıyor,
+ve sonunda bir fotoğrafa benziyor.
+
+188
+00:13:54,650 --> 00:13:57,900
+Tim'in deneyinin sonucu buydu,
+
+189
+00:13:57,986 --> 00:14:00,559
+Beş saat sürdü.
+
+190
+00:14:03,241 --> 00:14:05,992
+İlk yağlı boya çalışması için kötü değil.
+
+191
+00:14:14,208 --> 00:14:19,794
+Kayınpederimin resmi, Vermeer'in de böyle
+çalışmış olabileceğine dair bir kanıttı aklımda .
+
+192
+00:14:19,880 --> 00:14:25,039
+Ancak, kayınpederim 17. yüzyılda yaşayan
+bir Hollandalı kadına benzemiyordu,
+
+193
+00:14:25,134 --> 00:14:29,961
+Birçok kişi için bu çalışmamın
+ikna edici bir kanıt olmayacağını düşündüm.
+
+194
+00:14:30,055 --> 00:14:34,052
+Bu yüzden, en iyi yolun, aynı
+Vermeer'in yaptığı gibi yapmaya karar verdim.
+
+195
+00:14:34,142 --> 00:14:37,640
+Tamamen aynısının ortaya çıkacağına
+dair şüphem vardı.
+
+196
+00:14:37,728 --> 00:14:40,764
+Eğer kayınpederimi yapabildiysem,
+bir Vermeer tablosu da yapabilirdim.
+
+197
+00:14:40,856 --> 00:14:45,019
+Bu, fikrimi sergilemenin en güçlü
+yolu olacaktı.
+
+198
+00:14:45,109 --> 00:14:50,529
+Müzik Dersi tablosunu seçmemin nedeni
+muhtemelen,tüm resimlerin içinde,
+
+199
+00:14:50,614 --> 00:14:54,658
+Müzik Dersi'nin
+harika bir küçük laboratuvar olmasıydı,
+
+200
+00:14:54,742 --> 00:14:59,404
+çünkü o  eksiksiz
+ve kendine hasdı.
+
+201
+00:14:59,496 --> 00:15:02,616
+Pencerelerin nerede olduğunu bilirsin,
+büyük pencerelerin nasıl olduğunu bilirsin,
+
+202
+00:15:02,707 --> 00:15:06,158
+resimden bağımsız olarak eski tip
+piyanoyu yeniden yapabilirsin,
+
+203
+00:15:06,252 --> 00:15:10,960
+İspanyol sandalye, viyola, kilim,
+her şey yeniden yapılabilirdi,
+
+204
+00:15:11,048 --> 00:15:16,172
+Vermeer'in tablosundan bağımsız olarak
+görüntü aynı olabilirdi.
+
+205
+00:15:18,679 --> 00:15:22,178
+Küçük bir bilimsel deney,
+gerçekleşmeyi bekliyordu.
+
+206
+00:15:28,020 --> 00:15:29,929
+Tim tüm bu dertlere girmeden önce,
+
+207
+00:15:30,022 --> 00:15:32,939
+bu fikri bir sanatçıyla yürütmesini düşündük.
+
+208
+00:15:33,024 --> 00:15:34,269
+Böylece bir arkadaşı aradık,
+
+209
+00:15:34,359 --> 00:15:37,608
+Los Angeles bazlı ressam ve komedyen,
+Martin Mull,
+
+210
+00:15:37,695 --> 00:15:42,440
+ve ondan Tim ile  Las Vegas'daki bir stüdyoda
+buluşmasını ve bu zamazingoları görmesini istedik.
+
+211
+00:15:42,532 --> 00:15:48,610
+Aman Tanrım.
+
+212
+00:15:52,165 --> 00:15:53,446
+Vay anasına.
+
+213
+00:15:53,542 --> 00:15:57,206
+Boya fırçasını kullanmayı öğrenmem
+yarım saatimi aldı.
+
+214
+00:15:57,295 --> 00:16:00,628
+Aferin sana, benimki 40 yıl sürdü.
+
+215
+00:16:00,714 --> 00:16:06,384
+Pekala, bu tekniğin güzel yanı
+hata yapabilirsin
+
+216
+00:16:06,469 --> 00:16:10,632
+ve yanlışını görüp
+düzeltmeye çalışırsın.
+
+217
+00:16:10,723 --> 00:16:12,680
+Bu şaşırtıcı.
+
+218
+00:16:12,766 --> 00:16:14,557
+Bu bir karanlık oda,
+
+219
+00:16:14,643 --> 00:16:19,138
+1600'lü yıllarda kullanılan türde.
+
+220
+00:16:19,230 --> 00:16:22,396
+Bu tür karanlık odalara
+"kutu karanlık oda" deniyor.
+
+221
+00:16:22,483 --> 00:16:24,724
+Çoğunlukla bunun gibi buzlu camı olur.
+
+222
+00:16:24,818 --> 00:16:28,151
+Lensi içeri dışarı oynatarak
+yönlendirme kabiliyeti var.
+
+223
+00:16:28,237 --> 00:16:32,021
+Genellikle insanların ortak görüşü;
+Vermeer'in optik kullanmış olabileceği
+
+224
+00:16:32,116 --> 00:16:36,860
+ve görüntüleri bu yolla görüp
+ilham almış olabileceği şeklinde.
+
+225
+00:16:36,953 --> 00:16:37,984
+Evet.
+
+226
+00:16:38,079 --> 00:16:39,193
+Hikayenin sonu bu.
+
+227
+00:16:42,082 --> 00:16:44,655
+Böylece, renkleri birebir kopyalamanın
+bir yolu olduğunu biliyoruz,
+
+228
+00:16:44,751 --> 00:16:46,660
+Ben Vermeer'in geçmişine bir
+alternatif sunmayı teklif ediyorum.
+
+229
+00:16:46,753 --> 00:16:47,784
+Peki.
+
+230
+00:16:47,879 --> 00:16:50,001
+Babası bir sanat simsarıymış,
+sanat hakkında her şeyi bilirmiş,
+
+231
+00:16:50,089 --> 00:16:51,631
+Bir resim yapmak istemiş.
+
+232
+00:16:52,007 --> 00:16:53,466
+Bu görüntüye bakmış...
+
+233
+00:16:53,550 --> 00:16:54,629
+Peki.
+
+234
+00:16:54,718 --> 00:16:56,924
+Bu benim kızım, Natalie.
+
+235
+00:16:57,178 --> 00:17:01,507
+Vermeer kamerayı eline alıp bakmış olsaydı,
+yana doğru çevirseydi, ve şimdi dikey oldu,
+
+236
+00:17:01,599 --> 00:17:04,172
+- Aynı kayınpederimin resmi gibi.
+- Tamam.
+
+237
+00:17:05,268 --> 00:17:07,640
+Tuvali aır,
+
+238
+00:17:09,272 --> 00:17:13,221
+ve gizli içerik,
+
+239
+00:17:13,317 --> 00:17:14,479
+ayna.
+
+240
+00:17:14,568 --> 00:17:15,943
+Aynayı buraya koyar.
+
+241
+00:17:16,027 --> 00:17:17,687
+Evirtimini düzeltmek için ?
+
+242
+00:17:17,779 --> 00:17:20,020
+- Evet, geri getirdi...
+- Ve her şey...
+
+243
+00:17:20,114 --> 00:17:23,483
+İşte burada! Olabileceği kadar net.
+
+244
+00:17:23,575 --> 00:17:27,655
+Eğer oturma odasındaysa,
+perdeleri kapatır,
+
+245
+00:17:27,746 --> 00:17:28,990
+ışığı kontrol eder,
+
+246
+00:17:29,080 --> 00:17:32,116
+fırçasını alır
+ve boyamaya başlar.
+
+247
+00:17:33,709 --> 00:17:38,287
+Tahminime göre Kırmızı Başlıklı Kız
+onun ilk tablosuydu.
+
+248
+00:17:38,380 --> 00:17:40,835
+- Vay canına.
+- Onu başka bir tablonun üstüne boyadı.
+
+249
+00:17:40,923 --> 00:17:43,877
+Ona x ışını tutarsak,
+altında başka bir şey olduğunu görürüz
+
+250
+00:17:43,968 --> 00:17:45,960
+belki bu çöpe gidecek bir deneydi.
+
+251
+00:18:00,732 --> 00:18:03,222
+Böylece anladım, Tim,
+Texas'a geri döndüğünde,
+
+252
+00:18:03,317 --> 00:18:09,817
+Vermeer'in resim yaptığı odanın
+birebir aynısını yapacaktın, değil mi?
+
+253
+00:18:09,906 --> 00:18:11,020
+Evet.
+
+254
+00:18:11,115 --> 00:18:17,235
+Ve bu durumu kullanarak
+bir resim yapacaktın,
+
+255
+00:18:17,329 --> 00:18:18,574
+haklı mıyım?
+
+256
+00:18:18,663 --> 00:18:19,742
+Evet.
+
+257
+00:18:19,831 --> 00:18:23,413
+Vermeer'in birçok tablosu
+aynı evde yapılmış gibi,
+
+258
+00:18:23,501 --> 00:18:25,244
+kuzeye bakan bir oda
+
+259
+00:18:25,336 --> 00:18:28,004
+Vermeer'in yaşadığı evin ikinci katı.
+
+260
+00:18:28,088 --> 00:18:31,670
+Tim'in yapmayı planladığı oda buydu.
+
+261
+00:18:31,799 --> 00:18:37,919
+Vermeer'in bu tekniği kullanıp
+kullanmadığı,
+
+262
+00:18:38,013 --> 00:18:40,338
+ilk elden görmeyi çok istiyorum.
+
+263
+00:18:42,308 --> 00:18:47,728
+Bir fikir edinmeye çalışıp
+
+264
+00:18:47,813 --> 00:18:49,639
+ne kadar zaman alacağını,
+
+265
+00:18:49,731 --> 00:18:52,304
+doğru koşulları yakalamayı...
+
+266
+00:18:52,400 --> 00:18:55,603
+gün içinde ne kadar kullanılabilir
+ışık olduğunu görmek gibi dünyevi şeyleri.
+
+267
+00:18:55,694 --> 00:18:57,568
+Yani yapay ışık kullanmayacaksın.
+
+268
+00:18:57,654 --> 00:18:58,733
+Doğru.
+
+269
+00:18:58,822 --> 00:19:02,404
+Ve sadece Vermeer'in elinde olabilecek
+malzemeleri kullanacağım.
+
+270
+00:19:02,492 --> 00:19:03,571
+Peki.
+
+271
+00:19:03,659 --> 00:19:06,150
+Kendimi resim yapmak için
+
+272
+00:19:06,245 --> 00:19:10,871
+pigmentleri öğütmeye ,
+
+273
+00:19:10,957 --> 00:19:15,037
+ve onun ulaşabileceği pigmentleri
+kullanmaya zorladım.
+
+274
+00:19:15,127 --> 00:19:19,670
+Bu deney için, Tim en yakın olacak şekilde,
+
+275
+00:19:19,756 --> 00:19:22,329
+Vermeer'in koşullarını elde etmeye çalıştı.
+
+276
+00:19:22,425 --> 00:19:25,212
+Bu yüzden boya dükkanına koşup
+
+277
+00:19:25,303 --> 00:19:26,796
+bir tüp boya seçemezdi,
+
+278
+00:19:26,887 --> 00:19:30,053
+Tim'in pigmentlerin nasıl öğütüleceğini
+ve karıştırılacağını öğrenmesi gerekiyordu,
+
+279
+00:19:30,140 --> 00:19:33,140
+Resim yapmak için pigmentleri öğütmek
+
+280
+00:19:33,226 --> 00:19:37,057
+ve içine yağ katmak gibi
+
+281
+00:19:37,187 --> 00:19:38,765
+hakkında hiçbir şey
+bilmediğim bir şeyden bahsediyorum.
+
+282
+00:19:38,856 --> 00:19:41,856
+Boyamak bana kalmış olsaydı,
+ortada resim olmazdı.
+
+283
+00:19:43,067 --> 00:19:44,858
+Lenslerin nasıl yapıldığını da öğrendim.
+
+284
+00:19:44,944 --> 00:19:47,731
+Modern lensleri kullanamazdım,
+onlar çok iyiydi.
+
+285
+00:19:47,821 --> 00:19:49,150
+Bu yüzden kendim yapmak zorundaydım.
+
+286
+00:19:49,239 --> 00:19:53,402
+Bir torna tezgahı oluşturmak,
+ve camı eritmek zorundaydım,
+
+287
+00:19:53,493 --> 00:19:56,992
+değişik derecedeki zımparalarla
+cilalamalıydım,
+
+288
+00:19:57,079 --> 00:20:00,863
+tıpkı 17. yüzyılda lensleri
+yaptıkları gibi.
+
+289
+00:20:00,957 --> 00:20:03,115
+Her şeyi doğru yaptığından emin olmak için,
+
+290
+00:20:03,209 --> 00:20:06,376
+Tim Hollanda'ya uçmak için
+işine biraz ara verdi.
+
+291
+00:20:06,462 --> 00:20:09,712
+Vermeer'in yaşadığı,
+Delft şehrini ziyaret etti
+
+292
+00:20:09,798 --> 00:20:12,253
+ve orada mimarlık ve ışık
+üzerinde çalıştı.
+
+293
+00:20:12,342 --> 00:20:15,841
+İşte bu, Burası Vermeer'in
+büyülü ışıklı resimlerini yaptığı yer.
+
+294
+00:20:15,928 --> 00:20:19,213
+Hollandaca okumayı öğrendi,
+uzmanlarla fikir alışverişi yaptı,
+
+295
+00:20:19,306 --> 00:20:23,599
+müzelerdeki mobilyaları ölçtü,
+ve kendini Vermeer'in dünyasına soktu.
+
+296
+00:20:30,983 --> 00:20:33,604
+Tamam, biraz itip içine ortala. Tamam, iyi.
+
+297
+00:20:54,919 --> 00:20:59,415
+Bunun tamamen aynısını istiyorum.
+Bir tane yapabilir misiniz acaba?
+
+298
+00:20:59,507 --> 00:21:00,704
+Bu mümkün, evet.
+
+299
+00:21:27,572 --> 00:21:31,900
+San Antonio'ya geri döndüğünde,
+Tim kuzeye bakan bir depo kiraladı,
+
+300
+00:21:31,992 --> 00:21:33,534
+aynı Vermeer'in stüdyosu gibi,
+
+301
+00:21:33,618 --> 00:21:36,489
+ve deneyini gözlemlemesi için
+
+302
+00:21:36,579 --> 00:21:38,737
+Londra'dan Profesör Philip Steadman'ı
+davet etti.
+
+303
+00:21:38,831 --> 00:21:42,081
+Bazıları Vermeer'in hayalgücünü
+kullanara resim yaptığını düşünürken,
+
+304
+00:21:42,167 --> 00:21:46,247
+Steadman, Vermeer'in optik kullandığının
+kanıtlarını buldu .
+
+305
+00:21:46,337 --> 00:21:49,421
+Steadman ,Vermeer'in Kamerası kitabının yazarı.
+
+306
+00:21:49,507 --> 00:21:53,089
+Bu kitapta, Steadman, Vermeer'in stüdyosunun
+planını belirlemek için
+
+307
+00:21:53,177 --> 00:21:55,928
+Vermeer'in altı tablosunu inceledi.
+
+308
+00:21:56,012 --> 00:21:58,254
+Sonra karanlık odadaki lensin nereye gittiğini
+belirlemek
+
+309
+00:21:58,348 --> 00:22:01,514
+ve her resmin bakış açısını eşleştirmek için
+
+310
+00:22:01,600 --> 00:22:04,055
+geometriden faydalandı.
+
+311
+00:22:04,144 --> 00:22:07,927
+Şimdi o Vermeer'in arka duvarındaki
+yansımanın ebadını hesaplıyor,
+
+312
+00:22:08,022 --> 00:22:12,315
+ve resimlerin ebadına göre karşılaştırıyor.
+
+313
+00:22:13,944 --> 00:22:17,229
+Tabloların altısında da, ebatlar tamamen uyuşuyor.
+
+314
+00:22:18,281 --> 00:22:21,317
+Bu tesadüfen olabilecek
+bir şey gibi görünmüyor.
+
+315
+00:22:21,784 --> 00:22:25,235
+Vermeer'in lens kullandığına dair
+epey ikna edici bir kanıt.
+
+316
+00:22:27,414 --> 00:22:29,322
+Pekala, bana ne yaptığını anlat.
+
+317
+00:22:29,415 --> 00:22:32,451
+Steadman'nın keşfi Tim's aynasına,
+tamamen uyuyordu.
+
+318
+00:22:32,543 --> 00:22:35,164
+o nedenle şimdi Tim her ikisini de
+kullanarak bir test hazırladı.
+
+319
+00:22:35,253 --> 00:22:38,586
+Ve şimdi bir resim yapacağız.
+
+320
+00:22:38,673 --> 00:22:40,831
+- Peki.
+- Aynayı kullanarak.
+
+321
+00:22:40,925 --> 00:22:42,383
+Şimdi kabinin içine girelim.
+
+322
+00:22:42,468 --> 00:22:43,468
+Tamam.
+
+323
+00:22:43,552 --> 00:22:45,794
+O ve Steadman karanlık odanın içinde Tim'in
+
+324
+00:22:45,887 --> 00:22:49,635
+Vermeer'in bu şekilde yaptığı
+fikrine dayanıp
+
+325
+00:22:49,724 --> 00:22:52,096
+bir testi çizdiler.
+
+326
+00:22:55,979 --> 00:22:57,603
+Sırayla boyadılar.
+
+327
+00:22:57,731 --> 00:23:00,304
+Fırça darbelerini
+kimin yapdığı farketmiyordu,
+
+328
+00:23:00,400 --> 00:23:02,273
+işlem objektifti,
+
+329
+00:23:02,360 --> 00:23:05,858
+ve bunu kullanan her ressam,
+aynı sonuca ulaşırdı.
+
+330
+00:23:10,283 --> 00:23:12,952
+David Hockney'nin kitabı
+benimkinden hemen sonra çıktı.
+
+331
+00:23:13,035 --> 00:23:14,992
+Nasıl karşılandığını hatırlıyor musun?
+
+332
+00:23:15,079 --> 00:23:20,072
+İki kitap arasında uzlaşmazlık
+vardı, değil mi?
+
+333
+00:23:20,166 --> 00:23:22,242
+Hem de çok, evet, evet.
+
+334
+00:23:22,335 --> 00:23:27,577
+Sanat tarihçileri arasında
+ciddi bir sıkıntıya yol açtı.
+
+335
+00:23:27,672 --> 00:23:31,966
+Rassamlar rahatlamışlardı.
+
+336
+00:23:32,093 --> 00:23:36,006
+Dediler ki, bilirsin,
+"Bu bir teknoloji, güzel, peki."
+
+337
+00:23:36,096 --> 00:23:41,849
+Ama bir şey vardı ki, bazı sanat tarihçileri
+arasında derin bir acıya sebep oldu
+
+338
+00:23:41,934 --> 00:23:47,355
+o da , sanat tarihini korumak için
+
+339
+00:23:47,439 --> 00:23:50,689
+amatörleri ve ahmak rasyonelleri
+sindirmekti.
+
+340
+00:23:50,775 --> 00:23:55,686
+Bu, sanatın doğasını yanlış anlamaktı
+
+341
+00:23:55,779 --> 00:23:58,614
+ve hile ile deha,
+
+342
+00:23:58,698 --> 00:24:03,525
+ve optik metodu kullanma fikri
+bir nevi hileydi,
+
+343
+00:24:03,619 --> 00:24:05,327
+çünkü bunlar çok kesin,
+ölçülü perspektiflerdi.
+
+344
+00:24:05,412 --> 00:24:10,239
+Yani, bunu yapmanın iki yolu var.
+Optik vasıtalarla yapabilirsin,
+
+345
+00:24:10,583 --> 00:24:12,741
+yada geometrik olarak düzenlersin.
+
+346
+00:24:13,211 --> 00:24:18,002
+Geometrik olarak düzenlersen,
+standart metodları kullanıyorsundur,
+
+347
+00:24:18,090 --> 00:24:21,292
+bu bir makine, bu bir algoritma,
+kuralları uygularsın.
+
+348
+00:24:21,384 --> 00:24:23,044
+Neden  bu hile değil?
+
+349
+00:24:23,136 --> 00:24:25,673
+- Kesinlikle.
+- Tuhaf, değil mi?
+
+350
+00:24:27,514 --> 00:24:31,891
+Yani resim yapmanın tek mantıklı yolu
+
+351
+00:24:31,976 --> 00:24:34,549
+tuvale gidip taslak yapmadan boyamak.
+
+352
+00:24:34,645 --> 00:24:38,263
+Ama sebebi hile yapmamak değil
+zor olması.
+
+353
+00:24:38,357 --> 00:24:40,598
+- Evet.
+- Bu geometri, bu matematik.
+
+354
+00:24:40,692 --> 00:24:43,895
+- Pekala, bu kesinlikle kolay değil .
+- Kolay değil, evet.
+
+355
+00:24:43,986 --> 00:24:47,437
+- EğerVermeer bunu yaptıysa, bu zaman
+kazandırıcı değil. - Değil, gerçekten.
+
+356
+00:24:47,531 --> 00:24:53,900
+Birinin bunu hayal ederek boyayacağını
+aklım almıyor.
+
+357
+00:24:55,162 --> 00:24:56,241
+Hayır. Elbette yapamaz.
+
+358
+00:24:56,330 --> 00:24:59,117
+İnsanoğlu bazen dikkat çekici olabiliyor.
+
+359
+00:24:59,208 --> 00:25:03,121
+Nesneleri gerçek ebadında elde etmek,
+
+360
+00:25:03,211 --> 00:25:08,168
+ve her çeşit ışık efektini yapabilmek...
+
+361
+00:25:08,257 --> 00:25:13,167
+Ressamlar mucizevi şeyler yapabilirler,
+"İmkansız" demek zordur
+
+362
+00:25:13,261 --> 00:25:17,044
+ama bazı şeyler diğerlerinden
+daha imkansızdır.
+
+363
+00:25:30,108 --> 00:25:32,943
+Ben de tam o noktaya değinecektim.
+
+364
+00:25:33,778 --> 00:25:34,857
+Öyle.
+
+365
+00:25:34,946 --> 00:25:38,480
+- Harika. Pekala, tebrikler.
+- Sana da.
+
+366
+00:25:38,574 --> 00:25:39,819
+Muhteşem.
+
+367
+00:25:42,661 --> 00:25:46,989
+Bu basit aleti
+
+368
+00:25:47,081 --> 00:25:50,200
+Vermeer'in de kullanmış olabileceğini
+düşünmek istiyorum.
+
+369
+00:25:50,292 --> 00:25:53,458
+Pratikte bir şüphe yok,
+ama çok basit.
+
+370
+00:25:53,545 --> 00:25:54,920
+Biliyorsun, bu sadece bir ayna.
+
+371
+00:25:55,004 --> 00:25:57,839
+Bu 17. yüzyıl teknolojisi,
+aynalar hakkında her şeyi biliyorlardı,
+
+372
+00:25:57,923 --> 00:26:01,921
+Onun da belki Tim gibi düşündüğünü
+hayal edebilirsiniz,
+
+373
+00:26:02,010 --> 00:26:05,509
+ama Vermeer'in nasıl çalıştığı hakkında
+belgelenmiş hiçbir şey bilmiyoruz,
+
+374
+00:26:05,597 --> 00:26:08,383
+onun tarafından ve diğer insanlar tarafından
+yazılmış bir açıklama yok,
+
+375
+00:26:08,474 --> 00:26:11,759
+çizimler yok...
+
+376
+00:26:11,852 --> 00:26:13,643
+Onun hayatı hakkında çok az şey biliyoruz.
+
+377
+00:26:13,728 --> 00:26:18,935
+Bu soruyu cevaplamanın tek kaynağı
+
+378
+00:26:19,024 --> 00:26:20,602
+tabloların kendileridir.
+
+379
+00:26:20,693 --> 00:26:23,361
+Tim'in aletini kullanarak, bu kolay değil,
+
+380
+00:26:23,445 --> 00:26:27,193
+ama bir şekilde bu sizi
+makineye çeviriyor.
+
+381
+00:26:27,281 --> 00:26:30,448
+Makineye dönüşüyorsunuz.
+Vermeer bir makine miydi?
+
+382
+00:26:31,827 --> 00:26:35,776
+Belki de Vermeer, "Ben bir makine olacağım"
+diyebilecek kadar azimliydi.
+
+383
+00:26:38,332 --> 00:26:39,874
+O küçük testi resmini yapmak
+
+384
+00:26:39,959 --> 00:26:43,659
+Tim ve Steadman'ın
+sekiz buçuk saatini aldı,
+
+385
+00:26:43,754 --> 00:26:45,545
+ve Tim'in metodu işe yaradı.
+
+386
+00:26:45,630 --> 00:26:49,378
+Ama onlar siyah beyaz çalışmışlardı,
+ve güçlü bir elektrik ışığı kullanmışlardı
+
+387
+00:26:49,467 --> 00:26:52,218
+bu Vermeer'in zamanında yoktu.
+
+388
+00:26:52,302 --> 00:26:55,718
+Renkli olarak Müzik Dersi tablosunu yapmak için
+Tim'in aynası doğal ışıkta,
+
+389
+00:26:55,805 --> 00:26:58,557
+işe yarayacak mıydı?
+
+390
+00:26:58,641 --> 00:27:02,887
+Bunu ortaya çıkarmak için Tim'in içinde her şeyi
+olan Vermeer'in odasına ihtiyacı vardı.
+
+391
+00:27:03,478 --> 00:27:09,729
+Ama müzeler video mühendislerinin 1600'lere ait
+tuhaf hobilerini sergilemiyorlar.
+
+392
+00:27:10,985 --> 00:27:14,733
+Bütün bunları yapacak birilerini
+kiralasam iyi olurdu
+
+393
+00:27:14,821 --> 00:27:17,110
+ama bu tarzda bir interaktif işlem,
+
+394
+00:27:17,198 --> 00:27:22,571
+bilirsiniz, önce odanın 3 boyutlu ışıkdalgası
+olan bir odanın modeli yapmalıyım,
+
+395
+00:27:23,829 --> 00:27:27,612
+resmin ebatlarının ve şeklinin
+doğru olması için.
+
+396
+00:27:27,707 --> 00:27:31,122
+Çok fazla iş olmasına rağmen,
+bunu yapmak benim için daha kolaydı,
+
+397
+00:27:31,210 --> 00:27:33,202
+çünkü ben mobilyalrımın
+
+398
+00:27:33,295 --> 00:27:36,498
+Vermeer'in mobilyaları gibi
+göründüğünden emin olabilirdim.
+
+399
+00:27:36,923 --> 00:27:39,295
+Ama Tim bir terzi değildi.
+
+400
+00:27:39,717 --> 00:27:40,880
+Yada bir çerçeveci.
+
+401
+00:27:41,510 --> 00:27:43,716
+yada bir marangoz. Bir döşemeci.
+
+402
+00:27:44,137 --> 00:27:45,217
+Camcı.
+
+403
+00:27:46,056 --> 00:27:49,175
+Eski tip bir piyano yapımcısı.
+
+404
+00:27:49,517 --> 00:27:50,762
+Demirci ustası.
+
+405
+00:27:50,851 --> 00:27:52,132
+Mobilya ustası.
+
+406
+00:27:52,228 --> 00:27:53,722
+Sıvacı.
+
+407
+00:27:53,854 --> 00:27:55,016
+Kiremit döşeyicisi.
+
+408
+00:27:55,105 --> 00:27:57,346
+Ya da bir büyüteç yapımcısı.
+
+409
+00:27:57,440 --> 00:27:59,065
+O bir sanatçı da değildi.
+
+410
+00:27:59,567 --> 00:28:02,733
+O ne ise onu kullandı, bir teknolojist,
+
+411
+00:28:02,820 --> 00:28:05,524
+yapamadığı her şeye yardımcı olması için,
+
+412
+00:28:05,614 --> 00:28:08,401
+böylece odasını yapabilecekti.
+
+413
+00:28:48,567 --> 00:28:49,811
+Bu eğlenceli.
+
+414
+00:28:50,818 --> 00:28:56,737
+Demek istediğim, bu gerçek bir şey.
+
+415
+00:29:45,072 --> 00:29:47,610
+Bu kadar toz içinde olmak güvenli mi?
+
+416
+00:29:47,699 --> 00:29:50,190
+Bilmiyorum, bunu daha önce hiç yapmadım!
+
+417
+00:29:50,285 --> 00:29:52,610
+Bu ısınıp yangın çıkarabilir mi?
+
+418
+00:29:52,704 --> 00:29:57,080
+- Yani, sanırım. Bilmiyorum.
+- Her neyse!
+
+419
+00:29:57,166 --> 00:29:59,621
+Bir şekilde güzel. Tamam, hadi gidiyoruz.
+
+420
+00:30:27,399 --> 00:30:30,684
+Piyanonun bacağı ile ilgili
+bir sorunum var.
+
+421
+00:30:30,777 --> 00:30:34,193
+Otuz altı buçuk inç uzunluğunda olmalıydı,
+
+422
+00:30:34,280 --> 00:30:38,692
+ama benim tornam
+
+423
+00:30:39,701 --> 00:30:42,488
+otuz dört inçe kadar yapabiliyor.
+
+424
+00:30:42,829 --> 00:30:45,367
+Aslında, bacağı iki parçalı yapabilirdim
+
+425
+00:30:45,456 --> 00:30:48,872
+Ama tornayı ikiye bölmeyi düşünüyorum.
+
+426
+00:31:00,636 --> 00:31:06,839
+Genellikle, hassas bir makineyi
+ikiye bölmezsin,
+
+427
+00:31:07,266 --> 00:31:10,432
+ama elektrikli aletler
+iğreti direğinden yapılır.
+
+428
+00:31:57,934 --> 00:31:59,392
+Evet, bu büyük bir gitar.
+
+429
+00:32:02,437 --> 00:32:08,226
+Viyola da gamba ya "viyola da gamba"denir
+çünkü "gamba" bacak anlamına gelir,
+
+430
+00:32:08,693 --> 00:32:10,768
+ve onu iki bacağının arasına koyup çalarsın.
+
+431
+00:32:22,454 --> 00:32:23,569
+Hoşuma gitti.
+
+432
+00:32:46,349 --> 00:32:48,342
+Ahşap işçiliği hakkında
+pek bir şey bilmiyorum.
+
+433
+00:32:50,478 --> 00:32:56,729
+Bunu yapıyorum, doğramacılığı
+sevdiğimden değil,
+
+434
+00:32:56,816 --> 00:32:58,441
+ama gerekli olduğu için
+
+435
+00:32:58,526 --> 00:33:04,694
+çünkü bu aptal sandalyeleri
+heryerden alamazsın,
+
+436
+00:33:04,781 --> 00:33:06,275
+ve benim bir taneye ihtiyacım var.
+
+437
+00:34:30,520 --> 00:34:33,853
+David Hockney Britanya'nın
+en büyük sanatçılarından biridir.
+
+438
+00:34:33,939 --> 00:34:36,560
+Bunun gibi resimlerle ünlüdür.
+
+439
+00:34:36,650 --> 00:34:40,232
+Optik teorisi Tim'i bu
+yolculuğa çıkarttığı için,
+
+440
+00:34:40,320 --> 00:34:44,531
+o Tim'e konuşmak için
+ideal kişi gibi göründü.
+
+441
+00:34:44,615 --> 00:34:48,114
+Hockney bizi davet etti,
+böylece hepimiz İngiltere'ye gittik.
+
+442
+00:34:50,662 --> 00:34:56,248
+David Hockney hakkında tek bildiğim
+onun ünlü bir sanatçı olduğuydu.
+
+443
+00:34:56,333 --> 00:34:59,832
+Ama, yazdığı kitabı okuyunca, onun
+tipik bir sanatçı olmadığını anladım,
+
+444
+00:34:59,920 --> 00:35:03,169
+O  bir tür bilimadamıydı.
+
+445
+00:35:03,423 --> 00:35:07,883
+Philip Steadman ve David Hockney,
+benim düşünceme göre,
+
+446
+00:35:09,261 --> 00:35:11,633
+Vermeer'in bir alet kullandığını
+
+447
+00:35:11,721 --> 00:35:18,470
+kanıtlamaya yönelik
+şüpheci bir akla sahiplerdi,
+
+448
+00:35:18,560 --> 00:35:24,313
+Ama Secret Knowledge,
+ve Philip Steadman'ın tüm çalışmaları
+
+449
+00:35:24,440 --> 00:35:30,442
+harika, heyecan verici, dedektiflik romanı gibi,
+kimin yaptığını asla söylemiyor.
+
+450
+00:35:30,946 --> 00:35:33,863
+Hockney sanatçıların büyüteç
+kullandığını gösterdi.
+
+451
+00:35:33,948 --> 00:35:36,569
+Steadman, Vermeer'in büyüteç
+kullandığı argümanına karşı çıktı .
+
+452
+00:35:36,659 --> 00:35:40,442
+Bense Vermeer'in sadece büyüteç
+değil daha fazlasını kullandığını düşünüyordum.
+
+453
+00:35:40,537 --> 00:35:44,451
+Hockney'i ziayaretimizin sebebi
+ona bu fikri söylemek
+
+454
+00:35:44,540 --> 00:35:46,912
+makul bulup bulmayacağını
+görmek içindi.
+
+455
+00:35:47,293 --> 00:35:49,748
+Bu sonuca nasıl vardınız?
+Siz ne...
+
+456
+00:35:49,836 --> 00:35:52,753
+Bunu sizin kitabınızı okuduktan sonra
+düşünmeye başladım...
+
+457
+00:35:52,839 --> 00:35:54,796
+Siz optiksel misiniz... Yani...
+
+458
+00:35:54,882 --> 00:35:56,211
+Ben televizyon ekipmanları tasarlıyorum.
+
+459
+00:35:56,300 --> 00:35:57,628
+- Bu benim işim.
+- Anladım.
+
+460
+00:35:57,718 --> 00:36:01,762
+Görüntülerden ve renklerden biraz anlarım.
+
+461
+00:36:01,847 --> 00:36:05,974
+Ve Altın Çağ'daki eski resimlere
+bakınca şüphelendim,
+
+462
+00:36:06,058 --> 00:36:11,099
+Caravaggio, Vermeer, van Eyck,
+
+463
+00:36:11,188 --> 00:36:16,561
+tonları kopyalamanın bir yolu olmalıydı.
+
+464
+00:36:16,692 --> 00:36:20,392
+Çünkü bu oldukça dikkat çekici,
+aslında. Evet, öyle.
+
+465
+00:36:20,487 --> 00:36:23,653
+Bir saniyeliğine masanın öbür
+tarafında durmam gerekiyor.
+
+466
+00:36:23,740 --> 00:36:27,073
+Bu, çubuk üzerinde duran bir ayna.
+
+467
+00:36:27,159 --> 00:36:28,190
+Tamam.
+
+468
+00:36:28,285 --> 00:36:32,993
+Bu , resim yaparken benim gördüğüm,
+eğer, aşağıya doğru bakarsanız.
+
+469
+00:36:33,164 --> 00:36:35,370
+Ve tabii bir boşlukla başladım...
+
+470
+00:36:35,458 --> 00:36:36,786
+Anladım, evet. Evet, evet.
+
+471
+00:36:36,876 --> 00:36:41,087
+Başınızı aşağı yukarı oynatırsanız
+görüntünün farklı parçalarını görürsünüz.
+
+472
+00:36:41,171 --> 00:36:44,753
+Ve bu bir parçadan diğerine
+doğru çalışmanızın yolu.
+
+473
+00:36:44,841 --> 00:36:49,965
+Şimdi, aynanın hemen kenarında,
+her iki görüntüyü gördüğünüz yerde,
+
+474
+00:36:50,054 --> 00:36:53,837
+tonları karşılaştırabilirsiniz.
+
+475
+00:36:53,932 --> 00:36:55,260
+Evet, evet, evet, evet.
+
+476
+00:36:55,350 --> 00:36:58,054
+Ve gözünüz hemen görebilir,
+çünkü onlar birliktedir,
+
+477
+00:36:58,144 --> 00:37:02,057
+zıtlığı görebilirsin,
+ve aynanın kenarı tamamen kaybolur.
+
+478
+00:37:02,147 --> 00:37:06,014
+Doğru renge sahip olduğun zaman
+ve sadece doğru renk olduğunda.
+
+479
+00:37:07,360 --> 00:37:11,108
+Evet, evet, evet, gördüm.
+Bu çok zekice.
+
+480
+00:37:11,530 --> 00:37:15,361
+Başını oynattığında,cismin görünüşünde
+meydana gelen değişikliği görüyorsun
+
+481
+00:37:15,450 --> 00:37:16,529
+kaydırma yok.
+
+482
+00:37:16,618 --> 00:37:18,526
+- İşte bu kadar, hayır.
+- İki görüntü birbirine kenetlenmiş durumda.
+
+483
+00:37:18,619 --> 00:37:19,947
+- Neden böyle?
+- Bakmak ister misin?
+
+484
+00:37:20,037 --> 00:37:22,113
+- Nasıl oldu bu?
+- Biliyorum, bu çok zekice.
+
+485
+00:37:22,206 --> 00:37:26,831
+Söylemeliyim ki, bu fikir İtalyanları,
+İtalyanları düşündüğün zaman,
+
+486
+00:37:26,918 --> 00:37:31,413
+resimleri çok severler,
+bunu kullanmamalarının sebebi
+
+487
+00:37:31,505 --> 00:37:36,843
+bunun hileli olduğundandır,
+Çocukça buldum, tamamen çocukça.
+
+488
+00:37:36,926 --> 00:37:41,054
+Sanatın teknoloji ile buluşmaması
+hakkında modern bir fikir vardır.
+
+489
+00:37:41,180 --> 00:37:44,963
+Bilirsin, ya teknoloji okuluna gidersin
+ya da sanat okuluna
+
+490
+00:37:45,058 --> 00:37:46,766
+ama asla ikisine de olmaz.
+
+491
+00:37:46,851 --> 00:37:49,768
+Ama Altın Çağ'da,
+onlar tek ve aynı kişiydi.
+
+492
+00:37:49,854 --> 00:37:50,933
+Evet.
+
+493
+00:37:51,021 --> 00:37:54,306
+İlginç olanı şey
+bu o zamanlar ortada olsaydı,
+
+494
+00:37:54,816 --> 00:37:57,521
+fotoğrakları görürdük.
+
+495
+00:37:57,986 --> 00:38:02,362
+Bunu kullanıp renkleri
+aynen kopyalayabilselerdi.
+
+496
+00:38:02,448 --> 00:38:04,819
+Evet, pekala, demek istediğim...
+
+497
+00:38:04,908 --> 00:38:08,193
+- Bu bir fotoğraf.
+- Evet.
+
+498
+00:38:08,286 --> 00:38:14,157
+Bunu gördükten sonra, demem o ki,
+bu önemli bir ekipman parçası değil,
+
+499
+00:38:14,249 --> 00:38:19,041
+ama bunu nasıl yaptıklarını düşünüyorsun?
+
+500
+00:38:19,128 --> 00:38:21,251
+- Sanırım çok muhtemel.
+- Gerçekten.
+
+501
+00:38:21,338 --> 00:38:23,829
+Çok mümkün. Evet, evet, tamamen mümkün.
+
+502
+00:38:23,924 --> 00:38:27,339
+Ben optiğe olumlu bakıyorum...
+
+503
+00:38:27,427 --> 00:38:30,593
+Yani, optik olmadan resimlere
+açıklama getirmek mümkün değil.
+
+504
+00:38:33,098 --> 00:38:35,885
+Ama bilirsin, tarihsel kanıt,
+
+505
+00:38:35,976 --> 00:38:41,016
+Johannes Vermeer'in kayıp bir
+mektubunu bulmak harika olurdu...
+
+506
+00:38:41,105 --> 00:38:42,599
+Bekle bir dakika.
+
+507
+00:38:42,982 --> 00:38:45,519
+Secret Knowledge adlı kitabıma
+bir şaka mektubu koymuştum.
+
+508
+00:38:45,609 --> 00:38:46,640
+Öyle mi yaptın?
+
+509
+00:38:46,735 --> 00:38:48,015
+Bir şaka mektubu.
+
+510
+00:38:48,111 --> 00:38:52,986
+Bu tarihçilerin bulmaya çalıştıkları bir şey.
+Hugo van der Goes'dan  van Eyck'e .
+
+511
+00:38:55,284 --> 00:39:00,360
+"Brugge Ayna Malzeleri Firmasına gidip
+
+512
+00:39:00,455 --> 00:39:05,246
+"karım için şu makyaj aynalarından
+bir tane alır mısın, ne kasdettiğimi anlarsın?"
+
+513
+00:39:06,877 --> 00:39:09,083
+Pekala, ben dedim ki,
+"Bunun gibi bir mektubu asla bulamazsın."
+
+514
+00:39:09,170 --> 00:39:10,830
+- Evet.
+- Onlar hiç yazmamışlar...
+
+515
+00:39:10,922 --> 00:39:15,133
+Van Eyck resimlerinin formülünü
+basit bir nedenle yazmamış,
+
+516
+00:39:16,176 --> 00:39:18,927
+biri okuyabilir diye.
+
+517
+00:39:19,012 --> 00:39:20,506
+Yaazmayan başka
+
+518
+00:39:20,597 --> 00:39:22,221
+insanlar da vardı.
+
+519
+00:39:22,306 --> 00:39:27,548
+İnsanlar gizliliğe ant içmişti,
+yeminlerine ciddi bir şekilde sadık kalmışlardı.
+
+520
+00:39:28,145 --> 00:39:31,513
+Bulamazsın, asla...
+Bir şey bulacağını sanmak saflık olur.
+
+521
+00:39:31,606 --> 00:39:34,939
+Resimler belgedir, değil mi?
+Onlar çok şey söylemiyor mu?
+
+522
+00:39:36,777 --> 00:39:38,401
+Resimler belgedir.
+
+523
+00:39:38,487 --> 00:39:40,894
+Onlar kendi yaratılışlarının
+hikayesini kapsarlar.
+
+524
+00:39:40,989 --> 00:39:44,024
+Her fırça darbesi, her renk katmanı,
+her gölge
+
+525
+00:39:44,116 --> 00:39:46,868
+bir parça bilgi temsil ederler.
+
+526
+00:39:47,119 --> 00:39:51,745
+Eğitimli bir göz, tabloyu yazılı
+bir belgeymiş gibi tam olarak okuyabilir
+
+527
+00:39:52,290 --> 00:39:53,867
+Vermeer'in çağdaşlarından farklı olduğunu
+görmek için
+
+528
+00:39:53,958 --> 00:39:57,457
+eğitimli bir göze sahip olmaya gerek yok.
+
+529
+00:39:57,544 --> 00:40:00,035
+Onlar bir video görüntüsü gibi görünüyor.
+
+530
+00:40:00,130 --> 00:40:02,501
+O kamera bakışıyla boyamış.
+
+531
+00:40:05,134 --> 00:40:06,877
+Fotoğrafçılık icat edildiğinden beri,
+
+532
+00:40:06,969 --> 00:40:10,218
+insanlar Vermeer hakkında optiksel
+şeyleri farkediyor.
+
+533
+00:40:10,305 --> 00:40:11,633
+Kırmızı Şapkalı Kız eserinde,
+
+534
+00:40:11,723 --> 00:40:14,807
+ön plandaki aslanın başı bulanık.
+
+535
+00:40:14,892 --> 00:40:17,679
+Gözler doğal olarak neye bakıyorsa
+ona odaklanır,
+
+536
+00:40:17,769 --> 00:40:19,228
+böylece ön plandaki bir şey
+
+537
+00:40:19,312 --> 00:40:22,147
+gözünün odağının dışında kalır.
+
+538
+00:40:22,232 --> 00:40:26,478
+Ama görüntü lens ile yansıtılmış olsaydı
+odak dışında kalabilirdi.
+
+539
+00:40:27,319 --> 00:40:29,027
+Sözde kesik hatlar,
+
+540
+00:40:29,112 --> 00:40:34,984
+resmin şu küçük daireleri,
+kötü bir lensde elde edildiğini gösterir.
+
+541
+00:40:35,659 --> 00:40:40,202
+Ceketin arkasına bakınca
+silik mavi bir çizgi vardır.
+
+542
+00:40:40,288 --> 00:40:46,491
+Ve bu ilkel bir lenste
+yarım tonlardan oluşan renk sapmalarıdır
+
+543
+00:40:47,378 --> 00:40:51,161
+Nesnelerin kenarları, çevrelerinde
+bir gökkuşağı çizgisi oluşturabilirler.
+
+544
+00:40:51,965 --> 00:40:56,092
+Pencereden gelen ışığın
+karşı köşeye düşüşünü
+
+545
+00:40:56,177 --> 00:40:59,960
+bir sanatçı kameranın gördüğü
+gibi göremez.
+
+546
+00:41:00,055 --> 00:41:01,597
+Bunu görmek imkansızdır.
+
+547
+00:41:01,681 --> 00:41:05,263
+Ama Vermeer bunu kameranın gördüğü
+şekilde resmetmiş.
+
+548
+00:41:05,768 --> 00:41:10,595
+Bazı insanların parlaklığı tam olarak görüp,
+
+549
+00:41:10,689 --> 00:41:12,349
+çoğunun göremediği mümkün olabilir mi?
+
+550
+00:41:12,440 --> 00:41:15,013
+Bilirsiniz, bir müzisyenin mükemmel
+bir ses perdesi olabilir.
+
+551
+00:41:16,027 --> 00:41:19,477
+Bu tam doktorluk bir soru.
+
+552
+00:41:19,738 --> 00:41:23,023
+Ben Colin Blakemore.
+Oxford'da profesörüm.
+
+553
+00:41:23,241 --> 00:41:25,814
+başka bir deyişle, insanların görmesi
+konusunda uzmanlaşmış bir bilimadamı.
+
+554
+00:41:25,910 --> 00:41:31,200
+Kariyerimin çoğunu görme ve
+beynin işlemesi konusunda yaptım.
+
+555
+00:41:31,373 --> 00:41:33,863
+Vermeer insanoğlunun diğerlerinden
+
+556
+00:41:33,958 --> 00:41:36,034
+farklı olan bir bir tür alim mi?
+
+557
+00:41:36,127 --> 00:41:38,249
+Birilerinin dediği gibi,
+
+558
+00:41:38,337 --> 00:41:43,876
+"Belki bir yerlerde çok zeki bir alim vardır,
+o bunu çözebilir."
+
+559
+00:41:43,967 --> 00:41:47,051
+Pekala, o zeki değildi. Yani,
+çok garip bir retinaya sahip olmuş olmalı.
+
+560
+00:41:47,178 --> 00:41:49,217
+Bizim retinamız olması gerektiği gibi oluşmuştur.
+
+561
+00:41:49,430 --> 00:41:51,837
+Retina beynin bir uzantısıdır.
+
+562
+00:41:51,932 --> 00:41:55,929
+Sinir sistemine bakıldığında
+bu çok karmaşık bir yapıdır.
+
+563
+00:41:56,019 --> 00:41:58,426
+Sinyaller karmaşık bir ağdan geçer,
+
+564
+00:41:58,521 --> 00:42:01,806
+sinir hücrelerinin farklı katmanlarından
+geçerken,
+
+565
+00:42:01,898 --> 00:42:05,646
+zincirin son hücresine ulaşmadan önce
+
+566
+00:42:05,735 --> 00:42:08,308
+optik sinire gelirler.
+
+567
+00:42:08,612 --> 00:42:14,033
+Optik sinirin sınırlı sayıda bant genişliği vardır,
+bu yüzden sinyaller sıkışmak zorunda kalırlar.
+
+568
+00:42:14,117 --> 00:42:16,405
+Bu basınçta kaybettiğimiz tek şey
+
+569
+00:42:16,494 --> 00:42:21,202
+Bir ışıkölçer gibi tam olarak parlaklığı
+kaydetme yeteneğidir.
+
+570
+00:42:23,125 --> 00:42:27,667
+İki değeri yan,yana gördüğümüzde
+karşılaştırmak kolaydır.
+
+571
+00:42:28,212 --> 00:42:31,663
+Ama onları ayırdığımızda,
+bu yetenek gider.
+
+572
+00:42:33,425 --> 00:42:37,636
+Sinir sisteminde, gözü
+bir ışıkölçere çevirecek
+
+573
+00:42:38,221 --> 00:42:41,506
+bir mekanizma yok.
+
+574
+00:42:41,807 --> 00:42:44,344
+Ve bu,
+bilgiyi azaltmanın zekice bir yolu
+
+575
+00:42:44,434 --> 00:42:48,348
+ama görüntüyü gerçekten bilmek istiyorsan
+bu bir felaket
+
+576
+00:42:48,437 --> 00:42:50,928
+çünkü bunu sadece beyninle yapamazsın.
+
+577
+00:42:51,732 --> 00:42:55,396
+Müzik Dersi tablosunun olduğu duvardaki
+ışığa bakın.
+
+578
+00:42:55,485 --> 00:43:00,858
+Işığın her inceliği tam bir fotoğrafik
+hassasiyetle kaydedilmiş.
+
+579
+00:43:01,949 --> 00:43:05,115
+Tek başına bir insan gözü
+bunu yapmaya yeterli değil.
+
+580
+00:43:05,493 --> 00:43:09,028
+Ama Vermeer Tim'in aleti
+gibi bir şey kullandıysa,
+
+581
+00:43:09,121 --> 00:43:11,328
+resimler mümkün olur.
+
+582
+00:43:12,291 --> 00:43:14,960
+İngiltere Kraliçesi
+Vermeer'in Music Lesson tablosunun sahibi
+
+583
+00:43:15,043 --> 00:43:17,166
+ve o bu eseri Buckingham Sarayında tutuyor.
+
+584
+00:43:17,253 --> 00:43:21,961
+Biz de hazır İngiltere'deyken,
+saraya uğrayıp bir bakalım diye düşündük.
+
+585
+00:43:22,383 --> 00:43:26,629
+Ama Kraliçe hayır dedi. Biz de Kraliçe'ye
+veryansın ettiğimiz bir tirat çektik.
+
+586
+00:43:35,602 --> 00:43:36,633
+Ama sonra...
+
+587
+00:43:36,728 --> 00:43:39,432
+Pekala, binadan şimdi çıktım.
+
+588
+00:43:40,231 --> 00:43:42,307
+Tablonun bulunduğu
+Buckingham Sarayından.
+
+589
+00:43:42,399 --> 00:43:46,977
+Tim eve dönmeden bir gün önce,
+Kraliçe asil aklını değiştirdi.
+
+590
+00:43:47,529 --> 00:43:51,395
+Tim'e Müzik Dersi tablosunu görmesi
+için özel bir ortam sağladı.
+
+591
+00:43:51,824 --> 00:43:54,445
+Tabloyu incelemesi için 30 dakikası vardı.
+
+592
+00:43:54,535 --> 00:43:58,579
+Anlaşma şuydu, bu deneyimi
+sadece aklında tutacaktı,
+
+593
+00:43:58,663 --> 00:44:00,572
+fotoğraf çekmesine izin verilmedi.
+
+594
+00:44:00,665 --> 00:44:02,823
+Ve bu harika bir 30 dakikaydı.
+
+595
+00:44:04,460 --> 00:44:06,416
+Tablo inanılmazdı.
+
+596
+00:44:06,920 --> 00:44:10,004
+Düşündüğümden daha farklıydı.
+
+597
+00:44:10,339 --> 00:44:13,506
+Reprodüksiyonlar onunla
+kıyaslanamaz bile.
+
+598
+00:44:14,760 --> 00:44:16,088
+Renkler daha yumuşak.
+
+599
+00:44:16,178 --> 00:44:20,175
+Biraz daha koyu,
+Her yerinde mavimsi bir hava var.
+
+600
+00:44:23,309 --> 00:44:27,092
+Ama hayret verici yönü
+detayların çokluğu.
+
+601
+00:44:27,312 --> 00:44:29,684
+Büyüteçli gözlüğümü taktım
+
+602
+00:44:30,815 --> 00:44:35,108
+Ve dekorasyonun olduğu
+
+603
+00:44:35,569 --> 00:44:38,107
+her fırça darbesine baktım.
+
+604
+00:44:39,197 --> 00:44:42,114
+İran halısında,
+her bir ilmek görünüyordu.
+
+605
+00:44:44,243 --> 00:44:50,280
+Özveri yada adanmışlık
+yada saplantı
+
+606
+00:44:50,999 --> 00:44:53,205
+bu kadar detayı yapabilmek için
+
+607
+00:44:53,292 --> 00:44:56,542
+bakanda genel bir etki bırakmak için,
+
+608
+00:44:57,879 --> 00:45:02,587
+aylar süren sıkı bir çalışma yapmış olmalı.
+
+609
+00:45:06,595 --> 00:45:09,216
+Ona yaklaşabilecek miyim bilmiyorum.
+
+610
+00:45:11,432 --> 00:45:15,382
+Tim San Antonio'ya geri döndüğünde,
+başı dertteydi.
+
+611
+00:45:19,064 --> 00:45:21,056
+Desenlere baktığında,
+
+612
+00:45:21,149 --> 00:45:26,273
+Vermeer'in boyadığı birbirine bağlanmış
+denizatı desenini gördü .
+
+613
+00:45:28,405 --> 00:45:31,109
+Karanlık odada yansımaya baktığında,
+
+614
+00:45:31,199 --> 00:45:35,362
+bütün küçük çizgiler çok bulanıktı
+boyamak için sönüktü.
+
+615
+00:45:36,036 --> 00:45:37,614
+Bu öldürücü bir darbeydi.
+
+616
+00:45:37,704 --> 00:45:40,277
+Başarısız bir deney olacağını görüyordum.
+
+617
+00:45:40,915 --> 00:45:43,240
+Tim bir şeyin eksik olduğunu biliyordu.
+
+618
+00:45:44,252 --> 00:45:49,458
+O, deneyini lenslerin ve aynaların olduğu
+fazlasıyla karışık armuganlarla yapmaya çalıştı
+
+619
+00:45:49,798 --> 00:45:51,458
+Ama hiç biri işe yaramadı.
+
+620
+00:45:51,674 --> 00:45:53,963
+Sonra Tim'e bir ilham geldi.
+
+621
+00:45:54,552 --> 00:45:58,798
+Aynayı görüntünün yansıdığı
+duvara karşı tuttu.
+
+622
+00:45:59,806 --> 00:46:03,850
+Şimdi odayı küçük dairesel şekilde
+keskin, net
+
+623
+00:46:03,935 --> 00:46:06,260
+ve yüzlerce kez daha parlak görebiliyordu.
+
+624
+00:46:06,896 --> 00:46:11,936
+Aynayı oynatarak, odada boyayacağı
+her yeri görebiliyordu.
+
+625
+00:46:12,942 --> 00:46:17,568
+Sonra düz ayna yerine iç bükey ayna
+kullanması gerektiğini farketti
+
+626
+00:46:17,655 --> 00:46:19,647
+traş aynası gibi,
+
+627
+00:46:19,740 --> 00:46:23,606
+böylece parlak daireyi daha büyütebilecekti.
+
+628
+00:46:24,619 --> 00:46:27,572
+Sonra fark ettim ki
+daha parlak bir görüntüye sahipsem,
+
+629
+00:46:27,663 --> 00:46:29,371
+bu karanlık odaya ihtiyacım yoktu,
+
+630
+00:46:29,456 --> 00:46:34,082
+Günışığında boyayabilirdim,
+bu devasa, dev bir atılım.
+
+631
+00:46:34,919 --> 00:46:37,125
+Tim karanlık odada başlamıştı.
+
+632
+00:46:37,254 --> 00:46:38,997
+Ama oda gitti.
+
+633
+00:46:39,089 --> 00:46:41,496
+Arka duvara iç bikey ayna kondu.
+
+634
+00:46:41,675 --> 00:46:45,672
+Geleneksel karanlık odadan geriye kalan
+tek şey büyüteçti.
+
+635
+00:46:50,599 --> 00:46:56,553
+Tim yeni bir optiksel alet icat etti
+yada, muhtemel, kayıp bir şeyin yeniden keşfi.
+
+636
+00:46:57,188 --> 00:47:01,600
+Onun içinde, Vermeer'in detay seviyesine
+yeterince iyi ulaşabilirdi.
+
+637
+00:47:02,817 --> 00:47:05,688
+Onun odasına sahipti.
+Onun makinesine sahipti.
+
+638
+00:47:05,778 --> 00:47:08,020
+Artık boyamaya hazırdı.
+
+639
+00:48:00,407 --> 00:48:01,652
+Of ya
+
+640
+00:48:38,022 --> 00:48:40,643
+Biliyorsunuz, bunu  Vermeer'e
+benzetmek için yapmıyorum,
+
+641
+00:48:40,733 --> 00:48:42,393
+ama gerçekten Vermeer gibi görünüyor.
+
+642
+00:49:08,423 --> 00:49:13,131
+Temizleniyordum,
+paletimi bırakmaya hazırdım,
+
+643
+00:49:13,218 --> 00:49:16,753
+bir günün işi bitmişti,
+ve monitöre baktım.
+
+644
+00:49:19,015 --> 00:49:24,353
+Ve şunu düşündüm, " Bu kamera yanlış yöne bakıyor,
+odaya doğrultulmuş.
+
+645
+00:49:24,436 --> 00:49:25,895
+"Bu nasıl oldu?"
+
+646
+00:49:25,979 --> 00:49:29,928
+Ve bu düşünce kafamın içinden
+sadece birkaç milisaniyede geçti
+
+647
+00:49:30,024 --> 00:49:33,309
+farkına varmadan önce,
+"Hayır, ben tabloya bakıyorum."
+
+648
+00:49:34,278 --> 00:49:36,353
+Ve bu bir tür şey gibiydi...
+
+649
+00:50:21,484 --> 00:50:25,315
+Bilirsiniz, bu proje
+boyanın kurumasını izlemek gibi bir şey değil.
+
+650
+00:51:17,823 --> 00:51:20,859
+Mankenlere giydirerek
+kostümleri boyayabilirim.
+
+651
+00:51:20,951 --> 00:51:24,200
+Ama elleri ve yüzleri boyamak için,
+insanları kullanmak zorundayım.
+
+652
+00:51:26,872 --> 00:51:29,541
+Onların sabit durmasın yardımcı olmak
+için her şeyi yaptım.
+
+653
+00:51:30,792 --> 00:51:32,416
+Bir şekilde işe yaradı.
+
+654
+00:51:36,213 --> 00:51:38,834
+Kızım Claire üniversitenin verdiği bir
+aylık ara nedeniyle eve geldi.
+
+655
+00:51:39,174 --> 00:51:41,250
+Ve şimdi kızı çizme zamanıydı,
+
+656
+00:51:41,468 --> 00:51:45,299
+İkiyle ikiyi topladım,
+ve Claire'yi kullandım.
+
+657
+00:51:45,388 --> 00:51:48,637
+İki kız kardeşi de kasabadaydı,
+Luren ve Natalie.
+
+658
+00:51:48,724 --> 00:51:52,673
+Onlar kostümü giymek
+ve saçı yapmakla uğraştılar
+
+659
+00:51:52,769 --> 00:51:55,722
+ve böylece resimdeki kıza benzedi.
+
+660
+00:51:55,813 --> 00:52:00,309
+Her şeyi bitirdiklerinde, o,
+küçük Hollandalı kızın tıpatıp aynısı oldu.
+
+661
+00:52:00,567 --> 00:52:04,232
+Tamamlamak için,
+başına bir kıskaç taktık,
+
+662
+00:52:05,738 --> 00:52:07,814
+pozisyonu doğru olsun diye.
+
+663
+00:52:45,688 --> 00:52:49,270
+Çok az çocuk okula geri dönerken mutlu olur.
+
+664
+00:53:01,243 --> 00:53:02,951
+Onu tekrar boyamak zorunda kalabilirim.
+
+665
+00:53:08,249 --> 00:53:11,415
+Bir saniye izninizle.
+Rüzgar gölgemi bozmaya çalışıyor.
+
+666
+00:53:11,502 --> 00:53:14,502
+Ruh çağırdığınızı sandım.
+
+667
+00:53:27,890 --> 00:53:29,088
+Aşağılık!
+
+668
+00:53:34,104 --> 00:53:35,598
+Adi.
+
+669
+00:53:37,982 --> 00:53:39,725
+B planına geçmek zorundayız.
+
+670
+00:53:39,817 --> 00:53:44,644
+Penceremin çerçeveleri,
+gölgelerim ve malzemelerim, gevşemiş
+
+671
+00:53:44,738 --> 00:53:47,857
+ve düşmüş.
+Sanırım her şey yolunda.
+
+672
+00:53:51,285 --> 00:53:52,316
+Tamam.
+
+673
+00:53:52,411 --> 00:53:56,242
+Her şeyi yeterince iyi olana kadar
+yapmaya meyilliyimdir.
+
+674
+00:53:56,790 --> 00:53:59,825
+Ama bazen zarf kapasitesini aşabiliyor.
+
+675
+00:54:00,710 --> 00:54:05,335
+Herhangi bir şey yanlamasına düşerse,
+tablon tehlikede olmaz, bu doğru mu?
+
+676
+00:54:05,964 --> 00:54:07,956
+Hayır, bunu söyleyemem.
+
+677
+00:54:08,341 --> 00:54:10,547
+- Peki.
+- Ama, bilirsin, her zaman baştan başlayabilirim.
+
+678
+00:54:59,342 --> 00:55:01,548
+Başka ilginç bir şey daha oldu.
+
+679
+00:55:01,636 --> 00:55:03,628
+Buna bakarken farkettim ki,
+
+680
+00:55:03,721 --> 00:55:07,634
+oradaki denizatlarının
+düz çizgileri görebiliyorum,
+
+681
+00:55:07,724 --> 00:55:12,848
+ve daha önce ölçtüğüm düz çizgileri
+tuvalin üstünde görebiliyorum,
+
+682
+00:55:12,937 --> 00:55:16,388
+pervazın taslaklarını.
+
+683
+00:55:16,898 --> 00:55:20,730
+Ve onlar kusursuz düz çizgiler
+çünkü onları boyamadan önce
+
+684
+00:55:20,818 --> 00:55:22,478
+düzgünce yatırdım.
+
+685
+00:55:22,570 --> 00:55:28,323
+Ufacık bir bölümün içine
+onu yerleştirmeye çalışırken,
+
+686
+00:55:28,408 --> 00:55:33,568
+gördüm ki o düz çizgi
+yansıdığında
+
+687
+00:55:34,371 --> 00:55:35,534
+o kadar da düz değil.
+
+688
+00:55:35,622 --> 00:55:37,828
+Hafifçe kavisli.
+
+689
+00:55:38,959 --> 00:55:43,169
+Muhtemelen beni vazgeçirmeye yeterli değil
+şimdi bunun farkındayım,
+
+690
+00:55:43,254 --> 00:55:47,251
+ama deniz atı desenini
+harfi harfine boyamış olsaydım,
+
+691
+00:55:47,924 --> 00:55:50,629
+bu şekilde kavisli sonuçlanabilirdi.
+
+692
+00:55:52,595 --> 00:55:58,430
+Ve, neden olduğunu bilmiyorum, ama gittim
+ve Vermeer'in tablosunu aldım.
+
+693
+00:56:00,727 --> 00:56:05,969
+Ve başlıyorum,
+"Pekala, açıkça görülüyor ki Vermeer
+
+694
+00:56:07,149 --> 00:56:09,474
+bu çizgiyi çizerken zorluk çekmemiş."
+
+695
+00:56:12,320 --> 00:56:15,273
+Ve sonra, tabloyu yanlamasına tuttum
+
+696
+00:56:15,364 --> 00:56:18,199
+ve bu düz çizgilere baktım.
+
+697
+00:56:23,121 --> 00:56:25,576
+Bununla ilgili gerçekten deli
+bir şey var.
+
+698
+00:56:25,748 --> 00:56:29,827
+Pervazların üstü ve altı
+kesinle düz.
+
+699
+00:56:29,918 --> 00:56:33,002
+Çünkü şu açıyla baktım,
+
+700
+00:56:33,921 --> 00:56:36,459
+Çizginin düz olduğunu görebiliyorum.
+
+701
+00:56:37,299 --> 00:56:39,505
+Denizatı motifi kavisli.
+
+702
+00:56:42,011 --> 00:56:43,671
+Böyle devam ediyor.
+
+703
+00:56:44,639 --> 00:56:48,089
+Çizgilerin altından böyle bakmazsan
+
+704
+00:56:49,434 --> 00:56:51,640
+gerçekten söyleyemezsin, ama...
+
+705
+00:56:55,439 --> 00:56:56,684
+Orada bir kavislenme var.
+
+706
+00:56:56,774 --> 00:56:59,940
+Ve bunun gerçekten mantıklı bir
+açıklaması yok
+
+707
+00:57:01,278 --> 00:57:04,029
+böyle bir şey kullanmadığı müddetçe.
+
+708
+00:57:06,449 --> 00:57:10,944
+Tim denizatı desenindeki eğikliğe
+"denizatı gülüşü" adını verdi.
+
+709
+00:57:11,369 --> 00:57:14,204
+Bu Vermeer'in tablosundaki bir kusurdu.
+
+710
+00:57:14,289 --> 00:57:20,160
+350 yıldır kimsenin farketmediği bir hata,
+ve sonra Tim de neredeyse aynı hatayı yaptı.
+
+711
+00:57:20,252 --> 00:57:26,170
+Tim , Vermeer'in hatasını kopyalayacak
+bir şey aramıyordu.
+
+712
+00:57:26,966 --> 00:57:29,883
+Biliyorsunuz,
+Vermeer'in hatasının orada olduğunu bilmiyordu.
+
+713
+00:57:29,968 --> 00:57:33,135
+Bu ya kaydadeğer bir tesadüftü
+
+714
+00:57:33,221 --> 00:57:38,013
+yada Vermeer Tim'in makinesini kullanıyordu,
+yada resimini yaparken
+
+715
+00:57:38,100 --> 00:57:39,215
+Tim'in makinesine benzer bir şey kullanıyordu.
+
+716
+00:57:39,310 --> 00:57:42,808
+Hockney'in dediği gibi, tablolar belgedir,
+
+717
+00:57:42,896 --> 00:57:44,972
+ve işte bu da küçük bir kanıt.
+
+718
+00:58:39,527 --> 00:58:42,397
+Bugün denizatı motifini boyadım.
+
+719
+00:58:42,488 --> 00:58:47,113
+İşi çoktu.
+Burada 15-20 dakikadan fazla oturamadım.
+
+720
+00:58:47,575 --> 00:58:50,113
+Sırtım çok fazla kasıldı.
+
+721
+00:58:50,369 --> 00:58:56,869
+Bulabildiğim en rahat pozisyonda oturmaya
+çalıştım, şu şekilde.
+
+722
+00:58:58,376 --> 00:59:03,452
+Bu gerçekten sinir bozucu,
+kılık kırk yardıran, emek isteyen bir iş.
+
+723
+00:59:03,547 --> 00:59:07,129
+Bunun geri kalanını yapmaya
+hiç can atmıyorum,
+
+724
+00:59:07,217 --> 00:59:09,090
+ama en azından yapılabileceğini biliyorum.
+
+725
+01:00:10,478 --> 01:00:14,427
+Bugün boyadığım şey muhtemelen,
+
+726
+01:00:14,523 --> 01:00:19,480
+resmin fiziken yapılan
+en zor kısmı olacağını beklediğim yeriydi.
+
+727
+01:02:02,780 --> 01:02:03,859
+Aman Tanrım.
+
+728
+01:02:21,171 --> 01:02:25,547
+Evet, bu kısa olacak
+çünkü yaklaşık 40 derece açısı var.
+
+729
+01:02:25,633 --> 01:02:30,709
+Karl ve ben sabah buraya geldik,
+ve birbirimize bakıp, şöyle,
+
+730
+01:02:32,555 --> 01:02:35,556
+"Hayır." Burası çok soğuk.
+
+731
+01:02:35,975 --> 01:02:41,313
+Sonra gittim, "Bekle, garajda hiç
+kurmadığım bir ısıtıcı var.
+
+732
+01:02:41,396 --> 01:02:45,892
+"Birkaç yıl önce onu Noel için almıştım,
+şu açık hava ısıtıcılarından biri."
+
+733
+01:02:48,027 --> 01:02:51,727
+Sonra, Karl dedi ki, "Hey, ben onu kurarım,
+hadi gidip getirelim."
+
+734
+01:02:52,405 --> 01:02:55,489
+Sonra biz onu getirdik ve kurduk,
+orada duruyor.
+
+735
+01:02:55,575 --> 01:02:59,738
+Sonra onu yaktık ve harika çalıştı.
+Hoştu ve sıcaktı, bilirsin değil mi?
+
+736
+01:03:00,287 --> 01:03:02,860
+Karl orada bilgisayarın
+başında oturuyordu,
+
+737
+01:03:02,956 --> 01:03:09,124
+ve ben dedim ki, "Hey,şuna bir bak bakalım
+içerisi için güvenli mi."
+
+738
+01:03:12,464 --> 01:03:14,124
+ve Karl bakıp,
+
+739
+01:03:14,215 --> 01:03:18,212
+"Burada içerisi için güvenli değil yazıyor." dedi.
+
+740
+01:03:19,261 --> 01:03:23,093
+Ve ben ona, "Tamam. Peki, çalışşın
+
+741
+01:03:24,140 --> 01:03:27,094
+"ama dikkatli olalım, tamam mı?
+
+742
+01:03:27,185 --> 01:03:33,352
+" Karbonmonoksit zehirlenmesi semptomlarını
+farkedersek, bilirsin işte,
+
+743
+01:03:33,440 --> 01:03:35,562
+"kapatırız."dedim.
+
+744
+01:03:35,650 --> 01:03:40,940
+Sonra ben boyamaya başladım, ve Müzik Dersi'ne
+bir fil çizdim.
+
+745
+01:03:41,780 --> 01:03:45,860
+Neden onu oraya koydum bilmiyorum,
+ama o zaman bana iyi bir fikir gibi görünmüştü.
+
+746
+01:03:45,950 --> 01:03:49,947
+Karl esasen, başını şöyle eğip,
+
+747
+01:03:51,538 --> 01:03:53,614
+"Bir mendile ihtiyacım var." dedi.
+
+748
+01:03:53,707 --> 01:03:56,280
+"Ne dedin?" dedim.
+"Bir mendile ihtiyacım var." dedi.
+
+749
+01:03:56,376 --> 01:04:00,539
+"Tamam, hadi artık gidelim." dedim
+
+750
+01:04:01,964 --> 01:04:04,122
+"Şu şeyi kapatalım ve öğlen yemeğine gidelim."
+
+751
+01:04:04,216 --> 01:04:06,753
+Öğlen yemeğine giderken, yolda,
+
+752
+01:04:06,843 --> 01:04:09,879
+her şey yeniden netleşti,
+anladığınız gibi, duman altında kalmışız.
+
+753
+01:04:09,970 --> 01:04:11,346
+Neyse, bu kötü bir fikirdi.
+
+754
+01:04:57,802 --> 01:04:59,711
+Oldukça garip bir gündü.
+
+755
+01:05:01,347 --> 01:05:04,550
+İçeri girdim ve bu küçük
+minderi çizmeye başladım,
+
+756
+01:05:04,641 --> 01:05:08,425
+kötü bir duygu geçti içimden
+
+757
+01:05:10,771 --> 01:05:15,516
+Bir sebeple burada oturup resim yapmaktansa
+dünyadaki herhangi bir şeyi yapmak istedim.
+
+758
+01:05:17,193 --> 01:05:19,601
+Bilmiyorum,öylesine bir şeydi işte.
+
+759
+01:05:20,446 --> 01:05:24,230
+Ama bu resimi bitirmeye
+oldukça hazırım.
+
+760
+01:05:26,368 --> 01:05:28,277
+Bir film yapıyor olsaydım, bırakır mıydım?
+
+761
+01:05:28,370 --> 01:05:32,497
+Evet, kesinlikle bırakırdım. Evet.
+Şimdi yapacak başka bir şey bulmalıyım.
+
+762
+01:05:36,793 --> 01:05:40,921
+Pekala, dün sandalyeyi boyarken,
+
+763
+01:05:44,216 --> 01:05:45,461
+neredeyse bırakacaktım.
+
+764
+01:05:45,551 --> 01:05:49,761
+Belki bilinçaltımda
+bunun yanlış olduğumu biliyordum.
+
+765
+01:05:52,765 --> 01:05:57,510
+Ve bu bana ait bir resim gibi görünmedi,
+
+766
+01:05:57,602 --> 01:06:00,600
+ve ben bunun nedenine parmak basamadım.
+
+767
+01:06:01,397 --> 01:06:04,979
+Ve dün gece uyumaya çalışırken,
+
+768
+01:06:05,067 --> 01:06:08,685
+orada yatarken
+sandalyeyi hayal ettim
+
+769
+01:06:08,778 --> 01:06:11,186
+ve onu zihnemde canlandırabildim.
+
+770
+01:06:11,281 --> 01:06:14,447
+Ve kendi kendime,
+"Biliyorsun, sadece mavi yanlış.
+
+771
+01:06:15,909 --> 01:06:18,151
+"Bacakları koyulaştırmalıyım."
+
+772
+01:06:19,579 --> 01:06:22,496
+Sandalyenin tepesi
+sola doğru eğik olamaz.
+
+773
+01:06:22,582 --> 01:06:26,116
+Bunun doğru olmadığını görüyor gibiyim.
+
+774
+01:06:26,210 --> 01:06:29,495
+Lensin yerini oynatmış olduğumu farkettim
+
+775
+01:06:29,588 --> 01:06:32,671
+ve bu yüzden sandalyenin
+perspektifi yanlıştı.
+
+776
+01:06:33,299 --> 01:06:35,172
+Bu tamamen bilinçaltı bir şeydi.
+
+777
+01:06:35,259 --> 01:06:41,131
+Belki de içimde bunun yanlış
+olduğunu bilen bir sanatçı vardı.
+
+778
+01:07:29,429 --> 01:07:34,256
+Kilimin biraz daha
+serbest biçimde boyandığını düşündüm.
+
+779
+01:07:34,350 --> 01:07:39,011
+Ama bu kilim optik
+ekipmana yeterince yakın
+
+780
+01:07:39,104 --> 01:07:42,686
+bütün küçük ilmekleri
+net bir şekilde görebiliyorum.
+
+781
+01:07:42,774 --> 01:07:47,898
+Ve bunu görebildiğim için, ve kuralımın
+"aynada ne görüyorsan onu boya" olduğu için
+
+782
+01:07:47,987 --> 01:07:50,275
+bu tür bir detayı elde etmek istiyorsam,
+
+783
+01:07:50,364 --> 01:07:55,488
+bir tür klavsen yapacaktım
+
+784
+01:07:56,327 --> 01:07:58,284
+sadece detayı yakalamak için.
+
+785
+01:08:28,062 --> 01:08:30,101
+Başka bir gün, daha fazla nokta.
+
+786
+01:08:30,189 --> 01:08:31,351
+Aynı dünkü gibi.
+
+787
+01:08:31,857 --> 01:08:33,232
+Sadece daha fazla nokta boyama.
+
+788
+01:09:29,488 --> 01:09:33,153
+Bu halıyı boyarken yaşlanıyorum.
+
+789
+01:10:03,976 --> 01:10:05,351
+Aman Tanrım.
+
+790
+01:10:12,733 --> 01:10:13,978
+Başlıyoruz.
+
+791
+01:10:15,902 --> 01:10:19,271
+Tamam, burada delirmiş bir
+şekilde dolanırken,
+
+792
+01:10:21,115 --> 01:10:22,775
+ışıkları ayarladım.
+
+793
+01:10:27,078 --> 01:10:28,537
+Ve gösterdi.
+
+794
+01:10:30,581 --> 01:10:33,747
+Bugün bir nevi son.
+
+795
+01:10:34,543 --> 01:10:35,788
+Cilalama işi.
+
+796
+01:10:36,044 --> 01:10:40,670
+son birkaç aydır
+kendime söz veriyordum
+
+797
+01:10:40,756 --> 01:10:43,461
+cilalama yaparken
+her şey daha iyi olacak diye.
+
+798
+01:10:43,551 --> 01:10:49,006
+Çünkü boya kururken, rengi açılır,
+kireçlenir, solgunlaşır.
+
+799
+01:10:49,097 --> 01:10:51,504
+Bunu yapmak için çok heyecanlıydım.
+
+800
+01:10:53,684 --> 01:10:58,974
+Küçük bir fırçayla yavaşça üzerinden geçtim
+ve sonunda dev bir fırçayı kapıp,
+
+801
+01:10:59,647 --> 01:11:03,230
+cilayı çektim
+ve şehre gitmek için hazırlanmaya başladım.
+
+802
+01:11:03,484 --> 01:11:06,650
+Dokunduğum her yer sihirdi.
+
+803
+01:11:09,322 --> 01:11:11,149
+Oldukça şaşırtıcı.
+
+804
+01:11:20,456 --> 01:11:22,413
+Pekala, biliyorsunuz, bugün...
+
+805
+01:11:28,380 --> 01:11:31,001
+Bugün, beklediğim gün.
+
+806
+01:11:42,308 --> 01:11:43,636
+Özür dilerim.
+
+807
+01:11:52,483 --> 01:11:54,523
+Bittiğine inanamıyorum.
+
+808
+01:11:58,697 --> 01:12:02,694
+Tim'in tablosunu Hockney ve Steadman'a
+göstermek için İngiltere'ye götürdük.
+
+809
+01:12:05,661 --> 01:12:07,238
+Pekala, işte bu.
+
+810
+01:12:14,585 --> 01:12:20,836
+Biliyorsunuz,bu benim yağlıboyada
+ilk iddialı girişimim,
+
+811
+01:12:22,383 --> 01:12:25,586
+ve bu bir çeşit deneydi,
+ben bir ressam değilim,
+
+812
+01:12:25,678 --> 01:12:28,251
+ama konseptin gücünü göstermeye
+çalışıyordum.
+
+813
+01:12:28,347 --> 01:12:29,426
+Evet.
+
+814
+01:12:30,891 --> 01:12:33,049
+Bu müthiş, söylemek zorundayım.
+
+815
+01:12:33,268 --> 01:12:39,103
+Lens deneylerimizi yaparken
+bunu farketmiştik.
+
+816
+01:12:39,439 --> 01:12:44,231
+Özellikle bu tür kumaşlarda farkettik,
+
+817
+01:12:44,735 --> 01:12:48,400
+Projeksiyonda her ilmek görünür
+
+818
+01:12:48,489 --> 01:12:52,106
+gerçek olanda göremezsin,
+ve sen bunu Vermeer'de yapmışsın.
+
+819
+01:12:52,200 --> 01:12:54,738
+Şimdi bu çok, çok etkili.
+Buna bakan kim olsa...
+
+820
+01:12:54,827 --> 01:12:57,579
+- Bence Vermeer'den daha iyi.
+- Vermeer'den daha mı iyi?
+
+821
+01:12:57,663 --> 01:13:01,114
+Halının dokumasını hissediyorsun.
+
+822
+01:13:01,208 --> 01:13:02,618
+Evet, gerçekten öyle.
+
+823
+01:13:02,709 --> 01:13:04,417
+Yünlü bir gözüküyor, değil mi?
+
+824
+01:13:04,502 --> 01:13:06,044
+İnanılmaz, gerçekten.
+
+825
+01:13:07,671 --> 01:13:10,376
+Benzer bir şey olmalı, olmak zorunda.
+
+826
+01:13:10,716 --> 01:13:13,633
+Demek istediğim, senin bir şeyi
+kanıtladığına şüphe yok, Tim,
+
+827
+01:13:13,718 --> 01:13:18,878
+Bu detacılıkla ve hassasiyetle
+bir tablo yapabilirsin...
+
+828
+01:13:18,973 --> 01:13:22,804
+Yani, bu bütünüyle bir karanlık oda değil,
+ama bu bir optik makine.
+
+829
+01:13:22,892 --> 01:13:26,557
+Ve bunun gerçekten kanıtlamak istediğim şey,
+yani bu şekilde de olabileceği.
+
+830
+01:13:26,646 --> 01:13:28,104
+Elbette. Buna bir şüphe yok.
+
+831
+01:13:28,189 --> 01:13:30,311
+Vermeer'in böyle çalıştığını
+kanıtlamanın bir yolu yok.
+
+832
+01:13:30,399 --> 01:13:34,396
+Bu ikinci soru, evet.
+Vermeer bu yolla mı çalıştı?
+
+833
+01:13:34,486 --> 01:13:38,814
+Evet, onun böyle yaptığına
+oldukça ikna oldum.
+
+834
+01:13:38,906 --> 01:13:42,072
+Ben her an daha da ikna olmaya başladım.
+
+835
+01:13:42,242 --> 01:13:44,863
+Ben yüzde doksanda olduğumu söyleyebilirim.
+
+836
+01:13:45,411 --> 01:13:50,653
+Ama, b,ildiğiniz gibi
+ortada tarihsel bir kayıt olsaydı...
+
+837
+01:13:50,749 --> 01:13:54,793
+Yani, tablonun kendisinin ait tarihsel bir kayıt
+olmadığı düşüncesi olsaydı
+
+838
+01:13:54,878 --> 01:14:00,215
+geçmişi araştıranlar resimlere bakmaz
+sadece yazıları okurlardı.
+
+839
+01:14:00,424 --> 01:14:02,250
+Bu kendi başına bir doküman.
+
+840
+01:14:02,342 --> 01:14:05,212
+İnsanların doküman peşinde olduğunu biliyorum.
+
+841
+01:14:05,303 --> 01:14:08,506
+Resimler ve çizimler dokümandır,
+onlar gerçeği anlatır.
+
+842
+01:14:08,597 --> 01:14:11,930
+Bir şeyi kanıtlamak için
+sen bir doküman yaptın, işte o.
+
+843
+01:14:12,017 --> 01:14:14,175
+Büyüleyici.
+
+844
+01:14:14,686 --> 01:14:17,437
+Sen araştırmak için yola çıktın.
+
+845
+01:14:17,647 --> 01:14:22,806
+Bence başardın, yani,
+bunu yapmanın mümkün olduğunu gösterdin.
+
+846
+01:14:23,985 --> 01:14:27,484
+- Dediğim gibi, bunu çok iyi kaydettiysen...
+- Evet, evet.
+
+847
+01:14:27,572 --> 01:14:29,979
+Bu oldukça fazla kişiyi rahatsız
+edecek diye düşünüyorum.
+
+848
+01:14:30,074 --> 01:14:32,944
+- Öyle olacağını umuyorum.
+- Bu iyi, bu iyi. Neden olmasın?
+
+849
+01:14:51,383 --> 01:14:53,708
+Arkadaşım Tim bir Vermeer tablosu yaptı.
+
+850
+01:14:54,386 --> 01:14:57,552
+Deposunda, San Antonio'da.
+
+851
+01:14:57,639 --> 01:14:59,465
+O bir Vermeer yaptı.
+
+852
+01:15:00,933 --> 01:15:03,850
+Peki şimdi  Tim bir sanatçı mı,
+yoksa Tim bir kaşif mi?
+
+853
+01:15:04,061 --> 01:15:07,892
+Bence sorun Tim için
+ikisinden birini seçmek değil,
+
+854
+01:15:07,981 --> 01:15:11,147
+ama problem ikisi arasındaki fark.
+
+855
+01:15:12,359 --> 01:15:17,186
+Tim'in bize verdiği
+Vermeer'in imajı
+
+856
+01:15:17,280 --> 01:15:23,993
+çok daha gerçek bir adam,
+ve bu şekilde daha da hayranlık verici.
+
+857
+01:15:25,662 --> 01:15:29,991
+Yani, akıl sır erdirilemez bir deha
+aslında bir anlam ifade etmez.
+
+858
+01:15:30,666 --> 01:15:32,824
+Artık o kavranılamaz bir dahi değil.
+
+859
+01:15:44,011 --> 01:15:48,672
+Bu resimde sanat anlamında
+büyük bir değer varsa, o Vermeer'indir.
+
+860
+01:15:49,515 --> 01:15:54,224
+Bu Vermeer'in kompozisyonu
+ve bu da Vermeer'in keşfi.
+
+861
+01:15:54,686 --> 01:15:58,434
+O sadece 350 yıldır unutulmuştu.
