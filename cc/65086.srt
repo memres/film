@@ -1,0 +1,2109 @@
+1
+00:02:09,921 --> 00:02:12,207
+Yavrularım!
+
+2
+00:02:13,730 --> 00:02:15,530
+<i>Hayır!
+
+3
+00:03:05,434 --> 00:03:10,344
+<b>SİYAHLI KADIN</b>
+
+5
+00:03:39,845 --> 00:03:41,051
+Arthur?
+
+6
+00:03:57,946 --> 00:03:59,607
+<i>Baba?
+
+7
+00:03:59,698 --> 00:04:01,313
+Geliyorum.
+
+8
+00:04:04,814 --> 00:04:06,314
+VADESİ GEÇMİŞ
+
+9
+00:04:13,420 --> 00:04:15,206
+Beğendin mi, baba?
+
+10
+00:04:16,506 --> 00:04:18,042
+Çok beğendim.
+
+11
+00:04:19,718 --> 00:04:23,168
+- Doğru düzgün bakmadın ki ama.
+- Baktım tabii.
+
+12
+00:04:24,848 --> 00:04:27,635
+Bu ben, bu dadım...
+
+13
+00:04:27,726 --> 00:04:31,514
+...bu annem, bu da sen.
+
+14
+00:04:33,190 --> 00:04:34,600
+Neden bu kadar mutsuz görünüyorum?
+
+15
+00:04:34,691 --> 00:04:37,433
+Yüzün hep öyle çünkü.
+
+16
+00:04:37,527 --> 00:04:39,518
+Öyle, değil mi?
+
+17
+00:04:40,280 --> 00:04:42,896
+Keşke beni bırakıp gitmek zorunda
+olmasan.
+
+18
+00:04:44,117 --> 00:04:45,106
+Ben de istemezdim.
+
+19
+00:04:45,202 --> 00:04:48,910
+Ama sonra tüm hafta sonumuzu
+köyde geçireceğiz.
+
+20
+00:04:48,997 --> 00:04:50,988
+Bak.
+Yarın...
+
+21
+00:04:52,167 --> 00:04:53,907
+...sonra perşembe...
+
+22
+00:04:54,961 --> 00:04:57,668
+...sonra kavuşacağız.
+O kadar da uzun değil.
+
+23
+00:05:03,261 --> 00:05:05,718
+Tıpkı annene benziyorsun.
+
+24
+00:05:06,890 --> 00:05:09,134
+- Tren biletlerini aldın mı?
+- Evet, aldım.
+
+25
+00:05:09,226 --> 00:05:11,342
+- Kalkış saatini biliyor musun?
+- Evet, biliyorum.
+
+26
+00:05:11,895 --> 00:05:15,137
+Gitmem gerekiyor.
+Geç kalmak istemiyorum.
+
+27
+00:05:15,232 --> 00:05:17,473
+Siz gidin, biz iyiyiz.
+Cuma günü görüşmek üzere.
+
+28
+00:05:17,567 --> 00:05:19,933
+- Görüşürüz.
+- El salla hadi.
+
+29
+00:05:27,911 --> 00:05:30,243
+Zor günler geçirdiğinin farkındayım,
+Kipps.
+
+30
+00:05:30,330 --> 00:05:34,118
+Durumunu anlayışla karşılıyorum.
+
+31
+00:05:36,837 --> 00:05:39,419
+Lakin sırtımızda yük taşıyamayız.
+
+32
+00:05:40,423 --> 00:05:43,790
+Biz bir hukuk bürosuyuz,
+hayır kurumu değil.
+
+33
+00:05:46,054 --> 00:05:47,294
+Güzel.
+
+34
+00:05:47,389 --> 00:05:52,375
+Zannediyorum, Eel Bataklığı Evi'nde oturan
+Alice Drablow'un...
+
+35
+00:05:52,466 --> 00:05:54,635
+...geçen ay vefat ettiğini...
+
+36
+00:05:54,729 --> 00:05:57,516
+...Tomes haber vermiş sana.
+
+37
+00:05:57,607 --> 00:06:00,519
+Oraya uğramayalı seneler oldu.
+
+38
+00:06:00,610 --> 00:06:04,728
+İhtiyar dul
+ziyaretçileri pek sevmezdi.
+
+39
+00:06:05,740 --> 00:06:06,775
+Çocuğu yok muydu?
+
+40
+00:06:09,119 --> 00:06:11,952
+Küçük yaşta ölen bir oğlu vardı.
+
+41
+00:06:12,831 --> 00:06:14,571
+Seneler önce.
+
+42
+00:06:14,666 --> 00:06:18,033
+Detaylı bilgileri, yolculuğun esnasında 
+okuman için vereceğim.
+
+43
+00:06:18,128 --> 00:06:21,624
+Sen bilhassa Bayan Drablow'un 
+evraklarını araştıracaksın.
+
+44
+00:06:22,257 --> 00:06:24,794
+Vasiyetini bulmamız gerekiyor.
+
+45
+00:06:24,885 --> 00:06:27,217
+Evde bir yığın evrak var.
+
+46
+00:06:27,304 --> 00:06:29,386
+Her sayfanın incelenmesi gerekiyor.
+
+47
+00:06:29,472 --> 00:06:30,552
+Pekâlâ.
+
+48
+00:06:30,640 --> 00:06:33,222
+Oranın sakinlerinden 
+Jerome adında bir adamla çalışıyorduk.
+
+49
+00:06:33,310 --> 00:06:35,801
+Fakat pek yardımcı olmuyor.
+
+50
+00:06:38,815 --> 00:06:40,897
+Umuyorum ki, Kipps...
+
+51
+00:06:40,984 --> 00:06:43,396
+...bu fırsatı değerlendirerek...
+
+52
+00:06:43,486 --> 00:06:45,226
+...hukuk firmamızdaki kariyerine...
+
+53
+00:06:45,322 --> 00:06:48,359
+...kendini ne kadar vakfettiğini 
+kanıtlarsın.
+
+54
+00:06:49,784 --> 00:06:52,617
+Bu sana son uyarım.
+
+55
+00:07:06,018 --> 00:07:09,518
+Ruhlar Dünyasıyla Bağlantı Kurun
+Bayan Wynne - Medyum
+
+56
+00:07:35,372 --> 00:07:36,782
+<i>Anneciğim?
+
+57
+00:07:36,873 --> 00:07:39,489
+- Anneciğim!
+- Bir tanem.
+
+58
+00:07:45,890 --> 00:07:47,590
+Northeast'e Son Tren 21.00'da
+
+59
+00:08:18,665 --> 00:08:20,075
+Bay Kipps.
+
+60
+00:08:24,129 --> 00:08:25,744
+Bir oğlunuz oldu.
+
+61
+00:08:38,309 --> 00:08:40,300
+Çok üzgünüm, Bay Kipps.
+
+62
+00:09:03,626 --> 00:09:05,617
+Crythin Gifford'ı geçtik mi?
+
+63
+00:09:06,212 --> 00:09:07,702
+Bir sonraki durak.
+
+64
+00:09:13,511 --> 00:09:15,968
+Londra'dan mı geliyorsunuz?
+
+65
+00:09:16,056 --> 00:09:17,262
+Evet.
+
+66
+00:09:17,891 --> 00:09:20,303
+Eel Bataklığı Evi'nin satışı için mi?
+
+67
+00:09:23,188 --> 00:09:25,224
+Yerli halktan alıcı bulamazsınız.
+
+68
+00:09:29,986 --> 00:09:32,564
+- Gifford Arms'da mı kalacaksınız?
+- Evet.
+
+69
+00:09:32,989 --> 00:09:35,856
+İstasyondan uzak biraz,
+ben sizi bırakabilirim.
+
+70
+00:09:35,950 --> 00:09:37,406
+Yolumun üstü zaten.
+
+71
+00:09:37,494 --> 00:09:39,200
+Sağ olun.
+
+72
+00:09:39,662 --> 00:09:41,778
+Samuel Daily.
+
+73
+00:09:41,873 --> 00:09:43,329
+Arthur Kipps.
+
+74
+00:09:45,251 --> 00:09:47,116
+Arabanız çok güzelmiş, Bay Daily.
+
+75
+00:09:47,212 --> 00:09:50,750
+İlçedeki ilk araba.
+Buranın sakinleri korkuyor hâlâ.
+
+76
+00:09:50,840 --> 00:09:52,000
+Geldik.
+
+77
+00:09:52,592 --> 00:09:54,674
+Sağ olun.
+
+78
+00:09:56,387 --> 00:09:58,423
+Sohbetiniz için teşekkür ederim,
+Bay Daily.
+
+79
+00:10:01,976 --> 00:10:03,182
+Bay Kipps.
+
+80
+00:10:03,770 --> 00:10:06,519
+Yarın akşam
+eşimle yemeğe bekleriz sizi.
+
+81
+00:10:06,606 --> 00:10:08,813
+Burada yeni yüzler göremiyoruz pek.
+
+82
+00:10:08,900 --> 00:10:10,185
+Hem buranın yemeklerini...
+
+83
+00:10:10,276 --> 00:10:11,812
+...köpeğin önüne koysanız yemez.
+
+84
+00:10:11,903 --> 00:10:14,682
+- Çok sevinirim, sağ olun.
+- İyi akşamlar.
+
+85
+00:10:20,995 --> 00:10:22,485
+İyi akşamlar.
+
+86
+00:10:22,580 --> 00:10:25,492
+Bay Kipps adına
+pazar gününe kadar bir oda tutulmuştu.
+
+87
+00:10:29,087 --> 00:10:31,248
+Herhangi bir rezervasyon göremiyorum.
+
+88
+00:10:31,339 --> 00:10:35,214
+- Ofisten telgraf çekilmişti ama.
+- Tamamen doluyuz.
+
+89
+00:10:38,054 --> 00:10:39,510
+- İyi akşamlar.
+- İyi akşamlar.
+
+90
+00:10:39,597 --> 00:10:42,213
+Ben de Bay Kipps'e
+odamız olmadığını söylüyordum.
+
+91
+00:10:44,269 --> 00:10:47,011
+Onu bu havada dışarıda bırakamayız ama,
+değil mi?
+
+92
+00:10:47,105 --> 00:10:48,390
+Hele ki bu yağmurda.
+
+93
+00:10:49,649 --> 00:10:51,810
+Bu gecelik bir yer bulabiliriz.
+
+94
+00:10:51,901 --> 00:10:53,482
+Yerimiz yok.
+
+95
+00:10:55,071 --> 00:10:56,402
+Tavan arasına yerleştirmek istiyorsan
+başka tabii.
+
+96
+00:10:59,284 --> 00:11:00,319
+Tamam.
+
+97
+00:11:05,290 --> 00:11:06,951
+Bu taraftan.
+
+98
+00:11:18,678 --> 00:11:20,384
+Aslında hafta sonunu da
+burada geçirmeyi planlıyordum.
+
+99
+00:11:20,471 --> 00:11:22,883
+Oğlumla dadısı da bana katılacaktı.
+
+100
+00:11:23,683 --> 00:11:25,344
+Anlıyorum.
+
+101
+00:11:28,104 --> 00:11:29,810
+Tatil yapmak istiyorsanız, beyefendi...
+
+102
+00:11:29,898 --> 00:11:32,685
+...denizden uzak bir yere gitseniz
+daha iyi olur.
+
+103
+00:11:32,775 --> 00:11:34,857
+Denizin yarattığı sisten ötürü
+buralar çok soğuk olur.
+
+104
+00:11:34,944 --> 00:11:38,277
+<i>Deniz sisi.
+Deniz sisi.
+
+105
+00:11:40,074 --> 00:11:41,689
+Şöyle gelin.
+
+106
+00:11:51,961 --> 00:11:54,877
+- Oğlunuz kaç yaşında?
+- Dört.
+
+107
+00:11:54,964 --> 00:11:56,454
+Çok güzel bir yaşta.
+
+108
+00:12:05,683 --> 00:12:07,139
+Sağ olun.
+
+109
+00:12:19,030 --> 00:12:20,611
+İyi geceler.
+
+110
+00:13:00,738 --> 00:13:02,148
+İçeri!
+
+111
+00:13:17,449 --> 00:13:19,049
+H. Jerome
+Hukuk Müşaviri
+
+112
+00:13:45,700 --> 00:13:46,780
+Merhaba?
+
+113
+00:14:02,592 --> 00:14:04,833
+Bayan Jerome?
+
+114
+00:14:04,927 --> 00:14:06,713
+- Bay Kipps mi?
+- Evet.
+
+115
+00:14:08,222 --> 00:14:10,508
+Eşim sizinle görüşmek için
+Gifford Arms'a gitti.
+
+116
+00:14:14,270 --> 00:14:16,807
+Bu Bay Kipps.
+
+117
+00:14:17,940 --> 00:14:21,023
+Hukuk büronuza, buraya kadar gelmenize
+hiç gerek olmadığını belirtmiştim.
+
+118
+00:14:21,110 --> 00:14:23,525
+İlgili tüm evrakları
+Londra'ya yollardık.
+
+119
+00:14:23,613 --> 00:14:27,318
+Neyse artık, tüm resmi belgeleri
+burada bulabilirsiniz.
+
+120
+00:14:28,284 --> 00:14:30,275
+Bay Fisher
+bugün ayrılacağınızı söyledi.
+
+121
+00:14:31,079 --> 00:14:34,537
+Bayan Drablow'un bütün evraklarını
+araştırmadan gitmeyeceğim.
+
+122
+00:14:34,624 --> 00:14:35,739
+Söylediğim gibi, hepsi bu kadar.
+
+123
+00:14:35,833 --> 00:14:38,749
+Evdekilerden bahsediyorum.
+Büyük miktarda olduğu söylendi.
+
+124
+00:14:38,836 --> 00:14:42,124
+En erken cuma günü biter diye
+düşünüyorum.
+
+125
+00:14:45,051 --> 00:14:46,666
+Mümkün değil.
+
+126
+00:14:47,345 --> 00:14:48,960
+Gifford Arms bütün hafta doluymuş.
+
+127
+00:14:51,599 --> 00:14:53,885
+Ofisi aramam gerekecek o hâlde.
+
+128
+00:14:54,894 --> 00:14:56,555
+Telefonunuz var mı?
+
+129
+00:14:56,646 --> 00:14:58,762
+Bay Daily'nin bile telefonu yok, 
+efendim.
+
+130
+00:14:58,856 --> 00:15:00,312
+Crythin Gifford'da bulamazsınız.
+
+131
+00:15:00,400 --> 00:15:01,640
+Telgraf gönderirim o zaman.
+
+132
+00:15:02,902 --> 00:15:05,484
+Postane çarşamba sabahları kapalıdır.
+
+133
+00:15:05,571 --> 00:15:07,277
+Londra treni 
+yarım saat sonra kalkıyor.
+
+134
+00:15:07,365 --> 00:15:10,606
+Arkadaşım Keckwick
+bavulunuzla sizi bekliyor dışarıda.
+
+135
+00:15:10,701 --> 00:15:13,488
+Tanıştığımıza memnun oldum, Bay Kipps.
+
+136
+00:15:27,510 --> 00:15:29,466
+Bay Keckwick,
+planlarda değişiklik oldu.
+
+137
+00:15:29,554 --> 00:15:32,173
+Beni tren istasyonuna değil,
+Eel Bataklığı Evi'ne götüreceksiniz.
+
+138
+00:15:32,265 --> 00:15:34,802
+Jerome sizi istasyona götürmem için
+para verdi.
+
+139
+00:15:42,692 --> 00:15:44,523
+6 verirseniz düşünürüm.
+
+140
+00:15:44,610 --> 00:15:45,850
+6 şilin mi?
+
+141
+00:15:46,487 --> 00:15:49,479
+Sizi oraya götürecek
+başka birini bulamazsınız.
+
+142
+00:17:01,020 --> 00:17:02,681
+Geldik.
+
+143
+00:17:10,613 --> 00:17:12,774
+- 3'te alabilir misiniz beni?
+- Alamam.
+
+144
+00:17:12,865 --> 00:17:15,106
+Gelgit başlamadan
+karaya ulaşmam lazım.
+
+145
+00:17:15,201 --> 00:17:17,237
+Yoksa bütün gün burada kalırım.
+
+146
+00:17:17,328 --> 00:17:20,536
+5 gibi sular çekilir,
+o zaman gelirim.
+
+147
+00:17:20,623 --> 00:17:22,284
+5 o zaman.
+
+148
+00:20:54,685 --> 00:20:58,385
+Nathaniel'ın 1. Yaş Günü
+Her Şey Gönlünce Olsun - Annen ve Baban
+
+149
+00:21:04,886 --> 00:21:06,386
+Ölüm Belgesi
+
+150
+00:21:06,387 --> 00:21:09,387
+Nathaniel Drablow.
+Yaş: 7
+
+151
+00:21:12,088 --> 00:21:15,588
+Bataklıkta boğulmuş.
+Cesedi bulunamadı.
+
+152
+00:21:18,989 --> 00:21:20,189
+Salı
+
+153
+00:24:08,656 --> 00:24:09,862
+Gel böyle.
+
+154
+00:24:58,330 --> 00:24:59,661
+Merhaba?
+
+155
+00:25:33,198 --> 00:25:34,608
+Kim var orada?
+
+156
+00:25:53,886 --> 00:25:54,966
+<i>Çocuğu kurtarın!
+
+157
+00:25:55,054 --> 00:25:56,043
+Keckwick!
+
+158
+00:26:02,978 --> 00:26:04,309
+Anne!
+
+159
+00:26:06,356 --> 00:26:07,766
+<i>Çocuğu kurtarın!
+
+160
+00:26:30,881 --> 00:26:33,714
+Memur bey,
+bir kaza sesi duydum diyorum.
+
+161
+00:26:34,134 --> 00:26:37,672
+Nine Lives Geçiti'ni
+senelerdir kimse kullanmıyor, bayım.
+
+162
+00:26:38,263 --> 00:26:42,173
+Drablowlar'ın küçük oğlu
+bataklıkta boğulduğundan beri yani.
+
+163
+00:26:42,601 --> 00:26:44,762
+Eel Bataklığı Evi de boş.
+
+164
+00:26:44,853 --> 00:26:47,344
+Değildi ama,
+bir kadın gördüm orada.
+
+165
+00:26:52,361 --> 00:26:54,693
+Bir saniye, bayım.
+
+166
+00:27:05,916 --> 00:27:08,578
+Efendim, kız kardeşimin
+yardıma ihtiyacı var.
+
+167
+00:27:09,920 --> 00:27:12,081
+Neyin var?
+Adın ne, canım?
+
+168
+00:27:12,172 --> 00:27:13,457
+Adı Victoria Hardy.
+
+169
+00:27:13,549 --> 00:27:14,664
+Ne oldu, Victoria? 
+
+170
+00:27:14,758 --> 00:27:16,965
+Kötü bir şey mi oldu?
+- Tuz ruhu içti.
+
+171
+00:27:17,052 --> 00:27:18,633
+Annemiz dışarıda.
+
+172
+00:27:19,513 --> 00:27:22,095
+Tuz ruhu mu?
+Aman Tanrım... Memur bey!
+
+173
+00:27:22,182 --> 00:27:24,468
+- Ölecek mi?
+- Memur bey!
+
+174
+00:27:24,560 --> 00:27:27,134
+Düzeleceksin, canım.
+Gel bir bakayım sana.
+
+175
+00:27:33,402 --> 00:27:34,608
+Memur bey!
+
+176
+00:27:47,249 --> 00:27:49,581
+<i>Hayır!
+
+177
+00:27:52,382 --> 00:27:54,082
+<i>Yavrum!
+
+178
+00:28:52,147 --> 00:28:53,478
+Merhaba.
+
+179
+00:28:54,191 --> 00:28:56,022
+Bayan Fisher?
+
+180
+00:29:32,771 --> 00:29:35,846
+Geç oluyor.
+Londra trenini kaçıracaksınız.
+
+181
+00:29:37,943 --> 00:29:39,524
+Henüz gidemem.
+
+182
+00:29:40,779 --> 00:29:43,521
+Lütfen Eel Bataklığı Evi'ne
+bir daha gitmeyin.
+
+183
+00:29:43,907 --> 00:29:44,896
+Neden?
+
+184
+00:29:46,076 --> 00:29:47,369
+Bay Kipps...
+
+185
+00:29:48,470 --> 00:29:50,070
+...bir oğlunuz olduğunu söylediniz.
+
+186
+00:29:50,163 --> 00:29:51,653
+Evet.
+
+187
+00:29:52,374 --> 00:29:54,239
+Onun yanına dönün.
+
+188
+00:29:54,751 --> 00:29:56,243
+Onu bağrınıza basın.
+
+189
+00:29:56,744 --> 00:29:58,244
+Sevin onu.
+
+190
+00:30:00,173 --> 00:30:02,710
+Sevmeseydim burada olmazdım.
+
+191
+00:30:16,398 --> 00:30:18,764
+- Bay Kipps.
+- Bay Daily.
+
+192
+00:30:20,277 --> 00:30:21,858
+- Gelmenize çok memnun oldum.
+- Bilmukabele.
+
+193
+00:30:21,945 --> 00:30:25,062
+Ben de oğlum Nicholas'a
+iyi geceler diliyordum.
+
+194
+00:30:26,158 --> 00:30:27,944
+Başınız sağ olsun, Bay Daily.
+
+195
+00:30:28,035 --> 00:30:29,525
+Uzun zaman oldu.
+
+196
+00:30:30,912 --> 00:30:33,949
+Karım ve benim için de
+bir yer hazırladık orada.
+
+197
+00:30:34,041 --> 00:30:37,579
+Böylece bir gün
+hep birlikte olacağız. Gelin.
+
+198
+00:30:39,379 --> 00:30:42,337
+Köydeki kıza olanları duydum.
+
+199
+00:30:42,424 --> 00:30:45,040
+Korkunç bir olay.
+Siz iyi misiniz?
+
+200
+00:30:46,386 --> 00:30:47,592
+Evet.
+
+201
+00:30:49,097 --> 00:30:51,053
+Karımın haberi yok...
+
+202
+00:30:51,141 --> 00:30:54,599
+...ve bu konuyu açmazsanız 
+çok sevinirim.
+
+203
+00:30:55,103 --> 00:30:57,810
+Mümkünse çocuk konusunu 
+hiç açmasanız...
+
+204
+00:30:57,898 --> 00:30:59,559
+...daha iyi olur.
+
+205
+00:31:01,651 --> 00:31:03,687
+Şimdi sizin yaşlarınızda olacaktı.
+
+206
+00:31:03,779 --> 00:31:05,644
+<i>Sağ ol, Archer.
+
+207
+00:31:09,785 --> 00:31:11,241
+Teşrif ettin, hayatım.
+
+208
+00:31:11,328 --> 00:31:13,572
+Bay Kipps, sizinle tanışmak için
+sabırsızlanıyordum.
+
+209
+00:31:13,663 --> 00:31:16,029
+Çok pejmürde görünüyor olmalıyım,
+kusura bakmayın.
+
+210
+00:31:16,124 --> 00:31:18,240
+Kalacak bir yer bulamadım da.
+
+211
+00:31:18,335 --> 00:31:21,372
+O hâlde bizimle kalsın,
+değil mi Samuel?
+
+212
+00:31:21,463 --> 00:31:22,873
+Elbette, hayatım.
+
+213
+00:31:23,215 --> 00:31:25,206
+- Arthur.
+- Teşekkür ederim.
+
+214
+00:31:26,134 --> 00:31:28,546
+İkizler bu akşam bizimle yemeyecek,
+Archer.
+
+215
+00:31:28,637 --> 00:31:31,299
+Samuel, Bay Kipps 
+rahatsız olmaz eminim.
+
+216
+00:31:32,099 --> 00:31:33,430
+Elbette.
+
+217
+00:31:34,101 --> 00:31:35,261
+Emily!
+
+218
+00:31:37,687 --> 00:31:38,802
+<i>Teşekkür ederim.
+
+219
+00:31:38,897 --> 00:31:40,387
+İşte geldiler.
+
+220
+00:31:40,482 --> 00:31:42,894
+Bay Kipps'e "merhaba" deyin bakalım.
+
+221
+00:31:44,194 --> 00:31:45,900
+Merhaba.
+
+222
+00:31:45,987 --> 00:31:47,648
+Teşekkür ederim, Archer.
+
+223
+00:31:54,454 --> 00:31:55,569
+Oturun.
+
+224
+00:31:57,999 --> 00:31:59,239
+Evli misiniz, Bay Kipps?
+
+225
+00:31:59,334 --> 00:32:02,326
+Hızlı yeme bakayım, çok ayıp.
+
+226
+00:32:02,963 --> 00:32:05,170
+- Çocuğunuz var mı?
+- Bir oğlum var.
+
+227
+00:32:05,257 --> 00:32:06,918
+Ne güzel...
+
+228
+00:32:07,008 --> 00:32:08,999
+Sonunuz bizim gibi olmaz umarım.
+
+229
+00:32:10,846 --> 00:32:14,088
+İlçenin en varlıklı ailesiyiz
+fakat mirasımızı bırakacak kimsemiz yok.
+
+230
+00:32:16,643 --> 00:32:18,679
+- Nicholas'tan bahsettin mi?
+- Elizabeth...
+
+231
+00:32:19,271 --> 00:32:20,852
+Bu o.
+
+232
+00:32:22,232 --> 00:32:25,520
+Ben yapmıştım. Yağlı boya 
+ve kara kalemle aram çok iyidir.
+
+233
+00:32:25,944 --> 00:32:27,354
+Çok güzel görünüyor.
+
+234
+00:32:27,904 --> 00:32:30,065
+Nicholas da resim yapmayı severdi.
+
+235
+00:32:33,618 --> 00:32:36,238
+- Hâlâ da seviyor.
+- Elizabeth, yapma lütfen.
+
+236
+00:32:38,248 --> 00:32:40,239
+Size bir resim çizmek istiyor.
+
+237
+00:32:41,293 --> 00:32:42,373
+Elizabeth.
+
+238
+00:32:44,254 --> 00:32:45,710
+Elizabeth, yapma!
+
+239
+00:32:50,510 --> 00:32:51,716
+Elizabeth!
+
+240
+00:32:53,138 --> 00:32:54,924
+Archer, ilacı getir!
+
+241
+00:32:55,015 --> 00:32:57,051
+- Hayır, hayır!
+- İlaç!
+
+242
+00:32:59,102 --> 00:33:00,842
+Hayır, hayır.
+
+243
+00:33:21,791 --> 00:33:24,203
+Biriyle görüşmesi ona iyi gelir
+sanmıştım.
+
+244
+00:33:24,294 --> 00:33:26,376
+Lütfen, hiç önemi yok.
+
+245
+00:33:26,463 --> 00:33:31,082
+Oğlumuzun onun vasıtasıyla konuştuğuna
+inanmış durumda.
+
+246
+00:33:33,345 --> 00:33:36,758
+Ruhani olaylara inanmıyorsun,
+değil mi?
+
+247
+00:33:38,558 --> 00:33:40,549
+İnanmazdım.
+
+248
+00:33:41,686 --> 00:33:45,019
+Ama karım öldüğünden beri, 
+emin değilim.
+
+249
+00:33:45,106 --> 00:33:47,597
+Affedersin, bilmiyordum.
+
+250
+00:33:50,111 --> 00:33:54,775
+Bazen hâlâ benimleymiş gibi
+hissediyorum.
+
+251
+00:33:56,910 --> 00:33:58,992
+Bazen...
+
+252
+00:34:00,205 --> 00:34:02,867
+...yanımda gibi hissediyorum.
+Odada gibi.
+
+253
+00:34:04,543 --> 00:34:06,659
+Bana ulaşmaya çalışıyor gibi.
+
+254
+00:34:07,087 --> 00:34:08,748
+Dikkatli ol lütfen, Arthur.
+
+255
+00:34:08,838 --> 00:34:10,271
+Ruh çağırma seanslarıyla...
+
+256
+00:34:10,359 --> 00:34:14,545
+...ölülerle iletişime geçtiğini söyleyen 
+bu şarlatanlar...
+
+257
+00:34:14,636 --> 00:34:17,252
+...en çok da bu konuda zayıf olanlardan
+faydalanıyorlar.
+
+258
+00:34:17,347 --> 00:34:19,508
+Yarardan ziyade
+zararları dokunuyor.
+
+259
+00:34:20,559 --> 00:34:23,221
+Yaptıkları en kötü şey
+hayal kırıklığı yaratmak bence.
+
+260
+00:34:25,730 --> 00:34:27,561
+Aramaya devam etmek zorundayım.
+
+261
+00:34:29,526 --> 00:34:33,439
+Bu kadar genç yaştaki birini kaybetmek
+kolay bir şey değil.
+
+262
+00:34:35,448 --> 00:34:38,485
+Fakat kendimizi hurafelere kaptırırsak
+bu bizi nereye vardırır ki?
+
+263
+00:34:40,328 --> 00:34:43,035
+Gölgeleri kovalamaktan
+başka bir şey değil bu, Arthur.
+
+264
+00:34:44,833 --> 00:34:46,824
+Öldüğümüz zaman yukarı çıkarız.
+
+265
+00:34:48,003 --> 00:34:49,709
+Burada kalmayız.
+
+266
+00:35:22,078 --> 00:35:24,666
+<i>Hadi, hadi.
+
+267
+00:35:25,267 --> 00:35:26,767
+<i>Yat bakayım.
+
+268
+00:35:46,168 --> 00:35:47,668
+Salı
+
+269
+00:35:47,669 --> 00:35:49,769
+Çarşamba
+
+270
+00:36:12,712 --> 00:36:15,291
+Evrak işlerini halletmezsem
+işimi kaybedeceğim.
+
+271
+00:36:15,632 --> 00:36:19,045
+Jerome biraz yardım etse
+oğlumun yanına gideceğim hemen.
+
+272
+00:36:19,928 --> 00:36:22,340
+Jerome'un pek yardımcı olacağını
+sanmıyorum.
+
+273
+00:36:32,941 --> 00:36:34,226
+Burada bekle, Spider.
+
+274
+00:36:42,283 --> 00:36:43,648
+Bay Jerome.
+
+275
+00:37:33,418 --> 00:37:34,749
+<i>Git buradan!
+
+276
+00:37:35,920 --> 00:37:37,126
+Sana zarar vermeyeceğim.
+
+277
+00:37:37,213 --> 00:37:39,124
+Victoria Hardy'yi öldürdün sen!
+
+278
+00:37:40,008 --> 00:37:41,464
+<i>Uzak dur benden!
+
+279
+00:37:41,551 --> 00:37:42,711
+<i>Git!
+
+280
+00:37:43,178 --> 00:37:46,545
+<i>Git! Git!
+
+281
+00:37:49,225 --> 00:37:50,806
+Neler oluyor yahu?
+
+282
+00:37:50,894 --> 00:37:52,259
+Tamamen saçmalık.
+
+283
+00:37:52,979 --> 00:37:54,810
+Eve gidelim.
+
+284
+00:38:07,202 --> 00:38:10,701
+- Sana git dediğimiz zaman
+gitmeliydin buradan! - John.
+
+285
+00:38:10,789 --> 00:38:12,620
+Adamın kızı öldü.
+
+286
+00:38:14,375 --> 00:38:15,706
+Gördün!
+
+287
+00:38:16,377 --> 00:38:18,743
+Evdeki kadını görmüşsün.
+
+288
+00:38:19,464 --> 00:38:22,126
+Tanrı aşkına, 
+evine götürün onu.
+
+289
+00:38:22,217 --> 00:38:23,627
+Bu yaptığınızın 
+hiçbir yararı yok ona.
+
+290
+00:38:24,469 --> 00:38:26,255
+Bu saçma hurafeleriniz yok mu...
+
+291
+00:38:28,056 --> 00:38:30,964
+Oğlunu da o saçma hurafeler mi
+öldürdü sence?!
+
+292
+00:38:41,653 --> 00:38:42,984
+Tamam.
+
+293
+00:38:44,072 --> 00:38:46,063
+Onu istasyona götürüyorum.
+
+294
+00:39:10,014 --> 00:39:11,754
+Onlara aldırış etme.
+
+295
+00:39:11,850 --> 00:39:13,431
+Orta çağda kalmışlar hâlâ.
+
+296
+00:39:13,518 --> 00:39:15,884
+Ama evde birini gördüm gerçekten.
+
+297
+00:39:15,979 --> 00:39:20,097
+İnan bana, Arthur. Orası
+dünyadan kopmuş garip bir yer sadece.
+
+298
+00:39:20,900 --> 00:39:23,733
+Ev satılır satılmaz...
+
+
+299
+00:39:23,820 --> 00:39:26,402
+...insanlar da 
+hayatına devam edebilecek. Al.
+
+300
+00:39:26,489 --> 00:39:28,400
+Bununla idare edersin.
+
+301
+00:39:30,827 --> 00:39:33,443
+Sular 11 gibi çekilecek,
+o zaman seni almaya gelirim.
+
+302
+00:39:33,538 --> 00:39:34,698
+Gerek yok.
+
+303
+00:39:34,789 --> 00:39:36,325
+Gece çalışmak istiyorum.
+
+304
+00:39:38,793 --> 00:39:42,460
+Köpeği de al o zaman.
+İn bakayım, kızım.
+
+305
+00:39:44,966 --> 00:39:46,422
+Yalnız kalmamış olursun.
+
+306
+00:39:47,093 --> 00:39:49,300
+Gölgeleri kovalama, Arthur.
+
+307
+00:43:55,301 --> 00:43:57,701
+"Cehenneme git, fahişe."
+
+308
+00:44:02,702 --> 00:44:05,702
+"Beni mezara sokamayacak."
+
+309
+00:44:15,303 --> 00:44:19,203
+"Git buradan.
+Yüce Tanrım, koru bizi."
+
+310
+00:44:24,404 --> 00:44:25,804
+"Tanrı beni korur."
+
+311
+00:45:12,105 --> 00:45:15,405
+Alice ve Charles Drablow'un Biricik Oğulları
+Nathaniel Drablow'un Anısına
+
+312
+00:45:37,406 --> 00:45:40,406
+Alice Drablow'un Sevgili Kardeşi
+Jennet Humfrye
+
+313
+00:45:40,407 --> 00:45:43,407
+Şimdi Tanrı'nın Yanında
+
+314
+00:47:42,008 --> 00:47:44,908
+Sevgili Nathaniel, 1. yaş günün kutlu
+olsun. Sevgiler, annen.
+
+315
+00:47:54,580 --> 00:47:55,945
+"Sevgili Alice.
+
+316
+00:47:56,040 --> 00:47:59,373
+"Bana oğlumdan vazgeçmek dışında
+bir şans bırakmadınız.
+
+317
+00:47:59,460 --> 00:48:01,445
+"Doktorlarınıza, 
+evladımı yetiştirmeye...
+
+318
+00:48:01,536 --> 00:48:03,828
+"...psikolojik olarak uygun olmadığımı 
+söylettirdikten sonra...
+
+319
+00:48:03,923 --> 00:48:05,208
+"...elimden ne gelir ki?
+
+320
+00:48:05,800 --> 00:48:07,415
+"Charles'la onu benden alabilirsiniz...
+
+321
+00:48:07,510 --> 00:48:09,091
+"...ama o benim oğlum.
+
+322
+00:48:09,178 --> 00:48:12,420
+"Benim oğlum.
+Asla sizin olmayacak.
+
+323
+00:48:13,140 --> 00:48:14,220
+Jennet."
+
+324
+00:48:22,321 --> 00:48:24,221
+Evlat edinen ailenin
+adı ve soyadı:
+
+325
+00:48:24,222 --> 00:48:26,722
+Bay Charles Drablow
+ve Bayan Alice Drablow.
+
+326
+00:48:26,723 --> 00:48:30,123
+Öz annenin adı:
+Bayan Jennet Humfrye.
+
+327
+00:48:34,537 --> 00:48:35,743
+"Sevgili Alice.
+
+328
+00:48:35,830 --> 00:48:39,072
+"Öz kız kardeşimin,
+oğlumu ziyaret etme isteğimi redderek...
+
+329
+00:48:39,166 --> 00:48:44,539
+"...bana ettiği bu ihanetin ağırlığını
+anlatmakta, kelimeler kifayetsiz kalıyor.
+
+330
+00:48:44,630 --> 00:48:47,042
+"Doğum günü kartlarımı bile
+vermiyorsun ona.
+
+331
+00:48:47,133 --> 00:48:49,048
+"Bunu çocuğun iyiliği için değil...
+
+332
+00:48:49,142 --> 00:48:52,509
+"...bana acı çektirmek adına
+yaptığına inanmaya başladım artık.
+
+333
+00:48:52,596 --> 00:48:54,712
+"O benim oğlum.
+
+334
+00:48:54,807 --> 00:48:57,514
+Onu görmeme izin vermezsen 
+başka bir yolunu bulacağım."
+
+335
+00:49:14,510 --> 00:49:19,157
+"Kendi derdine düşüp
+onu kurtarmaya çalışmamışsın bile.
+
+336
+00:49:19,248 --> 00:49:24,208
+"Doğru düzgün bir cenaze töreni bile
+yapmadınız. Batağın içinde bıraktınız öyle.
+
+337
+00:49:25,797 --> 00:49:27,797
+Bataklıkta boğulmuş.
+Cesedi bulunamadı.
+
+338
+00:49:27,798 --> 00:49:30,164
+"Ölümünden sen sorumlusun.
+
+339
+00:49:31,343 --> 00:49:34,176
+"Seni asla affetmeyeceğim.
+
+340
+00:49:34,263 --> 00:49:36,299
+Cehennemde çürü sen de."
+
+341
+00:49:49,500 --> 00:49:51,700
+Ölüm Belgesi
+Bayan Jennet Humfrye - Yaş: 30
+
+342
+00:49:54,001 --> 00:49:58,001
+İntihar. Eel Bataklığı Evi'ndeki
+çocuk odasının kirişine asılı bulundu.
+
+343
+00:51:15,656 --> 00:51:17,897
+<i>O asla senin olmayacak.
+
+344
+00:56:24,498 --> 00:56:26,898
+ONU KURTARABİLİRDİN
+
+345
+00:58:38,098 --> 00:58:39,087
+Kim var orada?
+
+346
+01:03:48,825 --> 01:03:50,816
+Bana inanmıyorsun, değil mi?
+
+347
+01:03:52,245 --> 01:03:56,534
+Bence en mantıklı insanların aklı bile
+karanlıkta karışabilir.
+
+348
+01:03:58,126 --> 01:04:00,786
+Onları gördüm, Sam.
+
+349
+01:04:01,387 --> 01:04:03,387
+Kadını ve oğlunu.
+
+350
+01:04:04,466 --> 01:04:07,003
+Çocuk bataklıkta kayboldu.
+
+351
+01:04:07,844 --> 01:04:09,835
+Cesedini hiçbir zaman bulamadılar.
+
+352
+01:04:12,223 --> 01:04:13,884
+Onları gördüm.
+
+353
+01:04:21,733 --> 01:04:22,722
+Aman Tanrım.
+
+354
+01:04:27,822 --> 01:04:29,983
+Hayır, hayır!
+
+355
+01:04:34,954 --> 01:04:36,364
+Lucy!
+
+356
+01:04:39,084 --> 01:04:40,790
+Lucy!
+
+357
+01:04:41,628 --> 01:04:42,913
+Arthur!
+
+358
+01:04:44,381 --> 01:04:45,746
+- Dur! Dur!
+- Arthur!
+
+359
+01:04:45,840 --> 01:04:47,125
+Arthur!
+
+360
+01:05:14,619 --> 01:05:15,699
+Dur orada!
+
+361
+01:05:15,787 --> 01:05:17,448
+Gelip alacağım seni.
+
+362
+01:05:28,133 --> 01:05:29,418
+Yapma!
+
+363
+01:07:14,322 --> 01:07:15,687
+Arthur?
+
+364
+01:07:19,202 --> 01:07:20,908
+Al.
+
+365
+01:07:33,132 --> 01:07:37,672
+Jeromelar'ın çocuklarını kaybettiği zamanı
+hatırlıyorum da.
+
+366
+01:07:40,390 --> 01:07:45,225
+Bir çocuk daha yapmaya
+karar vermişlerdi.
+
+367
+01:07:47,105 --> 01:07:49,471
+Onu korumak için kilitlemişlerdi.
+
+368
+01:07:52,026 --> 01:07:53,857
+Kaybettiğinin yerine konmuyor asla.
+
+369
+01:07:53,945 --> 01:07:55,731
+O kadın oradaydı, Sam.
+
+370
+01:08:01,786 --> 01:08:02,992
+Yorgunsun.
+
+371
+01:08:03,705 --> 01:08:05,320
+Dinlen biraz.
+
+372
+01:08:23,121 --> 01:08:25,621
+Cuma
+
+373
+01:08:58,760 --> 01:09:01,467
+Ona ne olmuştu, Bayan Daily?
+
+374
+01:09:03,222 --> 01:09:06,009
+Sahilde arkadaşlarıyla oynuyordu.
+
+375
+01:09:06,100 --> 01:09:09,592
+Sular birdenbire yükselip
+onları çekmiş olmalı dediler.
+
+376
+01:09:17,278 --> 01:09:19,485
+O kadını gördün, değil mi?
+
+377
+01:09:21,157 --> 01:09:23,273
+Bu sabahki yangında oradaydı.
+
+378
+01:09:24,911 --> 01:09:26,776
+Her zaman oradadır.
+
+379
+01:09:29,332 --> 01:09:31,414
+Kendini suçlama.
+
+380
+01:09:32,585 --> 01:09:35,372
+- Neden kendimi suçlayayım ki?
+- Diğerlerini dinlemediğin için.
+
+381
+01:09:35,463 --> 01:09:37,579
+O evden uzak durmadığın için.
+
+382
+01:09:38,424 --> 01:09:40,585
+Ne?
+Anlamıyorum.
+
+383
+01:09:43,096 --> 01:09:45,257
+Ne zaman görülse...
+
+384
+01:09:46,641 --> 01:09:50,225
+...geçitte olsun, bataklıkta olsun,
+evin arazisinde olsun...
+
+385
+01:09:50,311 --> 01:09:52,848
+...bir anlık da olsa,
+kim görmüş olursa olsun...
+
+386
+01:09:53,314 --> 01:09:57,853
+...her daim kesin 
+ve belli bir sonuç yaşanıyor.
+
+387
+01:09:57,944 --> 01:09:59,104
+Nedir?
+
+388
+01:10:00,655 --> 01:10:04,398
+Çok acı ve dehşet verici bir şekilde...
+
+389
+01:10:04,492 --> 01:10:06,107
+...bir çocuk ölür.
+
+390
+01:10:06,202 --> 01:10:08,784
+Birçok çocuk...
+
+391
+01:10:09,330 --> 01:10:11,321
+Birçok çocuk.
+
+392
+01:10:11,791 --> 01:10:13,734
+Fisherlar'ın kızı ve...
+
+393
+01:10:14,535 --> 01:10:17,835
+...Jerome'un büyük kızı,
+Keckwick'in oğlu...
+
+394
+01:10:18,429 --> 01:10:21,459
+...benim Nicholas'ım.
+- Nasıl olur?
+
+395
+01:10:22,635 --> 01:10:24,250
+Bayan Daily?
+
+396
+01:10:26,472 --> 01:10:28,258
+Bayan Daily?
+
+397
+01:10:30,435 --> 01:10:32,801
+Bizi o zorluyor!
+
+398
+01:10:32,895 --> 01:10:34,886
+Zorla yaptırıyor!
+
+399
+01:10:34,981 --> 01:10:37,814
+<i>Zorla yaptırıyor.
+
+400
+01:10:37,900 --> 01:10:40,312
+<i>Onun oğlunu ondan aldıkları için...
+
+401
+01:10:40,403 --> 01:10:42,860
+<i>...o da bizi alıyor.
+
+402
+01:10:57,462 --> 01:10:58,998
+Seni görmüş.
+
+403
+01:10:59,505 --> 01:11:01,496
+Seni görmüş.
+
+404
+01:11:03,176 --> 01:11:04,256
+Geliyor!
+
+405
+01:11:05,511 --> 01:11:07,297
+Geliyor!
+
+406
+01:11:13,895 --> 01:11:15,931
+- Elizabeth!
+- Sam!
+
+407
+01:11:16,814 --> 01:11:18,520
+- Sam!
+- Elizabeth!
+
+408
+01:11:19,192 --> 01:11:20,978
+Elizabeth! Dur!
+
+409
+01:11:29,494 --> 01:11:30,483
+Elizabeth.
+
+410
+01:11:40,046 --> 01:11:41,411
+Joseph.
+
+411
+01:11:46,594 --> 01:11:48,255
+Telgrafı hemen çekersek...
+
+412
+01:11:48,346 --> 01:11:50,177
+...onlar trene binmeden 
+ellerinde olur.
+
+413
+01:11:50,264 --> 01:11:52,129
+Ufacık da olsa bu hikâyelerin
+doğruluğundan korkuyorsan...
+
+414
+01:11:52,225 --> 01:11:56,092
+...neden beni Eel Bataklığı Evi'ne
+götürdün? - Ama asla inanmadım ki.
+
+415
+01:11:56,187 --> 01:11:57,597
+İnanmak istememişsin.
+
+416
+01:11:57,688 --> 01:11:59,770
+- Arada fark var.
+- Başka şansım yoktu, Arthur.
+
+417
+01:11:59,857 --> 01:12:02,143
+Ya Nicholas iyi bir yerde...
+
+418
+01:12:02,235 --> 01:12:04,226
+...bir gün bir araya gelmemizi bekliyor 
+diye düşünecektim...
+
+419
+01:12:04,320 --> 01:12:05,560
+...ya da kayboldu diye.
+
+420
+01:12:05,655 --> 01:12:07,316
+Sen hangisine inanmayı seçerdin?
+
+421
+01:12:07,406 --> 01:12:10,239
+Kusura bakma, Sam ama 
+benim oğlum hayatta...
+
+422
+01:12:10,326 --> 01:12:11,832
+...ve buraya gelmek üzere.
+
+423
+01:12:15,333 --> 01:12:17,433
+Telgraf Çekilir
+
+424
+01:12:17,583 --> 01:12:19,164
+Olamaz.
+
+425
+01:12:20,378 --> 01:12:23,085
+Sonraki köy
+bir saatlik uzaklıkta.
+
+426
+01:12:24,382 --> 01:12:26,213
+O zamana kadar 
+yola çıkmış olurlar.
+
+427
+01:12:29,554 --> 01:12:32,261
+Sular kaçta çekilecek?
+
+428
+01:12:32,348 --> 01:12:34,339
+Beşte.
+Neden?
+
+429
+01:12:36,519 --> 01:12:38,976
+Jennet Humfye'yle oğlunu
+bir araya getirebilirsek...
+
+430
+01:12:39,063 --> 01:12:41,850
+...sonunda huzura kavuşur belki.
+
+431
+01:12:41,941 --> 01:12:44,523
+Çocuğun cesedi asla bulunamadı,
+Arthur.
+
+432
+01:12:44,610 --> 01:12:46,976
+Ama sende onlarda olmayan
+bir şey var.
+
+433
+01:14:08,069 --> 01:14:09,309
+Arthur?
+
+434
+01:14:26,587 --> 01:14:28,047
+Sam, hissediyorum!
+
+435
+01:14:29,848 --> 01:14:31,548
+Ayağımın altında.
+
+436
+01:14:32,134 --> 01:14:35,376
+İpi bağlayacağım, bekle.
+
+437
+01:14:35,805 --> 01:14:37,045
+Dikkatli ol.
+
+438
+01:15:05,084 --> 01:15:06,915
+Arthur?
+
+439
+01:15:09,005 --> 01:15:10,666
+Aman Tanrım!
+
+440
+01:15:49,628 --> 01:15:50,788
+Sür arabayı!
+
+441
+01:16:00,556 --> 01:16:03,471
+- Durma!
+- Tekerlek çamura saplandı!
+
+442
+01:16:14,737 --> 01:16:15,772
+Çocuğu buldum.
+
+443
+01:16:24,997 --> 01:16:26,487
+Biraz daha ileri gidebilir misin?
+
+444
+01:16:30,628 --> 01:16:32,744
+Motor çok ısındı!
+
+445
+01:16:33,923 --> 01:16:35,629
+Hadi.
+
+446
+01:16:38,177 --> 01:16:40,168
+Sam, hadi!
+Batıyor!
+
+447
+01:16:48,020 --> 01:16:49,385
+Acele et!
+
+448
+01:16:58,447 --> 01:17:00,062
+Gel, gel.
+
+449
+01:17:33,983 --> 01:17:36,941
+Onu gömelim hadi, Arthur.
+
+450
+01:17:37,027 --> 01:17:38,892
+Kapatalım bu defteri.
+
+451
+01:17:40,114 --> 01:17:41,399
+Sam.
+
+452
+01:17:42,741 --> 01:17:44,732
+Önce yapmam gereken bir şey var.
+
+453
+01:17:46,203 --> 01:17:47,818
+Kaybolmuşlar.
+
+454
+01:17:51,125 --> 01:17:53,161
+Birbirlerini bulmaları gerekiyor.
+
+455
+01:18:51,894 --> 01:18:53,634
+Az kaldı.
+
+456
+01:20:17,187 --> 01:20:18,768
+Hadi.
+
+457
+01:20:42,546 --> 01:20:43,786
+Nicholas?
+
+458
+01:21:15,621 --> 01:21:16,610
+Baba?
+
+459
+01:21:28,467 --> 01:21:29,456
+Arthur!
+
+460
+01:23:39,723 --> 01:23:40,929
+Arthur.
+
+461
+01:23:48,106 --> 01:23:50,188
+Gitti sanırım.
+
+462
+01:24:26,228 --> 01:24:27,764
+Sağ ol.
+
+463
+01:25:38,508 --> 01:25:42,717
+<i>Oğlumun ölümüne göz yumduğun için
+seni asla affetmeyeceğim.
+
+464
+01:25:42,804 --> 01:25:45,671
+<i>Asla affetmeyeceğim.
+
+465
+01:25:45,766 --> 01:25:48,052
+<i>Asla affetmeyeceğim.
+
+466
+01:25:49,561 --> 01:25:53,304
+<i>Asla affetmeyeceğim.
+Asla affetmeyeceğim.
+
+467
+01:25:53,982 --> 01:25:58,271
+<i>Asla affetmeyeceğim.
+Asla affetmeyeceğim.
+
+468
+01:26:06,078 --> 01:26:08,911
+Bir adım, iki adım.
+Aferin sana.
+
+469
+01:26:17,714 --> 01:26:19,545
+- Joseph!
+- Babacığım!
+
+470
+01:26:34,731 --> 01:26:37,143
+Joseph, bu arkadaşım Sam.
+
+471
+01:26:37,776 --> 01:26:39,812
+- Merhaba, Sam.
+- Merhaba, Joseph.
+
+472
+01:26:39,903 --> 01:26:41,109
+Tanıştığımıza memnun oldum.
+
+473
+01:26:42,155 --> 01:26:44,316
+Planlarda değişiklik oldu.
+Bu akşam burada kalmayacağız.
+
+474
+01:26:44,408 --> 01:26:45,773
+Londra'ya döneceğiz.
+
+475
+01:26:45,867 --> 01:26:49,610
+Bize bilet alır mısın?
+Yolda açıklarım.
+
+476
+01:26:52,666 --> 01:26:55,078
+Yola çıkmadan önce bizim evde 
+dinlenmek istemediğine emin misin?
+
+477
+01:26:55,168 --> 01:26:58,710
+- Evet, eve dönmek istiyorum.
+- Anlıyorum.
+
+478
+01:26:59,631 --> 01:27:02,464
+Londra treni için
+üç bilet istiyorum lütfen.
+
+479
+01:27:03,218 --> 01:27:06,593
+- Elizabeth'le idare edebilecek misiniz? 
+- Tabii.
+
+480
+01:27:07,806 --> 01:27:09,842
+Londra'ya ziyaretimize gelin mutlaka.
+
+481
+01:27:09,933 --> 01:27:11,764
+Elizabeth çok sevinir.
+
+482
+01:28:38,063 --> 01:28:39,428
+Sam?
+
+483
+01:28:54,788 --> 01:28:57,905
+Baba, bu kadın kim?
+
+484
+01:29:08,677 --> 01:29:10,213
+Annen.
