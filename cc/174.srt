@@ -1,0 +1,5165 @@
+1
+00:00:20,658 --> 00:00:24,332
+Gene Roddenberry anısına
+
+2
+00:00:37,120 --> 00:00:43,320
+<b>UZAY YOLU 6
+Keşfedilmemiş Diyar</b>
+
+4
+00:03:34,498 --> 00:03:37,541
+<i>Yıldız tarihi 9521,6.</i>
+
+5
+00:03:38,126 --> 00:03:40,753
+<i>Kaptanın seyir defteri,  USS Görkemli.</i>
+
+6
+00:03:40,837 --> 00:03:42,797
+Komutan Hikari Sulu konuşuyor.
+
+7
+00:03:43,715 --> 00:03:44,840
+<i>3 yıl önce...</i>
+
+8
+00:03:44,925 --> 00:03:48,260
+<i>Geminin komutasını aldığımdan
+beri uğraştığım ilk görevim olan...</i>
+
+9
+00:03:48,345 --> 00:03:52,180
+<i>...Beta kadranının gaz biçimindeki gezegen
+anomalilerini kataloglama görevim bitti.</i>
+
+10
+00:03:54,309 --> 00:03:57,394
+<i>İticileri kullanarak yuvaya dönüyoruz.</i>
+
+11
+00:03:57,478 --> 00:04:00,439
+<i>Geminin ve mürettebatın
+performansından çok memnun kaldım.</i>
+
+12
+00:04:00,524 --> 00:04:04,693
+Bu raporla, bütün bölgedeki
+araştırmalarımızı tamamlamış olduk.
+
+13
+00:04:16,706 --> 00:04:19,291
+Sancak tarafında 240'a 6 koordinatlarından
+yaklaşan bir enerji dalgası var!
+
+14
+00:04:19,375 --> 00:04:20,543
+Ekrana ver!
+
+15
+00:04:22,504 --> 00:04:25,005
+Tanrım!
+
+16
+00:04:28,802 --> 00:04:30,427
+Zırh! Zırh!
+
+17
+00:04:41,106 --> 00:04:42,565
+Dümen yanıt vermiyor.
+
+18
+00:04:42,649 --> 00:04:44,817
+Sancak iticileri!
+Dalgayla aynı yöne çevirin.
+
+19
+00:04:44,901 --> 00:04:45,943
+Emredersiniz.
+
+20
+00:04:49,781 --> 00:04:51,323
+İticileri çalıştırın.
+
+21
+00:05:00,125 --> 00:05:01,332
+<i>Hasar raporu.</i>
+
+22
+00:05:01,418 --> 00:05:02,626
+-Tüm sistemler kontrol ediliyor. Kaptan
+
+23
+00:05:09,259 --> 00:05:11,010
+-Bu da meteor yağmuru değildir herhalde.
+
+24
+00:05:11,094 --> 00:05:12,303
+-Olumsuz, komutanım.
+
+25
+00:05:12,387 --> 00:05:17,141
+Kerterizi 323,75 olan bir
+alt-uzay şok dalgası.
+
+26
+00:05:17,225 --> 00:05:18,601
+Mevkii--
+
+27
+00:05:19,603 --> 00:05:21,604
+Praksis komutanım.
+Bir Klingon uydusu.
+
+28
+00:05:21,688 --> 00:05:24,940
+Praksis, Klingonların
+en büyük enerji üretim tesisidir.
+
+29
+00:05:27,777 --> 00:05:29,570
+Klingon Başkomutanlığına gönder.
+
+30
+00:05:29,654 --> 00:05:32,489
+"Bir Federasyon gemisi
+olan Görkemli konuşuyor.
+
+31
+00:05:32,908 --> 00:05:36,202
+Bölgede büyük bir patlama
+olduğunu tespit ettik.
+
+32
+00:05:36,453 --> 00:05:38,454
+Yardıma ihtiyacınız var mı?"
+
+33
+00:05:38,872 --> 00:05:41,373
+-Emredersiniz.
+-Bay Vultane, bir şeyler öğrenebildik mi?
+
+34
+00:05:41,457 --> 00:05:44,168
+Evet, Komutanım. -Kaynağın Praksis
+olduğunu doğruladım, fakat...
+
+35
+00:05:44,252 --> 00:05:45,461
+Ne?
+
+36
+00:05:46,213 --> 00:05:48,547
+...ama Praksis'i bulamıyorum.
+
+37
+00:05:48,632 --> 00:05:49,924
+-Ekrana verin.
+
+38
+00:05:51,384 --> 00:05:52,384
+<i>Büyüt.</i>
+
+39
+00:05:52,469 --> 00:05:54,011
+<i>-Görüntü iyileştiriliyor.</i>
+
+40
+00:05:57,057 --> 00:05:59,558
+-Praksis mi?
+-Geriye kalanlar.
+
+41
+00:05:59,643 --> 00:06:02,061
+Kaptanım, Praksis'ten
+bir mesaj alıyorum.
+
+42
+00:06:02,145 --> 00:06:03,646
+Dinleyelim.
+
+43
+00:06:16,701 --> 00:06:20,496
+<i>Ben Tuğgeneral Kerla.
+Başkomutanlık adına konuşuyorum.</i>
+
+44
+00:06:20,580 --> 00:06:24,124
+<i>Praksis'te küçük bir olay
+meydana geldiği doğrudur.</i>
+
+45
+00:06:24,209 --> 00:06:29,672
+<i>Ancak durum kontrol altındadır.
+Kesinlikle yardıma ihtiyacımız yoktur.</i>
+
+46
+00:06:29,923 --> 00:06:35,761
+<i>Anlaşma şartlarına uyun ve
+tarafsız bölgeyi ihlal etmeyin.</i>
+
+47
+00:06:36,763 --> 00:06:39,056
+<i>Mesajın sonu.</i>
+
+48
+00:06:41,518 --> 00:06:42,935
+-Küçük bir olay mı?
+
+49
+00:06:43,019 --> 00:06:46,146
+-Durumu rapor edecek miyiz?
+Dalga mı geçiyorsun?
+
+50
+00:06:53,655 --> 00:06:55,406
+-Burada ne işimiz var?
+
+51
+00:06:55,490 --> 00:06:57,449
+-Belki emekliliğimizi kutluyorlardır.
+
+52
+00:06:57,534 --> 00:07:00,619
+Bana uyar. Geçen gün tekne aldım.
+Durum ciddi herhalde.
+
+53
+00:07:00,704 --> 00:07:03,580
+Akademi'deki
+seminerimi yarıda kesmek zorunda kaldım.
+
+54
+00:07:03,665 --> 00:07:06,125
+-Kaptan, buraya en büyükbaşlar gelmez mi?
+
+55
+00:07:06,209 --> 00:07:07,793
+-Hepimiz buradaysak Sulu nerede?
+
+56
+00:07:07,877 --> 00:07:11,338
+Kaptan Sulu mu? Görevinin başında.
+Spock nerede esas?
+
+57
+00:07:20,098 --> 00:07:24,685
+Bu brifingde verilen bilgiler gizlidir.
+Hanımlar beyler, Genelkurmay Başkanımız.
+
+58
+00:07:30,984 --> 00:07:32,401
+Rahat.
+
+59
+00:07:36,031 --> 00:07:38,782
+Durumu tek cümleyle özetleyeceğim:
+
+60
+00:07:38,867 --> 00:07:42,578
+Klingon İmparatorluğu'nun yaklaşık
+olarak 50 yıllık ömrü kaldı.
+
+61
+00:07:43,621 --> 00:07:46,498
+Daha fazla detay
+vermesi için sözü...
+
+62
+00:07:46,582 --> 00:07:48,959
+...Federasyon delegesine bırakıyorum.
+
+63
+00:08:01,556 --> 00:08:03,015
+Günaydın.
+
+64
+00:08:03,433 --> 00:08:06,852
+İki ay önce bir Federasyon
+gemisi Praksis yakınlarında...
+
+65
+00:08:06,936 --> 00:08:09,021
+...bir patlamaya tanık oldu.
+
+66
+00:08:09,731 --> 00:08:11,815
+Patlamanın sebebinin
+plânsız madencilik ve...
+
+67
+00:08:11,900 --> 00:08:14,693
+...yetersiz güvenlik önlemleri
+olduğuna inanıyoruz.
+
+68
+00:08:14,778 --> 00:08:18,781
+Uydunun parçalanması, ozon
+tabakalarının kirlenmesi anlamına geliyor.
+
+69
+00:08:18,865 --> 00:08:20,991
+Dünya zaman ölçüsüyle
+50 yıl içinde...
+
+70
+00:08:21,076 --> 00:08:23,660
+...oksijenleri tükenmiş olacak.
+
+71
+00:08:25,121 --> 00:08:26,872
+Devasa askeri bütçeleri yüzünden...
+
+72
+00:08:26,956 --> 00:08:28,874
+...Klingon ekonomisi bu ebatta bir...
+
+73
+00:08:28,957 --> 00:08:31,627
+...felaketle başa çıkacak durumda değil.
+
+74
+00:08:32,837 --> 00:08:36,548
+Geçen ay, Vulkan büyükelçisinin emriyle...
+
+75
+00:08:36,633 --> 00:08:42,011
+...Klingon Yüksek Meclisi Şansölyesi
+Gorkon'la görüşmelere başladım.
+
+76
+00:08:42,889 --> 00:08:46,183
+Görüşmelere hemen
+başlamamızı istiyor.
+
+77
+00:08:46,684 --> 00:08:48,560
+Ne görüşmesiymiş bu?
+
+78
+00:08:49,687 --> 00:08:53,565
+Tarafsız Bölge sınırındaki
+istasyon ve üslerimizin sökülmesi...
+
+79
+00:08:53,650 --> 00:08:56,902
+...ve Klingonların artık altından kalkamadığı...
+
+80
+00:08:56,986 --> 00:09:00,030
+...70 yıllık düşmanlığa bir son verilmesi.
+
+81
+00:09:00,657 --> 00:09:04,201
+Bill, Yıldız Filosu'nu naftalinleyip
+rafa kaldırmaktan mı bahsediyorsun?
+
+82
+00:09:04,786 --> 00:09:07,663
+Keşif ve bilimsel programlarımız--
+
+83
+00:09:07,747 --> 00:09:10,999
+-etkilenmeyecek olsa da, Kaptan, fakat...
+İtiraz ediyorum!
+
+84
+00:09:11,084 --> 00:09:15,421
+Federasyon bölgesinin bir kısmını
+Klingonlara vermenin intihardan farkı yok.
+
+85
+00:09:15,505 --> 00:09:18,757
+Klingonlar galaksinin
+en niteliksiz mültecileridir.
+
+86
+00:09:18,842 --> 00:09:20,050
+Filoyu dağıtırsak...
+
+87
+00:09:20,212 --> 00:09:24,630
+...diğer saldırgan türlere
+karşı savunmasız kalırız.
+
+88
+00:09:25,348 --> 00:09:28,767
+Onlara diz çöktürmek için
+bir fırsat geçti elimize.
+
+89
+00:09:29,519 --> 00:09:33,689
+Diz çöktürdükten sonra şartları dikte
+etmek için daha avantajlı duruma geliriz.
+
+90
+00:09:34,274 --> 00:09:35,482
+-Komutanım--
+
+91
+00:09:36,443 --> 00:09:37,901
+-Kaptan Kirk.
+
+92
+00:09:38,027 --> 00:09:40,737
+Klingonlar hiçbir zaman
+güven telkin etmemişlerdir.
+
+93
+00:09:41,865 --> 00:09:44,116
+Amiral Cartwright'la hemfikirim.
+
+94
+00:09:44,200 --> 00:09:46,201
+Bu korkunç bir fikir.
+
+95
+00:09:46,494 --> 00:09:50,539
+Gorkon'un çabalarını desteklemek
+için hemen harekete geçmeliyiz...
+
+96
+00:09:50,874 --> 00:09:53,667
+...yoksa imparatorluğun
+içerisindeki daha tutucu çevreler...
+
+97
+00:09:53,751 --> 00:09:57,838
+...askeri çözüm önerilerinde bulunup
+ölene kadar savaşacaklar.
+
+98
+00:09:58,006 --> 00:10:01,341
+Sen, Kaptan Kirk, uzattığımız
+ilk zeytin dalı olacaksın.
+
+99
+00:10:03,011 --> 00:10:05,429
+Gorkon'u Dünya'ya
+getiren gemiyle buluşup,..
+
+100
+00:10:05,513 --> 00:10:07,806
+...Federasyon bölgesine gelene kadar...
+
+101
+00:10:07,891 --> 00:10:11,268
+...refakat etmek için gönüllü olduk.
+
+102
+00:10:11,352 --> 00:10:12,352
+Ben mi?
+
+103
+00:10:12,437 --> 00:10:15,689
+Barış anlaşması konusunda seninle
+aynı fikirde olan Klingonlar da var...
+
+104
+00:10:15,773 --> 00:10:18,275
+...Amiral Cartwright,...
+
+105
+00:10:19,235 --> 00:10:22,946
+...ama senin komutan altındaki
+Atılgan'a saldırmaları biraz sıkar.
+
+106
+00:10:23,031 --> 00:10:26,700
+Bu konuda sana bizzat kefil oldum.
+
+107
+00:10:26,910 --> 00:10:30,245
+Bana kefil mi--
+
+108
+00:10:31,039 --> 00:10:35,959
+Şansölye Gorkon'a diplomatik nezaket
+kuralları dâhilinde davranacaksın, kaptan.
+
+109
+00:10:36,044 --> 00:10:37,920
+Bir büyükelçi bu konuda--
+
+110
+00:10:38,046 --> 00:10:40,255
+-Başka soru yoksa...
+
+111
+00:10:40,840 --> 00:10:44,801
+...sana ve mürettebatına iyi yolculuklar
+dilerim. Teşekkürler, hanımlar ve beyler.
+
+112
+00:10:44,886 --> 00:10:47,596
+Toplantıda konuşulanların
+gizli olduğunu hatırlatırım.
+
+113
+00:10:54,103 --> 00:10:57,439
+Kutlayıp kutlamamak
+konusunda kararsızım, Jim.
+
+114
+00:10:58,733 --> 00:11:00,108
+Ben kutlamıyorum mesela.
+
+115
+00:11:04,155 --> 00:11:05,697
+Gönüllü mü olduk?
+
+116
+00:11:06,533 --> 00:11:11,662
+Çok eski bir Vulkan atasözü vardır.
+"Çin'e gitse gitse, Nixon gider."
+
+117
+00:11:12,539 --> 00:11:14,581
+Bana nasıl kefil olursun?
+
+118
+00:11:15,458 --> 00:11:18,126
+Böyle bir şeye nasıl cüret edersin?
+
+119
+00:11:18,545 --> 00:11:20,379
+-Görüşmeleri açmamı babam--
+
+120
+00:11:20,463 --> 00:11:23,340
+Babanın kim olduğunu biliyorum.
+Sen de...
+
+121
+00:11:23,424 --> 00:11:25,884
+...onlar hakkındaki fikirlerimi biliyorsun.
+
+122
+00:11:27,554 --> 00:11:28,595
+Hepsi hayvan.
+
+123
+00:11:28,680 --> 00:11:32,975
+-Jim elimize tarihi bir fırsat geçti.
+
+124
+00:11:33,142 --> 00:11:35,727
+-İnanmam! Güvenmem!
+
+125
+00:11:36,229 --> 00:11:38,814
+-Ölüyorlar.
+-Gebersinler!
+
+126
+00:11:41,985 --> 00:11:47,406
+Mürettebatın 3 ay sonra aktif hizmetten
+çekileceği aklına gelmedi mi?
+
+127
+00:11:47,657 --> 00:11:50,409
+Vazifemizi ziyadesiyle
+yerine getirdik.
+
+128
+00:11:51,077 --> 00:11:53,120
+Bana güvenmeliydin.
+
+129
+00:11:59,085 --> 00:12:03,088
+<i>Kontrol, burası SD103.
+Uzay limanına yaklaşıyoruz, tamam.</i>
+
+130
+00:12:03,172 --> 00:12:06,758
+<i>SD103, Kaptan Kirk ve mürettebatını...</i>
+
+131
+00:12:06,843 --> 00:12:10,512
+...NCC-1701A'ya götürebilirsiniz. Tamam.
+
+132
+00:12:15,893 --> 00:12:17,227
+-Dikkat! Kaptan Köprüde.
+
+133
+00:12:17,312 --> 00:12:20,397
+-Rahat, yüzbaşı.
+Val'eris, komutanım.
+
+134
+00:12:20,940 --> 00:12:23,609
+Dümenciye ihtiyacınız
+olduğu söylendi. Ben de gönüllü oldum.
+
+135
+00:12:23,693 --> 00:12:26,862
+Seni tekrar görmek
+mantık dâhilinde. Teğmen.
+
+136
+00:12:27,655 --> 00:12:29,948
+Akademi'den sınıf birincisi olarak...
+
+137
+00:12:30,033 --> 00:12:33,869
+...mezun olan ilk Vulkanlı.
+-Gurur duyuyorsundur herhalde.
+
+138
+00:12:33,953 --> 00:12:35,454
+-Duyuyorum diyemem.
+
+139
+00:12:35,538 --> 00:12:37,581
+Tam bir Vulkanlı.
+
+140
+00:12:37,665 --> 00:12:40,542
+İşe koyulalım.
+Tüm personel kalkış istasyonlarına.
+
+141
+00:12:41,502 --> 00:12:42,794
+<i>Scotty, -Evet Kaptan</i>
+
+142
+00:12:42,879 --> 00:12:44,129
+-Makine dairesini bulabildin mi?
+
+143
+00:12:44,213 --> 00:12:45,631
+-Elimle koymuş gibi.
+
+144
+00:12:45,715 --> 00:12:48,675
+Bekle. Uhura,
+rıhtım şefiyle bağlantı kur.
+
+145
+00:12:48,760 --> 00:12:50,969
+Kontrol kulesi
+seni dinliyor, komutanım.
+
+146
+00:12:51,054 --> 00:12:55,432
+Kontrol, burası Atılgan.
+Kalkış için izin istiyorum.
+
+147
+00:12:55,683 --> 00:12:59,061
+<i>Burası kontrol. Kalkış izni verilmiştir.</i>
+
+148
+00:12:59,145 --> 00:13:00,729
+Rıhtım kapılarının açılmasına 30 saniye.
+
+149
+00:13:00,813 --> 00:13:02,439
+-Tüm rıhtım bağlarını çözün.
+
+150
+00:13:02,523 --> 00:13:05,067
+-Rıhtım kapılarının açılmasını bekliyoruz.
+
+151
+00:13:05,401 --> 00:13:06,568
+<i>-Rıhtım bağları çözüldü.</i>
+
+152
+00:13:06,653 --> 00:13:08,320
+-Kıç jetleri.
+
+153
+00:13:08,404 --> 00:13:11,114
+Teşekkürler, yüzbaşı.
+Çeyrek yol ileri.
+
+154
+00:13:11,991 --> 00:13:15,160
+Kaptan, yönetmeliğe göre
+rıhtım dâhilinde...
+
+155
+00:13:15,244 --> 00:13:17,245
+...yalnız jetlere izin
+olduğunu hatırlatırım.
+
+156
+00:13:21,584 --> 00:13:22,876
+Jim--
+
+157
+00:13:25,421 --> 00:13:27,756
+Emri duydun, yüzbaşı.
+
+158
+00:13:28,633 --> 00:13:29,925
+Emredersiniz.
+
+159
+00:14:03,292 --> 00:14:06,712
+Kaptanın seyir defteri,
+yıldız tarihi 9522,6
+
+160
+00:14:07,463 --> 00:14:11,133
+Klingonlara hiçbir zaman güvenmedim,
+hiçbir zaman da güvenmeyeceğim.
+
+161
+00:14:15,930 --> 00:14:19,099
+Oğlumu öldürdükleri için
+onları hiçbir zaman affetmeyeceğim.
+
+162
+00:14:21,144 --> 00:14:24,187
+Klingon Yüksek Meclisi'nin şansölyesine...
+
+163
+00:14:24,272 --> 00:14:27,816
+...bir barış görüşmesine refakat görevi...
+
+164
+00:14:28,651 --> 00:14:30,652
+...içimde şüpheler uyandırıyor.
+
+165
+00:14:34,490 --> 00:14:36,825
+Spock, bunun tarihi bir olay
+olduğunu söylüyor.
+
+166
+00:14:36,909 --> 00:14:39,035
+Ona inanmak istiyorum.
+
+167
+00:14:39,412 --> 00:14:43,331
+Nasıl oluyor da tarih benim
+gibi insanları ezip geçiyor?
+
+168
+00:14:46,127 --> 00:14:47,294
+-Özür dilerim.
+
+169
+00:14:48,379 --> 00:14:49,588
+-Kapıyı çalsaydın keşke.
+
+170
+00:14:49,672 --> 00:14:53,633
+Toplanma noktasına varmak üzereyiz.
+Bilmek istersiniz diye düşündüm.
+
+171
+00:14:53,718 --> 00:14:54,885
+Tamam.
+
+172
+00:14:59,348 --> 00:15:03,393
+Açık konuşabilir miyim, komutanım?
+Sizinle birlikte hizmet vermek bir onur.
+
+173
+00:15:09,650 --> 00:15:12,694
+Uzay rıhtımından çıkarken gemiyi
+çok başarılı idare ettin, yüzbaşı.
+
+174
+00:15:13,362 --> 00:15:15,489
+Yapmayı hep istemişimdir.
+
+175
+00:15:25,875 --> 00:15:27,876
+İyi iş çıkardın, Val'eris.
+
+176
+00:15:28,211 --> 00:15:31,797
+Akademi masraflarını karşılayan kişi olarak...
+
+177
+00:15:31,881 --> 00:15:34,674
+...kariyerini tatmin duygularıyla izledim.
+
+178
+00:15:34,759 --> 00:15:39,054
+Bir Vulkanlı olarak beklentilerimi aştın.
+
+179
+00:15:40,807 --> 00:15:43,558
+Bu eseri anlayabilmiş değilim.
+
+180
+00:15:44,560 --> 00:15:47,604
+Antik Dünya mitolojisinden
+bir betimleme.
+
+181
+00:15:48,397 --> 00:15:50,524
+"Cennetten Kovulma."
+
+182
+00:15:51,067 --> 00:15:53,193
+-Kamaranızda ne işi var?
+
+183
+00:15:54,320 --> 00:15:57,155
+-Her şeyin sonunun olduğunu hatırlatıyor.
+
+184
+00:16:01,953 --> 00:16:05,205
+Ben de bu sonlar
+hakkında konuşmak istiyorum.
+
+185
+00:16:07,917 --> 00:16:11,044
+Bir soydaşınız olarak
+görüş belirtmek istiyorum.
+
+186
+00:16:12,421 --> 00:16:14,214
+Federasyon'un ilişkilerinde...
+
+187
+00:16:15,424 --> 00:16:19,594
+...bir dönüm noktasına gelmiş
+olduğumuzun farkında değil misiniz?
+
+188
+00:16:21,430 --> 00:16:25,267
+Tarihte bir sürü dönüm noktası vardır.
+
+189
+00:16:25,476 --> 00:16:28,436
+İnancını yitirmemelisin.
+-İnanç mı?
+
+190
+00:16:28,938 --> 00:16:31,773
+-Evrenin gereğini yapacağına dair.
+
+191
+00:16:32,441 --> 00:16:36,778
+-Bu mantıklı mı peki? Bizim de gereken--
+-Mantık, mantık, mantık.
+
+192
+00:16:38,573 --> 00:16:42,784
+Mantık, bilgeliğin başladığı yerdir,
+Val'eris...
+
+193
+00:16:43,160 --> 00:16:44,578
+...Bittiği yer değil.
+
+194
+00:16:46,998 --> 00:16:51,418
+Bu, mürettebatının bir parçası olarak
+bu gemiyle çıktığım son seferdir.
+
+195
+00:16:54,463 --> 00:16:57,048
+Boşluklar, doğanın
+mizacına terstir.
+
+196
+00:16:58,801 --> 00:17:00,886
+Yerimi almanı istiyorum.
+
+197
+00:17:09,979 --> 00:17:12,146
+Yüzünüzü kara çıkarmayacağım.
+
+198
+00:17:17,403 --> 00:17:20,238
+<i>Önemli duyuru.
+Tüm subaylar köprüye.</i>
+
+199
+00:17:20,323 --> 00:17:22,574
+<i>Klingon kruvazörü iskele
+yönünden yaklaşmaktadır.</i>
+
+200
+00:17:22,657 --> 00:17:24,534
+Tüm subaylar köprüye.
+
+201
+00:17:41,260 --> 00:17:43,053
+Dikkat!
+
+202
+00:17:57,360 --> 00:17:59,861
+Zırhı açalım mı, kaptan?
+
+203
+00:18:01,447 --> 00:18:03,323
+Hiç bu kadar yaklaşmamıştım.
+
+204
+00:18:05,701 --> 00:18:09,037
+Şansölyenin bizden
+sinyal beklediği aşikâr.
+
+205
+00:18:18,172 --> 00:18:21,049
+-Uhura, selamlama frekansını aç.
+-Emredersiniz.
+
+206
+00:18:21,550 --> 00:18:23,969
+Sancak tarafından yaklaşalım.
+Geminin yanında mevzilenelim.
+
+207
+00:18:24,053 --> 00:18:26,805
+Sancak tarafından yaklaşıyoruz.
+Z eksi beş derece.
+
+208
+00:18:27,056 --> 00:18:29,057
+Kanal açık, kaptan.
+
+209
+00:18:30,059 --> 00:18:31,768
+Burası, Kaptan James T. Kirk..
+
+210
+00:18:31,894 --> 00:18:34,229
+...komutasındaki Atılgan.
+
+211
+00:18:34,981 --> 00:18:37,065
+<i>Burası Kronos Bir.</i>
+
+212
+00:18:38,359 --> 00:18:40,235
+Ben de Şansölye Gorkon'um.
+
+213
+00:18:44,907 --> 00:18:47,158
+Şansöyle, Size, Dünya'daki görüşmelere kadar
+
+214
+00:18:47,243 --> 00:18:50,328
+eşlik etmekle görevlendirildim.
+
+215
+00:18:50,413 --> 00:18:52,122
+<i>Teşekkür ederim.</i>
+
+216
+00:18:52,665 --> 00:18:55,500
+Maiyetinizle birlikte Birleşmiş Gezegenler
+Federasyonu'nun konukları olarak...
+
+217
+00:18:55,584 --> 00:18:57,836
+...Atılgan'da subaylarımla birlikte akşam...
+
+218
+00:18:57,920 --> 00:19:00,922
+...yemeğinde bize katılır mısınız?
+
+219
+00:19:01,257 --> 00:19:04,926
+<i>Cömert teklifinizi kabul
+etmekten zevk duyarız.</i>
+
+220
+00:19:08,222 --> 00:19:12,017
+Saat 19.30'da sizi ışınlayacak
+şekilde hazırlıklara başlıyoruz.
+
+221
+00:19:12,101 --> 00:19:14,310
+<i>Sabırsızlıkla bekliyorum.</i>
+
+222
+00:19:21,610 --> 00:19:24,112
+Umarım mutlu olmuşsundur. Kaptan,
+
+223
+00:19:25,197 --> 00:19:27,615
+-Gemide Romulan birası mevcut.
+
+224
+00:19:27,700 --> 00:19:30,744
+Gecenin daha "pürüzsüz"
+geçmesini sağlayabilir.
+
+225
+00:19:31,537 --> 00:19:33,663
+İyi düşündün, yüzbaşı.
+
+226
+00:19:36,292 --> 00:19:38,418
+Yemeğe misafirimiz var.
+
+227
+00:19:50,056 --> 00:19:51,306
+Işınlayın.
+
+228
+00:20:25,633 --> 00:20:27,842
+Şansölye Gorkon.
+-Kaptan Kirk.
+
+229
+00:20:27,927 --> 00:20:31,096
+Size Kaptan Spock'ı takdim ederim.
+Zaten tanışıyorsunuz bildiğim kadarıyla.
+
+230
+00:20:31,180 --> 00:20:33,681
+Kaptan, nihayet yüz yüze
+görüşebildik.
+
+231
+00:20:34,934 --> 00:20:37,352
+Size minnettarım. Şansölye.
+
+232
+00:20:40,189 --> 00:20:41,523
+Beyler.
+
+233
+00:20:42,525 --> 00:20:44,943
+Bu, kızım Azetbur...
+
+234
+00:20:48,697 --> 00:20:51,699
+...askeri danışmanım
+Tuğgeneral Kerla...
+
+235
+00:20:53,828 --> 00:20:57,413
+...ve Genel Kurmay Başkanı
+General Chang.
+
+236
+00:20:58,249 --> 00:21:01,251
+Sizinle tanışmak için
+can atıyordum, kaptan.
+
+237
+00:21:02,545 --> 00:21:04,712
+-Bunu hangi manada alayım?
+
+238
+00:21:05,256 --> 00:21:08,174
+-Samimi bir hayranlık ifadesi, kaptan.
+
+239
+00:21:08,425 --> 00:21:11,261
+Bir savaşçıdan diğerine.
+
+240
+00:21:13,180 --> 00:21:14,347
+Elbette.
+
+241
+00:21:17,476 --> 00:21:21,187
+Bu taraftan. Kısa bir gezintinin
+hoşunuza gideceğini düşündük.
+
+242
+00:21:38,998 --> 00:21:41,749
+-Hepsi birbirine benziyor bunların.
+-Görünüşlerini boş ver, kokularına bak.
+
+243
+00:21:41,834 --> 00:21:45,211
+Zaten konuşabilmeleri için bile--
+
+244
+00:21:50,676 --> 00:21:51,843
+-İşiniz yok mu sizin?
+
+245
+00:21:51,927 --> 00:21:53,428
+-Var komutanım.
+
+246
+00:21:53,512 --> 00:21:55,096
+İşe koyulun öyleyse.
+
+247
+00:22:35,304 --> 00:22:36,971
+Kadeh kaldıralım.
+
+248
+00:22:37,932 --> 00:22:39,974
+"Keşfedilmemiş diyara."
+
+249
+00:22:43,604 --> 00:22:44,854
+Geleceğe.
+
+250
+00:22:44,939 --> 00:22:46,898
+"-Keşfedilmemiş diyar'a."
+"-Keşfedilmemiş diyar'a."
+
+251
+00:22:46,982 --> 00:22:49,442
+Hamlet, 1. perde, üçüncü sahne.
+
+252
+00:22:49,526 --> 00:22:51,194
+Shakespeare'i Klingonca okumamışsanız...
+
+253
+00:22:51,278 --> 00:22:53,905
+...kıymetini bilmiyorsunuz demektir.
+
+254
+00:23:04,583 --> 00:23:08,544
+Kaptan Kirk, Romula birası
+yasadışı değil miydi?
+
+255
+00:23:08,837 --> 00:23:11,047
+Federasyonun karargâhından
+1000 ışık yılı uzakta...
+
+256
+00:23:11,131 --> 00:23:13,049
+...olmanın avantajlarından biri.
+
+257
+00:23:13,592 --> 00:23:17,679
+Size, Şansölye Gorkon.
+Geleceğimizin mimarına.
+
+258
+00:23:17,930 --> 00:23:19,555
+Şansölyeye!
+
+259
+00:23:21,850 --> 00:23:25,436
+O geleceğin bir yansımasını
+burada görüyor olabiliriz.
+
+260
+00:23:28,190 --> 00:23:29,941
+Söylesenize, Kaptan Kirk.
+
+261
+00:23:31,151 --> 00:23:34,529
+Yıldız Filosu'nu bırakacak mısınız?
+
+262
+00:23:39,410 --> 00:23:43,788
+Kaptan'a göre, barış da...
+
+263
+00:23:43,872 --> 00:23:46,082
+...Yıldız Filosu'nun görevlerinden biridir.
+
+264
+00:23:49,086 --> 00:23:51,170
+İkinci komutanımı
+yalancı çıkarmak istemem
+
+265
+00:23:51,255 --> 00:23:52,922
+...ama Yıldız Filosu her zaman--
+
+266
+00:23:53,007 --> 00:23:55,174
+Hafif kelimeler seçmeye gerek yok.
+
+267
+00:23:55,259 --> 00:23:58,344
+Uzayın tüm savaşçıları duygusuzdur.
+
+268
+00:24:00,723 --> 00:24:03,308
+General, siz de...
+
+269
+00:24:03,892 --> 00:24:05,560
+Shakespeare sever misiniz?
+
+270
+00:24:06,687 --> 00:24:09,814
+Bence yabancı olsun olmasın...
+
+271
+00:24:09,898 --> 00:24:11,649
+...herkes insan haklarından yararlanmalıdır.
+
+272
+00:24:11,734 --> 00:24:15,737
+"Yabancı". Ağzınızdan
+çıkanı kulağınız duysa keşke.
+
+273
+00:24:17,072 --> 00:24:18,531
+"İnsan hakları."
+
+274
+00:24:19,283 --> 00:24:21,409
+İsimden bile ırkçılık akıyor.
+
+275
+00:24:22,661 --> 00:24:26,581
+Federasyon, homo sapienlere özel
+bir kulüpten başka bir şey değildir.
+
+276
+00:24:27,082 --> 00:24:29,584
+Bazı istisnalar hariç tabii.
+
+277
+00:24:29,710 --> 00:24:32,962
+Her halükarda, durumun gittiği yer bellidir.
+
+278
+00:24:33,422 --> 00:24:36,674
+Kültürümüz yok edilecektir.
+-Bu doğru değil.
+
+279
+00:24:36,759 --> 00:24:38,051
+-Öyle mi?
+Öyle.
+
+280
+00:24:39,053 --> 00:24:40,887
+"Olmak ya da olmamak."
+
+281
+00:24:40,971 --> 00:24:44,932
+Halkımızı meşgul eden soru
+budur işte, Kaptan Kirk.
+
+282
+00:24:45,017 --> 00:24:48,519
+Biraz nefes almamız lazım.
+-Dünya, Hitler. 1938.
+
+283
+00:24:50,439 --> 00:24:52,106
+Anlayamadım.
+
+284
+00:24:56,278 --> 00:24:57,487
+Evet.
+
+285
+00:25:00,699 --> 00:25:03,284
+Kat etmemiz gereken büyük
+mesafeler olduğu anlaşılıyor.
+
+286
+00:25:04,244 --> 00:25:06,454
+Bunu bir ara tekrar yapalım.
+
+287
+00:25:11,043 --> 00:25:13,461
+Bana güvenmiyorsunuz, değil mi?
+
+288
+00:25:14,797 --> 00:25:16,464
+Sizi suçlamıyorum.
+
+289
+00:25:18,008 --> 00:25:20,885
+Cesur ve yeni bir dünya kurulacaksa...
+
+290
+00:25:20,969 --> 00:25:24,972
+...bu uğurda en büyük zorluğu
+bizim neslimiz çekecek.
+
+291
+00:25:29,770 --> 00:25:31,020
+Kaptan Spock.
+
+292
+00:25:31,522 --> 00:25:32,897
+-Şansölye.
+
+293
+00:25:33,482 --> 00:25:35,942
+-Madam.
+-Kaptan.
+
+294
+00:25:36,485 --> 00:25:38,319
+Kibarlığınıza diyecek yok.
+
+295
+00:25:39,363 --> 00:25:44,033
+Ayrılık sizin de içinizde tatlı bir
+hüzün uyandırmıyor mu kaptan?
+
+296
+00:25:45,661 --> 00:25:49,080
+"Daha çanlar gece yarısını
+bile çalmamışken."
+
+297
+00:26:13,230 --> 00:26:14,564
+Şükürler olsun!
+
+298
+00:26:16,191 --> 00:26:18,317
+-Nasıl yediklerini gördünüz mü?
+
+299
+00:26:19,236 --> 00:26:21,279
+-Hiç sofra adapları yok.
+
+300
+00:26:21,989 --> 00:26:23,781
+Davranışlarımız, diplomatik açıdan...
+
+301
+00:26:23,866 --> 00:26:26,367
+...onların sofra adaplarından farklı değildi.
+
+302
+00:26:26,452 --> 00:26:28,161
+Ben uyuyacağım.
+
+303
+00:26:28,245 --> 00:26:31,164
+Bu geceden kötüsü olabilir miydi?
+
+304
+00:26:31,248 --> 00:26:34,083
+Ben de bir fincan sade kahve içeceğim.
+
+305
+00:26:49,725 --> 00:26:53,311
+Atılgan dün gece Şansölye
+Gorkon ve maiyetini...
+
+306
+00:26:53,395 --> 00:26:55,229
+...akşam yemeğinde konuk etti.
+
+307
+00:26:56,398 --> 00:27:00,067
+Davranışlarımızın bize pek
+yakışmadığını itiraf etmem gerekir.
+
+308
+00:27:01,278 --> 00:27:02,320
+Gemi mutfağına:
+
+309
+00:27:02,404 --> 00:27:06,073
+Diplomatik münasebetlerde
+Romula birası servisi yapılmayacak.
+
+310
+00:27:09,244 --> 00:27:12,538
+<i>Kaptan Kirk, köprüye gelir
+misiniz lütfen? Kaptan Kirk?</i>
+
+311
+00:27:12,998 --> 00:27:14,373
+<i>Kaptan Kirk.</i>
+
+312
+00:27:20,797 --> 00:27:22,757
+Kaptan.
+-Ne oldu?
+
+313
+00:27:22,841 --> 00:27:24,592
+-İlginç bir şey.
+
+314
+00:27:24,718 --> 00:27:25,843
+-Spock, çok yorgunum.
+
+315
+00:27:25,928 --> 00:27:29,388
+Yüksek miktarda nötron
+radyasyonu tespit ettik.
+
+316
+00:27:30,933 --> 00:27:31,974
+-Nerede?
+
+317
+00:27:32,059 --> 00:27:35,269
+-Garip ama kaynağı biziz sanki.
+
+318
+00:27:35,354 --> 00:27:36,896
+Atılgan mı?
+
+319
+00:27:39,316 --> 00:27:42,652
+Val'eris, sızıntı konusunda bilgin var mı?
+
+320
+00:27:43,153 --> 00:27:44,237
+-Efendim?
+
+321
+00:27:44,446 --> 00:27:45,404
+-Chekov?
+
+322
+00:27:45,489 --> 00:27:48,115
+-Kafamdan sızıyor olabilir.
+
+323
+00:27:48,534 --> 00:27:50,201
+Anlıyorum seni.
+
+324
+00:28:05,425 --> 00:28:08,970
+-Ne oldu?
+-Şansölye'nin gemisine ateş ettik.
+
+325
+00:28:09,054 --> 00:28:11,055
+Torpido odası!
+Ateş edip etmediğimizi onayla!
+
+326
+00:28:11,139 --> 00:28:12,515
+Ateşi biz mi ettik?
+
+327
+00:28:12,599 --> 00:28:13,808
+...0-6...
+
+328
+00:28:13,892 --> 00:28:16,143
+-Uhura, durumu takip et.
+-Emredersiniz.
+
+329
+00:28:16,228 --> 00:28:17,603
+-Tam isabet.
+
+330
+00:28:18,564 --> 00:28:20,106
+-Onaylandı, komutanım.
+
+331
+00:28:31,493 --> 00:28:33,244
+Yerçekimini kaybettik.
+
+332
+00:28:47,759 --> 00:28:49,468
+İhanete uğradık.
+
+333
+00:28:50,178 --> 00:28:52,972
+<i>Köprü konuşuyor.
+Beni duyan var mı?</i>
+
+334
+00:28:53,056 --> 00:28:55,099
+-Torpidoları biz mi ateşledik?
+
+335
+00:28:55,183 --> 00:28:57,560
+-Olumsuz. Envanter sayımı tamam.
+
+336
+00:28:57,644 --> 00:28:59,270
+topridolarımız hala full yüklü gözüküyor.
+
+337
+00:29:17,914 --> 00:29:20,625
+Chang'i bulun.
+
+338
+00:29:27,591 --> 00:29:30,468
+Torpidolarin ateşlendiğini ne
+onaylayabiliyor, ne de yalanlayabiliyoruz.
+
+339
+00:29:30,552 --> 00:29:32,845
+-Muhabere kanalı açın.
+-Emredersiniz.
+
+340
+00:29:33,722 --> 00:29:37,975
+<i>Kronos Bir. Burası Atılgan.
+Bizi duyuyor musunuz?</i>
+
+341
+00:29:38,977 --> 00:29:40,895
+Kronos Bir...
+
+342
+00:30:44,000 --> 00:30:46,085
+Olanları anlamak zor, kaptan.
+
+343
+00:30:46,169 --> 00:30:49,630
+Silah sesleri ve bağrışmalar var.
+
+344
+00:30:49,715 --> 00:30:51,048
+-Yan yatıyor.
+
+345
+00:30:51,133 --> 00:30:53,384
+-Gemi kontrolden çıkmak üzere.
+
+346
+00:31:12,654 --> 00:31:16,407
+<i>Yedek yerçekimi
+ünitesi devrede.</i>
+
+347
+00:31:27,169 --> 00:31:30,421
+<i>Bu kadar mı namussuz
+bir adamsın Kirk?</i>
+
+348
+00:31:31,506 --> 00:31:35,384
+<i>Barışçıl amaçlarla geliyoruz,
+sen barışı fırlatıp atıyorsun.</i>
+
+349
+00:31:36,762 --> 00:31:39,680
+<i>Seni paramparça edeceğim, Kirk.</i>
+
+350
+00:31:42,476 --> 00:31:45,019
+-Biz ateş etmedik.
+-Kaptan...
+
+351
+00:31:46,521 --> 00:31:49,899
+...veritabanımıza göre ettik.
+Hem de iki kez.
+
+352
+00:31:50,317 --> 00:31:52,526
+Kaptan, bize doğru geliyorlar.
+
+353
+00:31:59,201 --> 00:32:02,286
+-Ateş etmeye hazırlanıyorlar.
+-Zırhı açalım mı kaptan?
+
+354
+00:32:02,370 --> 00:32:05,664
+-Kaptan, zırh.
+-Zırhı açalım mı kaptan?
+
+355
+00:32:07,793 --> 00:32:10,377
+-Teslim olduğumuzu söyle. -Kaptan!
+
+356
+00:32:10,462 --> 00:32:11,921
+Teslim oluyoruz!
+
+357
+00:32:13,298 --> 00:32:15,508
+-Atılgan konuşuyor. Teslim oluyoruz.
+-Zırhımız inikken...
+
+358
+00:32:15,592 --> 00:32:17,051
+...ateş ederlerse...
+-Tekrar ediyorum,
+
+359
+00:32:17,135 --> 00:32:19,303
+Atılgan teslim oluyor.
+...karşılık veremeyiz.
+
+360
+00:32:19,387 --> 00:32:21,597
+-Tekrar ediyorum,
+Atılgan teslim oluyor.
+
+361
+00:32:25,727 --> 00:32:27,603
+-Torpido mu ateşledik?
+-Ben de bilmiyorum.
+
+362
+00:32:28,313 --> 00:32:30,064
+Bana öyle gibi geldi.
+
+363
+00:32:30,148 --> 00:32:31,816
+-Oraya gidiyorum. Spock, komuta sende.
+
+364
+00:32:31,900 --> 00:32:34,318
+-Seni bulaştırdığım için sorumlu benim.
+Ben gideceğim.
+
+365
+00:32:34,402 --> 00:32:36,821
+-Hayır, ben gideceğim.
+Senin sorumluluğun beni kurtarmak.
+
+366
+00:32:36,905 --> 00:32:38,989
+Barışa bu kadar yakınken...
+
+367
+00:32:39,074 --> 00:32:40,783
+..savaşa sebep olmayacağım.
+
+368
+00:32:40,867 --> 00:32:42,701
+-Ben de geliyorum. Doktor gerekebilir.
+
+369
+00:32:42,786 --> 00:32:45,037
+-Haklı olabilirsin.
+Uhura, oraya gittiğimizi
+
+370
+00:32:45,121 --> 00:32:46,831
+ve silahsız olduğumuzu söyle.
+
+371
+00:32:46,915 --> 00:32:48,165
+Emredersiniz.
+
+372
+00:32:53,588 --> 00:32:55,297
+-Delirdiniz mi siz?
+
+373
+00:32:55,382 --> 00:32:57,132
+-Neler olduğunu ben de bilmiyorum.
+
+374
+00:32:57,217 --> 00:32:58,884
+Yardım etmeye geldik.
+
+375
+00:33:00,762 --> 00:33:02,137
+Beni izleyin.
+
+376
+00:33:27,455 --> 00:33:30,624
+-Şansölye Gorkon.
+-Tanrım!
+
+377
+00:33:31,167 --> 00:33:34,879
+Neler olmuş burada?
+-Ne cüretle cahili oynuyorsun?
+
+378
+00:33:34,963 --> 00:33:38,048
+-Neler oldu?
+Tek bir torpido ile yapay yerçekimimizde,
+
+379
+00:33:38,133 --> 00:33:40,843
+arızaya sebep oldunuz,
+
+380
+00:33:40,927 --> 00:33:45,014
+Manyetik bot giyen iki
+askeriniz ışınlanıp
+
+381
+00:33:45,098 --> 00:33:46,098
+bunu yaptı.
+
+382
+00:33:46,182 --> 00:33:47,766
+-Gemide doktor yok mu?
+
+383
+00:33:47,851 --> 00:33:49,560
+-Bu olaydan önce vardı.
+
+384
+00:33:49,644 --> 00:33:52,479
+O zaman Tanrı aşkına,
+bırakın da yardım edeyim.
+
+385
+00:34:03,491 --> 00:34:05,534
+Nabzı atıyor. Hareket ettirebiliriz.
+
+386
+00:34:05,619 --> 00:34:09,038
+Daha fazla ışık lazım.
+Masaya taşıyabilir miyiz?
+
+387
+00:34:17,380 --> 00:34:20,549
+Tutun onu! Durumunu
+stabilize edene kadar tutun!
+
+388
+00:34:27,599 --> 00:34:29,016
+Tutun dedim!
+
+389
+00:34:33,521 --> 00:34:34,813
+Ulu Tanrım.
+
+390
+00:34:35,482 --> 00:34:38,525
+-Acaba--
+-Jim, anatomisini bilmiyorum.
+
+391
+00:34:42,906 --> 00:34:46,033
+Yaraları kapanmıyor.
+-Onu öldürüyorsun!
+
+392
+00:34:51,121 --> 00:34:54,123
+Kalp krizi gibi bir şey geçiriyor.
+
+393
+00:34:58,380 --> 00:35:01,507
+Hadi, patlayasıca!
+Hadi!
+
+394
+00:35:05,762 --> 00:35:07,554
+Tepki vermiyor.
+
+395
+00:35:26,825 --> 00:35:30,327
+Bu şekilde bitmesine
+izin verme, kaptan.
+
+396
+00:36:06,656 --> 00:36:11,326
+Yıldızlar arası kanunların
+184. maddesine dayanarak...
+
+397
+00:36:12,912 --> 00:36:15,330
+...sizi tutukluyorum.
+
+398
+00:36:15,415 --> 00:36:21,045
+Yüksek Meclis'in Şansölyesi'ne
+suikast düzenlemekle suçlanıyorsunuz.
+
+399
+00:36:21,129 --> 00:36:22,921
+Onu kurtarmaya çalıştı.
+
+400
+00:36:29,846 --> 00:36:31,764
+Tutuklanmışlar.
+
+401
+00:36:33,183 --> 00:36:35,809
+Bay Spock, bir şeyler
+yapmak zorundayız.
+
+402
+00:36:37,312 --> 00:36:40,647
+Saat 02.30 itibariyle geminin
+komutası bana geçmiştir.
+
+403
+00:36:40,732 --> 00:36:43,734
+Yarbay Uhura, filo karargâhına olanları...
+
+404
+00:36:43,818 --> 00:36:45,235
+...eksiksiz aktarın
+
+405
+00:36:45,320 --> 00:36:47,029
+ve talimat bekleyin.
+Emredersiniz.
+
+406
+00:36:47,113 --> 00:36:49,698
+Kronos'ta esir düşmelerine
+izin veremeyiz.
+
+407
+00:36:49,783 --> 00:36:53,368
+Ne öneriyorsun, yüzbaşı?
+Ateş açarak onları geri alamayız.
+
+408
+00:36:53,453 --> 00:36:56,538
+Kaptan çatışmaya
+girmememizi emretmişti zaten.
+
+409
+00:36:56,623 --> 00:36:58,791
+Kaptanın hareketlerini
+izleyebileceğiz.
+
+410
+00:36:58,875 --> 00:37:02,336
+-Bunu nasıl başaracağız?
+-Zamanımız kıymetli, yüzbaşı.
+
+411
+00:37:02,420 --> 00:37:05,923
+Olanları anlamak için parçaları
+bir araya getirmek zorundayız.
+
+412
+00:37:06,007 --> 00:37:09,635
+Veritabanımıza göre
+o torpidolar bu gemiden ateşlendi.
+
+413
+00:37:09,719 --> 00:37:10,928
+-Mümkün değil.
+
+414
+00:37:11,012 --> 00:37:14,556
+-Size inanmak isterim, ama delil lazım.
+
+415
+00:37:14,641 --> 00:37:16,391
+Bana eşlik edin lütfen.
+
+416
+00:37:17,852 --> 00:37:20,854
+Ya parçaları bir araya getiremezsek?
+O zaman ne olacak?
+
+417
+00:37:21,314 --> 00:37:24,066
+O zaman, Bay Chekov,
+
+418
+00:37:24,150 --> 00:37:27,361
+iş diplomatlarımızın
+maharetine kalacak.
+
+419
+00:37:28,696 --> 00:37:32,032
+Yüksek Meclis'in Şansölyesi öldü!
+
+420
+00:37:32,992 --> 00:37:37,704
+Hem de elinde beyaz bayrakla
+sizinle yapacağı barış görüşmelerine...
+
+421
+00:37:37,789 --> 00:37:40,958
+...gelirken ateş açılması sonucu.
+
+422
+00:37:42,210 --> 00:37:44,795
+Kaptan Kirk'ün tutuklanması
+yasalar çerçevesinde olmuştur.
+
+423
+00:37:45,672 --> 00:37:47,798
+Dr. McCoy'la birlikte kendi istekleriyle
+
+424
+00:37:47,882 --> 00:37:50,926
+Kronos'a adım attıklarını hatırlatırım.
+
+425
+00:37:51,010 --> 00:37:53,762
+Bunlar tartışılmaz gerçeklerdir.
+
+426
+00:37:53,847 --> 00:37:56,640
+-Detaylı soruşturma başlattım.
+
+427
+00:37:57,183 --> 00:37:59,476
+Bu esnada--
+-Bu esnada...
+
+428
+00:37:59,561 --> 00:38:03,814
+...Federasyon'un tanıdığını söylediği
+
+429
+00:38:03,898 --> 00:38:05,899
+yıldızlar arası yasalara uyması gerek.
+
+430
+00:38:06,359 --> 00:38:08,986
+Kirk ve McCoy, Şansölye Gorkon'a suikast
+
+431
+00:38:09,070 --> 00:38:11,321
+düzenlemek suçundan mahkeme edilecekler.
+
+432
+00:38:11,406 --> 00:38:13,157
+Mümkün değil.
+
+433
+00:38:13,283 --> 00:38:14,741
+Büyükelçi Sarek, adamların
+
+434
+00:38:14,826 --> 00:38:16,618
+iade edilmesinin bir yolu olmalı.
+
+435
+00:38:16,703 --> 00:38:21,832
+Bay Başkan, olayda
+benim de sorumluluğum var...
+
+436
+00:38:21,916 --> 00:38:23,792
+...yine de muhterem meslektaşımın
+
+437
+00:38:23,877 --> 00:38:26,628
+yasal  yorumuna katıldığımı
+söylemek zorundayım.
+
+438
+00:38:27,005 --> 00:38:28,714
+Romula Hükümeti bu konuda
+ne düşünüyor,
+
+439
+00:38:28,798 --> 00:38:30,340
+Büyükelçi Nanclus?
+
+440
+00:38:31,509 --> 00:38:33,969
+Ben de meslektaşlarımla hemfikirim.
+
+441
+00:38:34,053 --> 00:38:37,222
+James Kirk'in Şansölye'yi
+öldürdüğüne
+
+442
+00:38:37,307 --> 00:38:39,808
+inanıyor olamazsınız.
+
+443
+00:38:39,893 --> 00:38:43,478
+Bay Başkan, ben de
+neye inanacağımı şaşırdım.
+
+444
+00:38:45,023 --> 00:38:47,441
+Cevabınızı bekliyorum, efendim.
+
+445
+00:38:49,611 --> 00:38:52,821
+Başkan olarak
+yasaların üzerinde değilim.
+
+446
+00:38:53,948 --> 00:38:56,742
+Hemen geri dönün. Duydunuz mu?
+Hemen,
+
+447
+00:38:57,327 --> 00:38:59,203
+Atılgan Hemen Geri Dönün.
+
+448
+00:38:59,287 --> 00:39:00,704
+Duydunuz mu? Hemen.
+
+449
+00:39:00,788 --> 00:39:02,456
+-Hemen geri dönmemizi emrediyorlar.
+
+450
+00:39:02,540 --> 00:39:04,958
+-Kaptan Kirk'le Dr. McCoy'u bırakamayız.
+
+451
+00:39:05,043 --> 00:39:06,543
+Kesinlikle.
+
+452
+00:39:06,628 --> 00:39:09,046
+400 yıl kadar önce, Dünya'daki işçiler
+
+453
+00:39:09,130 --> 00:39:12,257
+otomasyon yüzünden işsiz kalacakları...
+
+454
+00:39:12,342 --> 00:39:17,721
+...korkusuyla, "sabo" adlı tahta
+ayakkabılarını çıkarıp makinelere fırlattılar.
+
+455
+00:39:20,058 --> 00:39:23,393
+"Sabotaj" sözcüğü de buradan geldi.
+
+456
+00:39:26,272 --> 00:39:28,815
+Teknik sorunlar yaşıyoruz.
+
+457
+00:39:28,900 --> 00:39:31,276
+Yedekler de devre dışı.
+
+458
+00:39:31,611 --> 00:39:34,988
+Mükemmel. Yani, vah vah.
+
+459
+00:39:36,407 --> 00:39:37,908
+<i>Bay Başkan, </i>
+
+460
+00:39:37,992 --> 00:39:40,244
+<i>meclis babamın yerine </i>
+
+461
+00:39:40,328 --> 00:39:42,120
+<i>beni Şansölye olarak atadı.</i>
+
+462
+00:39:42,664 --> 00:39:43,872
+Sayın Şansölye,
+
+463
+00:39:43,957 --> 00:39:46,917
+başsağlığı
+dileklerimi kabul ediniz.
+
+464
+00:39:47,001 --> 00:39:49,670
+Bu utanç verici olayın
+cezasız kalmayacağına--
+
+465
+00:39:49,754 --> 00:39:52,839
+<i>Sadede gelelim. </i>
+
+466
+00:39:53,466 --> 00:39:56,718
+<i>Siz de babam gibi
+görüşmelerin devam etmesini istiyorsunuz.</i>
+
+467
+00:39:56,803 --> 00:40:00,389
+<i>Bir hafta içerisinde başlayabiliriz,
+ancak bir şartım var.</i>
+
+468
+00:40:00,473 --> 00:40:02,766
+<i>Tutuklular iade edilmeyecek </i>
+
+469
+00:40:02,850 --> 00:40:07,104
+<i>ya da askeri operasyonla
+kurtarılmaya çalışılmayacak.</i>
+
+470
+00:40:07,188 --> 00:40:10,941
+<i>Böyle bir teşebbüsü
+savaş sebebi sayacağız.</i>
+
+471
+00:40:11,442 --> 00:40:13,277
+Sizi Dünya'da misafir
+etmek için sabırsızlanıyoruz.
+
+472
+00:40:13,361 --> 00:40:18,407
+<i>Olanlardan sonra, tarafsız bölge isteğimi
+anlayışla karşılarsınız herhalde</i>
+
+473
+00:40:19,033 --> 00:40:23,870
+<i>Güvenlik gerekçesiyle toplantı
+yerini şimdilik gizli tutalım.</i>
+
+474
+00:40:24,706 --> 00:40:26,873
+<i>Nasıl isterseniz, Sayın Şansölye.</i>
+
+475
+00:40:29,002 --> 00:40:31,962
+Elimizde fırsat varken saldıralım.
+
+476
+00:40:32,797 --> 00:40:36,133
+Ya saldırırız, ya da
+dünyalılara köle oluruz.
+
+477
+00:40:39,762 --> 00:40:43,348
+Tamamını alabilecekken
+verdikleri payla yetinmeyelim.
+
+478
+00:40:45,727 --> 00:40:52,024
+Savaşın modası geçti, general.
+Değişmezsek, bizim de modamız geçecek.
+
+479
+00:40:54,777 --> 00:40:59,740
+Ayaklarımız üzerinde ölmek,
+dizlerimizin üzerinde yaşamaya yeğdir.
+
+480
+00:41:00,450 --> 00:41:03,493
+Babamın istediği bu değildi.
+
+481
+00:41:03,911 --> 00:41:06,621
+İstedikleri babanın
+hayatına mal oldu.
+
+482
+00:41:08,166 --> 00:41:10,959
+Barış görüşmeleri devam edecek.
+
+483
+00:41:13,087 --> 00:41:14,296
+Kirk--
+
+484
+00:41:18,259 --> 00:41:22,262
+Kirk, babamı öldürmenin
+cezasını çekecek.
+
+485
+00:41:25,767 --> 00:41:27,642
+-Kirk! Kirk!
+-Kirk! Kirk!
+
+486
+00:41:28,853 --> 00:41:33,106
+-Kirk! Kirk! Kirk! Kirk!
+-Kirk! Kirk! Kirk! Kirk!
+
+487
+00:41:34,692 --> 00:41:38,904
+-Kirk! Kirk! Kirk! Kirk!
+-Kirk! Kirk! Kirk! Kirk!
+
+488
+00:41:40,406 --> 00:41:44,826
+-Kirk! Kirk! Kirk! Kirk!
+-Kirk! Kirk! Kirk! Kirk!
+
+489
+00:41:45,828 --> 00:41:50,499
+-Kirk! Kirk! Kirk! Kirk!
+-Kirk! Kirk! Kirk! Kirk!
+
+490
+00:41:55,129 --> 00:41:56,880
+Göstermelik bir mahkeme.
+
+491
+00:41:56,964 --> 00:41:59,633
+-Kirk! Kirk!
+-Kirk! Kirk!
+
+492
+00:42:07,850 --> 00:42:12,229
+Atılgan, kışkırtılmadığı
+halde Kronos Bir'e ateş açtı.
+
+493
+00:42:12,939 --> 00:42:14,940
+Şansölye ve muhteviyatına...
+
+494
+00:42:15,024 --> 00:42:17,943
+...aynı gece saat
+19.30 sularında...
+
+495
+00:42:18,027 --> 00:42:21,571
+...Kaptan Kirk'ün gemisinde
+bir yemek daveti verilerek...
+
+496
+00:42:21,656 --> 00:42:25,659
+...sahte bir güven verildi.
+
+497
+00:42:26,327 --> 00:42:28,328
+İlk şahidinizi çağırın.
+
+498
+00:42:28,871 --> 00:42:32,249
+Gemi isabet aldıktan sonra
+çekim gücümüzü kaybettik.
+
+499
+00:42:32,333 --> 00:42:35,001
+Ağırlıksız olduğumdan
+pek faydam dokunamıyordu.
+
+500
+00:42:35,086 --> 00:42:38,171
+<i>İki Yıldız Filosu askeri
+bana doğru geldi.</i>
+
+501
+00:42:38,256 --> 00:42:40,715
+<i>Yıldız Filosu üniforması
+giymiş herhangi biri olabilir.</i>
+
+502
+00:42:40,800 --> 00:42:44,094
+<i>Bu ifade tahminden ibarettir.
+Yok sayılmasını talep ediyorum.</i>
+
+503
+00:42:44,178 --> 00:42:48,348
+<i>Albay Worf, Biz gerçeklerle
+ilgileniyoruz. Teorilerle değil.</i>
+
+504
+00:42:48,850 --> 00:42:52,269
+<i>Yerçekimi ünitesi çalışmıyorsa,</i>
+
+505
+00:42:52,353 --> 00:42:54,271
+bu adamlar nasıl yürüyebildiler.
+
+506
+00:42:54,355 --> 00:42:56,690
+<i>Manyetik botlar giyiyorlardı.</i>
+
+507
+00:42:59,235 --> 00:43:00,735
+<i>-Yerçekimi botları.
+</i>
+
+508
+00:43:02,196 --> 00:43:07,033
+-Dr. McCoy.
+Rica etsem söyler misiniz...
+
+509
+00:43:08,119 --> 00:43:10,704
+...tıbbi açıdan ne durumdasınız?
+
+510
+00:43:12,248 --> 00:43:15,625
+Küçük bir artrit(eklem iltihabı) sorunu
+haricinde gayet iyiyim.
+
+511
+00:43:22,800 --> 00:43:25,218
+Eşsiz bir espri anlayışın var, doktor.
+
+512
+00:43:26,012 --> 00:43:29,890
+27 yıldır USS Atılgan'ın
+doktorluğunu yapıyorum.
+
+513
+00:43:30,349 --> 00:43:32,559
+3 ay içerisinde emekli olacağım.
+
+514
+00:43:35,646 --> 00:43:39,399
+Bence o gece subay
+yemekhanesinde verilen...
+
+515
+00:43:39,484 --> 00:43:43,653
+...yemekte Romula birasını...
+
+516
+00:43:43,738 --> 00:43:45,447
+...biraz fazla kaçırdınız. Haksızmıyım Doktor?
+
+517
+00:43:45,531 --> 00:43:47,657
+-İtiraz ediyorum.
+-Kabul edildi.
+
+518
+00:43:47,742 --> 00:43:50,535
+Hepimiz içtik.
+Masadaki herkes.
+
+519
+00:43:50,745 --> 00:43:55,499
+Ama bu-- Şansölye Gorkon'u
+ilk muayene...
+
+520
+00:43:55,583 --> 00:43:57,501
+ettiğinizde hayatta mıydı?
+
+521
+00:43:57,585 --> 00:44:00,337
+Güç bela.
+Dikkatli cevap verin, doktor.
+
+522
+00:44:00,421 --> 00:44:07,260
+Bugüne kadar, hiç onun kadar "güç bela" hayatta
+olan birini yaşatmayı başardınız mı?
+
+523
+00:44:07,345 --> 00:44:10,764
+Klingon anatomisi konusunda
+yeterli bilgiye sahip değildim.
+
+524
+00:44:10,848 --> 00:44:13,141
+-Anlıyorum.
+-Siz de oradaydınız.
+
+525
+00:44:14,143 --> 00:44:16,645
+Emekliliğinizin yakın olduğunu söylediniz.
+
+526
+00:44:17,855 --> 00:44:19,564
+Elleriniz titriyor mu acaba?
+
+527
+00:44:19,649 --> 00:44:21,691
+-İtiraz ediyorum!
+-Heyecanlanmıştım!
+
+528
+00:44:23,778 --> 00:44:24,778
+Hayır.
+
+529
+00:44:25,821 --> 00:44:27,614
+Yetersizdiniz!
+
+530
+00:44:29,784 --> 00:44:31,576
+Yetersizdiniz!
+
+531
+00:44:32,036 --> 00:44:35,956
+Belki kasıtlı olarak, belki de
+yaşınızın ve içkinin etkisiyle.
+
+532
+00:44:36,499 --> 00:44:41,461
+Buna mahkeme karar verecek.
+-Tanrım! Ben onu kurtarmaya çalıştım.
+
+533
+00:44:42,463 --> 00:44:44,214
+Kurtarmaya çalıştım!
+
+534
+00:44:46,467 --> 00:44:48,552
+Çaresizlik içinde çırpındım.
+
+535
+00:44:50,304 --> 00:44:53,974
+Evrende barış için en son
+ve en büyük umudumuzdu o.
+
+536
+00:44:54,850 --> 00:44:56,851
+Tanık sessiz olsun.
+
+537
+00:45:01,190 --> 00:45:03,316
+İşte böyle, yurttaşlarım.
+
+538
+00:45:03,401 --> 00:45:06,903
+Suçun ayrıntıları ortaya çıktı.
+
+539
+00:45:06,988 --> 00:45:11,658
+Şimdiyse bu trajik vakanın
+mimarına geldi sıra.
+
+540
+00:45:12,243 --> 00:45:17,163
+James Tiberius Kirk.
+
+541
+00:45:19,333 --> 00:45:22,294
+En sevdiğiniz yazar
+ne diyordu, kaptan?
+
+542
+00:45:23,004 --> 00:45:24,170
+"Yere oturalım ama
+
+543
+00:45:24,255 --> 00:45:27,173
+"kralların ölümünün
+hüzünlü hikâyelerini anlatalım."
+
+544
+00:45:27,925 --> 00:45:30,343
+Siz de bize hüzünlü
+hikâyelerinizi anlatın, Kirk.
+
+545
+00:45:31,178 --> 00:45:35,307
+Bize oğlunuzun ölümünün intikamını
+almayı nasıl plânladığınızı anlatın.
+
+546
+00:45:36,475 --> 00:45:38,602
+-Bu doğru değil.
+-İtiraz ediyorum.
+
+547
+00:45:38,686 --> 00:45:41,646
+Kaptan Kirk'ün katil olduğu
+henüz kanıtlanmamıştır.
+
+548
+00:45:41,731 --> 00:45:43,356
+Kabul edildi.
+
+549
+00:45:43,733 --> 00:45:45,650
+Kaptan'ın günlüğünden...
+
+550
+00:45:46,360 --> 00:45:49,613
+...bir alıntıyı delil olarak
+mahkemeye sunmak istiyorum.
+
+551
+00:45:50,740 --> 00:45:54,618
+<i>Klingonlara hiçbir zaman güvenmedim.
+Hiçbir zaman da güvenmeyeceğim.</i>
+
+552
+00:45:56,162 --> 00:45:59,789
+<i>Oğlumu öldürdükleri için
+onları hiçbir zaman affetmeyeceğim.</i>
+
+553
+00:46:03,669 --> 00:46:05,920
+Bir daha! Bir daha!
+
+554
+00:46:06,213 --> 00:46:09,549
+<i>Klingonlara hiçbir zaman güvenmedim.
+Hiçbir zaman da güvenmeyeceğim.</i>
+
+555
+00:46:10,217 --> 00:46:14,137
+<i>Oğlumu öldürdükleri için
+onları hiçbir zaman affetmeyeceğim.</i>
+
+556
+00:46:17,642 --> 00:46:19,434
+Bu ifadeler size mi ait?
+
+557
+00:46:22,813 --> 00:46:25,065
+Bunları ben söyledim, evet.
+
+558
+00:46:29,320 --> 00:46:30,487
+İtiraz ediyorum!
+
+559
+00:46:30,571 --> 00:46:33,323
+Müvekkilimin politik görüşlerinin
+davayla ilgisi yoktur.
+
+560
+00:46:33,407 --> 00:46:36,409
+Tam aksine, Kaptan Kirk'ün
+görüşleri ve amaçları...
+
+561
+00:46:36,494 --> 00:46:39,329
+...konunun tam merkezinde.
+
+562
+00:46:39,580 --> 00:46:42,499
+Sicili, itaatsiz, prensipsiz,
+yalnız kariyerini düşünen...
+
+563
+00:46:42,583 --> 00:46:45,877
+...bir fırsatçı olduğunu ve...
+
+564
+00:46:45,961 --> 00:46:48,129
+...kafasına estiği zaman komuta zincirini...
+
+565
+00:46:48,214 --> 00:46:49,673
+...hiçe saydığını gösteriyor.
+
+566
+00:46:49,757 --> 00:46:51,174
+Devam edin.
+
+567
+00:46:51,258 --> 00:46:53,843
+Sicili, Kaptan Kirk'ün bir zamanlar...
+
+568
+00:46:53,928 --> 00:46:55,637
+...amiral rütbesine sahip olduğunu...
+
+569
+00:46:55,721 --> 00:46:59,057
+...ve başına buyrukluğu,
+yasa tanımazlığı yüzünden...
+
+570
+00:46:59,141 --> 00:47:00,767
+...rütbesinin alındığını gösteriyor.
+
+571
+00:47:00,851 --> 00:47:02,644
+Rütbenizin indirildiğini
+inkâr ediyor musunuz?
+
+572
+00:47:02,728 --> 00:47:05,647
+Tercümeyi beklemeden cevap verin!
+
+573
+00:47:05,731 --> 00:47:06,856
+-İnkâr etmiyorum.
+
+574
+00:47:06,941 --> 00:47:08,525
+-Rütbeniz indirildi.
+Evet.
+
+575
+00:47:08,609 --> 00:47:12,946
+-İtaatsizlik ettiğiniz için mi?
+-Emirlere itaatsizlik ettiğim olmuştur.
+
+576
+00:47:13,030 --> 00:47:16,074
+Şansölye Gorkon'a
+suikast düzenlerken...
+
+577
+00:47:16,158 --> 00:47:19,244
+...emirlere uyuyor muydunuz
+yoksa itaatsizlik mi ediyordunuz?
+
+578
+00:47:19,328 --> 00:47:22,038
+Gemiye çıkana kadar bir suikast
+olduğundan haberim yoktu.
+
+579
+00:47:22,123 --> 00:47:24,999
+Atılgan'ın Kronos Bir'e ateş
+ettiğini inkâr mı ediyorsunuz?
+
+580
+00:47:25,084 --> 00:47:27,043
+-Şey--
+-Sayın Yargıç, lütfen!
+
+581
+00:47:27,128 --> 00:47:30,255
+Adamlarınızın ışınlanıp Şansölye'yi
+öldürdüğünü inkâr mı ediyorsunuz?
+
+582
+00:47:30,339 --> 00:47:31,464
+İtiraz ediyorum!
+
+583
+00:47:31,549 --> 00:47:34,134
+Şahit olmadığım olayları ne
+onaylayabilirim, ne de inkâr edebilirim.
+
+584
+00:47:34,218 --> 00:47:35,677
+Kaptan Kirk,
+
+585
+00:47:36,387 --> 00:47:39,681
+Geminin kaptanı olarak...
+
+586
+00:47:39,765 --> 00:47:43,935
+...adamlarınızın hareketlerinden sorumlu
+olduğunuzun farkında mısınız?
+
+587
+00:47:46,564 --> 00:47:47,856
+Farkındayım.
+
+588
+00:47:47,940 --> 00:47:51,192
+Suikastı gerçekleştirenlerin...
+
+589
+00:47:51,277 --> 00:47:54,446
+...mürettebatınızdan olduğu ispatlanırsa--
+
+590
+00:47:54,530 --> 00:47:56,698
+-Tuzak kuruyorlar.
+Sayın Yargıç!
+
+591
+00:47:56,782 --> 00:47:57,782
+-Cevap vermeyin.
+
+592
+00:47:57,867 --> 00:48:01,161
+Kaptan Kirk, soruya
+cevap vereceksiniz!
+
+593
+00:48:09,503 --> 00:48:10,628
+Kaptan olarak...
+
+594
+00:48:12,923 --> 00:48:16,301
+...komutam altındaki mürettebatın
+hareketlerinden ben sorumluyum.
+
+595
+00:48:19,972 --> 00:48:22,140
+Savcılığın başka sorusu
+yok, Sayın Yargıç.
+
+596
+00:48:24,685 --> 00:48:26,561
+Atılgan'ın komutanına gönder.
+
+597
+00:48:28,147 --> 00:48:32,150
+"Her türlü yardıma hazırız.
+Kaptan Sulu, USS Görkemli."
+
+598
+00:48:32,985 --> 00:48:39,407
+Mahkememiz tarafından gereği
+düşünüldü ve sanıklar suçlu bulundu.
+
+599
+00:48:51,378 --> 00:48:52,962
+Müvekkilim aleyhine olan tüm delillerin...
+
+600
+00:48:53,047 --> 00:48:56,800
+...ikinci dereceden olduğu kayıtlara geçsin.
+
+601
+00:48:56,884 --> 00:49:00,929
+Sayın Hâkim’den kararı açıklarken bunu
+göz önünde bulundurmasını rica ediyorum.
+
+602
+00:49:01,013 --> 00:49:02,639
+Kayda geçirildi.
+
+603
+00:49:02,723 --> 00:49:06,935
+Kaptan James T. Kirk,
+Dr. Leonard McCoy.
+
+604
+00:49:07,019 --> 00:49:13,316
+Halklarımız arasında büyüyen dostluğun...
+
+605
+00:49:14,068 --> 00:49:17,570
+...ve barış görüşmelerinin yararına
+ölüm cezası verilmeyecektir.
+
+606
+00:49:24,537 --> 00:49:28,331
+Mahkemenin kararı uyarınca...
+
+607
+00:49:29,583 --> 00:49:33,837
+...tecil ya da şartlı
+tahliye hakkı olmaksızın...
+
+608
+00:49:33,921 --> 00:49:36,840
+...Rura Penthe sürgün asteroitindeki...
+
+609
+00:49:36,924 --> 00:49:43,721
+...dilityum madenlerinde çalışmaya
+mahkûm edildiniz.
+
+610
+00:49:44,431 --> 00:49:49,185
+Ömrünüzün kalanını
+orada geçireceksiniz.
+
+611
+00:49:57,152 --> 00:49:58,903
+Rura Penthe!
+
+612
+00:50:01,615 --> 00:50:05,159
+Tüm galakside Uzaylı
+Mezarlığı olarak bilinir.
+
+613
+00:50:06,120 --> 00:50:08,955
+Hemen öldürselerdi keşke.
+Bari acı çekmezlerdi.
+
+614
+00:50:30,269 --> 00:50:34,480
+Yüzbaşı, torpidolarin isabet ettiği
+anı tekrar gösterir misin?
+
+615
+00:50:39,945 --> 00:50:41,029
+Durdur.
+
+616
+00:50:42,656 --> 00:50:44,532
+Torpido Atılgan'dan gelmiş.
+
+617
+00:50:45,451 --> 00:50:48,536
+Biz ateş etmişiz.
+Mümkün değil!
+
+618
+00:50:48,913 --> 00:50:52,206
+Tüm torpidolar görsel
+olarak kontrol edildi.
+
+619
+00:50:53,751 --> 00:50:57,337
+Atalarımdan biri,
+"imkânsızı elediğinde...
+
+620
+00:50:57,421 --> 00:51:01,382
+...geriye kalan, ne kadar mümkün
+görünmese de gerçektir" demişti.
+
+621
+00:51:01,759 --> 00:51:04,010
+Ne demek bu?
+
+622
+00:51:04,094 --> 00:51:07,722
+O torpidolari biz ateşlememişsek,
+
+623
+00:51:07,806 --> 00:51:09,349
+başkası ateşlemiştir demek.
+
+624
+00:51:09,433 --> 00:51:13,561
+O torpidolar kendiliğinden harekete
+geçmediler ama çevrede başka gemi yok.
+
+625
+00:51:13,646 --> 00:51:16,272
+-Bir nötron sızıntısı vardı.
+
+626
+00:51:16,357 --> 00:51:17,398
+-Bizden kaynaklanmıyordu.
+
+627
+00:51:17,483 --> 00:51:21,903
+O büyüklükte bir nötron sızıntısının
+kaynağı ancak başka bir gemi olabilir.
+
+628
+00:51:22,696 --> 00:51:24,238
+-Kronos Bir mi?
+
+629
+00:51:24,323 --> 00:51:26,074
+-Çok uzak.
+
+630
+00:51:26,158 --> 00:51:30,161
+Sızıntıysa bize çok yakındı.
+Muhtemelen tam altımızda.
+
+631
+00:51:30,746 --> 00:51:34,749
+Altımızda başka bir gemi olsaydı
+Klingonlar mutlaka görürlerdi.
+
+632
+00:51:37,294 --> 00:51:38,670
+Görürler miydi?
+
+633
+00:51:41,882 --> 00:51:45,385
+-Atmaca mı?
+-Bir Atmaca.
+
+634
+00:51:48,347 --> 00:51:49,430
+-Perdelenmiş olabilir mi?
+
+635
+00:51:49,515 --> 00:51:52,558
+-Atmacalar perdeleme açıkken ateş edemez.
+
+636
+00:51:52,643 --> 00:51:56,312
+Normalde dediklerini
+kabul ederdim, Bay Scott.
+
+637
+00:51:56,397 --> 00:51:58,690
+Ama bu durum normal değil.
+
+638
+00:51:59,358 --> 00:52:00,817
+Bu Atmaca ateş edebiliyor.
+
+639
+00:52:01,402 --> 00:52:02,860
+-Yıldız Filosu'na bilgi vermeliyiz.
+
+640
+00:52:02,945 --> 00:52:06,948
+-Neyin haberini vereceğiz?
+Görünmeyen bir silah olduğunun mu?
+
+641
+00:52:07,032 --> 00:52:09,325
+Aklımızı kaçırdığımızı düşünecekler.
+
+642
+00:52:09,410 --> 00:52:12,620
+Kaptanı kurtarmak için çaresizlikten...
+
+643
+00:52:12,705 --> 00:52:14,288
+...aklımıza geleni söylediğimizi düşünecekler.
+
+644
+00:52:14,373 --> 00:52:17,625
+Haklılar da.
+Delilimiz yok.
+
+645
+00:52:17,710 --> 00:52:20,753
+Sadece tüm gerçeklere
+uyan bir teorimiz var.
+
+646
+00:52:21,046 --> 00:52:23,423
+Haklı olsan bile, Bay Spock,
+
+647
+00:52:23,966 --> 00:52:26,092
+neden kendi başkanlarına
+ateş açsınlar?
+
+648
+00:52:26,176 --> 00:52:27,385
+Kesinlikle.
+
+649
+00:52:28,262 --> 00:52:30,054
+Gemi pruvadan kıça aranacak.
+
+650
+00:52:30,139 --> 00:52:31,681
+Aramadan Yüzbaşı Val'eris sorumlu olacak.
+
+651
+00:52:31,765 --> 00:52:34,142
+Emredersiniz,
+Anlamıyorum...
+
+652
+00:52:34,226 --> 00:52:36,936
+...altımızda bir gemi varsa...
+
+653
+00:52:37,021 --> 00:52:39,856
+...katiller o gemiden ışınlanmışlar demektir.
+
+654
+00:52:39,940 --> 00:52:41,357
+Atılgan'dan değil,
+
+655
+00:52:41,442 --> 00:52:44,152
+Unuttuğun bir şey var, Bay Chekov.
+
+656
+00:52:44,903 --> 00:52:48,614
+Veritabanımız, torpidolari
+bizim ateşlediğimizi söylüyor.
+
+657
+00:52:49,116 --> 00:52:51,367
+Biz ateş ettiysek,
+katiller burada demektir.
+
+658
+00:52:51,452 --> 00:52:55,913
+Biz ateş etmediysek, verilerde
+tahrifat yapan burada demektir.
+
+659
+00:52:56,165 --> 00:53:00,084
+Her halükârda,
+aradığımız şey burada.
+
+660
+00:53:01,295 --> 00:53:03,504
+-Peki ne arıyoruz?
+
+661
+00:53:04,590 --> 00:53:05,965
+-Yüzbaşı?
+
+662
+00:53:07,176 --> 00:53:09,302
+İki çift manyetik bot.
+
+663
+00:54:15,327 --> 00:54:18,579
+Burası Rura Penthe Çalışma Kampı.
+
+664
+00:54:19,289 --> 00:54:23,292
+Burada çitler, nöbetçi kuleleri...
+
+665
+00:54:24,044 --> 00:54:26,337
+elektronik sınırlayıcılar yoktur.
+
+666
+00:54:27,339 --> 00:54:30,591
+Sadece ışınlanmayı önleyen
+manyetik bir kalkan vardır.
+
+667
+00:54:31,260 --> 00:54:36,514
+Verilen tek ceza,
+hapishaneden yüzeye sürgündür.
+
+668
+00:54:37,266 --> 00:54:41,227
+Yüzeyde hiçbir şey yaşayamaz.
+
+669
+00:54:45,858 --> 00:54:49,402
+İyi çalışırsanız,
+iyi muamele görürsünüz.
+
+670
+00:54:50,529 --> 00:54:53,990
+Kötü çalışırsanız ölürsünüz.
+
+671
+00:56:21,119 --> 00:56:22,495
+Aman Tanrım!
+
+672
+00:56:27,751 --> 00:56:31,170
+Kusura bakma, evrensel
+tercümana el koydular.
+
+673
+00:56:33,006 --> 00:56:34,340
+Efendim?
+
+674
+00:56:39,179 --> 00:56:41,973
+Bir şey istiyor galiba, Jim.
+
+675
+00:56:47,020 --> 00:56:49,522
+Burası senin bölgense,
+başka yere gideriz.
+
+676
+00:56:50,190 --> 00:56:53,192
+Uzaylı Kardeşliği'nin
+kurallarına itaat etmeni istiyor.
+
+677
+00:56:53,277 --> 00:56:55,569
+-Tamamdır.
+-Bir de ceketini istiyor.
+
+678
+00:56:55,654 --> 00:56:58,364
+O tamam değil işte.
+Üzerine de olmaz zaten.
+
+679
+00:57:13,213 --> 00:57:14,380
+Teşekkür ederim.
+
+680
+00:57:14,881 --> 00:57:17,091
+-Bu içini ısıtır.
+
+681
+00:57:18,885 --> 00:57:21,929
+Adım Martia. Siz de Kirk ve McCoy'sunuz.
+
+682
+00:57:23,932 --> 00:57:25,057
+-Nereden bildin?
+
+683
+00:57:25,142 --> 00:57:27,560
+Devlet başkanlarına her
+gün suikast düzenlenmiyor.
+
+684
+00:57:27,644 --> 00:57:30,271
+-Gorkon'u biz öldürmedik.
+-Tabii ki öldürmediniz.
+
+685
+00:57:31,523 --> 00:57:34,984
+Ama cesedinizi getirene ödül var.
+-Belli oluyor.
+
+686
+00:57:35,610 --> 00:57:37,653
+Tuzağa düşürüldük.
+
+687
+00:57:37,738 --> 00:57:40,573
+Birileri ayakaltından
+çekilmenizi istiyor.
+
+688
+00:57:46,371 --> 00:57:48,080
+-Burada Değil
+-Burada Değil
+
+689
+00:57:48,373 --> 00:57:49,832
+-Ne bulduk?
+-Hiçbir şey.
+
+690
+00:57:49,916 --> 00:57:53,044
+300 kişilik bir ekip her yerin
+altını üstüne getiriyor
+
+691
+00:57:53,128 --> 00:57:55,504
+ama katiller aralarında olabilir.
+
+692
+00:57:55,589 --> 00:57:58,674
+Büyük ihtimalle botlardan kurtulmuşlardır.
+
+693
+00:57:59,217 --> 00:58:02,178
+Botları Gorkon'un gemisinde bırakmış
+olmaları daha mantıklı değil mi?
+
+694
+00:58:02,262 --> 00:58:04,680
+Mantık bile fiziğin karşısında çaresizdir.
+
+695
+00:58:04,765 --> 00:58:07,350
+Kaçtıkları esnada yerçekimi hâlâ yoktu.
+
+696
+00:58:07,726 --> 00:58:08,684
+Botlar olmasaydı,
+
+697
+00:58:08,769 --> 00:58:12,104
+ışınlayıcıların
+üzerinde süzülürlerdi.
+
+698
+00:58:12,606 --> 00:58:14,732
+Neden buharlaştırmadılar?
+
+699
+00:58:17,778 --> 00:58:19,153
+Bunun gibi mi?
+
+700
+00:58:26,119 --> 00:58:27,411
+Rahat.
+
+701
+00:58:27,662 --> 00:58:31,165
+Bildiğiniz gibi, kimse yıldız gemilerinde...
+
+702
+00:58:31,249 --> 00:58:32,917
+...izinsiz fazer kullanamaz.
+
+703
+00:58:34,044 --> 00:58:38,047
+Geri getirmiş olsalar bile çöpe atmış olabilirler.
+
+704
+00:58:38,423 --> 00:58:42,510
+Çöplüğü de arattırıyorum.
+Tahminlerim doğruysa...
+
+705
+00:58:42,594 --> 00:58:44,553
+o botlar sahiplerine...
+
+706
+00:58:44,638 --> 00:58:46,806
+...Tiberya yarasaları gibi yapışmış demektir.
+
+707
+00:58:47,182 --> 00:58:48,891
+Ne onlar olmadan kaçabilirler,
+
+708
+00:58:48,975 --> 00:58:52,103
+ne de pencereden dışarı atabilirler.
+
+709
+00:58:52,187 --> 00:58:56,524
+O botlar buralarda bir yerlerde.
+-Biri fazerle ateş mi etti?
+
+710
+00:58:56,858 --> 00:58:59,693
+-Merak etme. Endişeye mahal yok.
+
+711
+00:59:00,987 --> 00:59:04,657
+Bay Spock, Yıldız Filosu limana
+dönmemiz konusunda çok ısrarcı.
+
+712
+00:59:05,450 --> 00:59:08,411
+-Kim ateş ett--
+-Bay Scott.
+
+713
+00:59:08,995 --> 00:59:11,414
+Duyduğum kadarıyla büküm
+motorunda arıza varmış.
+
+714
+00:59:11,498 --> 00:59:13,416
+Ne zaman tamir edilir?
+
+715
+00:59:13,500 --> 00:59:15,251
+-Lanet Motorlarda hiçbir şeyi yok ki?
+
+716
+00:59:15,335 --> 00:59:18,003
+-Bay Scott.
+-Eğer limana dönersek...
+
+717
+00:59:18,672 --> 00:59:20,381
+katiller botlardan yoketmenin,..
+
+718
+00:59:20,465 --> 00:59:22,716
+...kurtulmanın bir yolunu bulur ve...
+
+719
+00:59:23,176 --> 00:59:26,887
+...biz de kaptanla Dr. McCoy'u
+bir daha asla göremeyiz.
+
+720
+00:59:27,472 --> 00:59:30,307
+-Haftalar sürer efendim.
+-Teşekkür ederim. Bay Scott.
+
+721
+00:59:30,392 --> 00:59:32,601
+Val'eris, Yıldız Filosu'na
+büküm motorumuzun...
+
+722
+00:59:32,686 --> 00:59:35,354
+...arızalı olduğunu söyle.
+-Bir yalan mı?
+
+723
+00:59:35,897 --> 00:59:37,189
+-Bir hata.
+
+724
+00:59:37,858 --> 00:59:42,278
+Kaptan ve Dr. McCoy'la tüm bağlantımızın
+kesildiğinin farkındasın, değil mi?
+
+725
+00:59:42,362 --> 00:59:45,531
+Evet. Şu anda manyetik
+bir kalkanın etki alanındalar.
+
+726
+00:59:45,615 --> 00:59:49,285
+Ancak kaptanı biraz tanımışsam,
+
+727
+00:59:49,369 --> 00:59:51,871
+şimdiden kaçış plânları
+yapmaya başlamıştır.
+
+728
+01:00:15,020 --> 01:00:18,272
+Onu istediğin
+kıvama getirdin, Jim.
+
+729
+01:01:10,742 --> 01:01:12,826
+İyi misin?
+-Galiba.
+
+730
+01:01:12,953 --> 01:01:15,329
+-Artık sana saygı duyarlar.
+
+731
+01:01:15,413 --> 01:01:19,041
+-Neyse ki dizleri varmış.
+Onlar dizleri değildi.
+
+732
+01:01:20,126 --> 01:01:23,337
+Herkesin cinsel organları
+aynı yerde değildir, kaptan.
+
+733
+01:01:24,214 --> 01:01:26,423
+Seninkiler nerede?
+
+734
+01:01:27,676 --> 01:01:29,885
+Bones, neden gidip onun için
+yapabileceğin birşey varmı diye bakmıyorsun?
+
+735
+01:01:29,970 --> 01:01:32,680
+Git de yardım et.
+Kin gütmediğimizi bilsin.
+
+736
+01:01:32,931 --> 01:01:35,140
+Bence kin güden o.
+
+737
+01:01:36,810 --> 01:01:41,647
+Düşmanlarınız harekete geçtiğinde kim
+olduklarını soracak fırsatınız olmayacak.
+
+738
+01:01:46,695 --> 01:01:50,322
+Buradan kurtulmak istiyor musunuz?
+-Bir yolu olmalı.
+
+739
+01:02:11,386 --> 01:02:14,722
+Emekliliğe üç ayımız kalmıştı.
+Ne müthiş bir final.
+
+740
+01:02:14,806 --> 01:02:18,434
+-Daha sonumuz gelmedi.
+-Kendi adına konuş.
+
+741
+01:02:19,144 --> 01:02:22,896
+Bir gün, bir gece.
+Kobayashi Maru.
+
+742
+01:02:22,981 --> 01:02:26,567
+Bones!
+Gelecekten korkuyor musun?
+
+743
+01:02:28,612 --> 01:02:33,449
+Az önce söylediklerimi
+duymadın galiba.
+
+744
+01:02:33,533 --> 01:02:35,534
+-Ben bu geleceği kast etmemiştim.
+
+745
+01:02:37,120 --> 01:02:40,748
+-Çoktan seçmeli bir gelecek mi var?
+Bazı kişiler...
+
+746
+01:02:42,751 --> 01:02:44,543
+...olacaklardan korkabilirler.
+
+747
+01:02:46,296 --> 01:02:47,880
+Benim ödüm kopuyordu.
+
+748
+01:02:48,590 --> 01:02:50,924
+-Seni korkutan neydi?
+
+749
+01:02:57,307 --> 01:02:59,099
+Tarafsız bölgenin
+kaldırılacak olması.
+
+750
+01:03:01,436 --> 01:03:03,729
+Klingonlardan nefret
+etmeye çok alışmıştım.
+
+751
+01:03:07,651 --> 01:03:11,195
+Gorkon'un söylediklerini
+yeni idrak etmeye başladım.
+
+752
+01:03:14,407 --> 01:03:15,991
+Spock haklıymış.
+
+753
+01:03:16,242 --> 01:03:20,204
+-Kendine yüklenme. Hepimiz öyle hissettik.
+
+754
+01:03:20,288 --> 01:03:21,330
+Hayır,
+
+755
+01:03:22,707 --> 01:03:24,750
+Kendilerini çok daha
+kötü hissedenler oldu.
+
+756
+01:03:26,503 --> 01:03:28,796
+Sebebini yeni anlıyorum.
+
+757
+01:03:29,381 --> 01:03:32,800
+Parlak fikirlerin varsa, bunları
+eyleme dökmenin zamanıdır.
+
+758
+01:03:32,926 --> 01:03:36,095
+Derdimiz zaman değil.
+Bizim bir önemimiz yok.
+
+759
+01:03:37,639 --> 01:03:40,182
+Yargıcın söylediklerini duydun.
+Barış görüşmeleri devam edecek.
+
+760
+01:03:40,266 --> 01:03:44,395
+Gorkon'u öldürenler bir suikast
+daha düzenleyeceklerdir.
+
+761
+01:03:46,981 --> 01:03:49,233
+Buradan çıkmak zorundayız.
+
+762
+01:04:00,412 --> 01:04:02,204
+Kirk, Benim, Martia.
+
+763
+01:04:02,330 --> 01:04:05,624
+Bak. Bugüne kadar
+kimse Rura Penthe'den kaçamadı.
+
+764
+01:04:06,292 --> 01:04:08,711
+-İlk biz olacağız yani.
+-Muhtemelen.
+
+765
+01:04:10,046 --> 01:04:13,632
+Kalkanın etki alanından nasıl çıkacağımızı biliyorum.
+-Bizim görevimiz ne olacak?
+
+766
+01:04:13,717 --> 01:04:16,135
+-Etki alanından çıkmak kolay.
+
+767
+01:04:16,344 --> 01:04:19,972
+Zor olan, donmadan yüzeyden
+kurtulmak.
+
+768
+01:04:20,056 --> 01:04:21,306
+Yapabilir misin?
+
+769
+01:04:22,475 --> 01:04:25,436
+-Muhtemelen.
+-Tek başına başaramam.
+
+770
+01:04:26,771 --> 01:04:30,899
+Aylardır buraya gelen
+en uygun aday sensin.
+
+771
+01:04:30,984 --> 01:04:32,735
+Ne için en uygun aday benim?
+
+772
+01:04:47,500 --> 01:04:50,586
+Sabah vardiyasında 7. asansörün
+yanına gelin.
+
+773
+01:04:50,670 --> 01:04:53,797
+Orada görüşürüz.
+Beni hayal kırıklığına uğratmayın.
+
+774
+01:04:57,177 --> 01:05:00,804
+-Aklın nerede senin?
+-Hâlâ sonumuzun geldiğini düşünüyor musun?
+
+775
+01:05:01,097 --> 01:05:02,639
+Her zamankinden çok.
+
+776
+01:05:07,854 --> 01:05:09,980
+Uyandırdığım için özür dilerim.
+Ne oldu?
+
+777
+01:05:10,064 --> 01:05:12,274
+Yıldız Filosu, Atılgan'ın mevkii konusunda...
+
+778
+01:05:12,358 --> 01:05:14,818
+...bildiklerimizi acilen öğrenmek istiyor.
+
+779
+01:05:17,572 --> 01:05:18,697
+Ne?
+
+780
+01:05:19,032 --> 01:05:21,450
+Anladığım kadarıyla,
+Limana dönme emrine uymamakta...
+
+781
+01:05:21,534 --> 01:05:23,702
+...direniyorlarmış.
+
+782
+01:05:27,207 --> 01:05:31,919
+Yıldız Filosu'na Atılgan'ın mevkii
+konusunda hiçbir şey bilmediğimizi söyle.
+
+783
+01:05:33,004 --> 01:05:34,046
+-Komutanım?
+
+784
+01:05:35,465 --> 01:05:38,383
+-Kulaklarında bir sorun mu var?
+Hayır, komutanım.
+
+785
+01:06:22,846 --> 01:06:23,846
+Klingon kanı.
+
+786
+01:06:25,056 --> 01:06:27,057
+Yerçekimsiz ortamda
+süzülen damlacıklar...
+
+787
+01:06:27,141 --> 01:06:29,142
+...yürürken üzerlerine bulaşmış olmalı.
+
+788
+01:06:30,270 --> 01:06:33,355
+Teorimizi doğrulayan ilk delili
+bulmuş olduk böylece.
+
+789
+01:06:33,439 --> 01:06:34,690
+-Artık filoyla konuşabilir miyiz?
+
+790
+01:06:34,774 --> 01:06:38,402
+Artık aramalarımızı üniformaları da
+kapsayacak şekilde genişletebiliriz.
+
+791
+01:06:39,612 --> 01:06:41,113
+Bütün üniformaları mı?
+
+792
+01:06:47,829 --> 01:06:49,371
+Bunları dışarı çıkar.
+
+793
+01:06:55,044 --> 01:06:57,963
+-Devam edin
+-Hiçbirşey yok, Efendim.
+
+794
+01:07:00,842 --> 01:07:02,217
+Burası Temiz, Efendim.
+
+795
+01:07:03,887 --> 01:07:06,179
+Çekilin yoldan.
+Çekilin.
+
+796
+01:07:08,016 --> 01:07:10,058
+Bilgisayar Yedinci Bölüm Temiz.
+
+797
+01:07:12,896 --> 01:07:14,396
+Hiçbir şey yok.
+
+798
+01:07:15,064 --> 01:07:18,817
+Bakalım burda ne varmı.
+Hiçbirşey, Başka hiçbirşey yok.
+
+799
+01:07:19,277 --> 01:07:20,527
+Komutanım!
+Komutanım!
+
+800
+01:07:52,101 --> 01:07:55,312
+-Bizi oyuna getirdi.
+-Getirmedim, doktor.
+
+801
+01:07:56,022 --> 01:07:59,691
+İlk katta inin. Grubu
+madenlere kadar takip edin.
+
+802
+01:08:00,193 --> 01:08:02,027
+Kızları almıyorlar da.
+
+803
+01:08:12,997 --> 01:08:14,748
+-Tayfa Dax sen misin?
+
+804
+01:08:15,333 --> 01:08:17,834
+-Evet, komutanım. Sorun nedir?
+
+805
+01:08:18,836 --> 01:08:23,048
+Rus masalı
+Sinderella'yı duymuşsundur.
+
+806
+01:08:25,885 --> 01:08:28,929
+Ayakkabı uyarsa--
+Giy şunu.
+
+807
+01:08:30,848 --> 01:08:32,224
+Bay Chekov.
+
+808
+01:08:48,116 --> 01:08:49,408
+Beni izleyin.
+
+809
+01:08:52,203 --> 01:08:55,037
+-Ne biçim yaratık bu? Dün gece ikiniz--
+
+810
+01:08:55,122 --> 01:08:56,747
+-Hatırlatmasana!
+
+811
+01:08:59,627 --> 01:09:00,836
+Binin.
+
+812
+01:10:12,033 --> 01:10:14,659
+Hadi. Fazla zamanımız yok.
+
+813
+01:10:32,345 --> 01:10:33,512
+Acele edin!
+
+814
+01:10:37,683 --> 01:10:38,934
+Yukarı.
+
+815
+01:10:41,521 --> 01:10:43,063
+Hadi. Tırmanın!
+
+816
+01:10:54,492 --> 01:10:56,868
+Alın. Bunlara ihtiyacınız
+olacak! Acele edin!
+
+817
+01:11:18,516 --> 01:11:19,891
+Geride kalmayın.
+
+818
+01:12:36,969 --> 01:12:37,928
+-İşte oradalar.
+
+819
+01:12:38,012 --> 01:12:40,388
+-Işınlama kalkanından kurtulmak üzereler.
+
+820
+01:12:40,473 --> 01:12:42,933
+Bay Scott, motorları çalıştırın.
+-Emredersiniz.
+
+821
+01:12:43,017 --> 01:12:45,727
+Bay Chekov, rotayı
+Rura Penthe'ye çevirin.
+
+822
+01:12:45,811 --> 01:12:49,522
+Bay Spock, Rura Penthe, Klingon
+sınırlarından oldukça içeride.
+
+823
+01:12:49,982 --> 01:12:52,442
+Yakalanırsak--
+-Haklısın, Bay Chekov.
+
+824
+01:12:52,526 --> 01:12:55,278
+Çok yüksek lisan becerisine...
+
+825
+01:12:55,780 --> 01:12:57,364
+...ve atak olmaya ihtiyacımız var.
+
+826
+01:12:57,448 --> 01:13:00,033
+Yoksa Kaptan ve
+Dr. McCoy donarak ölecek.
+
+827
+01:13:07,541 --> 01:13:09,751
+-Bırak beni! İşim bitti!
+-Hayır.
+
+828
+01:13:11,254 --> 01:13:15,298
+Bones, sırtımda
+viridyum vericisi var.
+
+829
+01:13:15,675 --> 01:13:19,386
+Gorkon'un gemisine çıkmadan
+önce Spock yerleştirmişti.
+
+830
+01:13:19,845 --> 01:13:24,975
+Vay kurnaz Vulkanlı vay.
+Hadi! Açığa çıkmak üzereyiz.
+
+831
+01:13:26,894 --> 01:13:28,603
+Artık etki alanından çıktığımıza göre...
+
+832
+01:13:28,688 --> 01:13:31,356
+...bizi iki sektör uzaklıktan tespit ederler.
+
+833
+01:13:31,857 --> 01:13:33,692
+Tabii arıyorlarsa.
+
+834
+01:14:03,556 --> 01:14:06,182
+Burası izleme istasyonu Morska.
+
+835
+01:14:07,560 --> 01:14:09,728
+Geminizin adı nedir, tamam.
+
+836
+01:14:21,407 --> 01:14:22,991
+Bizzat cevap vermeliyiz.
+
+837
+01:14:23,075 --> 01:14:25,827
+Evrensel tercümanı
+tespit edebilirler.
+
+838
+01:14:34,920 --> 01:14:37,714
+Ben yük gemisi Ursva'yık.
+
+839
+01:14:39,508 --> 01:14:41,593
+Altı haftadır Kronos'tan...
+
+840
+01:14:42,261 --> 01:14:44,262
+...yoldayık.
+
+841
+01:14:59,070 --> 01:15:01,196
+"Hedefiniz neresi, tamam."
+
+842
+01:15:06,118 --> 01:15:09,120
+Biz götürtürük yiyecek...
+
+843
+01:15:12,375 --> 01:15:14,834
+...bir şeyler ve mühimmatlar.
+
+844
+01:15:19,298 --> 01:15:22,467
+Dikkat edin de
+yemekler böceklenmesin.
+
+845
+01:15:53,499 --> 01:15:56,751
+Şu yaptığın numaranın
+bir açıklaması var mı?
+
+846
+01:15:57,670 --> 01:16:00,547
+-Ben bir Bukalemoid'im.
+-Duymuştum.
+
+847
+01:16:02,216 --> 01:16:03,758
+Şekil değiştirenler.
+
+848
+01:16:05,636 --> 01:16:09,431
+Efsaneden ibaret olduğunuzu sanırdım.
+Kıza bir şans ver, kaptan.
+
+849
+01:16:11,684 --> 01:16:15,270
+Çok çaba gerektiriyor.
+Ona ne şüphe?
+
+850
+01:16:16,856 --> 01:16:18,648
+Yanlışım varsa söyle...
+
+851
+01:16:19,066 --> 01:16:22,986
+...ama hangisinin gerçek halin olduğunu
+bilmemize olanak yok, değil mi?
+
+852
+01:16:23,487 --> 01:16:26,281
+Gözünüze hitap eden
+bir şekle bürünmek istedim.
+
+853
+01:16:33,205 --> 01:16:36,624
+Kalkanın dışındayız.
+Sıra sende, kaptan.
+
+854
+01:16:37,668 --> 01:16:39,169
+Madem öyle diyorsun--
+
+855
+01:16:41,213 --> 01:16:42,714
+Delirdin mi sen?
+
+856
+01:16:42,882 --> 01:16:44,382
+Kaçmak için yardımımıza ihtiyacı yoktu.
+
+857
+01:16:44,467 --> 01:16:46,301
+Yepyeni kıyafetleri nereden buldun?
+
+858
+01:16:46,385 --> 01:16:49,262
+Fişekleri de hapishanede dağıttıklarını
+söylemeyeceksin herhalde.
+
+859
+01:16:49,722 --> 01:16:53,725
+Yerimizi belli etmek için. Sor bakalım,
+karşılığında ne alacakmış?
+
+860
+01:16:53,809 --> 01:16:55,310
+Affedileceğim.
+
+861
+01:16:56,562 --> 01:16:58,354
+Dayak yiyeceğimi
+bilseydim fazlasını isterdim.
+
+862
+01:16:58,439 --> 01:17:01,524
+Kaza süsü vermek yetmedi galiba.
+Hadisene, Spock.
+
+863
+01:17:02,234 --> 01:17:05,653
+Tek kişi olsaydı yeterdi.
+İki kişi dikkat çekerdi.
+
+864
+01:17:06,739 --> 01:17:11,367
+Kaçmaya çalışırken vurulmak.
+İki kişi için ikna edici bir mazeret.
+
+865
+01:17:16,081 --> 01:17:17,332
+Sürpriz!
+
+866
+01:17:29,345 --> 01:17:32,180
+-Arkadaşların gecikti.
+-Birazdan gelirler.
+
+867
+01:17:35,726 --> 01:17:39,979
+-Seni öptüğüme inanamıyorum.
+-Hayatın boyunca o anı beklemiyor muydun?
+
+868
+01:17:55,538 --> 01:17:57,872
+Başka bir şeye dönüşmenin
+zamanı gelmedi mi?
+
+869
+01:17:57,957 --> 01:17:59,499
+Bu şekli sevdim.
+
+870
+01:18:08,592 --> 01:18:11,844
+Vay, vay, vay.
+
+871
+01:18:19,645 --> 01:18:21,479
+Nerede kaldınız?
+
+872
+01:18:22,898 --> 01:18:26,651
+Onu öldürün. Kirk o.
+Ben değilim, aptallar. O!
+
+873
+01:18:29,530 --> 01:18:32,824
+-Şahit bırakmamak lazım.
+-Kaçarken vurularak öldürülmek.
+
+874
+01:18:33,993 --> 01:18:36,953
+-Bana sorarsan çok zekice.
+-Tam bir klasik.
+
+875
+01:18:37,329 --> 01:18:40,623
+-Öyle istedi.
+-Kim? Kim bizi öldürmek istedi?
+
+876
+01:18:41,250 --> 01:18:45,169
+Zaten öleceğiniz için,
+söylememin mahzuru yok.
+
+877
+01:18:45,713 --> 01:18:47,213
+Adı--
+
+878
+01:18:53,637 --> 01:18:57,807
+Kahretsin! Adi herif! Lanet olsun!
+
+879
+01:18:58,142 --> 01:19:00,268
+İki saniye daha bekleyemediniz mi?
+Kaptan?
+
+880
+01:19:00,352 --> 01:19:02,478
+Ağzından lafı almak üzereydim.
+
+881
+01:19:02,563 --> 01:19:03,855
+-Geri dönmek ister misiniz?
+
+882
+01:19:03,939 --> 01:19:06,441
+-Kesinlikle hayır.
+Çok soğuktu.
+
+883
+01:19:08,027 --> 01:19:10,945
+<i>Köprü konuşuyor.
+Hâlâ Klingon sınırları içerisindeyiz.</i>
+
+884
+01:19:11,030 --> 01:19:16,075
+<i>9. güverte, savaş istasyonlarında kalın.
+9. güverte, savaş istasyonlarında kalın.</i>
+
+885
+01:19:49,735 --> 01:19:52,111
+Federasyon'a ait bir yıldız
+gemisine ışınlandılar.
+
+886
+01:19:52,363 --> 01:19:54,947
+Onları izlemek için--
+-Kaçmışlar.
+
+887
+01:20:01,205 --> 01:20:03,289
+Kaçmışlar.
+
+888
+01:20:04,500 --> 01:20:09,170
+Kirk, barış konferansının
+yerini bilmiyordur.
+
+889
+01:20:10,464 --> 01:20:12,090
+Emin misin?
+
+890
+01:20:12,758 --> 01:20:16,094
+O riski almak ister misin?
+
+891
+01:20:17,971 --> 01:20:20,640
+Dümenci, rotamızı Atılgan'ın
+önünü kesecek şekilde ayarla.
+
+892
+01:20:27,064 --> 01:20:28,231
+Klingonların yeni bir silahı var.
+
+893
+01:20:28,315 --> 01:20:30,233
+Perdeleme açıkken
+ateş edebilen bir Atmaca.
+
+894
+01:20:30,317 --> 01:20:32,568
+Gorkon'un gemisine ateş açan da o.
+-Demek olay buymuş.
+
+895
+01:20:32,653 --> 01:20:35,279
+Pek değil. Gorkon'un katillerinin...
+
+896
+01:20:35,364 --> 01:20:38,116
+...gemide olduğuna inanıyoruz.
+-Bence de.
+
+897
+01:20:38,200 --> 01:20:39,575
+Konferans başladı mı?
+
+898
+01:20:39,660 --> 01:20:41,452
+-Kim bilir? Yerini gizli tutuyorlar.
+
+899
+01:20:41,537 --> 01:20:43,371
+-Her zaman bir açık verirler.
+
+900
+01:20:43,789 --> 01:20:48,251
+-Kaptan! Bay Spock!
+Üzerinde Klingon kanı olan üniformaları buldum!
+
+901
+01:21:03,642 --> 01:21:07,103
+Ama üniformalar bu ikisine ait.
+
+902
+01:21:07,187 --> 01:21:09,439
+Burke ve Samno.
+
+903
+01:21:09,857 --> 01:21:13,443
+Artık değil. Fazer bayıltmaya ayarlanıp
+yakın mesafeden ateş edilmiş.
+
+904
+01:21:13,527 --> 01:21:16,738
+Suikastın birinci kuralı:
+Suikastçıları öldür.
+
+905
+01:21:17,781 --> 01:21:20,992
+-Başladığımız noktaya döndük.
+-Biraz konuşabilir miyiz?
+
+906
+01:21:23,746 --> 01:21:26,247
+-Neden buharlaştırmamışlar?
+
+907
+01:21:27,291 --> 01:21:29,375
+-Alarm çalardı.
+
+908
+01:21:36,508 --> 01:21:38,009
+Mümkün.
+
+909
+01:21:38,719 --> 01:21:44,182
+<i>Lütfen dikkat.
+Adlî kâtip derhal revire lütfen.</i>
+
+910
+01:21:44,391 --> 01:21:48,352
+<i>Acil durum. Burke ve Samno isimli
+tayfaların ifadeleri alınacak.</i>
+
+911
+01:21:48,437 --> 01:21:53,649
+<i>Tekrar ediyorum, adlî kâtip
+revirden bekleniyor. Acil durum.</i>
+
+912
+01:21:53,734 --> 01:21:56,986
+<i>İfade alınacak.</i>
+
+913
+01:21:57,988 --> 01:22:02,033
+<i>Tekrar ediyorum, Burke ve Samno
+isimli tayfaların ifadeleri alınacak.</i>
+
+914
+01:22:41,073 --> 01:22:42,740
+Ateş etmek zorundasın.
+
+915
+01:22:46,578 --> 01:22:50,581
+Mantıklı biriysen
+ateş etmeye mecbursun.
+
+916
+01:22:55,379 --> 01:22:56,671
+-İstemiyorum.
+
+917
+01:22:56,755 --> 01:23:00,424
+-Ne istediğinin önemi yok.
+Seçimini çoktan yaptın.
+
+918
+01:23:01,552 --> 01:23:03,719
+Ateş et de gör gününü.
+
+919
+01:23:11,311 --> 01:23:13,187
+Operasyon tamamlandı.
+
+920
+01:23:19,403 --> 01:23:22,780
+Ateş etmedim.
+Hiçbir şey kanıtlayamazsınız.
+
+921
+01:23:23,073 --> 01:23:27,702
+Kanıtlayabilirim. Günlüğüm mahkemede
+aleyhime delil olarak kullanıldı.
+
+922
+01:23:28,120 --> 01:23:32,039
+Seni fark edene kadar kamaramın
+önünde ne kadar bekledin?
+
+923
+01:23:33,959 --> 01:23:35,251
+Biliyor muydunuz?
+
+924
+01:23:37,504 --> 01:23:40,506
+Size anlatmaya çalıştım
+ama beni dinlemediniz.
+
+925
+01:23:41,550 --> 01:23:44,677
+O gece hepimizin kulaklarında
+sorunlar vardı, yüzbaşı.
+
+926
+01:23:44,761 --> 01:23:48,306
+Sana bazı şeyler anlatmaya
+çalıştım. Sadakatle ilgili.
+
+927
+01:23:48,557 --> 01:23:50,975
+Federasyon'a ihanet
+eden sizlersiniz.
+
+928
+01:23:51,977 --> 01:23:53,352
+Hepiniz.
+
+929
+01:23:53,562 --> 01:23:55,229
+-Sen ne yapıyordun peki?
+
+930
+01:23:55,314 --> 01:23:58,941
+-Yıldız Filosu'nu kurtarıyordum.
+Klingonlara güven olmaz.
+
+931
+01:24:00,152 --> 01:24:01,235
+Komutanım,
+
+932
+01:24:02,487 --> 01:24:05,656
+Bunu kendi ağzınızla söylediniz.
+Oğlunuzu öldürdüler.
+
+933
+01:24:06,366 --> 01:24:09,660
+Gorkon'un ölmesini istemediniz mi?
+"Gebersinler" dediniz.
+
+934
+01:24:09,745 --> 01:24:11,662
+Yoksa ben mi yanlış anladım?
+
+935
+01:24:14,541 --> 01:24:16,292
+Haklıydınız.
+
+936
+01:24:17,210 --> 01:24:20,922
+Kendi şansölyelerini öldürmek
+için bizimle komplo kurdular.
+
+937
+01:24:21,006 --> 01:24:23,174
+Ne kadar güvenilir
+olduklarını görün işte.
+
+938
+01:24:23,634 --> 01:24:27,261
+Klingonlar ve Federasyon üyeleri
+birlikte komplolar mı kuruyorlar?
+
+939
+01:24:27,804 --> 01:24:29,096
+-"Siz" kimsiniz?
+
+940
+01:24:29,181 --> 01:24:31,849
+-Barıştan zarar görecek olan herkes.
+
+941
+01:24:32,351 --> 01:24:36,103
+İsimler, yüzbaşı.
+Yoldaşlarım merkeze göndereceğiniz...
+
+942
+01:24:36,188 --> 01:24:39,440
+...tüm mesajları karıştıracaklardır.
+
+943
+01:24:39,524 --> 01:24:41,192
+-İsim istiyorum, yüzbaşı!
+
+944
+01:24:41,693 --> 01:24:43,903
+-Hatırlamıyorum.
+
+945
+01:24:47,032 --> 01:24:48,199
+Bir yalan mı?
+
+946
+01:24:50,160 --> 01:24:51,410
+Bir seçim.
+
+947
+01:24:56,166 --> 01:24:57,333
+Spock.
+
+948
+01:25:41,712 --> 01:25:44,672
+Amiral Cartwright.
+
+949
+01:25:45,924 --> 01:25:47,425
+Yıldız Filosu'ndan mı?
+
+950
+01:25:55,434 --> 01:25:56,684
+Başka kim?
+
+951
+01:26:01,523 --> 01:26:03,399
+-General...
+-General...
+
+952
+01:26:04,609 --> 01:26:06,110
+-...Chang.
+-...Chang.
+
+953
+01:26:11,950 --> 01:26:13,451
+-Başka kim?
+
+954
+01:26:13,994 --> 01:26:15,870
+-Romulan...
+-Romulan...
+
+955
+01:26:15,954 --> 01:26:17,705
+-...Büyükelçisi...
+-...Büyükelçisi...
+
+956
+01:26:17,789 --> 01:26:19,457
+-...Nanclus.
+-...Nanclus.
+
+957
+01:26:23,295 --> 01:26:25,546
+Barış Konferansı Nerede?
+
+958
+01:26:27,799 --> 01:26:30,051
+Barış Konferansı Nerede?
+
+959
+01:27:04,002 --> 01:27:05,628
+Bilmiyor.
+
+960
+01:27:08,090 --> 01:27:09,673
+Öldüğümüzün resmidir.Bilmiyor.
+
+961
+01:27:20,268 --> 01:27:23,521
+Ben daha önce de öldüm.
+Görkemli'yle bağlantı kurun.
+
+962
+01:27:25,398 --> 01:27:28,984
+Koordinatları mutlaka biliyordur.
+-Kurdum bile.
+
+963
+01:27:30,112 --> 01:27:31,612
+<i>-Emirlerinizi bekliyorum, Kaptan Kirk.</i>
+
+964
+01:27:31,696 --> 01:27:32,780
+-Sulu.
+
+965
+01:27:33,198 --> 01:27:37,409
+Bizimle konuşmakla bile yönetmelikleri
+çiğnediğinin farkında mısın?
+
+966
+01:27:37,536 --> 01:27:40,371
+<i>Kusura bakma, kaptan.
+Mesaj anlaşılmadı.</i>
+
+967
+01:27:40,455 --> 01:27:43,541
+Teşekkürler, Sulu.
+Barış konferansı nerede?
+
+968
+01:27:44,376 --> 01:27:46,335
+Bir suikast daha düzenleyecekler.
+
+969
+01:27:46,419 --> 01:27:50,172
+<i>Romula sınırı yakınlarındaki
+Khitomer Kampı'nda.</i>
+
+970
+01:27:51,174 --> 01:27:54,468
+<i>Koordinatları şifreli
+bir frekanstan gönderiyorum.</i>
+
+971
+01:27:54,553 --> 01:27:56,554
+Daha fazla yardıma
+ihtiyacımız olacak.
+
+972
+01:27:56,638 --> 01:27:59,181
+Peşimizde perdeleme açıkken
+
+973
+01:27:59,266 --> 01:28:00,808
+bile ateş edebilen bir Atmaca var.
+
+974
+01:28:00,892 --> 01:28:02,309
+<i>Mümkün değil.</i>
+
+975
+01:28:02,394 --> 01:28:05,271
+O şeylerden kaç tane var?
+
+976
+01:28:05,689 --> 01:28:07,439
+Söylesene, yüzbaşı!
+
+977
+01:28:08,066 --> 01:28:10,776
+-Tek bir prototip.
+-Duydun mu?
+
+978
+01:28:11,403 --> 01:28:14,989
+<i>Hemen yola çıkıyorum. Yalnız
+şu anda Alfa Kadranındayız.</i>
+
+979
+01:28:15,073 --> 01:28:18,450
+<i>Konferansa yetişebilme
+ihtimalimiz düşük.</i>
+
+980
+01:28:18,535 --> 01:28:20,870
+<i>-Konferans ne zaman başlıyor?
+</i>
+
+981
+01:28:20,954 --> 01:28:23,455
+<i>-Bildiğim kadarıyla bugün.</i>
+
+982
+01:28:24,791 --> 01:28:26,584
+<i>-Teşekkürler, Kaptan Sulu.</i>
+
+983
+01:28:26,793 --> 01:28:28,294
+-Lafını etmeye değmez, Kaptan Kirk.
+
+984
+01:28:35,093 --> 01:28:36,260
+Spock?
+
+985
+01:28:37,679 --> 01:28:39,305
+Karanlığı tercih ederim.
+
+986
+01:28:46,605 --> 01:28:48,189
+-İçin kan mı ağlıyor?
+
+987
+01:28:49,149 --> 01:28:50,691
+-Haklıydın.
+
+988
+01:28:51,109 --> 01:28:56,530
+Böyle bir duruma düşmemize benim
+haddimi aşmam sebep oldu.
+
+989
+01:28:58,450 --> 01:29:01,285
+Sen de, doktor da ölebilirdiniz.
+
+990
+01:29:01,953 --> 01:29:03,704
+Gece daha yeni başlıyor.
+
+991
+01:29:04,623 --> 01:29:09,126
+Mantıklı olduğunu kendin söyledin.
+Barış, bazı riskler almaya değer.
+
+992
+01:29:13,089 --> 01:29:15,216
+Mantık senin uzmanlık alanın.
+
+993
+01:29:15,300 --> 01:29:18,928
+Meleklerin bile girmeye korkacağı
+yerlere bodoslama dalmaksa benim.
+
+994
+01:29:20,597 --> 01:29:22,473
+İkimiz de uçlardayız.
+
+995
+01:29:22,849 --> 01:29:25,893
+Gerçekse
+ikimizin arasında bir yerlerde.
+
+996
+01:29:30,982 --> 01:29:33,734
+Oğlumun ölümünden
+ötesini göremez olmuştum.
+
+997
+01:29:34,152 --> 01:29:38,197
+Bir Vulkanlı olarak kazandığı
+başarılar gözümü boyadı.
+
+998
+01:29:39,324 --> 01:29:42,993
+Ne kadar önyargılı olduğumu
+anlamam için Gorkon'un ölmesi gerekti.
+
+999
+01:29:50,877 --> 01:29:55,297
+Acaba ikimizin, seninle benim...
+
+1000
+01:29:56,258 --> 01:30:00,594
+...artık iyice ihtiyarlayıp
+esnekliğimizi yitirmiş...
+
+1001
+01:30:01,513 --> 01:30:04,098
+...ve işlevimizi kaybetmiş
+olmamız mümkün müdür?
+
+1002
+01:30:06,351 --> 01:30:08,894
+Köpeklerin maskarası mı olduk artık?
+
+1003
+01:30:10,397 --> 01:30:12,606
+-Kendini suçlama.
+-Senin hatan değildi.
+
+1004
+01:30:12,691 --> 01:30:14,358
+-Benim sorumluluğumdaydı.
+
+1005
+01:30:15,735 --> 01:30:20,072
+-Sadece kendi hareketlerinden sorumlusun.
+-Mahkemede öyle söylememiştin.
+
+1006
+01:30:21,366 --> 01:30:23,617
+Ben bu geminin kaptanıyım.
+İnsanlar olarak--
+
+1007
+01:30:23,702 --> 01:30:26,996
+Kaptan, ikimiz de
+insan olmadığımı biliyoruz.
+
+1008
+01:30:27,497 --> 01:30:30,874
+Biliyor musun, Spock?
+Herkes biraz insandır.
+
+1009
+01:30:31,918 --> 01:30:35,045
+Bu ifadeyi hakaret kabul ederim.
+
+1010
+01:30:36,464 --> 01:30:37,631
+Gel, sana ihtiyacım var.
+
+1011
+01:30:42,178 --> 01:30:43,804
+Sayın Şansölye,
+
+1012
+01:30:44,681 --> 01:30:48,892
+Kordiplomatik üyeleri, değerli konuklar.
+
+1013
+01:30:50,562 --> 01:30:54,481
+Birleşmiş Gezegenler Federasyonu adına
+Khitomer Kampı'na hoş geldiniz diyorum.
+
+1014
+01:31:11,708 --> 01:31:13,959
+Buralarda bir yerlerde.
+
+1015
+01:31:14,419 --> 01:31:16,378
+-Ama perdelemesi açıksa--
+
+1016
+01:31:17,005 --> 01:31:19,173
+-O zaman tek şansımız nötron sızıntısı.
+
+1017
+01:31:19,257 --> 01:31:22,343
+Alıcılarımızın menziline
+girdiğindeyse çok geç olacak.
+
+1018
+01:31:22,427 --> 01:31:23,844
+2,09.
+
+1019
+01:31:26,848 --> 01:31:28,057
+2,06.
+
+1020
+01:31:31,686 --> 01:31:33,187
+2,03.
+
+1021
+01:31:34,814 --> 01:31:39,526
+-Işınlanacak kadar yaklaştık mı?
+-Henüz değil. İki dakika var. 1,58.
+
+1022
+01:31:41,571 --> 01:31:44,698
+Khitomer'e yaklaşınca
+iticilerle gidelim.
+
+1023
+01:31:53,500 --> 01:31:58,837
+Hayat şartlarımızı, bir şeyi
+yapabilecek olmanın...
+
+1024
+01:31:58,922 --> 01:32:03,342
+...yapmak zorunda olmadığımız gerçeğine
+dayanarak yeniden düzenleyelim.
+
+1025
+01:32:07,138 --> 01:32:09,223
+-Uhura?
+-Hiçbir şey yok, kaptan.
+
+1026
+01:32:09,974 --> 01:32:13,018
+Buradaysa bile fark etmemizi
+sağlayacak hiçbir şey yapmıyor.
+
+1027
+01:32:19,901 --> 01:32:22,986
+<i>57 saniye sonra ışınlayıcıların
+menziline gireceğiz.</i>
+
+1028
+01:32:23,988 --> 01:32:26,657
+<i>Nakil odası, gezegene
+ışınlamaya hazır olun.</i>
+
+1029
+01:32:29,828 --> 01:32:30,869
+<i>53.</i>
+
+1030
+01:32:35,708 --> 01:32:37,084
+<i>48 saniye.</i>
+
+1031
+01:32:42,590 --> 01:32:43,632
+<i>44.</i>
+
+1032
+01:32:46,928 --> 01:32:48,762
+<i>Seni görebiliyorum, Kirk.</i>
+
+1033
+01:32:50,682 --> 01:32:51,849
+Chang.
+
+1034
+01:32:53,017 --> 01:32:54,560
+<i>Sen de beni görebiliyor musun?</i>
+
+1035
+01:32:55,728 --> 01:32:59,773
+Dürüst ol, kaptan.
+Burada, savaşçı meclisindeyiz.
+
+1036
+01:33:00,567 --> 01:33:04,319
+<i>Sen de böylesini tercih edersin.
+Olması gerektiği gibi.</i>
+
+1037
+01:33:05,071 --> 01:33:07,239
+<i>Bizim devrimizde barış olmayacak.</i>
+
+1038
+01:33:07,949 --> 01:33:12,703
+<i>"Bir kez daha taarruz
+edelim, aziz dostlarım."</i>
+
+1039
+01:33:28,720 --> 01:33:31,972
+-Aman ne eğlenceli.
+-Tornistan. Kıç motorları.
+
+1040
+01:33:32,056 --> 01:33:35,225
+1,5 yol geri.
+Geri çekilin! Geri!
+
+1041
+01:33:39,564 --> 01:33:41,231
+Ne yapıyor?
+
+1042
+01:33:42,025 --> 01:33:43,901
+Neyi bekliyor?
+
+1043
+01:33:44,903 --> 01:33:48,322
+Muhtemelen geriye gitmemizin
+sebebini anlamaya çalışıyordur.
+
+1044
+01:33:48,740 --> 01:33:51,074
+Onu tespit edip
+etmediğimizi düşünüyor.
+
+1045
+01:33:56,414 --> 01:33:57,664
+Geliyor!
+
+1046
+01:34:02,086 --> 01:34:04,671
+-Menzile girdik mi?
+-Henüz girmedik, komutanım.
+
+1047
+01:34:04,756 --> 01:34:06,173
+Hadi!
+
+1048
+01:34:06,257 --> 01:34:08,258
+-Gemi dağılacak!
+-Dağılırsa dağılsın!
+
+1049
+01:34:08,843 --> 01:34:12,638
+Pek çok kişi babamın
+nedenlerini sorguladı.
+
+1050
+01:34:13,932 --> 01:34:16,892
+Bazıları idealistlikle...
+
+1051
+01:34:17,060 --> 01:34:19,269
+...bazıları çaresizlikle suçladı.
+
+1052
+01:34:19,854 --> 01:34:23,607
+Praksis patlamamış olmasaydı,
+babamın idealizmi
+
+1053
+01:34:23,858 --> 01:34:28,403
+...bugünlere gelemezdi.
+Biz şerefli bir türüz.
+
+1054
+01:34:28,988 --> 01:34:33,700
+Buraya da, şerefimizi korumaya
+niyetli olduğumuz için geldik.
+
+1055
+01:34:43,586 --> 01:34:47,631
+-Yedek güce geçelim!
+-Yedek devreler yok edildi.
+
+1056
+01:34:53,638 --> 01:34:57,641
+Gıdıklarsanız gülmez miyiz?
+Bıçaklarsanız kanamaz mıyız?
+
+1057
+01:34:58,309 --> 01:34:59,643
+"Kabahatiniz olursa,
+
+1058
+01:35:00,937 --> 01:35:02,729
+intikam almaz mıyız?"
+
+1059
+01:35:03,690 --> 01:35:04,773
+Gaz.
+
+1060
+01:35:06,693 --> 01:35:11,196
+Gaz, kaptan. İticilerle hareket
+eden her gemi yakıt kullanır.
+
+1061
+01:35:11,531 --> 01:35:14,241
+Biz "plazma" diyoruz. Klingonlar'ın
+verdiği isim ne olursa olsun...
+
+1062
+01:35:14,325 --> 01:35:16,577
+...iyonize gazdan ibarettir.
+
+1063
+01:35:17,287 --> 01:35:19,913
+Gaz anomalilerini tespit etmek...
+
+1064
+01:35:19,998 --> 01:35:22,165
+için kullandığımız cihazlar yok mu?
+
+1065
+01:35:24,460 --> 01:35:29,089
+O geminin bir egzozu olmalı.
+
+1066
+01:35:29,173 --> 01:35:32,509
+Doktor, bir torpido ameliyat yapmama
+yardımcı olur musunuz? -Zevkle.
+
+1067
+01:35:34,387 --> 01:35:36,054
+Sancak alabanda!
+
+1068
+01:35:37,974 --> 01:35:42,477
+Teklif edilen program şu şekildedir:
+Kronos'un tamamen boşaltılması...
+
+1069
+01:35:42,562 --> 01:35:46,315
+...Dünya zaman ölçüsüyle 50 yıllık
+bir süreyi kapsayacaktır.
+
+1070
+01:35:46,399 --> 01:35:48,900
+Birinci aşama: Tahliye için hazırlık--
+
+1071
+01:35:59,203 --> 01:36:03,165
+Kaptan, gemi şamar oğlanına döndü.
+Saptırıcı zırh zayıflıyor.
+
+1072
+01:36:11,049 --> 01:36:13,050
+Zırhı açın! Pekâlâ.
+
+1073
+01:36:13,134 --> 01:36:15,052
+Ateş edebilecekleri
+yeni bir hedef verelim.
+
+1074
+01:36:15,136 --> 01:36:16,386
+Emredersiniz.
+
+1075
+01:36:23,061 --> 01:36:24,936
+Oyun ilginçleşiyor.
+
+1076
+01:36:33,237 --> 01:36:37,240
+-Görkemli vuruldu.
+-"Şenlikler nihayete erdi" Kirk.
+
+1077
+01:36:46,167 --> 01:36:51,088
+"Nara at ve savaş
+köpeklerini özgür bırak!"
+
+1078
+01:36:52,215 --> 01:36:54,257
+-Bones, torpido nerede kaldı?
+
+1079
+01:36:54,342 --> 01:36:56,009
+-"Keşke yataktan çıkmasaydım" diyorsundur.
+
+1080
+01:36:56,094 --> 01:36:58,178
+Acil durum gücü!
+Yerçekimi kontrölü azalıyor!
+
+1081
+01:36:58,262 --> 01:36:59,971
+Saptırıcı zırh çökmek üzere!
+
+1082
+01:37:02,266 --> 01:37:04,393
+Anahtar lütfen, doktor.
+Vaktimiz dar.
+
+1083
+01:37:13,194 --> 01:37:14,611
+Dış Gövde delindi.
+
+1084
+01:37:14,696 --> 01:37:17,280
+-Ne kadar kötü acaba?
+Eko-çubukları birleştir.
+
+1085
+01:37:17,407 --> 01:37:19,991
+...sonra ikinci aşamaya geçilecek.
+
+1086
+01:37:20,284 --> 01:37:23,120
+-A devresini sök.
+-Alıcılar.
+
+1087
+01:37:23,454 --> 01:37:26,373
+...hazırlık çalışmalarının başlangıcındaki--
+
+1088
+01:37:26,666 --> 01:37:29,376
+<i>"-Kuzey yıldızı kadar belirginim."</i>
+
+1089
+01:37:29,460 --> 01:37:32,003
+Susması içn neler vermezdim.
+
+1090
+01:37:32,130 --> 01:37:33,422
+Levhayı alabilir miyim?
+Levha!
+
+1091
+01:37:33,506 --> 01:37:35,257
+...Uyum sürecinde dikkat edilmesi...
+
+1092
+01:37:35,341 --> 01:37:37,217
+Nabız atıyor.
+
+1093
+01:37:38,386 --> 01:37:40,387
+...Klingon İmparatorluğu'nun ekolojik--
+
+1094
+01:37:40,680 --> 01:37:42,264
+-Anahtar, lütfen.
+-Anahtar.
+
+1095
+01:37:42,348 --> 01:37:43,765
+-Nerede kaldı şu torpil?!
+
+1096
+01:37:43,850 --> 01:37:46,184
+-Torpil hazır, Jim.
+Kilitli ve yüklü.
+
+1097
+01:37:48,813 --> 01:37:49,938
+Ateş!
+
+1098
+01:38:02,785 --> 01:38:03,994
+"Olmak,..
+
+1099
+01:38:04,620 --> 01:38:05,871
+...ya da...
+
+1100
+01:38:06,706 --> 01:38:07,998
+...olmamak."
+
+1101
+01:38:09,751 --> 01:38:11,835
+Son patlamayı
+nişan alıp ateş edin!
+
+1102
+01:38:13,796 --> 01:38:14,796
+Ateş!
+
+1103
+01:38:25,516 --> 01:38:27,601
+Görüşmelerin hafta boyunca...
+
+1104
+01:38:27,685 --> 01:38:30,562
+...devam edeceğini düşündüğümden...
+
+1105
+01:38:30,646 --> 01:38:33,064
+...her iki tarafın delegasyonlarının da
+başkentlere dönüp...
+
+1106
+01:38:33,149 --> 01:38:35,567
+...önümüzdeki ayın birinden itibaren...
+
+1107
+01:38:35,651 --> 01:38:37,903
+...1. aşamaya hazırlanmalarını istiyorum.
+
+1108
+01:38:37,987 --> 01:38:38,987
+Scotty.
+
+1109
+01:38:39,071 --> 01:38:41,573
+Bildiğiniz gibi,
+vaktimiz çok kısıtlı.
+
+1110
+01:38:42,533 --> 01:38:44,868
+Çekilin yoldan!
+
+1111
+01:38:46,287 --> 01:38:47,788
+Bay Başkan!
+
+1112
+01:38:49,707 --> 01:38:51,917
+Bay Başkan! Bay Başkan!
+
+1113
+01:38:52,877 --> 01:38:54,377
+Bay Başkan!
+
+1114
+01:38:56,506 --> 01:38:58,131
+Kirk, Atılgan.
+
+1115
+01:39:00,301 --> 01:39:01,802
+Şansölyeyi koruyun!
+
+1116
+01:39:09,268 --> 01:39:11,770
+-Tutuklayın bu adamları!
+-Git de kendini tutukla.
+
+1117
+01:39:17,026 --> 01:39:19,152
+Elimizde itiraf var.
+
+1118
+01:39:34,252 --> 01:39:36,253
+-Cartwright, ağır ol bakalım.
+
+1119
+01:39:38,589 --> 01:39:41,883
+Neler oluyor?
+Nedir bunların anlamı?
+
+1120
+01:39:42,343 --> 01:39:45,095
+Gelecek, Sayın Şansölye.
+
+1121
+01:39:45,388 --> 01:39:48,515
+Bazı insanlar geleceğin tarihin
+sonu olduğunu düşünürler.
+
+1122
+01:39:48,599 --> 01:39:52,602
+-Henüz tarihle işimiz bitmedi.
+
+1123
+01:39:55,106 --> 01:39:58,275
+Babanız geleceği...
+
+1124
+01:39:59,443 --> 01:40:01,444
+..."keşfedilmemiş diyar"
+olarak tanımlamıştı.
+
+1125
+01:40:04,949 --> 01:40:07,617
+Pek çok kişi değişikliklerden korkar.
+
+1126
+01:40:12,623 --> 01:40:15,083
+Babamın inançlarına
+yeniden anlam kazandırdınız.
+
+1127
+01:40:16,002 --> 01:40:18,211
+Siz de oğlumunkilere.
+
+1128
+01:41:07,094 --> 01:41:09,930
+Bir kez daha uygarlığı
+kurtarmayı başardık.
+
+1129
+01:41:10,014 --> 01:41:12,474
+İşin iyi yanı, hakkımızda
+soruşturma açılmayacak olması.
+
+1130
+01:41:12,558 --> 01:41:16,436
+Benim hakkımda soruşturma açabilirler.
+Ben de Val'eris'in duygularını paylaştım.
+
+1131
+01:41:16,520 --> 01:41:19,397
+Kimseyi duyguları olduğu
+için tutuklamıyorlar.
+
+1132
+01:41:19,482 --> 01:41:24,069
+İyi ki tutuklamıyorlar. Yoksa
+hepimizin teslim olması gerekirdi.
+
+1133
+01:41:26,197 --> 01:41:27,656
+<i>-Kaptan Kirk.</i>
+
+1134
+01:41:28,199 --> 01:41:29,658
+<i>-Kaptan Sulu.</i>
+
+1135
+01:41:30,618 --> 01:41:34,329
+Atılgan'ın tüm mürettebatı adına,
+sana teşekkürü bir borç bilirim.
+
+1136
+01:41:34,997 --> 01:41:38,416
+<i>Seni görev başında görmek çok güzel,
+Kaptan Kirk.</i>
+
+1137
+01:41:39,001 --> 01:41:40,335
+Kendine iyi bak.
+
+1138
+01:41:52,473 --> 01:41:54,557
+-Tanrım. Ne kadar büyük bir gemi.
+
+1139
+01:41:55,017 --> 01:42:00,981
+-Kaptanı kadar büyük değil.
+Vedalaşıyoruz yani.
+
+1140
+01:42:02,525 --> 01:42:05,485
+Biz de yola koyulsak iyi olur.
+
+1141
+01:42:05,569 --> 01:42:08,947
+Kaptan, Yıldız Filosu
+Komutanlığı'ndan emirlerimiz geldi.
+
+1142
+01:42:09,031 --> 01:42:11,741
+Hemen limana yanaşmamızı istiyorlar.
+
+1143
+01:42:11,826 --> 01:42:13,618
+Azıya çekilmek üzere.
+
+1144
+01:42:28,801 --> 01:42:30,427
+İnsan olsaydım,...
+
+1145
+01:42:31,095 --> 01:42:33,430
+...vereceğim cevap
+şu şekilde olurdu:
+
+1146
+01:42:34,640 --> 01:42:36,099
+"Git işine."
+
+1147
+01:42:39,895 --> 01:42:41,479
+İnsan olsaydım.
+
+1148
+01:42:45,860 --> 01:42:47,819
+Rotamız nedir kaptan?
+
+1149
+01:42:54,035 --> 01:42:56,119
+Sağdan ikinci yıldız.
+
+1150
+01:42:57,955 --> 01:43:00,081
+Sabaha kadar
+kaptırıp gidelim.
+
+1151
+01:43:17,516 --> 01:43:20,602
+<i>Kaptanın seyir defteri.
+Yıldız tarihi 9529,1.</i>
+
+1152
+01:43:21,604 --> 01:43:24,147
+<i>Bu, Atılgan'ın benim komutam altındaki...</i>
+
+1153
+01:43:24,231 --> 01:43:25,732
+...son seferiydi
+
+1154
+01:43:26,025 --> 01:43:31,237
+<i>Bu gemi ve tarihi kısa bir süre
+sonra başka bir mürettebatın himayesine girecek.</i>
+
+1155
+01:43:31,322 --> 01:43:34,741
+<i>Geleceğimiz onlar ve halefleri
+sayesinde şekillenecek.</i>
+
+1156
+01:43:35,367 --> 01:43:37,869
+<i>Bizim başlattığımız serüvenleri...</i>
+
+1157
+01:43:37,953 --> 01:43:40,413
+<i>...ve tüm keşfedilmemiş
+diyarları ziyaret etmeyi...</i>
+
+1158
+01:43:40,498 --> 01:43:42,665
+<i>...hiçbir insanın, hiç kimsenin
+gitmediği yerlere cesurca gitmeyi...</i>
+
+1159
+01:43:43,459 --> 01:43:45,001
+<i>...onlar sürdürecekler.</i>
