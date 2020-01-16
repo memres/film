@@ -1,0 +1,6258 @@
+1
+00:01:26,700 --> 00:01:30,500
+<i>Bir genç vardı</i>
+
+2
+00:01:34,600 --> 00:01:40,000
+<i>Çok farklı ve büyülü bir genç</i>
+
+3
+00:01:43,800 --> 00:01:48,800
+<i>Dediler ki, çok uzaklarda dolaştı</i>
+
+4
+00:01:50,600 --> 00:01:54,300
+<i>Çok uzaklarda</i>
+
+5
+00:01:54,900 --> 00:02:00,100
+<i>Dağların, denizlerin ötesinde</i>
+
+6
+00:02:00,500 --> 00:02:04,200
+<i>Aldanmayın! Şeytan bu!</i>
+
+7
+00:02:04,500 --> 00:02:06,800
+<i>Biraz utangaçtı</i>
+
+8
+00:02:07,100 --> 00:02:10,199
+Bu günah köyünden geri dönün!
+
+9
+00:02:10,199 --> 00:02:13,500
+<i>Hüzünlüydü bakışları</i>
+
+10
+00:02:13,500 --> 00:02:17,500
+<i>Ama çok bilgili...</i>
+
+11
+00:02:18,300 --> 00:02:21,300
+<i>... bir insandı</i>
+
+12
+00:02:22,300 --> 00:02:26,100
+<i>Sonra bir gün</i>
+
+13
+00:02:30,300 --> 00:02:32,300
+<i>Sihirli bir gün...</i>
+
+14
+00:02:32,300 --> 00:02:37,100
+<i>... yolda rastladım ona</i>
+
+15
+00:02:38,800 --> 00:02:44,000
+<i>Konuştuk pek çok konudan</i>
+
+16
+00:02:46,200 --> 00:02:50,200
+<i>Aptallar ve krallardan</i>
+
+17
+00:02:50,500 --> 00:02:55,800
+<i>Bana şunu söyledi.</i>
+
+18
+00:03:00,200 --> 00:03:03,500
+<i>Hayat boyu öğreneceğin</i>
+
+19
+00:03:05,200 --> 00:03:09,100
+<i>En büyük şey</i>
+
+20
+00:03:10,500 --> 00:03:13,900
+<i>Sadece sevmek</i>
+
+21
+00:03:17,300 --> 00:03:20,200
+<i>Ve karşılığında...</i>
+
+22
+00:03:20,900 --> 00:03:25,000
+<i>... sevilmektir</i>
+
+23
+00:03:27,500 --> 00:03:29,500
+<i>Moulin Rouge.</i>
+
+24
+00:03:33,300 --> 00:03:35,700
+<i>Bir gece kulübü...</i>
+
+25
+00:03:38,500 --> 00:03:41,600
+<i>... dans salonu ve genelev.</i>
+
+26
+00:03:43,000 --> 00:03:46,000
+<i>Patronu Harold Zidler'dır.</i>
+
+27
+00:03:46,700 --> 00:03:49,700
+<i>Gece zevklerinin krallığı.</i>
+
+28
+00:03:50,700 --> 00:03:53,000
+<i>Zenginin ve yoksulun...</i>
+
+29
+00:03:53,000 --> 00:03:57,000
+<i>... yeraltı dünyasının genç, güzel
+yaratıklarıyla oynadığı bir yer.</i>
+
+30
+00:03:59,100 --> 00:04:02,300
+<i>Bu yaratıkların en güzeli...</i>
+
+31
+00:04:02,300 --> 00:04:04,900
+<i>... sevdiğim kadındı.</i>
+
+32
+00:04:05,200 --> 00:04:06,600
+<i>Satine.</i>
+
+33
+00:04:07,500 --> 00:04:12,000
+<i>Bir fahişeydi,
+aşkını erkeklere satan.</i>
+
+34
+00:04:12,700 --> 00:04:16,500
+<i>Ona "Parıldayan Elmas" diyorlardı.</i>
+
+35
+00:04:16,500 --> 00:04:18,500
+<i>Yıldızıydı o...</i>
+
+36
+00:04:19,700 --> 00:04:22,200
+<i>... Moulin Rouge'un.</i>
+
+37
+00:04:36,400 --> 00:04:38,900
+<i>Sevdiğim kadın...</i>
+
+38
+00:04:39,700 --> 00:04:40,900
+<i>... o...</i>
+
+39
+00:04:45,200 --> 00:04:46,500
+<i>... öldü.</i>
+
+40
+00:04:50,200 --> 00:04:53,300
+<i>Paris'e ilk kez...</i>
+
+41
+00:04:53,300 --> 00:04:56,300
+<i>... bir yıl önce geldim.</i>
+
+42
+00:05:00,000 --> 00:05:03,900
+<i>1899'du, "Aşk Yazı".</i>
+
+43
+00:05:03,900 --> 00:05:08,900
+<i>Ne Moulin Rouge'u, ne Harold
+Zidler'ı, ne de Satine'i biliyordum.</i>
+
+44
+00:05:09,100 --> 00:05:13,700
+<i>Bohem devrimi dünyayı kasıp
+kavuruyordu ve onun bir parçası...</i>
+
+45
+00:05:13,700 --> 00:05:15,800
+<i>... olmaya gelmiştim.</i>
+
+46
+00:05:15,900 --> 00:05:19,900
+<i>Paris yakınındaki tepede
+Montmartre köyü vardı.</i>
+
+47
+00:05:19,900 --> 00:05:21,900
+<i>Babamın dediği gibi değildi:</i>
+
+48
+00:05:21,900 --> 00:05:23,300
+Günah köyü.
+
+49
+00:05:23,500 --> 00:05:26,900
+<i>Bohem dünyanın merkeziydi burası.</i>
+
+50
+00:05:27,000 --> 00:05:29,200
+<i>Müzisyenler, ressamlar, yazarlar...</i>
+
+51
+00:05:29,200 --> 00:05:32,000
+<i>Devrimin Çocukları
+olarak biliniyorlardı.</i>
+
+52
+00:05:33,800 --> 00:05:37,700
+<i>Evet, züğürt bir yaşam
+sürmeye gelmiştim.</i>
+
+53
+00:05:37,700 --> 00:05:40,500
+<i>Gerçek, güzellik, özgürlük...</i>
+
+54
+00:05:40,500 --> 00:05:44,000
+<i>... ve her şeyden çok inandığım
+aşk hakkında yazmaya.</i>
+
+55
+00:05:44,000 --> 00:05:48,400
+Hep bu saçma sapan aşk saplantısı!
+
+56
+00:05:48,600 --> 00:05:50,300
+<i>Bir sorun vardı.</i>
+
+57
+00:05:50,500 --> 00:05:52,800
+<i>Hiç aşık olmamıştım.</i>
+
+58
+00:05:53,100 --> 00:05:57,700
+<i>Tam o sırada, baygın halde bir
+Arjantinli tavanımdan düştü.</i>
+
+59
+00:05:59,700 --> 00:06:02,800
+<i>Ona rahibe kılığında
+bir cüce katıldı.</i>
+
+60
+00:06:04,100 --> 00:06:05,300
+Memnun oldum!
+
+61
+00:06:05,600 --> 00:06:10,600
+Adım Henri Marie Raymond
+Toulouse-Lautrec-Montfa.
+
+62
+00:06:10,600 --> 00:06:14,600
+Çok özür dilerim. Yukarıda
+bir oyun prova ediyorduk.
+
+63
+00:06:15,000 --> 00:06:20,000
+<i>Bir oyun. "Olağanüstü, Olağanüstü"
+adında çok modern bir şey.</i>
+
+64
+00:06:20,000 --> 00:06:21,200
+İsviçre'de geçiyor.
+
+65
+00:06:21,400 --> 00:06:25,100
+<i>Ne yazık ki, baygın Arjantinli
+narkolepsi hastasıydı.</i>
+
+66
+00:06:25,100 --> 00:06:29,100
+Bir an son derece iyi,
+bir an baygın.
+
+67
+00:06:29,300 --> 00:06:30,900
+Durumu nasıl?
+
+68
+00:06:31,500 --> 00:06:34,200
+Bir bu eksikti. Arjantinli bayıldı.
+
+69
+00:06:34,200 --> 00:06:38,400
+Oyun yarın finansöre
+sunulmak için hazır olamayacak.
+
+70
+00:06:38,400 --> 00:06:43,000
+- Doğru. Daha müziği bitirmedim.
+- Rolü başkasına oynatırız.
+
+71
+00:06:43,000 --> 00:06:45,900
+Genç, hassas İsviçreli şair
+keçi çobanını...
+
+72
+00:06:45,900 --> 00:06:48,700
+...oynayacak birini
+nereden bulacağız?
+
+73
+00:06:48,700 --> 00:06:53,400
+<i>Çok geçmeden kendimi yukarıda,
+baygın Arjantinlinin yerinde buldum.</i>
+
+74
+00:06:53,400 --> 00:06:56,100
+<i>Tepeler can buluyor</i>
+
+75
+00:06:56,400 --> 00:07:00,500
+<i>Melodinin ahenkli sesleriyle</i>
+
+76
+00:07:02,500 --> 00:07:05,700
+Kes! Kes şu dayanılmaz zırıltıyı!
+
+77
+00:07:05,700 --> 00:07:07,500
+Sözlerim duyulmuyor!
+
+78
+00:07:07,700 --> 00:07:10,100
+Sadece fon müziği çal lütfen.
+
+79
+00:07:10,100 --> 00:07:13,500
+<i>Audrey'nin sözleriyle şarkılar
+arasında sanatsal farklar vardı.</i>
+
+80
+00:07:13,500 --> 00:07:15,800
+Bir rahibe, tepe için böyle demez.
+
+81
+00:07:15,800 --> 00:07:19,500
+"Tepeler melodiyi
+seslendirerek diriliyor" nasıl?
+
+82
+00:07:19,500 --> 00:07:21,700
+"Tepeler titreyip sallanıyor."
+
+83
+00:07:22,600 --> 00:07:26,700
+"Tepeler ahenkli melodilerle
+vücut buluyor!"
+
+84
+00:07:28,700 --> 00:07:31,300
+"Tepeler..." "Tepeler..."
+
+85
+00:07:39,500 --> 00:07:42,200
+<i>Tepeler...</i>
+
+86
+00:07:42,400 --> 00:07:44,700
+<i>... müziğin...</i>
+
+87
+00:07:45,200 --> 00:07:47,300
+<i>... sesiyle...</i>
+
+88
+00:07:48,000 --> 00:07:51,400
+<i>... canlanıyor</i>
+
+89
+00:07:59,100 --> 00:08:03,200
+"Tepeler müziğin sesiyle
+canlanıyor. " Bayıldım!
+
+90
+00:08:03,700 --> 00:08:05,100
+Tepeler...
+
+91
+00:08:05,300 --> 00:08:09,000
+...müziğin sesiyle...
+...canlanıyor.
+
+92
+00:08:09,300 --> 00:08:11,000
+Mükemmel uydu!
+
+93
+00:08:11,200 --> 00:08:14,200
+<i>Bin yıldır söyledikleri</i>
+
+94
+00:08:14,400 --> 00:08:18,300
+<i>Şarkılarla</i>
+
+95
+00:08:22,800 --> 00:08:24,500
+Muhtekulade!
+
+96
+00:08:24,900 --> 00:08:28,600
+- Şovu birlikte yazmalısınız.
+- Efendim?
+
+97
+00:08:28,600 --> 00:08:32,799
+<i>Toulouse'un önerisi Audrey'nin
+duymak istediği bir şey değildi.</i>
+
+98
+00:08:32,799 --> 00:08:34,000
+Elveda!
+
+99
+00:08:34,799 --> 00:08:37,799
+Paris'teki ilk işine.
+
+100
+00:08:37,799 --> 00:08:40,299
+Toulouse, Zidler asla kabul etmez.
+
+101
+00:08:40,299 --> 00:08:43,200
+Daha önce hiç oyun yazdın mı?
+
+102
+00:08:43,200 --> 00:08:44,300
+Hayır.
+
+103
+00:08:44,500 --> 00:08:46,300
+Çocuk yetenekli!
+
+104
+00:08:46,800 --> 00:08:47,900
+Onu sevdim.
+
+105
+00:08:48,900 --> 00:08:51,500
+Tuhaflık yok.
+Yeteneği severim, hepsi bu.
+
+106
+00:08:51,900 --> 00:08:55,200
+"Tepeler müziğin sesiyle canlanıyor."
+
+107
+00:08:55,200 --> 00:08:57,500
+Christian'la, hep hayalini...
+
+108
+00:08:57,500 --> 00:09:00,800
+...kurduğumuz devrimci
+bohem şovu yazabiliriz.
+
+109
+00:09:00,800 --> 00:09:02,600
+Zidler'ı nasıl ikna edeceğiz?
+
+110
+00:09:02,600 --> 00:09:04,100
+<i>Toulouse'un bir planı vardı.</i>
+
+111
+00:09:04,100 --> 00:09:05,100
+Satine.
+
+112
+00:09:05,300 --> 00:09:10,500
+<i>Bana takım giydirip, ünlü bir
+İngiliz yazar diye tanıtacaklardı.</i>
+
+113
+00:09:10,500 --> 00:09:14,500
+<i>Satine şiirlerimi duyunca büyülenip
+"Olağanüstü, Olağanüstü"yü...</i>
+
+114
+00:09:14,500 --> 00:09:19,300
+<i>... yazmam için ısrar edecekti.
+Ama babamın sesi kulaklarımdaydı:</i>
+
+115
+00:09:19,300 --> 00:09:24,500
+<i>Hayatını Moulin Rouge'da
+bir kankan dansçısıyla mahvedeceksin!</i>
+
+116
+00:09:24,500 --> 00:09:27,400
+- Şovu yazamam!
+- Neden?
+
+117
+00:09:27,400 --> 00:09:30,500
+Bir devrimci bohem
+olduğuma emin değilim.
+
+118
+00:09:30,500 --> 00:09:32,600
+- Güzelliğe inanıyor musun?
+- Evet.
+
+119
+00:09:32,600 --> 00:09:34,400
+- Özgürlüğe?
+- Elbette.
+
+120
+00:09:34,400 --> 00:09:35,500
+- Gerçeğe?
+- Evet.
+
+121
+00:09:35,700 --> 00:09:36,800
+Aşka?
+
+122
+00:09:37,500 --> 00:09:39,200
+Aşk? Aşk mı?
+
+123
+00:09:39,500 --> 00:09:42,000
+Her şeyden çok aşka inanırım.
+
+124
+00:09:42,000 --> 00:09:45,600
+Aşk oksijen gibidir.
+Aşk çok muhteşem bir şeydir.
+
+125
+00:09:45,600 --> 00:09:49,500
+Aşk bizi ait olduğumuz yere götürür.
+Tek ihtiyacımız aşktır!
+
+126
+00:09:50,100 --> 00:09:54,600
+Bizi kandıramazsın!
+Sen Devrimin Çocukları'nın sesisin!
+
+127
+00:09:54,600 --> 00:09:56,900
+<i>Bizi kandıramazsın!</i>
+
+128
+00:09:56,900 --> 00:10:00,900
+Dünyanın ilk devrimci bohem
+şovunun yazarına!
+
+129
+00:10:00,900 --> 00:10:02,900
+<i>Mükemmel bir plandı.</i>
+
+130
+00:10:02,900 --> 00:10:07,700
+<i>Satine'in sınavından geçecek
+ve ilk apsent kadehimi içecektim.</i>
+
+131
+00:10:07,700 --> 00:10:09,600
+<i>Bir genç vardı...</i>
+
+132
+00:10:11,400 --> 00:10:12,600
+Ben yeşil periyim.
+
+133
+00:10:14,600 --> 00:10:18,100
+<i>Tepeler müziğin</i>
+
+134
+00:10:18,900 --> 00:10:23,100
+<i>Sesiyle canlanıyor</i>
+
+135
+00:10:31,100 --> 00:10:33,800
+<i>Özgürlük, güzellik...</i>
+
+136
+00:10:33,800 --> 00:10:37,600
+<i>... gerçek ve aşk</i>
+
+137
+00:10:38,300 --> 00:10:41,300
+<i>Tepeler müziğin</i>
+
+138
+00:10:43,000 --> 00:10:46,800
+<i>Sesiyle canlanıyor</i>
+
+139
+00:10:48,800 --> 00:10:51,200
+<i>Moulin Rouge'a gidiyorduk.</i>
+
+140
+00:10:51,200 --> 00:10:55,500
+<i>Satine'e şiirlerimi okuyacaktım.</i>
+
+141
+00:11:09,300 --> 00:11:12,300
+<i>Harold Zidler ve adı çıkmış kızları.</i>
+
+142
+00:11:12,300 --> 00:11:15,700
+<i>Onlara onun
+"Elmas Köpekleri" deniyordu.</i>
+
+143
+00:11:22,100 --> 00:11:25,800
+<i>Hey kardeş, kız kardeş
+Can kardeş, ruh kardeş</i>
+
+144
+00:11:25,800 --> 00:11:27,400
+<i>Hayat çok sıkıcıysa</i>
+
+145
+00:11:27,800 --> 00:11:29,900
+<i>Yaşamak bir angaryaysa...</i>
+
+146
+00:11:29,900 --> 00:11:33,200
+<i>... ölüm hoş değil diye yaptığın</i>
+
+147
+00:11:34,200 --> 00:11:36,100
+<i>Panzehiri bende</i>
+
+148
+00:11:36,300 --> 00:11:38,200
+<i>Böbürlenmemeliysem de</i>
+
+149
+00:11:38,200 --> 00:11:42,500
+<i>Moulin Rouge'da eğleneceksin</i>
+
+150
+00:11:42,700 --> 00:11:45,300
+<i>Kes mızmızlanmayı</i>
+
+151
+00:11:45,500 --> 00:11:47,000
+<i>Salla kıçını</i>
+
+152
+00:11:47,300 --> 00:11:49,700
+<i>Yapabilirsin, biliyorsun</i>
+
+153
+00:11:50,300 --> 00:11:52,800
+<i>Çünkü biz yapıyoruz...</i>
+
+154
+00:11:53,300 --> 00:11:54,700
+<i>... kankan</i>
+
+155
+00:11:55,900 --> 00:11:57,800
+<i>"Yapamam" deme</i>
+
+156
+00:11:58,000 --> 00:11:59,900
+<i>Yapabilirsin kankan</i>
+
+157
+00:12:00,600 --> 00:12:02,800
+<i>"Yapamam" deme
+Yapabilirsin kankan</i>
+
+158
+00:12:06,600 --> 00:12:08,300
+İşte buradayız
+
+159
+00:12:08,500 --> 00:12:10,200
+<i>Eğlendirin bizi</i>
+
+160
+00:12:10,400 --> 00:12:12,700
+<i>Çok aptal hissediyoruz</i>
+
+161
+00:12:12,700 --> 00:12:14,900
+<i>Ve bulaşıcıyız</i>
+
+162
+00:12:15,500 --> 00:12:20,100
+<i>Arzudur zehrimiz
+Ateşle oynamayı severiz</i>
+
+163
+00:12:20,100 --> 00:12:23,900
+<i>Boş ver aldırma, birazcık yaşa</i>
+
+164
+00:12:23,900 --> 00:12:25,800
+<i>Kankan yapabiliriz</i>
+
+165
+00:12:26,500 --> 00:12:28,200
+<i>"Yapamam" deme</i>
+
+166
+00:12:28,400 --> 00:12:30,600
+<i>Yapabilirsin, biliyorsun</i>
+
+167
+00:12:31,000 --> 00:12:33,000
+<i>Kankan yapabilirsin</i>
+
+168
+00:12:33,000 --> 00:12:35,200
+<i>Yağmur yağsa da dışarıda</i>
+
+169
+00:12:35,200 --> 00:12:37,400
+<i>Eğlence vardır burada!</i>
+
+170
+00:12:37,400 --> 00:12:39,600
+<i>Seviyorsan özgürce eğlenmeyi</i>
+
+171
+00:12:39,600 --> 00:12:43,700
+<i>Moulin Rouge bunun tam yeri</i>
+
+172
+00:12:46,200 --> 00:12:47,500
+<i>Çünkü kankan!</i>
+
+173
+00:12:48,300 --> 00:12:49,700
+<i>Kankan yapıyoruz!</i>
+
+174
+00:12:50,800 --> 00:12:54,400
+İşte buradayız, eğlendirin bizi
+
+175
+00:12:55,300 --> 00:12:57,300
+<i>Hayat trajikse de dışarıda</i>
+
+176
+00:12:57,300 --> 00:12:59,800
+<i>Burası sihirli bir dünya</i>
+
+177
+00:13:06,100 --> 00:13:07,600
+Kankan.
+
+178
+00:13:12,700 --> 00:13:14,600
+<i>Çünkü kankan yapıyoruz!</i>
+
+179
+00:13:14,600 --> 00:13:16,200
+<i>Haydi kardeş, can kardeş</i>
+
+180
+00:13:16,200 --> 00:13:20,100
+<i>Hey kardeş, kız kardeş
+Can kardeş, ruh kardeş</i>
+
+181
+00:13:26,500 --> 00:13:28,200
+<i>Çünkü kankan yapıyoruz!</i>
+
+182
+00:13:28,200 --> 00:13:29,800
+<i>Evet, kankan yapıyoruz!</i>
+
+183
+00:13:30,200 --> 00:13:33,300
+<i>Fransız melezi Leydi Marmelat</i>
+
+184
+00:13:33,300 --> 00:13:35,600
+<i>Kankan yapıyoruz!</i>
+
+185
+00:13:42,900 --> 00:13:45,900
+<i>Çünkü zihne iyi geliyor!</i>
+
+186
+00:14:03,800 --> 00:14:08,100
+Görev tamam.
+Zidler'ı başarıyla atlattık.
+
+187
+00:14:19,900 --> 00:14:23,100
+Bu o! Parıldayan Elmas.
+
+188
+00:14:30,400 --> 00:14:35,200
+<i>Fransızlar seve seve ölür</i>
+
+189
+00:14:35,200 --> 00:14:39,200
+<i>Aşk için</i>
+
+190
+00:14:40,900 --> 00:14:42,900
+<i>Zevk alırlar...</i>
+
+191
+00:14:43,300 --> 00:14:47,200
+<i>... düello yapmaktan</i>
+
+192
+00:14:47,200 --> 00:14:51,000
+<i>Ama o gece başka biri daha
+Satine'le buluşacaktı.</i>
+
+193
+00:14:51,300 --> 00:14:53,600
+<i>Ama sağ kalan erkeği</i>
+
+194
+00:14:53,600 --> 00:14:57,000
+<i>... tercih ederim</i>
+
+195
+00:14:57,600 --> 00:14:59,900
+<i>Zidler'ın yatırımcısı.</i>
+
+196
+00:15:00,400 --> 00:15:04,100
+<i>Ve pahalı mücevherler verenini...</i>
+
+197
+00:15:05,700 --> 00:15:07,000
+<i>... severim</i>
+
+198
+00:15:07,400 --> 00:15:08,900
+<i>Dük.</i>
+
+199
+00:15:21,600 --> 00:15:26,300
+<i>Elinin öpülmesi
+Belki çok Avrupai</i>
+
+200
+00:15:26,300 --> 00:15:29,500
+<i>Ama elmaslar bir kızın
+en iyi dostudur</i>
+
+201
+00:15:30,400 --> 00:15:34,500
+<i>Öpücük nefis bir şey
+Ama kirasını ödemez</i>
+
+202
+00:15:34,500 --> 00:15:39,700
+<i>Mütevazı dairenin
+Hatta mamasını kedinin</i>
+
+203
+00:15:39,700 --> 00:15:43,600
+<i>Erkek soğuklaşır
+Kadın yaşlandıkça</i>
+
+204
+00:15:43,600 --> 00:15:47,700
+<i>Cazibemizi yitiririz hepimiz sonunda</i>
+
+205
+00:15:47,700 --> 00:15:52,400
+<i>Kare kesimli, armut biçimli
+Bu taş kaybetmez şeklini</i>
+
+206
+00:15:52,400 --> 00:15:55,400
+<i>Elmaslar bir kızın en iyi dostudur</i>
+
+207
+00:15:56,400 --> 00:15:58,100
+Kızla ne zaman tanışacağım?
+
+208
+00:15:58,100 --> 00:15:59,000
+<i>Tiffany's!</i>
+
+209
+00:15:59,200 --> 00:16:04,600
+Şarkıdan sonra. Özel bir görüşme
+ayarladım. Sadece siz ve Satine.
+
+210
+00:16:05,100 --> 00:16:06,300
+Tamamen yalnız.
+
+211
+00:16:06,600 --> 00:16:07,900
+<i>Cartier!</i>
+
+212
+00:16:10,400 --> 00:16:13,300
+Sarkıdan sonra özel
+bir görüşme ayarladım.
+
+213
+00:16:13,300 --> 00:16:17,400
+- Sen ve Satine. Tamamen yalnız.
+- Yalnız mı?
+
+214
+00:16:17,400 --> 00:16:20,900
+Evet, tamamen yalnız.
+
+215
+00:16:21,100 --> 00:16:25,800
+<i>Çünkü maddeci bir dünyada yaşıyoruz</i>
+
+216
+00:16:25,900 --> 00:16:29,600
+<i>Ben de maddeci bir kızım</i>
+
+217
+00:16:31,900 --> 00:16:33,900
+Alın beni beyler.
+
+218
+00:16:40,000 --> 00:16:41,400
+İzninizle.
+
+219
+00:16:46,100 --> 00:16:48,900
+<i>Kara Yıldız! Roskor!</i>
+
+220
+00:16:49,000 --> 00:16:51,800
+<i>Konuş Harry Zidler! Her şeyi anlat!</i>
+
+221
+00:16:52,300 --> 00:16:56,800
+<i>Zaman olur bir kadına
+Bir avukat gerekir</i>
+
+222
+00:16:56,800 --> 00:17:00,700
+<i>Elmaslar bir kızın en iyi dostudur</i>
+
+223
+00:17:01,000 --> 00:17:05,700
+<i>Zaman olur katı bir patron
+Şöyle diyebilir</i>
+
+224
+00:17:05,700 --> 00:17:07,099
+<i>Çok hoşsun.</i>
+
+225
+00:17:07,300 --> 00:17:11,000
+Merak etme. Hemen gidip,
+başlama vuruşunu yaparım!
+
+226
+00:17:12,599 --> 00:17:16,300
+<i>- Dük burada mı?
+- Seni hiç yanıltır mıyım tatlım?</i>
+
+227
+00:17:17,200 --> 00:17:18,200
+Özür dilerim.
+
+228
+00:17:18,400 --> 00:17:19,500
+Nerede o?
+
+229
+00:17:19,700 --> 00:17:22,300
+Toulouse ona mendil sallıyor.
+
+230
+00:17:22,300 --> 00:17:25,200
+Affedersin Christian. Alabilir miyim?
+
+231
+00:17:30,000 --> 00:17:32,200
+- Emin misin?
+- Bakayım.
+
+232
+00:17:34,100 --> 00:17:36,800
+Çok özür dilerim! Ne utanç verici!
+
+233
+00:17:36,900 --> 00:17:42,200
+Bu o. Umarım o deli cüce
+onu korkutup kaçırtmaz.
+
+234
+00:17:42,200 --> 00:17:45,000
+Kendin temizle burjuva domuzu!
+
+235
+00:17:49,200 --> 00:17:50,500
+Özür dilerim.
+
+236
+00:17:55,800 --> 00:17:57,500
+- Yatırım yapacak mı?
+- Güvercinim!
+
+237
+00:17:57,800 --> 00:18:02,200
+Seninle geçireceği geceden
+sonra nasıl reddedebilir?
+
+238
+00:18:02,200 --> 00:18:05,200
+Tipi ne? Hanım hanımcık mı?
+
+239
+00:18:05,200 --> 00:18:06,300
+Fıkır fıkır mı?
+
+240
+00:18:06,500 --> 00:18:07,900
+Şehvetli dilber mi?
+
+241
+00:18:08,100 --> 00:18:12,600
+Şehvetli dilber. Hepimiz
+sana güveniyoruz kuğucuğum.
+
+242
+00:18:16,900 --> 00:18:21,900
+Unutma, gerçek bir şovda, gerçek
+bir tiyatroda, gerçek seyirciyle...
+
+243
+00:18:21,900 --> 00:18:23,400
+...sen...
+
+244
+00:18:23,800 --> 00:18:26,200
+Gerçek bir aktris olacağım.
+
+245
+00:18:28,400 --> 00:18:33,100
+<i>O zaman bu adamlar
+Karılarına kaçarlar</i>
+
+246
+00:18:33,100 --> 00:18:34,700
+<i>Elmaslar...</i>
+
+247
+00:18:35,900 --> 00:18:37,400
+Bir müjdem var!
+
+248
+00:18:37,600 --> 00:18:39,200
+<i>... bir kızın...</i>
+
+249
+00:18:39,400 --> 00:18:41,400
+<i>... en iyi...</i>
+
+250
+00:18:42,400 --> 00:18:44,300
+<i>... dostudur</i>
+
+251
+00:18:48,600 --> 00:18:51,100
+Sanırım beni bekliyorsunuz.
+
+252
+00:18:51,100 --> 00:18:52,600
+Evet. Evet.
+
+253
+00:18:52,900 --> 00:18:56,300
+Korkarım seçim hanımların.
+
+254
+00:19:17,800 --> 00:19:20,300
+İngiliz dostumla tanışmışsın.
+
+255
+00:19:20,300 --> 00:19:22,000
+Ben ilgilenirim.
+
+256
+00:19:22,200 --> 00:19:23,500
+Dans edelim.
+
+257
+00:19:23,700 --> 00:19:27,000
+Onu en modern şiirinle vur!
+
+258
+00:19:28,000 --> 00:19:30,200
+<i>Gecenin ritmine uy</i>
+
+259
+00:19:30,200 --> 00:19:32,100
+<i>Sabaha dek dans et</i>
+
+260
+00:19:32,100 --> 00:19:34,000
+<i>Unut kafandaki dertleri</i>
+
+261
+00:19:34,000 --> 00:19:36,200
+<i>Arkanda bırak kederleri</i>
+
+262
+00:19:42,300 --> 00:19:43,300
+Çok iyi gitti.
+
+263
+00:19:43,600 --> 00:19:45,900
+- İnanılmaz.
+- Kadınlar konusunda çok yetenekli.
+
+264
+00:19:45,900 --> 00:19:48,600
+Dedim size. O bir dahi.
+
+265
+00:19:58,300 --> 00:20:01,100
+Bu dük kesinlikle iyi bir dansçı.
+
+266
+00:20:02,700 --> 00:20:06,100
+Şovumuza ilgi göstermeniz ne harika.
+
+267
+00:20:06,100 --> 00:20:10,400
+Çok heyecan verici bir şov.
+Dahil olmaktan zevk duyarım.
+
+268
+00:20:10,400 --> 00:20:12,800
+Performansımı beğenirseniz.
+
+269
+00:20:12,800 --> 00:20:14,500
+Beğeneceğime eminim.
+
+270
+00:20:19,300 --> 00:20:22,200
+Toulouse bunu baş başa
+yapabileceğimizi...
+
+271
+00:20:22,300 --> 00:20:23,600
+...düşündü.
+
+272
+00:20:24,600 --> 00:20:28,100
+- Öyle mi?
+- Evet, baş başa...
+
+273
+00:20:29,400 --> 00:20:30,900
+...şiir okuruz.
+
+274
+00:20:37,500 --> 00:20:39,000
+"Şiir" okumak.
+
+275
+00:20:39,900 --> 00:20:44,200
+Yemekten sonra biraz
+"şiir" çok hoşuma gider.
+
+276
+00:20:55,800 --> 00:20:57,200
+Şapkanı sıkı tut!
+
+277
+00:21:04,100 --> 00:21:07,000
+<i>Elmaslar</i>
+
+278
+00:21:09,200 --> 00:21:11,900
+<i>Elmaslar</i>
+
+279
+00:21:14,700 --> 00:21:16,200
+<i>Kare kesimli...</i>
+
+280
+00:21:16,600 --> 00:21:18,900
+<i>... armut biçimli</i>
+
+281
+00:21:19,100 --> 00:21:20,700
+<i>Bu taşlar...</i>
+
+282
+00:21:20,900 --> 00:21:24,900
+<i>... kaybetmez şeklini</i>
+
+283
+00:21:24,900 --> 00:21:27,300
+<i>Elmaslar...</i>
+
+284
+00:21:29,100 --> 00:21:32,600
+<i>... bir kızın...</i>
+
+285
+00:21:32,900 --> 00:21:35,600
+<i>... en iyi...</i>
+
+286
+00:22:20,800 --> 00:22:23,500
+Satine! Satine! Satine!
+
+287
+00:22:35,700 --> 00:22:38,700
+Dükün bu gece parasının karşılığını
+alacağından şüpheliyim.
+
+288
+00:22:38,700 --> 00:22:40,600
+Kabalık etme Nini.
+
+289
+00:22:54,200 --> 00:22:56,900
+Onu korkuttunuz.
+
+290
+00:22:58,500 --> 00:23:02,700
+Ama bazı yalnız Moulin Rouge
+dansçıları görüyorum.
+
+291
+00:23:02,700 --> 00:23:07,800
+Bir ya da iki eş arıyorlar!
+İyi hanklıyorsanız...
+
+292
+00:23:07,800 --> 00:23:10,800
+...onlarla Hankadola yapabilirsiniz!
+
+293
+00:23:16,200 --> 00:23:17,600
+Çekil yolumdan!
+
+294
+00:23:28,500 --> 00:23:29,600
+Marie.
+
+295
+00:23:35,200 --> 00:23:38,200
+Şu aptal kostümler.
+
+296
+00:23:39,400 --> 00:23:40,500
+Sadece bayıldın.
+
+297
+00:23:40,700 --> 00:23:44,100
+Sahneye dönün kızlar.
+O beyleri susatın. Sorun mu var?
+
+298
+00:23:44,100 --> 00:23:47,700
+- Merak edilecek bir şey yok.
+- Öyle dikilip durma.
+
+299
+00:24:02,400 --> 00:24:04,500
+<i>Bebeğim bahçede durma</i>
+
+300
+00:24:04,500 --> 00:24:09,100
+<i>Üşüteceksin siste sonra
+Genç kızlar</i>
+
+301
+00:24:09,100 --> 00:24:11,400
+<i>Elmas Köpekleri onlar</i>
+
+302
+00:24:15,400 --> 00:24:19,300
+Zidler'ı bul. Kız beni bekliyor.
+
+303
+00:24:19,400 --> 00:24:22,200
+Usta ayaklı dük yemi yedi.
+
+304
+00:24:22,200 --> 00:24:25,600
+Onun gibi bir hamiyle yeni
+Sarah Bernhardt olabilirsin.
+
+305
+00:24:25,600 --> 00:24:29,100
+Gerçekten büyük Sarah
+gibi olabilir miyim?
+
+306
+00:24:29,100 --> 00:24:31,100
+Neden olmasın? Yeteneğin var.
+
+307
+00:24:31,100 --> 00:24:35,800
+Dükü elde edersen Avrupa'nın
+büyük sahnelerini aydınlatırsın.
+
+308
+00:24:35,800 --> 00:24:39,700
+Gerçek bir aktris olacağım
+Marie. Büyük bir aktris.
+
+309
+00:24:39,700 --> 00:24:43,600
+O zaman buradan kurtulacağım.
+Uzaklara gideceğim.
+
+310
+00:24:43,600 --> 00:24:46,900
+- Ördeğim, iyi misin?
+- Elbette Harold.
+
+311
+00:24:46,900 --> 00:24:48,200
+Şükürler olsun!
+
+312
+00:24:48,500 --> 00:24:53,000
+Dans pistinde dükü
+kesinlikle büyüledin.
+
+313
+00:24:53,000 --> 00:24:56,500
+Nasıl görünüyorum?
+Şehvetli dilber gibi mi?
+
+314
+00:24:57,600 --> 00:24:59,800
+Benim küçük çileğim...
+
+315
+00:24:59,800 --> 00:25:03,800
+...seni iştahla yemeye
+nasıl karşı koyabilir?
+
+316
+00:25:03,900 --> 00:25:07,900
+Her şey çok iyi gidiyor!
+
+317
+00:25:09,300 --> 00:25:12,000
+<i>Seninle kırmızı odada buluşalım</i>
+
+318
+00:25:12,000 --> 00:25:15,400
+İnanılmaz! Doğruca file alınıyor.
+
+319
+00:25:16,000 --> 00:25:21,400
+Burası şiir okumak için harika
+bir yer. Öyle değil mi?
+
+320
+00:25:23,800 --> 00:25:26,500
+Sizin için yeterince şiirsel mi?
+
+321
+00:25:30,200 --> 00:25:33,500
+Biraz yemek? Belki şampanya?
+
+322
+00:25:33,500 --> 00:25:34,900
+Bir an önce...
+
+323
+00:25:35,500 --> 00:25:37,800
+...işimizi bitirmeyi tercih ederim.
+
+324
+00:25:44,500 --> 00:25:45,700
+Pekala.
+
+325
+00:25:48,200 --> 00:25:49,800
+O halde neden...
+
+326
+00:25:50,600 --> 00:25:52,200
+...buraya gelmiyorsun?
+
+327
+00:25:52,700 --> 00:25:55,100
+İşimizi bir an önce bitirelim.
+
+328
+00:25:55,700 --> 00:25:57,900
+Ayakta tercih ederim.
+
+329
+00:25:58,100 --> 00:25:59,800
+Kalkmanız gerekmez.
+
+330
+00:26:00,000 --> 00:26:05,300
+Bazen çok uzun olabiliyor.
+Siz rahat bir konumda olun.
+
+331
+00:26:05,700 --> 00:26:08,900
+Yaptığım şey çok modern.
+Başta biraz garip gelebilir...
+
+332
+00:26:08,900 --> 00:26:13,000
+...ama eğer açıksanız,
+bayağı hoşunuza gidebilir.
+
+333
+00:26:13,400 --> 00:26:14,600
+Buna eminim.
+
+334
+00:26:15,700 --> 00:26:16,700
+Affedersiniz.
+
+335
+00:26:22,800 --> 00:26:24,100
+"Kuşlarla...
+
+336
+00:26:26,100 --> 00:26:28,900
+"Kuşlarla kaplı gökyüzü..."
+
+337
+00:26:31,100 --> 00:26:33,500
+Haydi. Haydi.
+
+338
+00:26:36,800 --> 00:26:38,200
+Sanırım...
+
+339
+00:26:39,400 --> 00:26:42,000
+Biraz titreme olabilir.
+
+340
+00:26:47,100 --> 00:26:48,200
+Her şey yolunda mı?
+
+341
+00:26:48,400 --> 00:26:52,500
+Biraz gerginim.
+Bazen bayağı zaman alıyor...
+
+342
+00:26:52,800 --> 00:26:54,500
+...ilhamın gelmesi.
+
+343
+00:26:55,600 --> 00:26:57,300
+Ah evet, evet.
+
+344
+00:26:57,700 --> 00:26:59,000
+Annen yardım etsin.
+
+345
+00:27:01,200 --> 00:27:02,500
+Bu ilham veriyor mu?
+
+346
+00:27:05,100 --> 00:27:06,200
+Sevişelim.
+
+347
+00:27:06,900 --> 00:27:08,900
+İstiyorsun, değil mi?
+
+348
+00:27:10,000 --> 00:27:14,000
+Doğru söyle. Şiiri hissetmiyor musun?
+
+349
+00:27:16,500 --> 00:27:19,300
+Haydi! Hisset.
+
+350
+00:27:20,400 --> 00:27:22,000
+Kaplanı serbest bırak!
+
+351
+00:27:26,400 --> 00:27:27,500
+Koca oğlan!
+
+352
+00:27:28,500 --> 00:27:30,700
+Dev bir yeteneği var!
+
+353
+00:27:31,100 --> 00:27:34,400
+- Şiirine şimdi ihtiyacım var!
+- Tamam!
+
+354
+00:27:36,300 --> 00:27:38,400
+"Biraz garip...
+
+355
+00:27:38,700 --> 00:27:41,700
+...içimdeki bu duygu.
+
+356
+00:27:41,700 --> 00:27:45,000
+Kolay saklayanlardan
+değilim duygusunu."
+
+357
+00:27:45,400 --> 00:27:49,200
+Bu iyi mi? İstediğiniz bu mu?
+
+358
+00:27:49,200 --> 00:27:50,200
+Ah, şiir. Evet.
+
+359
+00:27:52,800 --> 00:27:55,900
+İstediğim bu. Müstehcen sözler.
+
+360
+00:27:57,500 --> 00:27:58,700
+Müstehcen!
+
+361
+00:27:58,900 --> 00:28:02,200
+"Fazla param yok, ama olsa birlikte...
+
+362
+00:28:02,200 --> 00:28:05,100
+...yaşayacağımız büyük
+bir ev alırdım."
+
+363
+00:28:05,100 --> 00:28:06,500
+Çok seksi!
+
+364
+00:28:06,800 --> 00:28:09,800
+- "Heykeltıraş olsam ya da hayır."
+- Seni çapkın.
+
+365
+00:28:09,800 --> 00:28:13,100
+"Ya da gezici bir şovda iksirci."
+
+366
+00:28:13,100 --> 00:28:14,400
+Hayır, hayır, hayır!
+
+367
+00:28:14,600 --> 00:28:15,600
+Durma!
+
+368
+00:28:15,800 --> 00:28:19,500
+- "Çok değil, biliyorum."
+- Daha fazla! Evet!
+
+369
+00:28:23,000 --> 00:28:27,500
+- "Ama elimden gelen bu."
+- Müstehcen! Durma! Evet!
+
+370
+00:28:29,700 --> 00:28:33,400
+<i>Şarkımdır armağanım</i>
+
+371
+00:28:38,300 --> 00:28:41,600
+<i>Ve bu şarkı senin için</i>
+
+372
+00:28:43,600 --> 00:28:46,800
+<i>Herkese söyleyebilirsin</i>
+
+373
+00:28:48,600 --> 00:28:51,100
+<i>Bu senin şarkın</i>
+
+374
+00:28:53,100 --> 00:28:56,400
+<i>Belki basit bir şarkı</i>
+
+375
+00:28:57,300 --> 00:28:59,900
+<i>Ama bittiğine göre</i>
+
+376
+00:29:01,000 --> 00:29:04,700
+<i>Sakıncası yoktur umarım</i>
+
+377
+00:29:05,100 --> 00:29:09,100
+<i>Sözlere dökmüş olmamın</i>
+
+378
+00:29:11,100 --> 00:29:14,800
+<i>Hayat ne harika</i>
+
+379
+00:29:15,500 --> 00:29:20,300
+<i>Şimdi sen varsın ya</i>
+
+380
+00:29:22,000 --> 00:29:24,100
+<i>Çatıda oturmuş</i>
+
+381
+00:29:25,100 --> 00:29:28,500
+<i>Hayal kuruyordum</i>
+
+382
+00:29:29,300 --> 00:29:32,500
+<i>Dizelerin bazıları</i>
+
+383
+00:29:33,000 --> 00:29:36,000
+<i>Oldukça canımı sıktı</i>
+
+384
+00:29:36,500 --> 00:29:39,300
+<i>Ama güneş çok sevecendi</i>
+
+385
+00:29:39,700 --> 00:29:43,200
+<i>Yazarken ben bu şarkıyı</i>
+
+386
+00:29:43,800 --> 00:29:47,400
+<i>Senin gibi insanlar için</i>
+
+387
+00:29:47,700 --> 00:29:50,400
+<i>Yakıyorlar güneşi</i>
+
+388
+00:29:53,000 --> 00:29:56,000
+<i>Bu yüzden affetmelisin</i>
+
+389
+00:29:56,700 --> 00:30:00,000
+<i>Bazen unutuşumu</i>
+
+390
+00:30:00,700 --> 00:30:03,300
+<i>Unuttum gözlerinin</i>
+
+391
+00:30:03,400 --> 00:30:06,700
+<i>Yeşil mi, mavi mi olduğunu</i>
+
+392
+00:30:08,000 --> 00:30:10,300
+<i>Sözün kısası</i>
+
+393
+00:30:10,700 --> 00:30:13,300
+<i>Demek istediğim</i>
+
+394
+00:30:15,200 --> 00:30:17,900
+<i>Sen gördüğüm en tatlı</i>
+
+395
+00:30:18,100 --> 00:30:20,300
+<i>Gözlere sahipsin</i>
+
+396
+00:30:31,400 --> 00:30:34,900
+<i>Herkese söyleyebilirsin</i>
+
+397
+00:30:35,200 --> 00:30:37,700
+<i>Bu senin şarkın</i>
+
+398
+00:30:38,800 --> 00:30:41,700
+<i>Belki basit bir şarkı</i>
+
+399
+00:30:42,300 --> 00:30:44,400
+<i>Ama bittiğine göre</i>
+
+400
+00:30:45,300 --> 00:30:48,900
+<i>Sakıncası yoktur umarım</i>
+
+401
+00:30:48,900 --> 00:30:52,900
+<i>Sözlere dökmüş olmamın</i>
+
+402
+00:30:54,300 --> 00:30:57,900
+<i>Hayat ne harika</i>
+
+403
+00:30:58,200 --> 00:31:03,400
+<i>Şimdi sen varsın ya</i>
+
+404
+00:31:08,700 --> 00:31:12,100
+İşi aldı gibi görünüyor!
+
+405
+00:31:27,400 --> 00:31:29,800
+İnanamıyorum.
+
+406
+00:31:30,800 --> 00:31:32,500
+Aşığım.
+
+407
+00:31:33,300 --> 00:31:35,000
+Genç, yakışıklı...
+
+408
+00:31:35,300 --> 00:31:38,800
+...yetenekli bir düke aşığım.
+
+409
+00:31:39,400 --> 00:31:40,800
+Dük mü?
+
+410
+00:31:41,100 --> 00:31:44,100
+Ünvan önemli değil elbette.
+
+411
+00:31:44,100 --> 00:31:45,900
+Ben dük değilim.
+
+412
+00:31:46,400 --> 00:31:47,800
+Dük değil misin?
+
+413
+00:31:48,000 --> 00:31:49,400
+Yazarım.
+
+414
+00:31:51,900 --> 00:31:53,600
+Yazar mı?
+
+415
+00:31:53,900 --> 00:31:55,300
+Evet, yazar.
+
+416
+00:31:56,500 --> 00:31:57,500
+Toulouse...
+
+417
+00:31:58,200 --> 00:32:03,300
+Toulouse'un şu yetenekli, bohem,
+fakirleştirilmiş müritlerinden misin?
+
+418
+00:32:03,300 --> 00:32:06,200
+- Öyle diyebilirsin.
+- Olamaz!
+
+419
+00:32:06,600 --> 00:32:08,100
+Öldüreceğim onu!
+
+420
+00:32:08,300 --> 00:32:10,700
+Küçük bir pürüz olabilir.
+
+421
+00:32:11,100 --> 00:32:13,600
+- Peki ya dük?
+- Sevgili dük...
+
+422
+00:32:13,600 --> 00:32:14,600
+Dük!
+
+423
+00:32:15,200 --> 00:32:16,600
+Saklan! Arkaya!
+
+424
+00:32:16,800 --> 00:32:19,700
+Tatlım, kılığın dükü
+kabule uygun mu?
+
+425
+00:32:21,400 --> 00:32:22,400
+Neredeydin?
+
+426
+00:32:24,600 --> 00:32:27,400
+Ben bekliyordum.
+
+427
+00:32:27,600 --> 00:32:31,500
+Sevgili dük, Matmazel Satine'i
+tanıştırmama izin verin!
+
+428
+00:32:31,900 --> 00:32:35,900
+Zaman ayırıp ziyaretime
+gelmeniz ne kadar harika.
+
+429
+00:32:38,000 --> 00:32:42,700
+O zevk tamamen bana ait.
+
+430
+00:32:42,700 --> 00:32:46,300
+Siz sincapları bırakayım da,
+yakından tanışın.
+
+431
+00:32:46,300 --> 00:32:50,000
+Elinin öpülmesi belki çok avrupai...
+
+432
+00:32:50,500 --> 00:32:53,200
+Ama bir kızın en iyi
+dostu elmaslardır.
+
+433
+00:32:57,800 --> 00:33:00,800
+Bu gece sahnedeki o güzel
+performanstan sonra...
+
+434
+00:33:00,800 --> 00:33:03,400
+...bir içkiye ihtiyacın vardır.
+
+435
+00:33:03,400 --> 00:33:05,600
+Durun! Durun ve...
+
+436
+00:33:06,400 --> 00:33:09,200
+...şu manzaraya bakın.
+
+437
+00:33:10,900 --> 00:33:12,000
+Çok hoş.
+
+438
+00:33:15,900 --> 00:33:18,400
+Dans etmek istiyorum.
+
+439
+00:33:30,700 --> 00:33:32,900
+Bir kadeh şampanya.
+
+440
+00:33:34,500 --> 00:33:35,700
+Biraz...
+
+441
+00:33:36,500 --> 00:33:39,200
+- Biraz garip.
+- Ne garip?
+
+442
+00:33:39,200 --> 00:33:41,100
+İçimdeki bu...
+
+443
+00:33:42,200 --> 00:33:43,800
+...duygu.
+
+444
+00:33:45,200 --> 00:33:48,200
+Kolay saklayanlardan değilim...
+
+445
+00:33:48,500 --> 00:33:49,900
+...duygusunu.
+
+446
+00:33:51,900 --> 00:33:53,900
+Fazla param yok...
+
+447
+00:33:54,200 --> 00:33:57,200
+...ama olsa
+birlikte yaşayacağımız...
+
+448
+00:33:57,200 --> 00:33:59,700
+...büyük bir ev alırdım.
+
+449
+00:34:05,900 --> 00:34:08,199
+<i>Sakıncası yoktur umarım</i>
+
+450
+00:34:09,900 --> 00:34:12,800
+<i>Sakıncası yoktur umarım</i>
+
+451
+00:34:13,800 --> 00:34:17,800
+<i>Sözlere dökmüş olmamın</i>
+
+452
+00:34:23,900 --> 00:34:26,199
+<i>Hayat...</i>
+
+453
+00:34:26,400 --> 00:34:28,100
+<i>... ne harika</i>
+
+454
+00:34:28,900 --> 00:34:31,400
+<i>Şimdi sen...</i>
+
+455
+00:34:32,300 --> 00:34:34,300
+<i>... varsın ya</i>
+
+456
+00:34:38,100 --> 00:34:39,900
+Çok güzel.
+
+457
+00:34:41,600 --> 00:34:46,300
+<i>"Olağanüstü, Olağanüstü"den.
+Aniden, sizin varlığınızla...</i>
+
+458
+00:34:46,300 --> 00:34:49,500
+...nihayet sözlerin gerçek
+anlamını anladım.
+
+459
+00:34:49,500 --> 00:34:53,500
+"Hayat ne harika
+şimdi sen varsın ya."
+
+460
+00:34:53,500 --> 00:34:55,900
+Bunun anlamı nedir canım?
+
+461
+00:35:00,800 --> 00:35:02,000
+Dük!
+
+462
+00:35:02,200 --> 00:35:04,900
+Duygularımla oynamayın.
+
+463
+00:35:04,900 --> 00:35:08,900
+Kadınlar üstündeki etkinizi
+biliyor olmalısınız.
+
+464
+00:35:10,700 --> 00:35:11,900
+Sevişelim!
+
+465
+00:35:12,800 --> 00:35:15,400
+Sevişmek istiyorsunuz, değil mi?
+
+466
+00:35:15,400 --> 00:35:16,700
+Sevişmek mi?
+
+467
+00:35:20,200 --> 00:35:22,300
+Sizin de istediğinizi biliyordum!
+
+468
+00:35:23,700 --> 00:35:24,700
+Ah, dük!
+
+469
+00:35:28,300 --> 00:35:32,200
+Haklısınız. Açılış gecesine
+dek beklesek daha iyi.
+
+470
+00:35:32,800 --> 00:35:34,300
+Beklemek mi?
+
+471
+00:35:35,500 --> 00:35:38,100
+Sizde beni korkutan bir güç var.
+
+472
+00:35:38,100 --> 00:35:40,200
+- Gitmelisiniz.
+- Daha yeni geldim.
+
+473
+00:35:40,200 --> 00:35:43,200
+Provalarda her gün görüşürüz.
+
+474
+00:35:43,200 --> 00:35:46,700
+Beklemeliyiz. Açılış gecesine
+kadar beklemeliyiz.
+
+475
+00:35:46,800 --> 00:35:47,800
+Çıkın.
+
+476
+00:35:48,900 --> 00:35:54,100
+Seni görseydi ne olurdu,
+hic fikrin var mı?
+
+477
+00:36:00,800 --> 00:36:02,100
+Satine.
+
+478
+00:36:05,500 --> 00:36:07,500
+Bir göz atalım.
+
+479
+00:36:08,900 --> 00:36:10,800
+Tam isabet.
+
+480
+00:36:29,100 --> 00:36:30,400
+Şapkamı unutmuşum.
+
+481
+00:36:31,700 --> 00:36:33,100
+İhanet?
+
+482
+00:36:33,800 --> 00:36:34,900
+Ah, dük.
+
+483
+00:36:35,200 --> 00:36:38,600
+Biraz garip içimdeki bu duygu!
+
+484
+00:36:38,600 --> 00:36:42,200
+Çok güzel söylediniz.
+Tanıştırayım. Yazarı.
+
+485
+00:36:42,200 --> 00:36:44,000
+- Yazarı mı?
+- Evet.
+
+486
+00:36:44,200 --> 00:36:46,400
+Prova yapıyorduk.
+
+487
+00:36:47,800 --> 00:36:50,700
+Bir filin içinde yarı çıplak...
+
+488
+00:36:50,700 --> 00:36:55,400
+...başka erkeğin kollarında prova
+yaptığına inanmamı mı bekliyorsun?
+
+489
+00:36:55,400 --> 00:36:57,500
+Prova nasıl gidiyor?
+
+490
+00:36:57,800 --> 00:36:59,500
+Baştan alalım mı?
+
+491
+00:36:59,700 --> 00:37:02,900
+- Umarım piyano akortludur.
+- Affedersin, geciktik.
+
+492
+00:37:02,900 --> 00:37:04,700
+Bir içki alır mısınız?
+
+493
+00:37:07,600 --> 00:37:09,100
+Aman Tanrım!
+
+494
+00:37:09,900 --> 00:37:13,400
+Size o sözleri söylediğimde
+bana öyle ilham verdiniz ki...
+
+495
+00:37:13,400 --> 00:37:19,000
+...çok işimiz olduğunu fark edip,
+herkesi acil provaya çağırdım.
+
+496
+00:37:19,000 --> 00:37:21,400
+O halde Zidler nerede?
+
+497
+00:37:21,400 --> 00:37:23,000
+Onu rahatsız etmek istemedim.
+
+498
+00:37:23,000 --> 00:37:25,200
+Sevgili dük, çok özür dilerim.
+
+499
+00:37:25,200 --> 00:37:29,400
+Harold, gelebildin.
+Dük acil provamızdan haberdar.
+
+500
+00:37:29,400 --> 00:37:30,600
+Acil prova mı?
+
+501
+00:37:30,800 --> 00:37:33,900
+Dükün sanatsal fikirlerini
+katmak için.
+
+502
+00:37:33,900 --> 00:37:35,500
+Audrey çok sevinir.
+
+503
+00:37:35,700 --> 00:37:37,600
+- Audrey gitti.
+- Ne?
+
+504
+00:37:37,600 --> 00:37:39,100
+Bakla ağızdan çıktı.
+
+505
+00:37:39,300 --> 00:37:42,600
+Dük yeni yazarımızın
+yeteneğine hayran. Bu yüzden...
+
+506
+00:37:42,600 --> 00:37:45,100
+...yatırım yapmaya çok istekli.
+
+507
+00:37:45,100 --> 00:37:46,900
+Yatırım mı? Yatırım!
+
+508
+00:37:47,100 --> 00:37:48,600
+Evet. Yatırım!
+
+509
+00:37:48,800 --> 00:37:51,400
+Beni suçlayamazsınız...
+
+510
+00:37:51,800 --> 00:37:53,200
+...Christian'ı sakladım diye.
+
+511
+00:37:53,200 --> 00:37:55,400
+Senin çok önündeyim Zidler.
+
+512
+00:37:55,400 --> 00:37:59,000
+Dük, büroma gidip
+evrakları inceleyelim.
+
+513
+00:37:59,000 --> 00:38:00,100
+Konusu ne?
+
+514
+00:38:01,100 --> 00:38:04,400
+Yatırım yapacaksam
+konusunu bilmeliyim.
+
+515
+00:38:04,400 --> 00:38:06,700
+Şey, konusu...
+
+516
+00:38:07,700 --> 00:38:08,700
+Toulouse?
+
+517
+00:38:11,700 --> 00:38:15,100
+Konusu, konusu şey...
+Şey hakkında...
+
+518
+00:38:15,100 --> 00:38:16,700
+Aşk hakkında.
+
+519
+00:38:17,000 --> 00:38:18,100
+Aşk mı?
+
+520
+00:38:18,400 --> 00:38:22,800
+Aşkın tüm engelleri aşması hakkında.
+
+521
+00:38:22,900 --> 00:38:25,600
+Ve İsviçre'de geçiyor!
+
+522
+00:38:25,600 --> 00:38:27,900
+- İsviçre mi?
+- Egzotik İsviçre'de!
+
+523
+00:38:27,900 --> 00:38:30,700
+Hindistan'da! Hindistan'da geçiyor!
+
+524
+00:38:31,900 --> 00:38:34,200
+Bir saray fahişesi var.
+
+525
+00:38:34,900 --> 00:38:38,000
+Dünyanın en güzel kadını.
+
+526
+00:38:38,600 --> 00:38:41,800
+Ama kötü kalpli bir mihrace,
+krallığı işgal eder.
+
+527
+00:38:41,800 --> 00:38:46,400
+Krallığı kurtarmak için, mihraceyi
+baştan çıkarması gerekmektedir.
+
+528
+00:38:46,400 --> 00:38:49,900
+Fakat baştan çıkaracağı gece...
+
+529
+00:38:49,900 --> 00:38:52,400
+...beş parasız, beş parasız...
+
+530
+00:38:52,400 --> 00:38:53,800
+...bir sitarcıyı...
+
+531
+00:38:54,600 --> 00:38:58,300
+...mihraceyle karıştırır
+ve ona aşık olur!
+
+532
+00:38:58,300 --> 00:39:02,000
+Sitarcı onu kandırmak istememiştir.
+Mihrace kılığındadır...
+
+533
+00:39:02,000 --> 00:39:04,700
+...çünkü bir oyunda oynuyor.
+
+534
+00:39:04,700 --> 00:39:08,300
+Beş parasız, tango dansçısı
+sitarcıyı ben oynayacağım.
+
+535
+00:39:08,300 --> 00:39:11,100
+Bir melek gibi şarkı söyleyip...
+
+536
+00:39:11,100 --> 00:39:13,100
+...şeytan gibi dans edecek.
+
+537
+00:39:13,100 --> 00:39:16,600
+Evet, tamam. Sonra ne oluyor?
+
+538
+00:39:17,100 --> 00:39:21,600
+Sitarcı ve fahişe aşklarını
+mihraceden gizlemek zorundadır.
+
+539
+00:39:21,600 --> 00:39:25,900
+Sitarcının sitarı sihirlidir.
+Sadece gerçeği söyler.
+
+540
+00:39:25,900 --> 00:39:30,200
+Sihirli sitarı ben oynayacağım!
+
+541
+00:39:31,200 --> 00:39:33,400
+Çok güzelsin.
+
+542
+00:39:33,800 --> 00:39:35,800
+Çok çirkinsin. Sense...
+
+543
+00:39:36,500 --> 00:39:39,500
+Ve oyunu ele verir, öyle mi?
+
+544
+00:39:40,300 --> 00:39:43,500
+- Ona kankandan bahset!
+- Tantrik kankan...
+
+545
+00:39:43,500 --> 00:39:49,100
+Erotik, olağanüstü bir sahne.
+Bu yapımın dürtücü, saldırgan...
+
+546
+00:39:49,100 --> 00:39:51,700
+...hareketli vahşi, bohem ruhunu...
+
+547
+00:39:51,700 --> 00:39:54,800
+...çok iyi yakalıyor, dük!
+
+548
+00:39:54,800 --> 00:39:59,100
+- Ne demek bu?
+- Yani şov muhteşem, ihtişamlı...
+
+549
+00:39:59,100 --> 00:40:01,700
+...şahane, harikulade, muazzam...
+
+550
+00:40:01,700 --> 00:40:04,000
+...göz kamaştırıcı olacak!
+
+551
+00:40:04,000 --> 00:40:07,300
+Duygusal bir kendinden geçme.
+
+552
+00:40:07,600 --> 00:40:09,000
+Adı...
+
+553
+00:40:10,200 --> 00:40:13,200
+<i>"Olağanüstü, Olağanüstü"</i>
+
+554
+00:40:13,200 --> 00:40:15,900
+<i>Lügatın hiçbir sözcüğü</i>
+
+555
+00:40:16,200 --> 00:40:18,700
+<i>Tanımlayamaz bu şovu</i>
+
+556
+00:40:19,000 --> 00:40:21,800
+<i>Şaşkınlıktan diliniz tutulacak</i>
+
+557
+00:40:22,100 --> 00:40:25,000
+<i>Yüzde on kar getirir</i>
+
+558
+00:40:25,000 --> 00:40:27,500
+<i>Kabul edin, bu çok iyidir</i>
+
+559
+00:40:27,500 --> 00:40:31,800
+<i>Ödediğiniz paraya ek olarak</i>
+
+560
+00:40:32,500 --> 00:40:37,900
+<i>Sanatsal katkınız da olacak</i>
+
+561
+00:40:39,400 --> 00:40:42,300
+<i>Öyle heyecanlı ki
+Seyirci yerinde duramayacak</i>
+
+562
+00:40:42,300 --> 00:40:45,100
+<i>Öyle zevkli ki
+50 yıl oynayacak</i>
+
+563
+00:40:45,100 --> 00:40:47,900
+<i>Öyle heyecanlı ki
+Seyirci yerinde duramayacak</i>
+
+564
+00:40:47,900 --> 00:40:50,600
+<i>Öyle zevkli ki
+50 yıl oynayacak</i>
+
+565
+00:40:50,700 --> 00:40:52,500
+<i>- Filler
+- Bohemler</i>
+
+566
+00:40:52,500 --> 00:40:54,200
+<i>- Hintliler
+- Ve fahişeler</i>
+
+567
+00:40:54,200 --> 00:40:56,000
+<i>- Akrobatlar
+- Ve oynayan ayılar</i>
+
+568
+00:40:56,000 --> 00:40:57,900
+<i>- Egzotik kızlar
+- Ateş yutanlar</i>
+
+569
+00:40:57,900 --> 00:40:59,800
+<i>Adaleli ve elastiki vücutlar</i>
+
+570
+00:40:59,800 --> 00:41:01,700
+<i>Entrika, tehlike ve aşk</i>
+
+571
+00:41:01,700 --> 00:41:04,800
+<i>Elektrik lambaları, makineler
+Ve tüm bu elektrikler!</i>
+
+572
+00:41:04,800 --> 00:41:07,100
+<i>Öyle heyecanlı ki
+Seyirci yerinde duramayacak</i>
+
+573
+00:41:07,100 --> 00:41:09,800
+<i>Öyle zevkli ki
+50 yıl oynayacak!</i>
+
+574
+00:41:09,800 --> 00:41:13,100
+<i>Öyle heyecanlı ki
+Seyirci yerinde duramayacak</i>
+
+575
+00:41:13,100 --> 00:41:17,200
+<i>Öyle zevkli ki
+50 yıl oynayacak!</i>
+
+576
+00:41:17,200 --> 00:41:20,300
+<i>Olağanüstü, Olağanüstü
+Lügatın hiçbir sözcüğü</i>
+
+577
+00:41:20,300 --> 00:41:24,100
+<i>Tanımlayamaz bu şovu
+Şaşkınlıktan diliniz tutulacak</i>
+
+578
+00:41:24,100 --> 00:41:27,000
+<i>Tepeler müziğin</i>
+
+579
+00:41:27,400 --> 00:41:30,700
+<i>Sesiyle canlanıyor</i>
+
+580
+00:41:31,000 --> 00:41:33,800
+<i>Öyle heyecanlı ki
+Seyirci yerinde duramayacak</i>
+
+581
+00:41:33,800 --> 00:41:36,600
+<i>Öyle zevkli ki
+50 yıl oynayacak</i>
+
+582
+00:41:36,600 --> 00:41:39,200
+<i>Öyle heyecanlı ki
+Seyirci yerinde duramayacak</i>
+
+583
+00:41:39,200 --> 00:41:44,600
+<i>Öyle zevkli ki
+50 yıl oynayacak!</i>
+
+584
+00:41:44,800 --> 00:41:47,000
+Evet, ama sonunda ne oluyor?
+
+585
+00:41:59,300 --> 00:42:01,500
+<i>Fahişe ve sitarcı</i>
+
+586
+00:42:01,700 --> 00:42:04,700
+<i>Şeytanca bir planla ayırıldı</i>
+
+587
+00:42:04,700 --> 00:42:08,300
+<i>Ama sonunda, duyar onun şarkısını</i>
+
+588
+00:42:08,300 --> 00:42:13,300
+<i>Çünkü çok güçlüdür aşkları</i>
+
+589
+00:42:15,900 --> 00:42:18,000
+<i>Biraz garip</i>
+
+590
+00:42:19,100 --> 00:42:22,300
+<i>İçimdeki bu duygu</i>
+
+591
+00:42:24,700 --> 00:42:27,500
+<i>Öyle heyecanlı ki
+Seyirci yerinde duramayacak</i>
+
+592
+00:42:27,500 --> 00:42:29,900
+<i>Öyle zevkli ki
+50 yıl oynayacak</i>
+
+593
+00:42:29,900 --> 00:42:33,800
+<i>Sitarcının gizli şarkısıyla
+Kötü adamdan kaçarlar</i>
+
+594
+00:42:34,200 --> 00:42:37,600
+<i>Kızıp köpürse de zorba
+Faydası yoktur ona</i>
+
+595
+00:42:37,600 --> 00:42:41,100
+Ben kötü kalpli mihrace!
+
+596
+00:42:41,100 --> 00:42:42,600
+Kaçamayacaksınız!
+
+597
+00:42:42,900 --> 00:42:45,800
+- Onu kimse senden iyi oynayamaz.
+- Oynamayacak da.
+
+598
+00:42:45,800 --> 00:42:49,600
+<i>Öyle heyecanlı ki güldüreceğiz
+Ağlatacağız! Öyle zevkli ki...</i>
+
+599
+00:42:49,600 --> 00:42:52,800
+Sonunda biri ölecek mi?
+
+600
+00:42:53,500 --> 00:42:56,100
+<i>Öyle heyecanlı ki
+Seyirci yerinde duramayacak</i>
+
+601
+00:42:56,100 --> 00:43:00,900
+<i>Öyle zevkli ki
+50 yıl oynayacak!</i>
+
+602
+00:43:10,700 --> 00:43:12,900
+Genel olarak, beğendim.
+
+603
+00:43:15,500 --> 00:43:18,100
+<i>Zidler'ın bir yatırımcısı...</i>
+
+604
+00:43:19,900 --> 00:43:24,600
+<i>...bohemlerin de bir şovu vardı.
+- Yüzyılın sonundayız!</i>
+
+605
+00:43:24,600 --> 00:43:27,800
+Bohem devrimi burada!
+
+606
+00:43:32,300 --> 00:43:35,100
+Çok güzel bir kadınsın.
+
+607
+00:43:35,800 --> 00:43:38,000
+Sekse bayılıyorum.
+
+608
+00:43:43,400 --> 00:43:45,900
+<i>Yukarıda parti hızla sürerken...</i>
+
+609
+00:43:46,200 --> 00:43:48,300
+<i>... ben yazmaya çalışıyordum.</i>
+
+610
+00:43:49,600 --> 00:43:52,000
+<i>Ama tek düşünebildiğim oydu.</i>
+
+611
+00:43:52,000 --> 00:43:55,800
+<i>Hayat ne harika</i>
+
+612
+00:43:57,100 --> 00:43:59,400
+<i>O beni düşünüyor muydu?</i>
+
+613
+00:44:00,100 --> 00:44:02,300
+<i>Şimdi sen...</i>
+
+614
+00:44:04,300 --> 00:44:05,600
+<i>... varsın ya</i>
+
+615
+00:44:08,300 --> 00:44:10,800
+<i>Dük mü? Ben dük değilim.</i>
+
+616
+00:44:11,200 --> 00:44:12,700
+<i>Yazarım.</i>
+
+617
+00:44:13,400 --> 00:44:17,000
+<i>Onu kandırmak istememiştir...
+Aşk hakkında.</i>
+
+618
+00:44:17,100 --> 00:44:19,200
+<i>Aşkın...</i>
+
+619
+00:44:19,500 --> 00:44:23,500
+<i>... tüm engelleri aşması hakkında.</i>
+
+620
+00:44:35,800 --> 00:44:37,800
+<i>Geceyi...</i>
+
+621
+00:44:39,200 --> 00:44:40,800
+<i>... takip...</i>
+
+622
+00:44:42,200 --> 00:44:44,600
+<i>... ediyorum</i>
+
+623
+00:44:48,300 --> 00:44:51,100
+<i>lşığa...</i>
+
+624
+00:44:51,700 --> 00:44:54,700
+<i>... katlanamıyorum</i>
+
+625
+00:44:56,700 --> 00:45:01,200
+<i>Ne zaman başlayacağım ben</i>
+
+626
+00:45:04,000 --> 00:45:08,900
+<i>Yaşamaya yeniden?</i>
+
+627
+00:45:10,900 --> 00:45:15,500
+<i>Bir gün buradan kaçacağım</i>
+
+628
+00:45:18,900 --> 00:45:23,200
+<i>Bunları dünde bırakacağım</i>
+
+629
+00:45:24,700 --> 00:45:29,800
+<i>Aşkın başka ne yapabilir benim için?</i>
+
+630
+00:45:31,100 --> 00:45:34,700
+<i>Ne zaman bitecek...</i>
+
+631
+00:45:35,100 --> 00:45:38,400
+<i>... aşk benim için?</i>
+
+632
+00:45:39,600 --> 00:45:41,400
+<i>Hayatı...</i>
+
+633
+00:45:41,700 --> 00:45:45,500
+<i>... düşten düşe yaşamak neden?</i>
+
+634
+00:45:45,500 --> 00:45:48,700
+<i>Ve korkmak...</i>
+
+635
+00:45:49,500 --> 00:45:53,000
+<i>... düşlerin biteceği...</i>
+
+636
+00:45:55,600 --> 00:45:56,900
+<i>... günden</i>
+
+637
+00:45:57,100 --> 00:46:00,900
+<i>Hayat ne harika</i>
+
+638
+00:46:01,400 --> 00:46:04,600
+<i>Şimdi sen...</i>
+
+639
+00:46:04,900 --> 00:46:07,400
+<i>... varsın ya</i>
+
+640
+00:46:26,300 --> 00:46:30,600
+<i>Bir gün buradan kaçacağım</i>
+
+641
+00:46:33,000 --> 00:46:37,300
+<i>Bunları dünde bırakacağım</i>
+
+642
+00:46:39,200 --> 00:46:40,800
+<i>Hayatı...</i>
+
+643
+00:46:41,100 --> 00:46:46,100
+<i>... düşten düşe yaşamak neden?</i>
+
+644
+00:46:49,100 --> 00:46:52,400
+<i>Ve korkmak...</i>
+
+645
+00:46:54,500 --> 00:46:58,500
+<i>... düşlerin biteceği...</i>
+
+646
+00:47:00,300 --> 00:47:02,500
+<i>... günden</i>
+
+647
+00:47:05,500 --> 00:47:10,700
+<i>Bir gün buradan kaçacağım</i>
+
+648
+00:47:15,200 --> 00:47:16,900
+<i>Kaçıp...</i>
+
+649
+00:47:18,500 --> 00:47:21,000
+<i>... uzaklara...</i>
+
+650
+00:47:23,800 --> 00:47:27,300
+<i>... gideceğim</i>
+
+651
+00:47:29,000 --> 00:47:30,600
+Affedersin. Ben...
+
+652
+00:47:31,600 --> 00:47:35,200
+lşığını açık görünce tırman...
+
+653
+00:47:35,600 --> 00:47:39,700
+İşi almama yardım ettiğin
+için teşekkür etmek istedim.
+
+654
+00:47:40,900 --> 00:47:42,500
+Tabii.
+
+655
+00:47:43,000 --> 00:47:46,100
+Evet. Toulouse haklıymış.
+
+656
+00:47:46,200 --> 00:47:47,200
+Sen...
+
+657
+00:47:49,200 --> 00:47:50,500
+...çok yeteneklisin.
+
+658
+00:47:51,500 --> 00:47:53,800
+Harika bir şov olacak.
+
+659
+00:47:53,800 --> 00:47:56,000
+Neyse, gitsem iyi olur.
+
+660
+00:47:56,000 --> 00:47:59,200
+Yarın ikimiz için de yoğun bir gün.
+
+661
+00:47:59,400 --> 00:48:00,800
+Dur.
+
+662
+00:48:01,000 --> 00:48:02,700
+Lütfen gitme.
+
+663
+00:48:06,500 --> 00:48:10,300
+Daha önce, biz, şey...
+
+664
+00:48:10,300 --> 00:48:12,700
+...beni dük sandığında...
+
+665
+00:48:12,700 --> 00:48:15,900
+...beni sevdiğini söyledin.
+Merak ettim, acaba...
+
+666
+00:48:15,900 --> 00:48:17,600
+Rol müydü?
+
+667
+00:48:17,800 --> 00:48:19,300
+- Evet.
+- Elbette.
+
+668
+00:48:21,100 --> 00:48:22,300
+Gerçek gibiydi.
+
+669
+00:48:25,500 --> 00:48:26,900
+Christian...
+
+670
+00:48:28,200 --> 00:48:30,400
+...ben bir fahişeyim.
+
+671
+00:48:30,900 --> 00:48:35,100
+Erkekleri inanmak istedikleri şeye
+inandırmak için para alırım.
+
+672
+00:48:39,500 --> 00:48:44,700
+Ne aptalım. Benim gibi birine
+aşık olabileceğini düşündüm.
+
+673
+00:48:46,800 --> 00:48:51,000
+- Ben kimseye aşık olamam.
+- Aşık olamaz mısın?
+
+674
+00:48:51,000 --> 00:48:55,300
+- Ama aşksız bir hayat korkunç!
+- Sokağa düşmek korkunç.
+
+675
+00:48:57,100 --> 00:48:58,300
+Aşk oksijen gibidir.
+
+676
+00:48:59,000 --> 00:49:01,700
+Aşk çok muhteşem bir şeydir. Aşk...
+
+677
+00:49:01,700 --> 00:49:04,300
+...bizi ait olduğumuz yere götürür.
+
+678
+00:49:04,300 --> 00:49:05,600
+Yine başlama.
+
+679
+00:49:05,900 --> 00:49:09,600
+<i>- Tek ihtiyacın aşktır
+- Bir kız karnını doyurmalı</i>
+
+680
+00:49:09,600 --> 00:49:13,600
+<i>- Tek ihtiyacın aşktır
+- Yoksa sokakta bulur kendini</i>
+
+681
+00:49:13,600 --> 00:49:16,700
+<i>Tek ihtiyacın aşktır</i>
+
+682
+00:49:16,900 --> 00:49:18,700
+<i>Aşk sadece bir oyun</i>
+
+683
+00:49:18,700 --> 00:49:23,700
+<i>Ben seni sevmek için yaratıldım
+Sen de beni sevmek için</i>
+
+684
+00:49:23,700 --> 00:49:26,800
+<i>Beni sevmenin tek yolu</i>
+
+685
+00:49:26,800 --> 00:49:29,100
+<i>Güzel bir ücret ödemek</i>
+
+686
+00:49:29,300 --> 00:49:33,200
+<i>Bana bir gece
+Bir gece ver sadece</i>
+
+687
+00:49:33,200 --> 00:49:36,800
+<i>İmkanı yok
+Çünkü paran yok</i>
+
+688
+00:49:36,800 --> 00:49:39,700
+<i>Aşk adına</i>
+
+689
+00:49:40,100 --> 00:49:43,600
+<i>Aşk adına bir tek gece</i>
+
+690
+00:49:43,600 --> 00:49:45,900
+<i>Seni çılgın aptal</i>
+
+691
+00:49:47,300 --> 00:49:49,100
+<i>Sana teslim olmam</i>
+
+692
+00:49:49,600 --> 00:49:52,900
+<i>Beni bu halde bırakma</i>
+
+693
+00:49:54,600 --> 00:49:59,100
+<i>Yaşayamam, güzel aşkın olmadan</i>
+
+694
+00:49:59,100 --> 00:50:00,700
+<i>Bebeğim</i>
+
+695
+00:50:01,600 --> 00:50:04,400
+<i>Beni bu halde bırakma</i>
+
+696
+00:50:07,100 --> 00:50:10,800
+<i>İnsanlar bıktı sanıyordum</i>
+
+697
+00:50:10,800 --> 00:50:13,800
+<i>Saçma aşk şarkılarından</i>
+
+698
+00:50:14,000 --> 00:50:18,800
+<i>Etrafıma bakıyorum
+Öyle bir şey görmüyorum</i>
+
+699
+00:50:18,800 --> 00:50:19,800
+<i>Hayır</i>
+
+700
+00:50:20,800 --> 00:50:26,100
+<i>Dünyayı doldurmak istiyorsunuz
+Saçma aşk şarkılarıyla</i>
+
+701
+00:50:26,900 --> 00:50:28,900
+<i>Nesi kötü bunun?</i>
+
+702
+00:50:29,600 --> 00:50:31,800
+<i>Bilmek istiyorum</i>
+
+703
+00:50:32,600 --> 00:50:36,500
+<i>Çünkü yine söylüyorum</i>
+
+704
+00:50:38,000 --> 00:50:41,600
+<i>Aşk bizi ait olduğumuz yere götürür</i>
+
+705
+00:50:41,600 --> 00:50:43,300
+İn aşağı!
+
+706
+00:50:43,600 --> 00:50:46,500
+<i>Kartalların uçtuğu</i>
+
+707
+00:50:46,500 --> 00:50:49,500
+<i>Dağların tepelerine</i>
+
+708
+00:50:50,500 --> 00:50:54,300
+<i>Aşk bizi aptallaştırır</i>
+
+709
+00:50:56,000 --> 00:50:58,800
+<i>Hayatlarımızı mahveder</i>
+
+710
+00:50:58,800 --> 00:51:01,100
+<i>Bir tek mutlu gün için</i>
+
+711
+00:51:01,100 --> 00:51:04,200
+<i>Kahraman olabilirdik</i>
+
+712
+00:51:04,800 --> 00:51:06,800
+<i>Bir tek gün için</i>
+
+713
+00:51:07,100 --> 00:51:10,100
+<i>Sen kötü olacaksın</i>
+
+714
+00:51:10,100 --> 00:51:12,000
+Hayır.
+
+715
+00:51:13,000 --> 00:51:14,700
+<i>Ve ben...</i>
+
+716
+00:51:15,800 --> 00:51:18,300
+<i>... sürekli içeceğim</i>
+
+717
+00:51:19,900 --> 00:51:23,700
+<i>Biz sevgili olmalıyız</i>
+
+718
+00:51:23,700 --> 00:51:25,700
+<i>Yapamayız bunu</i>
+
+719
+00:51:27,200 --> 00:51:30,700
+<i>Biz sevgili olmalıyız</i>
+
+720
+00:51:30,700 --> 00:51:33,200
+<i>Biz sevgili olmalıyız</i>
+
+721
+00:51:35,200 --> 00:51:37,700
+<i>Hiçbir şey bizi...</i>
+
+722
+00:51:37,700 --> 00:51:40,600
+<i>... bir arada tutamasa da</i>
+
+723
+00:51:41,600 --> 00:51:45,100
+<i>Zamanı çalabiliriz</i>
+
+724
+00:51:45,100 --> 00:51:48,400
+<i>Yalnız bir gün için</i>
+
+725
+00:51:48,600 --> 00:51:52,200
+<i>Kahraman olabiliriz</i>
+
+726
+00:51:52,300 --> 00:51:55,300
+<i>Sonsuza kadar</i>
+
+727
+00:51:56,100 --> 00:51:59,400
+<i>Kahraman olabiliriz</i>
+
+728
+00:51:59,400 --> 00:52:02,400
+<i>Sonsuza kadar</i>
+
+729
+00:52:02,900 --> 00:52:06,400
+<i>Kahraman olabiliriz</i>
+
+730
+00:52:07,400 --> 00:52:10,800
+<i>Çünkü ben seni</i>
+
+731
+00:52:14,600 --> 00:52:18,900
+<i>Sonsuza dek seveceğim</i>
+
+732
+00:52:22,600 --> 00:52:25,900
+<i>Seni sevmemek...</i>
+
+733
+00:52:26,800 --> 00:52:29,800
+<i>... elimde değil</i>
+
+734
+00:52:30,100 --> 00:52:33,600
+<i>Hayat ne harika</i>
+
+735
+00:52:34,600 --> 00:52:37,300
+<i>Şimdi sen...</i>
+
+736
+00:52:38,400 --> 00:52:42,200
+<i>... varsın ya</i>
+
+737
+00:52:43,000 --> 00:52:47,200
+İşime engel olacaksın, buna eminim.
+
+738
+00:53:08,800 --> 00:53:14,100
+<i>Hayat ne harika</i>
+
+739
+00:53:16,900 --> 00:53:20,300
+<i>Şimdi sen...</i>
+
+740
+00:53:22,200 --> 00:53:26,700
+<i>... varsın ya</i>
+
+741
+00:53:30,700 --> 00:53:36,000
+<i>Hayat ne harikaydı, Satine varolunca.</i>
+
+742
+00:53:39,600 --> 00:53:41,000
+<i>Ama dük...</i>
+
+743
+00:53:42,000 --> 00:53:46,200
+<i>... Zidler'ın sandığından
+çok daha fazlasını istiyordu.</i>
+
+744
+00:53:47,600 --> 00:53:52,400
+Moulin Rouge'u tiyatroya dönüştürmek
+muazzam bir paraya mal olacak.
+
+745
+00:53:52,400 --> 00:53:57,000
+Karşılığında, yapacağımız
+bir kontratla...
+
+746
+00:53:57,000 --> 00:53:59,200
+...Satine bana ait olacak.
+
+747
+00:53:59,200 --> 00:54:00,300
+Yalnız bana.
+
+748
+00:54:01,200 --> 00:54:06,500
+Doğal olarak, teminat isterim.
+Moulin Rouge'un tapu senetlerini.
+
+749
+00:54:07,400 --> 00:54:08,700
+Sevgili dük...
+
+750
+00:54:08,900 --> 00:54:12,700
+Lütfen! Beni saf sanma Zidler.
+
+751
+00:54:12,700 --> 00:54:17,300
+Tapular bende kalacak.
+Herhangi bir hile olacak olursa...
+
+752
+00:54:17,300 --> 00:54:20,400
+...uşağım Warner, meseleyi...
+
+753
+00:54:23,600 --> 00:54:26,500
+...siz yeraltı şov dünyası
+insanlarının...
+
+754
+00:54:26,500 --> 00:54:29,400
+...anlayacağı dilde halleder.
+
+755
+00:54:29,400 --> 00:54:31,100
+Satine benim olacak.
+
+756
+00:54:31,300 --> 00:54:33,400
+Kıskanç biri değilim.
+
+757
+00:54:33,400 --> 00:54:38,400
+Ama başkalarının benim malıma
+dokunması hoşuma gitmez!
+
+758
+00:54:43,700 --> 00:54:44,800
+Sizi...
+
+759
+00:54:45,000 --> 00:54:49,700
+...çok iyi anlıyorum dük.
+
+760
+00:54:51,100 --> 00:54:52,100
+Güzel.
+
+761
+00:54:52,300 --> 00:54:56,200
+Birbirimizi anladığımıza göre...
+
+762
+00:54:56,200 --> 00:55:00,900
+...artık sevgili Moulin Rouge'unu
+dönüştürebilirsin bir...
+
+763
+00:55:00,900 --> 00:55:02,300
+...tiyatroya!
+
+764
+00:55:02,800 --> 00:55:07,000
+Satine'in gönlünü akşam
+yemekte fethederim.
+
+765
+00:55:09,300 --> 00:55:12,800
+Dünyanın ilk olağanüstü...
+
+766
+00:55:12,800 --> 00:55:14,900
+...bütünüyle modern...
+
+767
+00:55:14,900 --> 00:55:19,100
+...tepeden tırnağa elektrikli,
+tamamıyla bohem...
+
+768
+00:55:19,100 --> 00:55:24,600
+...baştan sona şarkılı ve danslı
+sahne gösterisini yaratacağız!
+
+769
+00:55:28,600 --> 00:55:31,600
+Şov devam etmeli!
+
+770
+00:55:32,100 --> 00:55:35,000
+<i>Evet, şov devam edecekti.</i>
+
+771
+00:55:35,000 --> 00:55:39,900
+<i>Ama Satine ne o, ne de ondan
+sonraki akşam yemeğe gitmeyecekti.</i>
+
+772
+00:55:40,500 --> 00:55:42,900
+Kıskançlıktan çıldıran
+kötü kalpli mihrace...
+
+773
+00:55:42,900 --> 00:55:47,300
+...sitarcıya onu sevmediğini
+söylemesi için fahişeyi zorlar.
+
+774
+00:55:48,600 --> 00:55:53,300
+"Saçma sapan aşk saplantımdan
+beni kurtardığın için sağol. "...
+
+775
+00:55:53,300 --> 00:55:58,200
+...der sitarcı ve suratına parayı
+fırlatıp krallığı terk eder!
+
+776
+00:55:59,900 --> 00:56:01,500
+Muhteşem! Muhteşem!
+
+777
+00:56:01,700 --> 00:56:04,100
+Aşksız bir hayat mı? Bu korkunç!
+
+778
+00:56:04,200 --> 00:56:07,000
+Evet. Ama sitarcı...
+
+779
+00:56:07,300 --> 00:56:09,700
+Dur! Bu benim rolüm.
+
+780
+00:56:09,900 --> 00:56:12,700
+Bu benim rolüm Christian!
+
+781
+00:56:12,900 --> 00:56:14,700
+Sakın söyleme!
+
+782
+00:56:15,000 --> 00:56:18,200
+Sadece gerçeği söyleyebilen
+sihirli sitar der ki:
+
+783
+00:56:18,200 --> 00:56:20,800
+<i>"Hayat boyu öğreneceğin
+en büyük şey...</i>
+
+784
+00:56:20,800 --> 00:56:25,000
+<i>... sadece sevmek ve
+karşılığında sevilmektir. "</i>
+
+785
+00:56:26,900 --> 00:56:28,300
+Piknik, tatlı bayan?
+
+786
+00:56:28,500 --> 00:56:30,900
+Ama çok işimiz var.
+
+787
+00:56:31,600 --> 00:56:35,800
+Yazar sepeti taşıyabilirse,
+benim yanımda da yapabilirsiniz.
+
+788
+00:56:35,800 --> 00:56:40,400
+- Sonra çatıdan düşer.
+- Evet, biliyorum. Söyleme.
+
+789
+00:56:40,900 --> 00:56:43,400
+"Hayat boyu öğreneceğin..."
+
+790
+00:56:45,300 --> 00:56:46,700
+Hala mı tatlım?
+
+791
+00:56:46,900 --> 00:56:48,900
+"...sahip, yapmak...
+
+792
+00:56:50,000 --> 00:56:50,900
+...kontrat..."
+
+793
+00:56:51,200 --> 00:56:55,000
+Çok fazla repliğim var.
+Tekrar tekrar üstünden geçiyorum.
+
+794
+00:56:55,200 --> 00:56:58,500
+<i>Dük ne kadar uğraşsa da,
+yazarla aktrisin...</i>
+
+795
+00:56:58,500 --> 00:57:02,900
+<i>... ondan kaçmak için sebepler
+bulması neredeyse çok kolaydı.</i>
+
+796
+00:57:06,700 --> 00:57:10,800
+Matmazel Satine,
+yeni sahneyi bitirmedim.
+
+797
+00:57:10,800 --> 00:57:15,900
+"Aşıklar sitarcının mütevazı evinde
+buluşurlar mı?" sahnesi.
+
+798
+00:57:16,000 --> 00:57:19,500
+Bunu sizinle bu gece
+çalışabilir miyim?
+
+799
+00:57:19,500 --> 00:57:23,700
+Ama hayatım, kulede ikimiz için
+muhteşem bir yemek ayarladım.
+
+800
+00:57:23,700 --> 00:57:25,900
+Yarın çalışabiliriz.
+
+801
+00:57:26,200 --> 00:57:29,100
+Bu ne cesaret! Yarına bekleyemez.
+
+802
+00:57:29,100 --> 00:57:34,200
+"Aşıklar sitarcının mütevazı evinde
+buluşurlar" sahnesi çok önemli.
+
+803
+00:57:34,200 --> 00:57:38,000
+Bu gece ben iyice tatmin
+olana dek çalışacağız.
+
+804
+00:57:38,100 --> 00:57:40,000
+Sevgili dük, izninizle.
+
+805
+00:57:41,600 --> 00:57:43,000
+Özür dilerim.
+
+806
+00:57:46,000 --> 00:57:48,500
+İyi çalıştınız ailem!
+
+807
+00:57:48,500 --> 00:57:52,300
+Yarın sabah erkenden
+2. perdeye başlarız.
+
+808
+00:57:52,300 --> 00:57:55,300
+Aşıklar yakayı ele verir.
+
+809
+00:57:55,300 --> 00:57:56,400
+Zidler.
+
+810
+00:57:57,100 --> 00:58:02,100
+Sevgili dük. Bu akşam kuledeki
+özel yemek için her şey ayarlandı.
+
+811
+00:58:02,100 --> 00:58:05,200
+Kendin ye! Bana ilgisi azalıyor!
+
+812
+00:58:05,200 --> 00:58:06,100
+İmkansız.
+
+813
+00:58:06,400 --> 00:58:10,600
+İşinin önemli olduğunu biliyorum,
+ama sürekli şu lanet yazarla!
+
+814
+00:58:12,100 --> 00:58:15,000
+Onu bu akşam görmezsem, gidiyorum!
+
+815
+00:58:16,300 --> 00:58:20,200
+Hayır! Dük! Satine'e bu akşam
+izin yapması için ısrar edeceğim.
+
+816
+00:58:20,500 --> 00:58:22,200
+Pekala.
+
+817
+00:58:25,200 --> 00:58:26,500
+Saat sekizde.
+
+818
+00:58:30,100 --> 00:58:32,200
+Bu akşam gelecek misin?
+
+819
+00:58:33,000 --> 00:58:34,200
+Evet.
+
+820
+00:58:45,700 --> 00:58:47,600
+- Kaçta?
+- Sekizde.
+
+821
+00:58:47,800 --> 00:58:49,800
+- Söz mü?
+- Evet.
+
+822
+00:58:50,000 --> 00:58:51,200
+Git.
+
+823
+00:58:53,400 --> 00:58:54,400
+Delirdin mi?
+
+824
+00:58:55,300 --> 00:58:58,400
+Moulin Rouge'un tapusu dükün elinde.
+
+825
+00:58:58,700 --> 00:59:00,800
+Sana bir servet harcıyor.
+
+826
+00:59:00,800 --> 00:59:05,400
+Yeni, güzel bir soyunma odası verdi.
+Seni yıldız yapmak istiyor.
+
+827
+00:59:05,400 --> 00:59:08,700
+Sense yazarla kırıştırıyorsun.
+
+828
+00:59:08,900 --> 00:59:12,800
+- Harold, saçmalama...
+- Sizi birlikte gördüm!
+
+829
+00:59:14,800 --> 00:59:15,800
+Önemsiz bir şey.
+
+830
+00:59:17,600 --> 00:59:21,600
+Geçici bir heves. Önemli değil.
+
+831
+00:59:21,600 --> 00:59:24,200
+Bu heves bitecek.
+
+832
+00:59:27,500 --> 00:59:28,600
+Git ona.
+
+833
+00:59:29,300 --> 00:59:30,700
+Bittiğini söyle.
+
+834
+00:59:32,400 --> 00:59:35,200
+Dük seni sekizde bekliyor.
+
+835
+00:59:41,700 --> 00:59:43,900
+<i>Ölsem şimdi</i>
+
+836
+00:59:44,800 --> 00:59:47,100
+<i>Tam şu anda</i>
+
+837
+00:59:48,700 --> 00:59:51,300
+<i>Hissedemem korkuyu</i>
+
+838
+00:59:51,900 --> 00:59:56,800
+<i>Çünkü hiç tatmadım bütünlüğü</i>
+
+839
+00:59:57,300 --> 01:00:01,100
+<i>Burada olmak gibi</i>
+
+840
+01:00:01,600 --> 01:00:05,400
+<i>Sıcaklığınla sarmalanmak</i>
+
+841
+01:00:06,400 --> 01:00:10,800
+<i>Her nefesine aşık olmak gibi</i>
+
+842
+01:00:12,300 --> 01:00:14,800
+<i>Hayatı düşten düşe...</i>
+
+843
+01:00:16,500 --> 01:00:18,600
+<i>... yaşamak...</i>
+
+844
+01:00:19,000 --> 01:00:20,800
+<i>... neden?</i>
+
+845
+01:00:25,100 --> 01:00:29,400
+<i>Ve korkmak düşlerin...</i>
+
+846
+01:00:34,900 --> 01:00:37,300
+<i>Nereden bilebilirdim...</i>
+
+847
+01:00:37,800 --> 01:00:41,300
+<i>... o öldürücü son günlerde...</i>
+
+848
+01:00:45,700 --> 01:00:49,300
+<i>... kıskançlıktan daha kara...</i>
+
+849
+01:00:52,900 --> 01:00:55,700
+<i>... ve aşktan daha
+güçlü bir kuvvetin...</i>
+
+850
+01:00:55,700 --> 01:00:59,500
+<i>... ele geçirmeye başladığını...</i>
+
+851
+01:00:59,600 --> 01:01:00,900
+<i>... Satine'i?</i>
+
+852
+01:01:08,000 --> 01:01:10,000
+Nerede?
+
+853
+01:01:18,600 --> 01:01:20,400
+Akşama düzelir mi?
+
+854
+01:01:20,600 --> 01:01:22,100
+En erken yarın.
+
+855
+01:01:28,400 --> 01:01:30,200
+Dük gidiyor!
+
+856
+01:01:30,700 --> 01:01:34,200
+Günah çıkartıyor!
+
+857
+01:01:34,800 --> 01:01:38,900
+Günah mı çıkartıyor?
+Beni embesil mi sandın Zidler?
+
+858
+01:01:38,900 --> 01:01:42,400
+Birdenbire, rahibe gitmek
+ve günahlarını...
+
+859
+01:01:42,400 --> 01:01:45,200
+...itiraf etmek için...
+
+860
+01:01:45,400 --> 01:01:47,700
+...korkunç bir arzu duydu.
+
+861
+01:01:48,400 --> 01:01:52,100
+Eski hayatından arınmak istiyor.
+
+862
+01:01:52,600 --> 01:01:56,200
+Bu geceyi düğün gecesi gibi görüyor.
+
+863
+01:01:56,200 --> 01:01:57,200
+Düğün gecesi mi?
+
+864
+01:01:57,500 --> 01:02:00,300
+Utançtan kızaran bir gelin gibi.
+
+865
+01:02:00,300 --> 01:02:03,500
+Dediğine göre siz onu
+şey gibi hissettiriyorsunuz...
+
+866
+01:02:04,600 --> 01:02:05,800
+...bakire gibi.
+
+867
+01:02:07,400 --> 01:02:08,400
+Bakire mi?
+
+868
+01:02:08,700 --> 01:02:11,100
+Bilirsiniz. İlk defa...
+
+869
+01:02:11,300 --> 01:02:13,700
+...el sürülmüş gibi.
+
+870
+01:02:15,400 --> 01:02:19,900
+İçinde çok hoş şeyler hissediyormuş...
+
+871
+01:02:20,400 --> 01:02:22,600
+...onu tuttuğunuz...
+
+872
+01:02:23,000 --> 01:02:25,900
+...ve ona dokunduğunuzda.
+
+873
+01:02:26,600 --> 01:02:28,700
+Bir bakire gibi.
+
+874
+01:02:29,100 --> 01:02:33,800
+<i>Kötü günleri geride bıraktı
+artık. Geride bıraktı.</i>
+
+875
+01:02:33,800 --> 01:02:37,100
+<i>Ne kadar kaybolmuş
+olduğunu bilmiyordu</i>
+
+876
+01:02:37,100 --> 01:02:40,400
+<i>Sizi bulana kadar</i>
+
+877
+01:02:41,100 --> 01:02:44,400
+<i>Bitkindi, eksikti</i>
+
+878
+01:02:44,800 --> 01:02:49,400
+<i>Kullanılmış,
+Hüzünlü ve kederliydi</i>
+
+879
+01:02:50,400 --> 01:02:53,300
+<i>Ama siz onu</i>
+
+880
+01:02:53,500 --> 01:02:56,600
+<i>Evet, siz onu</i>
+
+881
+01:02:57,500 --> 01:03:00,100
+<i>Canlı ve taze hissettirdiniz</i>
+
+882
+01:03:02,300 --> 01:03:04,000
+<i>Bakire gibi</i>
+
+883
+01:03:04,900 --> 01:03:07,700
+<i>İlk kez el sürülen</i>
+
+884
+01:03:08,000 --> 01:03:10,400
+<i>Bakire gibi</i>
+
+885
+01:03:10,900 --> 01:03:13,600
+<i>Kalpleriniz birlikte atarken</i>
+
+886
+01:03:13,600 --> 01:03:16,500
+<i>Tüm aşkını verecek size</i>
+
+887
+01:03:16,500 --> 01:03:19,400
+<i>Azalıyor korkusu süratle</i>
+
+888
+01:03:20,000 --> 01:03:23,700
+<i>Kendini size saklıyormuş
+Kalıcı olan aşk yalnızca</i>
+
+889
+01:03:24,600 --> 01:03:27,700
+<i>O çok nazik ve size ait</i>
+
+890
+01:03:27,700 --> 01:03:30,700
+<i>Sizin olacak
+Zaman durana kadar</i>
+
+891
+01:03:30,700 --> 01:03:33,000
+<i>Çünkü siz onu</i>
+
+892
+01:03:33,300 --> 01:03:38,600
+<i>Evet, siz onu, saklayacak
+Bir şeyi yokmuş gibi hissettirdiniz</i>
+
+893
+01:03:38,900 --> 01:03:40,400
+<i>Bakire gibi</i>
+
+894
+01:03:41,300 --> 01:03:43,900
+<i>İlk kez el sürülen</i>
+
+895
+01:03:44,700 --> 01:03:46,800
+<i>Bakire gibi</i>
+
+896
+01:03:47,700 --> 01:03:50,500
+<i>Kalpleriniz birlikte atarken</i>
+
+897
+01:03:50,500 --> 01:03:52,300
+<i>Bakire gibi</i>
+
+898
+01:03:53,000 --> 01:03:55,800
+<i>Çok hoş şeyler hissediyor</i>
+
+899
+01:03:56,000 --> 01:03:59,700
+<i>Onu tutup, ona dokunduğunuzda</i>
+
+900
+01:04:36,300 --> 01:04:39,700
+<i>O çok nazik ve bana ait</i>
+
+901
+01:04:39,800 --> 01:04:41,100
+<i>Onunla güçlüyüm</i>
+
+902
+01:04:41,400 --> 01:04:46,100
+<i>Evet, onunla cesurum
+Onun aşkı eritti</i>
+
+903
+01:04:46,400 --> 01:04:49,200
+<i>Evet, onun aşkı eritti</i>
+
+904
+01:04:49,200 --> 01:04:52,400
+<i>Bendeki korku ve soğukluğu</i>
+
+905
+01:04:55,600 --> 01:04:57,700
+<i>Bakire gibi</i>
+
+906
+01:04:58,000 --> 01:05:00,600
+<i>İlk kez el sürülen</i>
+
+907
+01:05:01,300 --> 01:05:03,600
+<i>Bakire gibi</i>
+
+908
+01:05:03,900 --> 01:05:06,900
+<i>Kalpleriniz birlikte atarken</i>
+
+909
+01:05:06,900 --> 01:05:09,000
+<i>Bakire gibi</i>
+
+910
+01:05:09,400 --> 01:05:11,700
+<i>Çok hoş hissediyor</i>
+
+911
+01:05:12,600 --> 01:05:15,300
+<i>Onu tutup
+Ona dokunduğunuzda</i>
+
+912
+01:05:15,300 --> 01:05:18,500
+<i>Onu tutup
+Ona dokunduğunuzda</i>
+
+913
+01:05:29,100 --> 01:05:33,900
+<i>Bakire gibi</i>
+
+914
+01:05:47,100 --> 01:05:51,300
+<i>Harold Zidler'ın dahice yalanları
+bir kez daha felaketi önlemişti.</i>
+
+915
+01:05:53,800 --> 01:05:59,100
+<i>Ama hiçbir yalan ne kadar dahice
+olursa olsun, Satine'i kurtaramazdı.</i>
+
+916
+01:06:04,500 --> 01:06:06,100
+Mösyö Zidler...
+
+917
+01:06:07,300 --> 01:06:11,000
+...Matmazel Satine ölüyor.
+Vereme yakalanmış.
+
+918
+01:06:13,800 --> 01:06:16,000
+Küçük serçem ölüyor mu?
+
+919
+01:06:21,300 --> 01:06:23,400
+<i>Satine bilmemeli Marie.</i>
+
+920
+01:06:23,600 --> 01:06:25,600
+<i>Şov devam etmeli.</i>
+
+921
+01:06:29,000 --> 01:06:33,200
+<i>Beş parasız sitarcı
+bütün gece beklemişti.</i>
+
+922
+01:06:33,500 --> 01:06:36,000
+<i>Şimdi, ilk defa...</i>
+
+923
+01:06:36,200 --> 01:06:40,000
+<i>... kıskançlığın soğuk
+bıçak yarasını hissediyordu.</i>
+
+924
+01:06:45,300 --> 01:06:47,000
+Dün gece neredeydin?
+
+925
+01:06:49,800 --> 01:06:50,800
+Söyledim ya.
+
+926
+01:06:52,100 --> 01:06:53,600
+Hastaydım.
+
+927
+01:06:58,000 --> 01:07:00,300
+Yalan söylemek zorunda değilsin.
+
+928
+01:07:04,300 --> 01:07:06,100
+Bitirmek zorundayız.
+
+929
+01:07:09,200 --> 01:07:11,000
+Herkes biliyor.
+
+930
+01:07:12,400 --> 01:07:13,700
+Harold biliyor.
+
+931
+01:07:16,200 --> 01:07:19,200
+Er ya da geç, dük de öğrenecek.
+
+932
+01:07:25,700 --> 01:07:29,200
+Açılış gecesinde
+dükle yatmak zorundayım.
+
+933
+01:07:32,900 --> 01:07:35,900
+Kıskançlık seni çılgına çevirecektir.
+
+934
+01:07:43,000 --> 01:07:45,500
+- Christian...
+- Bir şarkı yazarım.
+
+935
+01:07:45,500 --> 01:07:49,000
+Şova ekleriz ve durum
+ne kadar kötüye giderse gitsin...
+
+936
+01:07:49,000 --> 01:07:52,400
+...onu duyman, söylemen
+ya da mırıldanman...
+
+937
+01:07:52,400 --> 01:07:56,200
+...birbirimizi sevdiğimiz anlamına
+gelecek. Kıskanmayacağım.
+
+938
+01:07:56,200 --> 01:07:59,200
+Hayat böyle değil Christian.
+
+939
+01:08:00,300 --> 01:08:01,600
+Bitirmek zorundayız.
+
+940
+01:08:18,899 --> 01:08:21,000
+<i>Hiç bilmezdim...</i>
+
+941
+01:08:22,600 --> 01:08:25,800
+<i>... böyle hissedebileceğimi</i>
+
+942
+01:08:29,600 --> 01:08:33,399
+<i>Gökyüzünü daha önce hiç...</i>
+
+943
+01:08:35,700 --> 01:08:37,700
+<i>... görmemişim gibi</i>
+
+944
+01:08:38,700 --> 01:08:40,600
+<i>Öpücüğünde...</i>
+
+945
+01:08:41,000 --> 01:08:44,399
+<i>... kaybolmak istiyorum</i>
+
+946
+01:08:47,100 --> 01:08:50,399
+Bu yeni sahnede sitarcı,
+fahişe için...
+
+947
+01:08:50,399 --> 01:08:54,500
+...gizli bir şarkı yazar.
+Böylece ne olursa olsun...
+
+948
+01:08:54,500 --> 01:08:59,500
+...durum ne kadar kötüye giderse
+gitsin, aşklarını hatırlarlar.
+
+949
+01:08:59,500 --> 01:09:03,899
+Senin repliğinle başlayabiliriz
+Satine. Oradan alalım.
+
+950
+01:09:03,899 --> 01:09:05,200
+Dikkatli olmalıyız.
+
+951
+01:09:05,500 --> 01:09:10,300
+Korkma. İlişkimizi
+mihracenin burnunun...
+
+952
+01:09:10,300 --> 01:09:13,600
+<i>Mevsimler değişebilir</i>
+
+953
+01:09:13,899 --> 01:09:16,700
+<i>Kış bahara döner</i>
+
+954
+01:09:17,700 --> 01:09:20,500
+Doğrusu ya amigo, bu imkansız!
+
+955
+01:09:20,700 --> 01:09:22,399
+<i>Ama seni seveceğim</i>
+
+956
+01:09:23,500 --> 01:09:26,399
+<i>Zaman duruncaya...</i>
+
+957
+01:09:26,600 --> 01:09:29,500
+<i>... kadar</i>
+
+958
+01:09:30,100 --> 01:09:34,800
+<i>Ne olursa olsun</i>
+
+959
+01:09:37,100 --> 01:09:41,800
+<i>Ne olursa olsun</i>
+
+960
+01:09:44,200 --> 01:09:47,300
+<i>Seni seveceğim</i>
+
+961
+01:09:48,000 --> 01:09:54,000
+<i>Öldüğüm güne kadar</i>
+
+962
+01:10:01,300 --> 01:10:03,300
+<i>Birdenbire dünya</i>
+
+963
+01:10:03,500 --> 01:10:06,800
+<i>Mükemmel görünüyor</i>
+
+964
+01:10:06,800 --> 01:10:08,800
+Bak, küçük bir kurbağa!
+
+965
+01:10:08,800 --> 01:10:11,100
+<i>Birdenbire mükemmel</i>
+
+966
+01:10:11,100 --> 01:10:14,500
+<i>Bir zarafetle dönüyor</i>
+
+967
+01:10:15,500 --> 01:10:19,300
+<i>Birdenbire hayatım...</i>
+
+968
+01:10:19,300 --> 01:10:22,100
+<i>... anlamsız değil artık</i>
+
+969
+01:10:23,500 --> 01:10:27,000
+<i>Tamamen senin etrafında dönüyor</i>
+
+970
+01:10:28,800 --> 01:10:31,100
+<i>Daha yüksek bir dağ</i>
+
+971
+01:10:31,100 --> 01:10:33,000
+<i>Yok</i>
+
+972
+01:10:33,400 --> 01:10:37,400
+<i>Daha geniş bir nehir yok</i>
+
+973
+01:10:37,400 --> 01:10:40,900
+<i>Bu şarkıyı söyle ve ben...</i>
+
+974
+01:10:40,900 --> 01:10:44,100
+<i>... olacağım yanıbaşında</i>
+
+975
+01:10:44,900 --> 01:10:47,500
+<i>Fırtınalar kopabilir</i>
+
+976
+01:10:47,600 --> 01:10:51,200
+<i>Ve çarpışabilir yıldızlar</i>
+
+977
+01:10:54,700 --> 01:10:56,400
+<i>Ama seni seveceğim</i>
+
+978
+01:10:56,700 --> 01:10:58,200
+<i>Seni seveceğim</i>
+
+979
+01:10:58,500 --> 01:11:00,800
+<i>Zaman duruncaya...</i>
+
+980
+01:11:01,300 --> 01:11:03,300
+<i>... kadar</i>
+
+981
+01:11:04,300 --> 01:11:07,800
+<i>Ne olursa olsun</i>
+
+982
+01:11:10,400 --> 01:11:15,100
+<i>Ne olursa olsun</i>
+
+983
+01:11:18,200 --> 01:11:21,400
+<i>Seni seveceğim</i>
+
+984
+01:11:43,600 --> 01:11:46,800
+Sihirli sitar çatıdan
+düşer ve der ki:
+
+985
+01:11:46,800 --> 01:11:49,600
+"Hayat boyu öğreneceğin
+en büyük şey...
+
+986
+01:11:49,800 --> 01:11:54,500
+...sadece sevmek ve
+karşılığında sevilmektir."
+
+987
+01:11:54,500 --> 01:11:56,400
+Bu final saçma.
+
+988
+01:11:56,600 --> 01:12:00,100
+Fahişe neden beş parasız
+yazarı seçsin?
+
+989
+01:12:00,100 --> 01:12:04,300
+Pardon. Yani sitarcıyı.
+
+990
+01:12:10,400 --> 01:12:13,000
+<i>Ne olursa olsun</i>
+
+991
+01:12:15,000 --> 01:12:17,500
+<i>Seni seveceğim</i>
+
+992
+01:12:18,400 --> 01:12:21,000
+<i>Ne olursa olsun</i>
+
+993
+01:12:22,200 --> 01:12:25,800
+<i>Evet, seni seveceğim</i>
+
+994
+01:12:26,500 --> 01:12:29,600
+<i>Ne olursa olsun</i>
+
+995
+01:12:30,500 --> 01:12:32,800
+<i>Seni seveceğim</i>
+
+996
+01:12:34,300 --> 01:12:39,900
+<i>Öldüğüm güne kadar</i>
+
+997
+01:12:47,000 --> 01:12:48,900
+Bu finali beğenmedim.
+
+998
+01:12:53,900 --> 01:12:56,000
+Finali beğenmediniz mi?
+
+999
+01:12:56,000 --> 01:12:58,700
+Fahişe neden beş parasız...
+
+1000
+01:12:58,700 --> 01:13:02,200
+...bir sitarcıyı, ömür boyu
+güvence sunan...
+
+1001
+01:13:02,200 --> 01:13:07,500
+...mihraceye tercih etsin?
+Asıl gerçek aşk bu.
+
+1002
+01:13:07,500 --> 01:13:11,200
+Sitarcı bir kere şehvetini
+tatmin etti mi, onu...
+
+1003
+01:13:11,200 --> 01:13:13,700
+...beş parasız ortada bırakır.
+
+1004
+01:13:13,700 --> 01:13:17,800
+Finalde fahişenin mihraceyi
+seçmesini öneriyorum.
+
+1005
+01:13:17,800 --> 01:13:20,000
+Ama, ama, affedersiniz.
+
+1006
+01:13:21,000 --> 01:13:24,900
+Bu final bohem ideallerini
+onaylamıyor. Gerçek...
+
+1007
+01:13:24,900 --> 01:13:26,900
+...güzellik, özgürlük...
+
+1008
+01:13:26,900 --> 01:13:29,600
+O saçma dogmanız umurumda değil!
+
+1009
+01:13:30,100 --> 01:13:33,000
+Fahişe neden mihraceyi seçmesin?
+
+1010
+01:13:33,000 --> 01:13:35,100
+Çünkü seni sevmiyor!
+
+1011
+01:13:41,200 --> 01:13:42,200
+Onu.
+
+1012
+01:13:44,600 --> 01:13:46,800
+Onu. Çünkü onu...
+
+1013
+01:13:47,200 --> 01:13:48,800
+...onu sevmiyor.
+
+1014
+01:13:54,100 --> 01:13:55,700
+Şimdi anlıyorum.
+
+1015
+01:14:04,500 --> 01:14:05,600
+Mösyö Zidler.
+
+1016
+01:14:06,000 --> 01:14:08,900
+Bu final yeniden yazılacak...
+
+1017
+01:14:09,400 --> 01:14:13,000
+...ve fahişe mihraceyi seçecek...
+
+1018
+01:14:13,900 --> 01:14:17,900
+...aşıkların gizli
+şarkısı da olmayacak.
+
+1019
+01:14:19,800 --> 01:14:24,600
+Sabah prova edilip, yarın akşam
+açılışa hazır hale gelecek.
+
+1020
+01:14:24,600 --> 01:14:28,200
+Sevgili dük, bu son derece imkansız.
+
+1021
+01:14:28,200 --> 01:14:29,500
+Harold.
+
+1022
+01:14:31,400 --> 01:14:35,500
+Zavallı düke çok kötü davranılıyor.
+
+1023
+01:14:36,800 --> 01:14:41,100
+Bu aptal yazarlar hayal
+güçlerinin esiri oluyorlar.
+
+1024
+01:14:46,600 --> 01:14:48,600
+Neden siz ve ben...
+
+1025
+01:14:49,800 --> 01:14:51,900
+...yemeğe çıkmıyoruz?
+
+1026
+01:14:54,100 --> 01:14:56,200
+Sonra da...
+
+1027
+01:14:57,400 --> 01:15:02,400
+...Mösyö Zidler'a öykünün finalini
+nasıl istediğimizi söyleriz.
+
+1028
+01:15:10,900 --> 01:15:12,700
+Sağol Elizabeth.
+
+1029
+01:15:14,600 --> 01:15:17,100
+Onunla yatmanı istemiyorum.
+
+1030
+01:15:19,300 --> 01:15:21,700
+Her şeyi mahvedebilir.
+
+1031
+01:15:27,100 --> 01:15:29,400
+Bu bizim için.
+
+1032
+01:15:30,600 --> 01:15:32,300
+Söz verdin.
+
+1033
+01:15:35,000 --> 01:15:39,400
+Kıskanmayacağına söz verdin.
+
+1034
+01:15:44,700 --> 01:15:46,600
+Her şey düzelecek.
+
+1035
+01:15:47,000 --> 01:15:48,800
+Evet.
+
+1036
+01:15:50,800 --> 01:15:52,400
+Beni bekliyor.
+
+1037
+01:16:07,300 --> 01:16:08,600
+<i>Ne...</i>
+
+1038
+01:16:10,000 --> 01:16:13,400
+<i>... olursa olsun</i>
+
+1039
+01:16:28,700 --> 01:16:30,300
+Ne olursa olsun.
+
+1040
+01:16:41,700 --> 01:16:44,800
+<i>Hepimizi kurtarmak için
+kuleye gitmişti.</i>
+
+1041
+01:16:46,200 --> 01:16:47,900
+<i>Bizimse...</i>
+
+1042
+01:16:48,600 --> 01:16:52,100
+<i>... beklemekten başka bir şey
+gelmiyordu elimizden.</i>
+
+1043
+01:16:56,500 --> 01:17:00,800
+Sevgili düküm.
+Umarım sizi bekletmedim.
+
+1044
+01:17:22,200 --> 01:17:25,600
+Merak etme Shakespeare.
+Öykü seninki gibi bitecek.
+
+1045
+01:17:25,600 --> 01:17:27,600
+Dükünki içeri...
+
+1046
+01:17:27,900 --> 01:17:30,100
+...girdiği zaman.
+
+1047
+01:17:31,200 --> 01:17:32,400
+Nini. Hayır, hayır.
+
+1048
+01:17:33,600 --> 01:17:35,500
+Çek ellerini!
+
+1049
+01:17:42,200 --> 01:17:46,300
+Kendini satan bir kadına
+asla aşık olma.
+
+1050
+01:17:46,300 --> 01:17:48,400
+Sonu hep kötü biter!
+
+1051
+01:17:56,200 --> 01:17:59,400
+Delikanlının bana karşı
+saçma bir saplantısı var.
+
+1052
+01:18:00,000 --> 01:18:04,300
+Bu hayaline karşılık veriyorum,
+çünkü yetenekli biri.
+
+1053
+01:18:04,300 --> 01:18:09,000
+Ona ihtiyacımız var.
+Ama yarın geceye kadar.
+
+1054
+01:18:10,000 --> 01:18:12,100
+Bir dansımız var...
+
+1055
+01:18:18,800 --> 01:18:21,800
+...Buenos Aires'in genelevlerinde.
+
+1056
+01:18:37,800 --> 01:18:39,200
+Öyküsünü anlatır...
+
+1057
+01:18:44,700 --> 01:18:46,300
+...bir fahişenin...
+
+1058
+01:19:03,400 --> 01:19:05,400
+...ve ona...
+
+1059
+01:19:07,600 --> 01:19:10,200
+...aşık olan...
+
+1060
+01:19:12,200 --> 01:19:13,800
+...bir adamın.
+
+1061
+01:19:30,000 --> 01:19:31,300
+Önce...
+
+1062
+01:19:31,500 --> 01:19:33,300
+...arzu vardır!
+
+1063
+01:19:39,900 --> 01:19:41,700
+Sonra tutku!
+
+1064
+01:19:49,200 --> 01:19:51,300
+Sonra şüphe!
+
+1065
+01:19:56,300 --> 01:19:59,600
+Kıskançlık! Öfke! İhanet!
+
+1066
+01:20:00,100 --> 01:20:03,400
+Aşk en çok parayı verene
+gidince, güven kalmaz.
+
+1067
+01:20:03,500 --> 01:20:05,900
+Güven olmadan da aşk olmaz!
+
+1068
+01:20:07,300 --> 01:20:08,500
+Kıskançlık...
+
+1069
+01:20:09,300 --> 01:20:11,400
+...evet, kıskançlık...
+
+1070
+01:20:12,200 --> 01:20:15,400
+...seni çılgına çevirecek!
+
+1071
+01:20:18,800 --> 01:20:20,700
+<i>Roxanne!</i>
+
+1072
+01:20:22,300 --> 01:20:26,600
+<i>Kırmızı ışığı yakmak zorunda değilsin</i>
+
+1073
+01:20:28,400 --> 01:20:31,400
+<i>Ya da para için sokakta yürümek</i>
+
+1074
+01:20:31,400 --> 01:20:35,800
+<i>Yanlış mı, doğru mu, umurunda değil</i>
+
+1075
+01:20:36,200 --> 01:20:38,300
+<i>Roxanne</i>
+
+1076
+01:20:39,800 --> 01:20:44,300
+<i>Bu gece o elbiseyi giymek
+zorunda değilsin</i>
+
+1077
+01:20:44,600 --> 01:20:46,900
+<i>Roxanne</i>
+
+1078
+01:20:48,800 --> 01:20:53,800
+<i>Bedenini geceye satmak
+zorunda değilsin</i>
+
+1079
+01:20:54,800 --> 01:20:58,600
+<i>Gözleri senin yüzünde</i>
+
+1080
+01:20:59,200 --> 01:21:03,000
+<i>Eli senin elinde</i>
+
+1081
+01:21:03,600 --> 01:21:06,800
+<i>Dudakları tenini öpüyor</i>
+
+1082
+01:21:08,000 --> 01:21:13,700
+<i>Bu dayanabileceğimden fazla</i>
+
+1083
+01:21:15,500 --> 01:21:17,600
+<i>Roxanne</i>
+
+1084
+01:21:18,000 --> 01:21:23,300
+<i>Kalbim neden ağlıyor</i>
+
+1085
+01:21:24,000 --> 01:21:26,000
+<i>Roxanne</i>
+
+1086
+01:21:26,700 --> 01:21:28,600
+<i>Duygularımla...</i>
+
+1087
+01:21:29,000 --> 01:21:32,400
+<i>... savaşamıyorum</i>
+
+1088
+01:21:33,100 --> 01:21:37,000
+<i>Beni terk etmekte özgürsün</i>
+
+1089
+01:21:37,000 --> 01:21:41,100
+<i>Ama ne olur beni aldatma</i>
+
+1090
+01:21:41,200 --> 01:21:45,000
+<i>Ve lütfen inan bana</i>
+
+1091
+01:21:45,100 --> 01:21:46,700
+<i>Seni seviyorum</i>
+
+1092
+01:21:47,100 --> 01:21:49,500
+<i>Dediğimde</i>
+
+1093
+01:21:50,900 --> 01:21:53,700
+Bu yapım başarılı olduğunda...
+
+1094
+01:21:54,300 --> 01:21:57,300
+...artık bir kankan dansçısı değil...
+
+1095
+01:21:58,000 --> 01:21:59,500
+...bir aktrist olacaksın.
+
+1096
+01:22:01,000 --> 01:22:02,500
+Seni bir...
+
+1097
+01:22:04,400 --> 01:22:05,700
+...yıldız yapacağım.
+
+1098
+01:22:14,800 --> 01:22:16,400
+Bunu...
+
+1099
+01:22:16,900 --> 01:22:21,200
+...bu mihraceden fahişesine
+bir hediye olarak kabul et.
+
+1100
+01:22:24,500 --> 01:22:25,700
+<i>Peki...</i>
+
+1101
+01:22:27,800 --> 01:22:29,500
+Peki ya final?
+
+1102
+01:22:32,900 --> 01:22:37,200
+Bırak Zidler masalsı finalini koysun.
+
+1103
+01:22:37,200 --> 01:22:39,000
+<i>Roxanne</i>
+
+1104
+01:22:39,200 --> 01:22:41,900
+<i>Kalbim neden...</i>
+
+1105
+01:22:42,500 --> 01:22:45,200
+<i>... ağlıyor?</i>
+
+1106
+01:22:46,500 --> 01:22:48,300
+<i>Duygularımla...</i>
+
+1107
+01:22:49,900 --> 01:22:53,500
+<i>... savaşamıyorum</i>
+
+1108
+01:22:54,600 --> 01:22:58,100
+<i>Beni terk etmekte özgürsün</i>
+
+1109
+01:22:58,100 --> 01:23:02,100
+<i>Ama ne olur beni aldatma</i>
+
+1110
+01:23:02,100 --> 01:23:05,900
+<i>Ve lütfen inan bana</i>
+
+1111
+01:23:06,000 --> 01:23:08,300
+<i>Söylediğimde</i>
+
+1112
+01:23:09,000 --> 01:23:11,200
+<i>Seni sevdiğimi</i>
+
+1113
+01:23:16,600 --> 01:23:19,100
+<i>Ne olursa...</i>
+
+1114
+01:23:19,900 --> 01:23:22,200
+<i>... olsun</i>
+
+1115
+01:23:24,300 --> 01:23:26,600
+<i>Seni seveceğim</i>
+
+1116
+01:23:30,000 --> 01:23:32,800
+<i>Öldüğüm güne...</i>
+
+1117
+01:23:37,500 --> 01:23:39,300
+<i>... kadar</i>
+
+1118
+01:23:40,100 --> 01:23:41,000
+Hayır.
+
+1119
+01:23:43,100 --> 01:23:44,600
+Hayır mı?
+
+1120
+01:23:46,400 --> 01:23:47,400
+Anlaşıldı.
+
+1121
+01:23:49,300 --> 01:23:52,800
+Şu bizim beş parasız sitarcı.
+
+1122
+01:23:56,100 --> 01:23:58,900
+- Sevgili dük...
+- Sus!
+
+1123
+01:24:02,300 --> 01:24:04,400
+Beni sevdiğine...
+
+1124
+01:24:04,700 --> 01:24:06,800
+...inandırdın beni!
+
+1125
+01:24:21,300 --> 01:24:24,800
+<i>Kalbim neden...</i>
+
+1126
+01:24:25,200 --> 01:24:27,800
+<i>... ağlıyor?</i>
+
+1127
+01:24:29,000 --> 01:24:31,400
+<i>Duygularımla...</i>
+
+1128
+01:24:32,400 --> 01:24:35,900
+<i>... savaşamıyorum</i>
+
+1129
+01:25:52,600 --> 01:25:56,400
+Yapamadım. Onunla yatamadım.
+
+1130
+01:25:56,400 --> 01:26:01,700
+Seni gördüm ve farklı hissettim.
+Rol yapamadım.
+
+1131
+01:26:02,200 --> 01:26:04,400
+Ve dük gördü!
+
+1132
+01:26:04,900 --> 01:26:06,700
+Gördü ve...
+
+1133
+01:26:10,100 --> 01:26:12,400
+Christian, seni seviyorum.
+
+1134
+01:26:12,500 --> 01:26:14,400
+Geçti.
+
+1135
+01:26:14,700 --> 01:26:18,300
+Yapamadım. Daha fazla
+rol yapmak istemedim.
+
+1136
+01:26:18,300 --> 01:26:21,100
+Yalan söylemek istemiyorum.
+
+1137
+01:26:21,500 --> 01:26:24,400
+Dük biliyor. Biliyor ve o...
+
+1138
+01:26:24,500 --> 01:26:27,600
+Artık rol yapmak zorunda
+değilsin. Gideceğiz.
+
+1139
+01:26:27,900 --> 01:26:29,600
+Bu gece gideceğiz.
+
+1140
+01:26:30,000 --> 01:26:31,400
+Gitmek mi?
+
+1141
+01:26:33,500 --> 01:26:34,900
+Ama şov...
+
+1142
+01:26:35,700 --> 01:26:37,300
+Umurumda değil.
+
+1143
+01:26:37,500 --> 01:26:39,600
+Şov umurumda değil.
+
+1144
+01:26:41,700 --> 01:26:45,800
+Birbirimize sahibiz.
+Önemli olan sadece bu.
+
+1145
+01:26:47,000 --> 01:26:48,500
+Evet.
+
+1146
+01:26:48,900 --> 01:26:51,500
+Birbirimize sahip oldukça.
+
+1147
+01:26:54,900 --> 01:26:56,500
+Birbirimize sahibiz.
+
+1148
+01:26:56,700 --> 01:26:59,900
+Chocolat, Satine'i odasına
+çıkar, hazırlansın.
+
+1149
+01:26:59,900 --> 01:27:03,100
+- Kimse sizi görmesin.
+- Anlıyorum.
+
+1150
+01:27:03,200 --> 01:27:06,600
+Sevgilim, git hazırlan. Bekliyorum.
+
+1151
+01:27:10,800 --> 01:27:11,800
+O oğlan.
+
+1152
+01:27:12,100 --> 01:27:16,100
+Onu sözleriyle büyülemiş.
+
+1153
+01:27:16,100 --> 01:27:19,800
+Onu geri istiyorum Zidler. Bul onu.
+
+1154
+01:27:21,700 --> 01:27:22,700
+Söyle ona...
+
+1155
+01:27:24,200 --> 01:27:28,000
+...şov benim finalimle bitecek...
+
+1156
+01:27:28,100 --> 01:27:32,200
+...ve perde kapanınca
+o bana gelecek...
+
+1157
+01:27:34,400 --> 01:27:37,000
+...yoksa oğlanı öldürtürüm.
+
+1158
+01:27:37,500 --> 01:27:38,700
+Öldürtmek mi?
+
+1159
+01:27:44,900 --> 01:27:46,200
+Öldürtmek.
+
+1160
+01:27:57,400 --> 01:27:59,900
+Ani ziyaretimi bağışla meleğim.
+
+1161
+01:28:00,500 --> 01:28:02,100
+Vaktini boşa harcıyorsun.
+
+1162
+01:28:02,100 --> 01:28:03,600
+Anlamıyorsun.
+
+1163
+01:28:04,200 --> 01:28:07,200
+Dük, Christian'ı öldürtecek.
+
+1164
+01:28:09,500 --> 01:28:11,900
+Kıskançlıktan çıldırmış.
+
+1165
+01:28:11,900 --> 01:28:15,300
+Onun finalini oyna ve
+yarın gece yatağına gir...
+
+1166
+01:28:15,300 --> 01:28:18,800
+...yoksa dük, Christian'ı öldürtecek.
+
+1167
+01:28:31,900 --> 01:28:33,000
+Bizi korkutamaz.
+
+1168
+01:28:33,500 --> 01:28:37,000
+Güclü biri.
+Yapabilir, biliyorsun.
+
+1169
+01:28:42,100 --> 01:28:45,400
+- Ne yapıyorsun?
+- Artık sana ihtiyacım yok!
+
+1170
+01:28:45,400 --> 01:28:50,300
+Değerimin birilerinin bana biçtiği
+fiyat olduğuna inandırdın beni hep!
+
+1171
+01:28:50,300 --> 01:28:53,000
+Ama Christian beni seviyor.
+
+1172
+01:28:53,800 --> 01:28:54,900
+Beni seviyor.
+
+1173
+01:28:55,800 --> 01:28:57,700
+Beni seviyor.
+
+1174
+01:28:58,100 --> 01:29:00,000
+Ve bu her şeye değer.
+
+1175
+01:29:00,800 --> 01:29:06,500
+Senden, dükten ve Moulin Rouge'dan
+uzağa gidiyoruz!
+
+1176
+01:29:07,000 --> 01:29:08,600
+Elveda Harold.
+
+1177
+01:29:09,100 --> 01:29:10,800
+Ölüyorsun Satine.
+
+1178
+01:29:16,300 --> 01:29:17,900
+Ölüyorsun.
+
+1179
+01:29:28,300 --> 01:29:29,400
+Başka bir numara mı?
+
+1180
+01:29:29,700 --> 01:29:33,400
+Hayır aşkım. Doktor söyledi.
+
+1181
+01:29:35,400 --> 01:29:36,400
+Marie?
+
+1182
+01:29:53,300 --> 01:29:54,900
+Ölüyorum.
+
+1183
+01:30:01,900 --> 01:30:04,100
+<i>Ne aptalmışım...</i>
+
+1184
+01:30:04,900 --> 01:30:06,200
+<i>... ben...</i>
+
+1185
+01:30:07,600 --> 01:30:09,300
+<i>... inanmakla</i>
+
+1186
+01:30:11,900 --> 01:30:13,900
+<i>Ne aptalmışım...</i>
+
+1187
+01:30:15,500 --> 01:30:19,400
+<i>... inanmakla</i>
+
+1188
+01:30:21,800 --> 01:30:23,500
+<i>Her şey...</i>
+
+1189
+01:30:23,800 --> 01:30:28,300
+<i>... bugün bitiyor</i>
+
+1190
+01:30:29,300 --> 01:30:31,800
+<i>Evet, her şey...</i>
+
+1191
+01:30:32,200 --> 01:30:34,300
+<i>... bugün...</i>
+
+1192
+01:30:36,800 --> 01:30:39,900
+<i>... bitiyor</i>
+
+1193
+01:30:43,300 --> 01:30:45,800
+Christian'ı buradan gönder.
+
+1194
+01:30:46,600 --> 01:30:48,800
+Onu yalnız sen kurtarabilirsin.
+
+1195
+01:30:55,400 --> 01:30:57,200
+Benim için savaşır.
+
+1196
+01:30:58,200 --> 01:31:01,400
+Onu sevmediğine inanmazsa.
+
+1197
+01:31:03,900 --> 01:31:09,500
+Büyük bir oyuncusun Satine.
+Onu sevmediğine inandır onu.
+
+1198
+01:31:12,500 --> 01:31:15,800
+Onu kurtarmak için yeteneğini kullan.
+
+1199
+01:31:15,800 --> 01:31:17,300
+Acı ver ona.
+
+1200
+01:31:18,700 --> 01:31:20,600
+Onu kurtarmak için.
+
+1201
+01:31:22,300 --> 01:31:24,300
+Başka yolu yok.
+
+1202
+01:31:25,600 --> 01:31:29,300
+Şov devam etmeli Satine.
+
+1203
+01:31:30,100 --> 01:31:33,100
+Bizler yeraltı dünyasının
+yaratıklarıyız.
+
+1204
+01:31:33,500 --> 01:31:35,900
+Biz aşık olamayız.
+
+1205
+01:31:38,700 --> 01:31:42,500
+<i>Bugün...</i>
+
+1206
+01:31:42,900 --> 01:31:45,700
+<i>... düşlerimin...</i>
+
+1207
+01:31:46,700 --> 01:31:51,400
+<i>... bittiği...</i>
+
+1208
+01:31:53,400 --> 01:31:58,200
+<i>... gün</i>
+
+1209
+01:32:05,700 --> 01:32:08,100
+<i>Bir kahraman...</i>
+
+1210
+01:32:09,300 --> 01:32:12,400
+<i>... bir akılsızca suç daha.</i>
+
+1211
+01:32:12,900 --> 01:32:15,400
+<i>Perdenin arkasında...</i>
+
+1212
+01:32:16,100 --> 01:32:18,600
+<i>... pantomimde.</i>
+
+1213
+01:32:20,400 --> 01:32:22,900
+<i>Hep aynı</i>
+
+1214
+01:32:23,800 --> 01:32:29,200
+<i>Bilen var mı
+Ne için yaşadığımızı?</i>
+
+1215
+01:32:29,200 --> 01:32:32,100
+<i>Ne olursa olsun</i>
+
+1216
+01:32:32,800 --> 01:32:36,100
+<i>Her şeyi şansa bırakıyoruz</i>
+
+1217
+01:32:36,100 --> 01:32:38,400
+<i>Bir kalp ağrısı...</i>
+
+1218
+01:32:39,300 --> 01:32:42,900
+<i>... bir biten aşk daha</i>
+
+1219
+01:32:43,800 --> 01:32:46,400
+<i>Hep aynı</i>
+
+1220
+01:32:46,800 --> 01:32:49,100
+<i>Bilen var mı...</i>
+
+1221
+01:32:49,400 --> 01:32:52,700
+<i>... ne için yaşadığımızı?</i>
+
+1222
+01:32:54,900 --> 01:32:57,800
+<i>Şov devam etmeli</i>
+
+1223
+01:33:00,400 --> 01:33:02,900
+<i>Şov devam etmeli</i>
+
+1224
+01:33:07,700 --> 01:33:12,000
+<i>Dışarıda tan ağarıyor sahnede</i>
+
+1225
+01:33:12,000 --> 01:33:16,100
+<i>Kaderimiz o sahnenin elinde</i>
+
+1226
+01:33:17,500 --> 01:33:21,100
+<i>Şov devam etmeli</i>
+
+1227
+01:33:23,300 --> 01:33:26,400
+<i>Şov devam etmeli</i>
+
+1228
+01:33:30,400 --> 01:33:33,400
+<i>İçeride kalbim kırılıyor</i>
+
+1229
+01:33:34,700 --> 01:33:38,600
+<i>Belki makyajım akıyor</i>
+
+1230
+01:33:40,000 --> 01:33:42,200
+<i>Ama tebessümüm...</i>
+
+1231
+01:33:42,700 --> 01:33:46,400
+<i>... hala yüzümde</i>
+
+1232
+01:33:46,600 --> 01:33:51,200
+<i>Şov devam etmeli</i>
+
+1233
+01:33:52,600 --> 01:33:55,800
+<i>Şov devam etmeli</i>
+
+1234
+01:33:59,600 --> 01:34:02,700
+<i>Sahneye çıkacağım
+Başarımı kazanacağım</i>
+
+1235
+01:34:02,800 --> 01:34:07,100
+<i>Gerekli isteği bulmalıyım</i>
+
+1236
+01:34:07,100 --> 01:34:10,900
+<i>Devam etmek için
+Devam etmek için</i>
+
+1237
+01:34:11,400 --> 01:34:16,400
+<i>Devam etmek için şova</i>
+
+1238
+01:34:22,700 --> 01:34:26,200
+<i>Devam etmek için şova!</i>
+
+1239
+01:34:31,300 --> 01:34:33,400
+<i>Şov...</i>
+
+1240
+01:34:34,500 --> 01:34:37,200
+<i>... devam...</i>
+
+1241
+01:34:37,700 --> 01:34:40,500
+<i>... etmeli</i>
+
+1242
+01:35:02,000 --> 01:35:03,300
+Ne oldu?
+
+1243
+01:35:04,100 --> 01:35:06,100
+Dükle kalıyorum.
+
+1244
+01:35:07,600 --> 01:35:12,000
+Ben gittikten sonra, dük geldi
+ve her şeyi sundu önüme.
+
+1245
+01:35:12,000 --> 01:35:14,400
+Hayalini kurduğum her şeyi.
+
+1246
+01:35:15,000 --> 01:35:16,600
+Ama bir şartı var.
+
+1247
+01:35:18,500 --> 01:35:21,100
+Seni bir daha asla görmemeliyim.
+
+1248
+01:35:22,800 --> 01:35:23,800
+Üzgünüm.
+
+1249
+01:35:24,100 --> 01:35:25,800
+Ne diyorsun sen?
+
+1250
+01:35:26,000 --> 01:35:29,000
+- Kim olduğumu biliyordun.
+- Peki ya dün gece?
+
+1251
+01:35:29,000 --> 01:35:34,200
+Seninle aramızdaki fark;
+sen istediğin zaman gidebilirsin.
+
+1252
+01:35:35,100 --> 01:35:37,300
+Ama burası benim evim.
+
+1253
+01:35:40,500 --> 01:35:43,400
+Moulin Rouge benim evim.
+
+1254
+01:35:44,700 --> 01:35:48,200
+Başka bir nedeni olmalı.
+Bu gerçek olamaz.
+
+1255
+01:35:49,500 --> 01:35:53,600
+Bir şey oldu. Ne olduğunu söyle.
+Bana gerçeği söyle.
+
+1256
+01:35:53,600 --> 01:35:55,400
+Gerçeği söyle bana!
+
+1257
+01:35:56,900 --> 01:35:58,300
+Gerçeği mi?
+
+1258
+01:36:02,000 --> 01:36:03,800
+Gerçek şu ki...
+
+1259
+01:36:04,500 --> 01:36:07,400
+...ben Hintli fahişeyim.
+
+1260
+01:36:08,700 --> 01:36:12,200
+Ve mihraceyi seçiyorum.
+
+1261
+01:36:14,300 --> 01:36:17,300
+Hikaye gerçekte böyle bitiyor.
+
+1262
+01:36:27,200 --> 01:36:30,500
+Kıskançlık onu çıldırttı!
+
+1263
+01:36:47,800 --> 01:36:49,800
+Satine!
+
+1264
+01:36:52,800 --> 01:36:54,900
+Satine!
+
+1265
+01:36:59,100 --> 01:37:00,400
+Satine!
+
+1266
+01:37:35,100 --> 01:37:37,900
+Her şey her zaman göründüğü gibi değil.
+
+1267
+01:37:37,900 --> 01:37:40,400
+Her şey aynen göründüğü gibi.
+
+1268
+01:37:41,300 --> 01:37:46,400
+Christian, sen beni pezevenk ve
+fahişelerden başka dostu olmayan...
+
+1269
+01:37:46,500 --> 01:37:49,900
+...ayyaş, ahlaksız bir cüce
+olarak görebilirsin.
+
+1270
+01:37:50,500 --> 01:37:53,500
+Ama sanattan ve aşktan anlarım.
+
+1271
+01:37:54,100 --> 01:37:59,100
+Sebebi, aşkı varlığımın her
+zerresiyle dilemem olsa da.
+
+1272
+01:37:59,500 --> 01:38:03,500
+O seni seviyor. Biliyorum.
+Seni sevdiğini biliyorum.
+
+1273
+01:38:03,500 --> 01:38:06,300
+Git buradan Toulouse.
+Beni yalnız bırak.
+
+1274
+01:38:09,900 --> 01:38:11,800
+Git buradan.
+
+1275
+01:38:15,000 --> 01:38:16,600
+Git!
+
+1276
+01:38:27,300 --> 01:38:31,300
+<i>Toulouse'un sözlerini
+susturmak istedim...</i>
+
+1277
+01:38:31,400 --> 01:38:34,400
+<i>... ama beni kuşku ile doldurmuştu.</i>
+
+1278
+01:38:34,400 --> 01:38:37,500
+<i>Emin olmanın tek yolu vardı.</i>
+
+1279
+01:38:39,700 --> 01:38:42,200
+<i>Bilmek zorundaydım.</i>
+
+1280
+01:38:42,700 --> 01:38:46,300
+<i>Bu yüzden Moulin Rouge'a geri döndüm.</i>
+
+1281
+01:38:47,000 --> 01:38:50,500
+<i>Son bir kez.</i>
+
+1282
+01:39:06,800 --> 01:39:09,700
+O benim!
+
+1283
+01:39:17,000 --> 01:39:19,100
+<i>Yalnızca gerçeği söyleyeceğim</i>
+
+1284
+01:39:19,100 --> 01:39:21,200
+<i>Yalnızca gerçeği söyleyeceğim</i>
+
+1285
+01:40:43,700 --> 01:40:45,400
+<i>Öpücük</i>
+
+1286
+01:40:45,700 --> 01:40:47,500
+<i>El</i>
+
+1287
+01:40:47,800 --> 01:40:49,100
+<i>Elmaslar</i>
+
+1288
+01:40:49,500 --> 01:40:51,700
+<i>En iyi dost</i>
+
+1289
+01:40:52,300 --> 01:40:54,100
+<i>Öpücük</i>
+
+1290
+01:40:54,500 --> 01:40:56,300
+<i>Çok hoş</i>
+
+1291
+01:40:56,700 --> 01:40:58,000
+<i>Elmaslar</i>
+
+1292
+01:40:58,300 --> 01:41:00,300
+<i>En iyi dost</i>
+
+1293
+01:41:01,000 --> 01:41:02,300
+<i>Erkekler</i>
+
+1294
+01:41:03,000 --> 01:41:05,000
+<i>Soğuk</i>
+
+1295
+01:41:05,600 --> 01:41:07,200
+<i>Kadınlar</i>
+
+1296
+01:41:07,600 --> 01:41:09,000
+<i>Yaşlı</i>
+
+1297
+01:41:09,400 --> 01:41:13,500
+<i>Cazibemizi yitiririz hepimiz</i>
+
+1298
+01:41:13,700 --> 01:41:15,700
+<i>Sonunda</i>
+
+1299
+01:41:27,200 --> 01:41:28,800
+<i>Elmaslar bir</i>
+
+1300
+01:41:29,400 --> 01:41:31,300
+<i>Elmaslar bir</i>
+
+1301
+01:41:31,600 --> 01:41:33,800
+<i>Elmaslar bir</i>
+
+1302
+01:41:40,600 --> 01:41:43,200
+<i>Elmaslar bir...</i>
+
+1303
+01:41:51,100 --> 01:41:52,900
+<i>... kızın...</i>
+
+1304
+01:41:54,300 --> 01:41:57,400
+<i>... en iyi...</i>
+
+1305
+01:41:58,400 --> 01:42:01,100
+<i>... dostudur</i>
+
+1306
+01:42:03,300 --> 01:42:05,000
+O benim.
+
+1307
+01:42:05,400 --> 01:42:07,400
+O benim.
+
+1308
+01:42:24,900 --> 01:42:27,900
+Onu hala sevdiğini biliyorum.
+Bir nedeni olmalı.
+
+1309
+01:42:27,900 --> 01:42:30,600
+Sebeplerden biri dük desek.
+
+1310
+01:42:30,600 --> 01:42:35,300
+Öyleyse bir terslik olduğunu
+kabul ediyorsun. Ama ne? Ne?
+
+1311
+01:42:38,600 --> 01:42:42,600
+Düğün merasimi kılıcımı
+kaldırıyorum...
+
+1312
+01:42:42,600 --> 01:42:46,600
+...ve törende bize katılan
+sadık tebaamı...
+
+1313
+01:42:46,600 --> 01:42:48,400
+...selamlıyorum.
+
+1314
+01:42:52,200 --> 01:42:55,000
+Ne muhteşem bir oyunculuk.
+
+1315
+01:42:55,000 --> 01:42:58,400
+Biraz da benim için. Aferin.
+
+1316
+01:43:02,000 --> 01:43:03,300
+Oğlan burada.
+
+1317
+01:43:03,600 --> 01:43:06,600
+Ona yaklaşırsa öleceğini
+Satine'e söyledim!
+
+1318
+01:43:06,600 --> 01:43:08,700
+Çok yakında ölecek zaten.
+
+1319
+01:43:19,000 --> 01:43:20,700
+Öldürülecek.
+
+1320
+01:43:21,000 --> 01:43:24,800
+Onu bu yüzden reddediyor.
+Kurtarmak için.
+
+1321
+01:43:24,900 --> 01:43:26,200
+Sebep bu işte.
+
+1322
+01:43:26,500 --> 01:43:27,600
+Christian!
+
+1323
+01:43:31,100 --> 01:43:32,900
+Bu çok yüksek!
+
+1324
+01:43:33,500 --> 01:43:36,100
+Ücretini ödemeye geldim.
+
+1325
+01:43:37,900 --> 01:43:40,300
+Burada olmamalısın Christian.
+
+1326
+01:43:41,800 --> 01:43:43,100
+Git lütfen.
+
+1327
+01:43:46,900 --> 01:43:48,500
+Öldürülecek.
+
+1328
+01:43:50,100 --> 01:43:51,100
+Onu uyarmalıyım!
+
+1329
+01:43:55,600 --> 01:43:59,500
+Beni sevdiğine inandırdın beni.
+Paranı ödemeliyim.
+
+1330
+01:44:00,400 --> 01:44:01,600
+Sahne sırası geldi!
+
+1331
+01:44:01,900 --> 01:44:05,200
+Kıskançlık sitarcıyı
+saklanmaya zorladı.
+
+1332
+01:44:05,600 --> 01:44:07,500
+İşini çok iyi yaptın.
+
+1333
+01:44:07,500 --> 01:44:09,000
+Pers ordusu, ileri!
+
+1334
+01:44:09,500 --> 01:44:11,300
+Oğlan Satine'i götürdü.
+
+1335
+01:44:11,700 --> 01:44:14,500
+Herkes gibi paranı ödemeliyim!
+
+1336
+01:44:14,500 --> 01:44:16,800
+Yapma Christian. Bir yararı yok.
+
+1337
+01:44:16,900 --> 01:44:18,500
+Git artık.
+
+1338
+01:44:19,900 --> 01:44:22,900
+Zavallıyı öldürecekler!
+
+1339
+01:44:22,900 --> 01:44:25,100
+Onları buldum.
+
+1340
+01:44:25,400 --> 01:44:26,500
+Durdur onu.
+
+1341
+01:44:30,900 --> 01:44:35,100
+Beni sevdiğin gerçek değildiyse,
+neden paranı ödemeyeyim?
+
+1342
+01:44:35,100 --> 01:44:37,900
+Saray kapıları açılsın!
+
+1343
+01:44:37,900 --> 01:44:39,000
+Christian!
+
+1344
+01:44:39,200 --> 01:44:41,900
+Kapıları açın!
+
+1345
+01:44:43,800 --> 01:44:46,300
+İzin ver, paranı ödeyeyim!
+
+1346
+01:44:46,900 --> 01:44:48,000
+Kapıları açın.
+
+1347
+01:44:48,300 --> 01:44:50,900
+Beni sevmediğini söyle!
+
+1348
+01:44:50,900 --> 01:44:52,200
+Kapıları açın!
+
+1349
+01:44:53,100 --> 01:44:54,400
+Christian!
+
+1350
+01:44:54,700 --> 01:44:56,600
+Beni sevmediğini söyle!
+
+1351
+01:45:19,500 --> 01:45:21,700
+Beni kandıramazsın!
+
+1352
+01:45:22,000 --> 01:45:26,900
+Sakalını kesmiş ve kılık
+değiştirmiş olsa da...
+
+1353
+01:45:27,000 --> 01:45:29,700
+...gözlerim yalan söylemez!
+
+1354
+01:45:30,600 --> 01:45:32,100
+Çünkü bu o!
+
+1355
+01:45:32,300 --> 01:45:35,900
+Aynı beş parasız sitarcı!
+
+1356
+01:45:37,000 --> 01:45:39,600
+Kıskançlıktan çılgına dönmüş!
+
+1357
+01:45:43,700 --> 01:45:45,400
+Aman Tanrım. Hayır.
+
+1358
+01:46:03,300 --> 01:46:04,500
+O artık senin.
+
+1359
+01:46:09,000 --> 01:46:11,300
+Fahişemin parasını ödedim!
+
+1360
+01:46:14,900 --> 01:46:17,000
+Sana hiçbir borcum yok.
+
+1361
+01:46:19,700 --> 01:46:22,200
+Ve benim için bir hiçsin.
+
+1362
+01:46:26,400 --> 01:46:31,400
+Beni bu saçma aşk saplantımdan
+kurtardığın için sağol.
+
+1363
+01:46:43,300 --> 01:46:45,600
+Repliğimi hatırlamıyorum.
+
+1364
+01:46:53,500 --> 01:46:55,700
+Bu sitarcı...
+
+1365
+01:46:55,900 --> 01:46:57,600
+...seni sevmiyor.
+
+1366
+01:46:58,000 --> 01:47:00,700
+Bak. Krallıktan kaçıyor!
+
+1367
+01:47:01,600 --> 01:47:04,000
+Bu en iyisi, çiçeğim.
+
+1368
+01:47:04,500 --> 01:47:07,900
+Sen de biliyorsun.
+Şov devam etmeli.
+
+1369
+01:47:09,800 --> 01:47:11,800
+Ve şimdi gelinim...
+
+1370
+01:47:12,100 --> 01:47:16,600
+...sesini göklere çıkarmanın
+ve evlilik yemini...
+
+1371
+01:47:16,600 --> 01:47:19,800
+...etmenin zamanı.
+
+1372
+01:47:20,600 --> 01:47:21,800
+Hatırladım!
+
+1373
+01:47:22,100 --> 01:47:23,200
+Christian!
+
+1374
+01:47:26,700 --> 01:47:29,900
+Hayat boyu öğreneceğin en büyük şey...
+
+1375
+01:47:30,000 --> 01:47:31,400
+...sadece sevmek...
+
+1376
+01:47:32,200 --> 01:47:34,900
+...ve karşılığında...
+
+1377
+01:47:34,900 --> 01:47:38,300
+...sevilmektir!
+
+1378
+01:47:54,500 --> 01:47:56,500
+<i>Hiç...</i>
+
+1379
+01:47:58,800 --> 01:48:00,300
+<i>... bilmezdim...</i>
+
+1380
+01:48:02,500 --> 01:48:04,100
+<i>... böyle...</i>
+
+1381
+01:48:04,800 --> 01:48:07,300
+<i>... hissedebileceğimi</i>
+
+1382
+01:48:10,700 --> 01:48:14,000
+<i>Gökyüzünü hiç</i>
+
+1383
+01:48:15,900 --> 01:48:20,600
+<i>Görmemişim gibi</i>
+
+1384
+01:48:22,300 --> 01:48:24,800
+<i>Öpücüğünde...</i>
+
+1385
+01:48:25,400 --> 01:48:27,400
+<i>... kaybolmak...</i>
+
+1386
+01:48:27,600 --> 01:48:30,000
+<i>... istiyorum</i>
+
+1387
+01:48:31,800 --> 01:48:36,000
+<i>Her geçen gün seni</i>
+
+1388
+01:48:36,000 --> 01:48:39,500
+<i>Daha çok seviyorum</i>
+
+1389
+01:48:40,100 --> 01:48:42,300
+<i>Kalbimi dinle</i>
+
+1390
+01:48:43,900 --> 01:48:47,000
+<i>Duyuyor musun sesini?</i>
+
+1391
+01:48:48,900 --> 01:48:51,400
+<i>Geri dön bana</i>
+
+1392
+01:48:51,900 --> 01:48:54,900
+<i>Ve affet...</i>
+
+1393
+01:48:55,200 --> 01:48:58,400
+<i>... her şeyi</i>
+
+1394
+01:49:05,200 --> 01:49:08,500
+<i>Mevsimler değişebilir</i>
+
+1395
+01:49:10,100 --> 01:49:13,400
+<i>Kış bahara döner</i>
+
+1396
+01:49:21,600 --> 01:49:23,300
+Seni seviyorum.
+
+1397
+01:49:25,000 --> 01:49:26,900
+<i>Zaman...</i>
+
+1398
+01:49:27,800 --> 01:49:29,000
+<i>... duruncaya...</i>
+
+1399
+01:49:30,400 --> 01:49:32,100
+<i>... kadar</i>
+
+1400
+01:49:38,200 --> 01:49:43,500
+<i>Ne olursa olsun</i>
+
+1401
+01:49:50,300 --> 01:49:54,900
+<i>Ne olursa olsun</i>
+
+1402
+01:50:00,200 --> 01:50:04,100
+<i>Ne olursa olsun</i>
+
+1403
+01:50:07,900 --> 01:50:11,400
+<i>Ne olursa olsun</i>
+
+1404
+01:50:17,000 --> 01:50:18,900
+<i>Seni seveceğim</i>
+
+1405
+01:50:20,300 --> 01:50:23,000
+<i>Seni seveceğim</i>
+
+1406
+01:50:23,500 --> 01:50:26,500
+<i>Öldüğüm güne...</i>
+
+1407
+01:50:30,500 --> 01:50:32,000
+<i>... kadar</i>
+
+1408
+01:50:32,400 --> 01:50:37,000
+<i>Ne olursa olsun</i>
+
+1409
+01:50:38,800 --> 01:50:41,700
+<i>Ne olursa olsun</i>
+
+1410
+01:50:48,600 --> 01:50:52,300
+<i>Seni seveceğim</i>
+
+1411
+01:50:53,900 --> 01:50:55,800
+<i>Öldüğüm güne...</i>
+
+1412
+01:50:56,600 --> 01:50:58,900
+Christian, silahı var!
+
+1413
+01:51:08,000 --> 01:51:10,600
+Seni öldürmeye çalışıyorlar!
+
+1414
+01:51:12,200 --> 01:51:13,200
+Sus!
+
+1415
+01:51:13,500 --> 01:51:14,800
+Silahı var!
+
+1416
+01:51:15,100 --> 01:51:16,900
+Muhafızlar, yakalayın!
+
+1417
+01:51:16,900 --> 01:51:18,900
+<i>Yaşasın bohem hayat!</i>
+
+1418
+01:51:30,200 --> 01:51:32,400
+Sorun yok. İşinize dönün!
+
+1419
+01:51:33,200 --> 01:51:35,000
+<i>Ne söylersen söyle</i>
+
+1420
+01:51:36,100 --> 01:51:38,900
+<i>Bitiyor bizim finalle</i>
+
+1421
+01:51:40,200 --> 01:51:43,600
+<i>Yiğitçe savunun düşüncenizi</i>
+
+1422
+01:51:44,200 --> 01:51:47,900
+<i>Özgürlük</i>
+
+1423
+01:51:48,600 --> 01:51:50,200
+<i>Güzellik</i>
+
+1424
+01:51:50,500 --> 01:51:53,400
+<i>Gerçek ve aşk için</i>
+
+1425
+01:51:57,000 --> 01:52:01,300
+<i>Buradan kaçacağım</i>
+
+1426
+01:52:01,700 --> 01:52:05,800
+<i>Şarkımdır armağanım</i>
+
+1427
+01:52:30,600 --> 01:52:33,500
+<i>Seni seveceğim</i>
+
+1428
+01:52:37,900 --> 01:52:41,800
+<i>Evet, seni seveceğim</i>
+
+1429
+01:52:46,500 --> 01:52:49,100
+<i>Seni seveceğim</i>
+
+1430
+01:52:51,100 --> 01:52:52,400
+Benim finalim!
+
+1431
+01:52:53,000 --> 01:52:54,100
+Benim finalim!
+
+1432
+01:52:55,400 --> 01:52:57,800
+Benim finalim!
+Benim finalim!
+
+1433
+01:53:21,600 --> 01:53:24,300
+Selam için hazırlanın.
+
+1434
+01:53:25,200 --> 01:53:27,800
+Dansçılar yerlerine lütfen.
+
+1435
+01:54:01,800 --> 01:54:03,800
+Satine? Neyin var?
+
+1436
+01:54:05,900 --> 01:54:10,600
+Ne oldu?
+Söyle bana. Neyin var?
+
+1437
+01:54:10,600 --> 01:54:14,000
+Söyle. Satine. Ne oldu?
+
+1438
+01:54:17,900 --> 01:54:19,700
+Aman Tanrım.
+
+1439
+01:54:30,600 --> 01:54:32,900
+Biri yardım getirsin!
+
+1440
+01:54:33,200 --> 01:54:35,700
+Perdeyi açma. Doktoru getir.
+
+1441
+01:54:35,700 --> 01:54:38,200
+Özür dilerim Christian.
+
+1442
+01:54:45,000 --> 01:54:46,800
+Ben ölüyorum.
+
+1443
+01:54:51,300 --> 01:54:54,700
+- İyileşeceksin.
+- Çok özür dilerim.
+
+1444
+01:54:55,300 --> 01:54:59,400
+Hayır. İyileşeceksin.
+İyileşeceğini biliyorum.
+
+1445
+01:55:00,600 --> 01:55:03,200
+Üşüyorum. Üşüyorum.
+
+1446
+01:55:07,000 --> 01:55:08,600
+Sarıl bana.
+
+1447
+01:55:16,300 --> 01:55:17,700
+Seni seviyorum.
+
+1448
+01:55:22,000 --> 01:55:24,800
+Yaşamaya devam etmelisin Christian.
+
+1449
+01:55:24,800 --> 01:55:27,000
+Sensiz yaşayamam.
+
+1450
+01:55:28,000 --> 01:55:31,600
+Verecek öyle çok şeyin var ki.
+
+1451
+01:55:40,600 --> 01:55:43,400
+Bizim öykümüzü anlat Christian.
+
+1452
+01:55:50,200 --> 01:55:51,800
+Söz ver bana.
+
+1453
+01:55:55,200 --> 01:55:56,400
+Söz ver.
+
+1454
+01:56:02,200 --> 01:56:03,600
+Böylece...
+
+1455
+01:56:05,200 --> 01:56:08,500
+...ben daima seninle olacağım.
+
+1456
+01:58:12,600 --> 01:58:15,300
+<i>Bir genç...</i>
+
+1457
+01:58:16,100 --> 01:58:19,100
+<i>... vardı</i>
+
+1458
+01:58:21,000 --> 01:58:24,700
+<i>Çok farklı...</i>
+
+1459
+01:58:25,100 --> 01:58:28,000
+<i>... büyülü...</i>
+
+1460
+01:58:30,100 --> 01:58:31,500
+<i>... bir genç</i>
+
+1461
+01:58:42,900 --> 01:58:48,200
+<i>Günler haftalara döndü.
+Haftalarsa aylara.</i>
+
+1462
+01:58:48,200 --> 01:58:52,400
+<i>Sonra, pek de özel
+olmayan bir günde...</i>
+
+1463
+01:58:52,400 --> 01:58:56,600
+<i>... daktiloma gittim, oturdum...</i>
+
+1464
+01:58:57,300 --> 01:58:59,800
+<i>... ve öykümüzü yazdım.</i>
+
+1465
+01:59:01,400 --> 01:59:03,800
+<i>Bir dönemin...</i>
+
+1466
+01:59:04,300 --> 01:59:06,500
+<i>... bir yerin...</i>
+
+1467
+01:59:07,600 --> 01:59:10,000
+<i>... ve insanlarının öyküsü.</i>
+
+1468
+01:59:10,900 --> 01:59:13,800
+<i>Ama hepsinin ötesinde...</i>
+
+1469
+01:59:14,100 --> 01:59:17,800
+<i>... aşkı anlatan bir öykü.</i>
+
+1470
+01:59:19,000 --> 01:59:24,200
+<i>Sonsuza dek yaşayacak bir aşkı.</i>
+
+1471
+01:59:29,300 --> 01:59:30,700
+<i>Son.</i>
+
+1472
+01:59:35,200 --> 01:59:39,100
+<i>Hayat boyu öğreneceğin</i>
+
+1473
+01:59:40,200 --> 01:59:44,200
+<i>En büyük şey</i>
+
+1474
+01:59:46,300 --> 01:59:50,000
+<i>Sadece sevmek</i>
+
+1475
+01:59:52,100 --> 01:59:55,200
+<i>Ve karşılığında...</i>
+
+1476
+01:59:57,900 --> 02:00:02,000
+<i>... sevilmektir</i>
+
+1477
+02:00:08,200 --> 02:00:13,800
+LEONARD LUHRMAN
+ANISINA (1934-1999)
+
+1478
+02:07:28,800 --> 02:07:30,900
+<i>Bu öykü</i>
+
+1479
+02:07:31,100 --> 02:07:32,400
+GERÇEK
+
+1480
+02:07:32,600 --> 02:07:34,200
+GÜZELLİK
+
+1481
+02:07:34,500 --> 02:07:36,400
+ÖZGÜRLÜK
+
+1482
+02:07:36,600 --> 02:07:40,600
+<i>Ama hepsinden öte</i>
+
+1483
+02:07:41,600 --> 02:07:46,200
+AŞK HAKKINDADIR
