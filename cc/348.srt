@@ -1,0 +1,3477 @@
+2
+00:02:07,527 --> 00:02:09,737
+TİCARİ ÇEKİCİ
+'NOSTROMO'
+
+3
+00:02:09,862 --> 00:02:11,447
+MÜRETTEBAT: YEDİ
+
+4
+00:02:11,447 --> 00:02:15,285
+KARGO: RAFİNERİ ÜRÜNÜ
+20,000,000 TON MADEN CEVHERİ
+
+5
+00:02:15,285 --> 00:02:18,037
+ROTA: DÜNYAYA DÖNÜŞ
+
+6
+00:06:56,692 --> 00:06:59,528
+- Bisküvi kaldı mı?
+
+7
+00:06:59,611 --> 00:07:01,697
+- Biraz mısır ekmeği var.
+
+8
+00:07:04,575 --> 00:07:06,326
+Üşüyorum.
+
+9
+00:07:06,410 --> 00:07:09,288
+- Orda mısın, Brett?
+- Evet.
+
+10
+00:07:09,371 --> 00:07:14,501
+- Ölü gibiyim.
+- Ölü gibi göründüğünü söyleyen olmadı mı?
+
+11
+00:07:17,921 --> 00:07:21,508
+Evet, tabii. Bir şey unuttum.
+
+12
+00:07:21,592 --> 00:07:25,763
+Kenetlenmeden önce, ikramiye durumunu
+tartışmamız gerek.
+
+13
+00:07:25,846 --> 00:07:29,099
+Brett ve ben, eşit pay
+hak ettiğimizi düşünüyoruz.
+
+14
+00:07:29,183 --> 00:07:33,812
+Bay Parker ve ben, ikramiyenin
+hiç bir zaman adil olmadığı fikrindeyiz.
+
+15
+00:07:35,189 --> 00:07:37,107
+Sende herkes gibi
+anlaştığın kadarını alacaksın
+
+16
+00:07:37,524 --> 00:07:39,902
+Evet, ama herkes bizden daha çok alıyor.
+
+17
+00:07:40,903 --> 00:07:42,655
+Dallas, Anne seninle konuşmak istiyor.
+
+18
+00:07:42,738 --> 00:07:46,867
+Evet gördüm. Sarı ışık,
+sadece benim görmem için.
+
+19
+00:07:46,951 --> 00:07:49,662
+Giyinsen iyi olur? Parker?
+
+20
+00:07:49,745 --> 00:07:53,123
+Kahvemi bitirmedim.
+Gemideki tek iyi şey bu zaten.
+
+21
+00:08:42,548 --> 00:08:44,216
+Günaydın, Anne.
+
+22
+00:09:01,192 --> 00:09:02,610
+ARACI 2037 SORUŞTURMAYA HAZIR
+
+23
+00:09:07,073 --> 00:09:10,076
+NE OLUYOR ANNE?
+
+24
+00:09:14,997 --> 00:09:17,583
+- Hazır mısın?
+- Evet.
+
+25
+00:09:17,667 --> 00:09:19,919
+Bağlanalım.
+
+26
+00:09:21,003 --> 00:09:23,089
+Teşekkür ederim.
+
+27
+00:09:26,509 --> 00:09:29,887
+- Dünya nerede?
+- Senin bilmen gerek.
+
+28
+00:09:30,763 --> 00:09:33,099
+Bu bizim sistemimiz değil.
+
+29
+00:09:33,182 --> 00:09:34,976
+Tara.
+
+30
+00:09:38,187 --> 00:09:40,147
+İnanmıyorum.
+
+31
+00:09:40,231 --> 00:09:42,316
+Trafik kontrolü ara.
+
+32
+00:09:43,609 --> 00:09:46,821
+Burası ticari çekiş aracı Nostromo,
+
+33
+00:09:46,904 --> 00:09:52,118
+Solomons'dan,
+kayıt numarası 180924609,
+
+34
+00:09:52,201 --> 00:09:56,747
+Antarktika trafik kontrolü arıyor.
+Beni duyuyor musunuz?
+
+35
+00:09:56,831 --> 00:10:00,126
+Ticari çekiş aracı Nostromo, Solomons'dan
+
+36
+00:10:00,209 --> 00:10:04,380
+Kayıt numarası 180924609.
+
+37
+00:10:06,632 --> 00:10:08,259
+- Cevap yok.
+- Tekrar dene.
+
+38
+00:10:08,342 --> 00:10:13,473
+Antarktika trafik kontrol lütfen.
+Duyuyor musunuz, Antarktika?
+
+39
+00:10:13,556 --> 00:10:18,102
+Buldum. Zeta II Reticuli'den hemen önce.
+
+40
+00:10:18,186 --> 00:10:20,771
+- Henüz dış kenara varmadık.
+
+41
+00:10:20,855 --> 00:10:23,191
+- Çok garip.
+
+42
+00:10:23,274 --> 00:10:26,152
+Burada ne işimiz var?
+
+43
+00:10:27,570 --> 00:10:30,615
+Bilmiyorum.
+Ne diyorsun?
+
+44
+00:10:30,698 --> 00:10:32,825
+- Bizim sistemimiz değil.
+
+45
+00:10:32,909 --> 00:10:34,118
+- Biliyorum.
+
+46
+00:10:34,202 --> 00:10:38,164
+Buraya hiç gelmediklerini fark ettin mi?
+
+47
+00:10:38,247 --> 00:10:40,333
+Burası işin olduğu yer, değil mi?
+
+48
+00:10:40,416 --> 00:10:46,964
+Aynı nedenle, paylarının yarısını alıyoruz.
+Zamanımız onlara ait. Her zamanki numara.
+
+49
+00:10:47,048 --> 00:10:52,261
+Neden buraya gelmedikleri belli.
+Senin yüzünden. Karaktersizin tekisin.
+
+50
+00:10:59,602 --> 00:11:05,024
+- Bu benim sandalyem. Kalkar mısın?
+- Elbette. Affedersin.
+
+51
+00:11:10,363 --> 00:11:12,865
+Neler oluyor şimdi?
+
+52
+00:11:14,200 --> 00:11:19,580
+Kiminizin fark ettiği gibi, henüz gelmedik.
+Daha yarı yoldayız.
+
+53
+00:11:20,581 --> 00:11:24,252
+- Ne?
+- Anne rotamızı kesti.
+
+54
+00:11:24,335 --> 00:11:25,378
+Neden?
+
+55
+00:11:25,461 --> 00:11:30,049
+Bazı durumlarda öyle yapmak için
+programlandı. Bu durum söz konusu.
+
+56
+00:11:30,133 --> 00:11:34,929
+Kaynağı belli olmayan bir iletişim
+kaydetmiş gibi görünüyor.
+
+57
+00:11:35,013 --> 00:11:39,017
+- Bizi kontrol etmeye gönderdi.
+- İletişim mi? Burada mı?
+
+58
+00:11:39,100 --> 00:11:41,060
+Ne tür bir iletişim?
+
+59
+00:11:41,144 --> 00:11:44,939
+Her 12 saniyede bir tekrarlanan
+sesli bir işaret.
+
+60
+00:11:45,023 --> 00:11:46,816
+- SOS mi?
+- Bilmiyorum.
+
+61
+00:11:46,900 --> 00:11:49,861
+- İnsan mı?
+- Belirsiz.
+
+62
+00:11:49,944 --> 00:11:53,823
+- Bize ne?
+- Madde hükmüne göre zorunluyuz...
+
+63
+00:11:53,907 --> 00:11:58,745
+- Uzatmak istemiyorum.
+- Ama bu ticari bir gemi, kurtarma değil.
+
+64
+00:11:58,828 --> 00:12:02,290
+- Evet.
+- Ben işe girerken, böyle bir görevden söz edilmedi.
+
+65
+00:12:02,373 --> 00:12:07,128
+Ödemesi nasıl olacak?
+Ödersen, seve seve yaparım.
+
+66
+00:12:07,212 --> 00:12:10,006
+İkramiyeden bahsedelim.
+
+67
+00:12:10,089 --> 00:12:12,717
+Bir dakika, bir şey söyleyebilir miyim?
+
+68
+00:12:12,801 --> 00:12:16,846
+Kontrattaki bir paragrafa göre,
+''Anlaşılır bir kökeni olan,
+
+69
+00:12:16,930 --> 00:12:20,308
+sistematik her iletişim,
+incelemeye alınmalı...
+
+70
+00:12:20,391 --> 00:12:22,727
+Eve dönüp, eğlenmek istiyorum.
+
+71
+00:12:22,811 --> 00:12:25,146
+Parker, Şu adamı dinler misin lütfen?
+
+72
+00:12:27,148 --> 00:12:31,069
+..aksi halde,
+pay hakkı tümüyle elden alınır.''
+
+73
+00:12:31,152 --> 00:12:32,654
+Para yok.
+
+74
+00:12:33,655 --> 00:12:34,739
+Anladın mı?
+
+75
+00:12:36,074 --> 00:12:39,119
+- Şey, evet.
+- Oraya gidiyoruz.
+
+76
+00:12:39,160 --> 00:12:41,454
+Evet. Gidiyoruz.
+
+77
+00:12:47,919 --> 00:12:50,630
+Şunu hepimiz duyabiliyor miyiz, Lambert?
+
+78
+00:13:12,485 --> 00:13:16,573
+- Tanrım.
+Daha önce böyle bir radyo sinyali duymadım.
+
+79
+00:13:16,656 --> 00:13:21,786
+- Belki bir sestir.
+- Öğrenicez. Üzerine inebilir misin?
+
+80
+00:13:21,870 --> 00:13:24,623
+Pozisyon neydi?
+
+81
+00:13:24,706 --> 00:13:29,211
+6550-99.
+
+82
+00:13:34,883 --> 00:13:37,052
+Tamam, Çeyreği buldu.
+
+83
+00:13:37,135 --> 00:13:44,726
+Yükseklik: Altı dakika, 20 saniye.
+Eğim: 39 derece, iki saniye.
+
+84
+00:13:44,809 --> 00:13:47,604
+Tamam. Ekrana getir.
+
+85
+00:13:51,566 --> 00:13:53,652
+Peki. İşte bu.
+
+86
+00:13:53,735 --> 00:13:57,614
+Bu bir planetoid. 1200 kilometre
+
+87
+00:13:57,697 --> 00:14:00,408
+- Ufacık.
+- Dönüyor mu?
+
+88
+00:14:02,953 --> 00:14:05,997
+- Yaklaşık iki saat.
+- Yer çekimi ne durumda?
+
+89
+00:14:07,999 --> 00:14:10,293
+0.86.
+
+90
+00:14:11,586 --> 00:14:13,964
+Üzerinde yürüyebiliriz.
+
+91
+00:14:23,265 --> 00:14:27,227
+Yörünge doruğuna yaklaşıyoruz.
+Hedef.
+
+92
+00:14:30,564 --> 00:14:32,232
+Ekvatoral yörüngeye varıldı.
+
+93
+00:14:36,862 --> 00:14:39,156
+5, 4,
+
+94
+00:14:39,239 --> 00:14:41,408
+3, 2,
+
+95
+00:14:41,491 --> 00:14:43,577
+1.
+
+96
+00:14:47,622 --> 00:14:49,416
+Yer belirleyici bağlandı.
+
+97
+00:14:49,499 --> 00:14:53,337
+- Kaldıraçların durumu ne?
+- Havalandırma basınç göstergesi.
+
+98
+00:14:59,801 --> 00:15:02,512
+48 dakika ve geri sayım.
+
+99
+00:15:05,182 --> 00:15:07,809
+Platformdan kalkmaya hazırlan.
+
+100
+00:15:07,893 --> 00:15:09,978
+20 saniye.
+
+101
+00:15:10,062 --> 00:15:12,689
+18, 17...
+
+102
+00:15:13,607 --> 00:15:17,027
+12, 11, 10,
+
+103
+00:15:17,110 --> 00:15:20,322
+9, 8, 7,
+
+104
+00:15:20,405 --> 00:15:23,033
+6, 5, 4,
+
+105
+00:15:23,116 --> 00:15:25,577
+3, 2,
+
+106
+00:15:25,661 --> 00:15:27,079
+1, Kilit.
+
+107
+00:15:27,162 --> 00:15:29,039
+Serbest bırak.
+
+108
+00:15:34,127 --> 00:15:35,337
+Açık.
+
+109
+00:15:40,968 --> 00:15:43,971
+Her şey yerli yerinde.
+Hadi inişe geçelim.
+
+110
+00:15:51,645 --> 00:15:55,607
+- 92 derece dön, alan rota dışı.
+- İskele tarafını hazırla.
+
+111
+00:16:24,720 --> 00:16:27,723
+Bir şey algılayamıyorum.
+
+112
+00:16:34,229 --> 00:16:36,315
+Hava boşluğu.
+
+113
+00:16:44,406 --> 00:16:47,618
+Gemi inişe hazır.
+Artık inişe geçebilirsin.
+
+114
+00:16:47,701 --> 00:16:52,623
+İlk şok gidericiler kapandı.
+Tutunun, küçük bir engebe var.
+
+115
+00:16:59,088 --> 00:17:01,465
+O da neydi?
+
+116
+00:17:01,548 --> 00:17:04,051
+Basınç düşmesi. Siperlerden biri gitti.
+
+117
+00:17:04,134 --> 00:17:05,886
+Gene de devam edelim.
+
+118
+00:17:05,970 --> 00:17:09,515
+Hala bir iletişim yok.
+
+119
+00:17:13,227 --> 00:17:15,771
+Şimdi alçalıyoruz.
+
+120
+00:17:18,023 --> 00:17:20,109
+Hala alçalmaktayız.
+
+121
+00:17:21,443 --> 00:17:23,779
+İşte tamam.
+
+122
+00:17:23,863 --> 00:17:25,948
+İnişe geçelim.
+
+123
+00:17:32,621 --> 00:17:34,748
+Seyir ışıkları açıldı.
+
+124
+00:18:08,157 --> 00:18:10,993
+9, 8,
+
+125
+00:18:11,077 --> 00:18:13,537
+7, 6,
+
+126
+00:18:13,621 --> 00:18:15,998
+5, 4,
+
+127
+00:18:16,123 --> 00:18:19,710
+3, 2, 1.
+
+128
+00:18:19,794 --> 00:18:21,837
+Motorları durdur.
+
+129
+00:18:41,399 --> 00:18:44,026
+Ne oldu?
+
+130
+00:18:45,486 --> 00:18:48,239
+- Bir açıklama istiyorum.
+- Gövde de çatlak mı var?
+
+131
+00:18:48,322 --> 00:18:51,409
+- Bir şey göremiyorum. Hala basınç var.
+
+132
+00:18:51,492 --> 00:18:55,079
+- Ekrana bak.
+- Neden?
+
+133
+00:19:02,920 --> 00:19:08,050
+Yedek elektrik sistemi devre dışı.
+
+134
+00:19:08,175 --> 00:19:11,095
+Dört üniteden üçü bozuk.
+
+135
+00:19:13,556 --> 00:19:16,726
+- Hepsi bu mu?
+- Hayır, dur.
+
+136
+00:19:16,851 --> 00:19:22,273
+Buradan tamir edemeyiz,
+bir kaç borunun yer değiştirmesi lazım.
+
+137
+00:19:22,398 --> 00:19:23,774
+Sabitleşme zamanı.
+
+138
+00:19:23,858 --> 00:19:26,068
+Ona tamir zamanı olduğunu söyle.
+
+139
+00:19:26,152 --> 00:19:30,364
+Buradan tamir edemeyiz.
+Bütün bu borular yer değiştirmeli.
+
+140
+00:19:30,448 --> 00:19:32,867
+Bunu yapmak için
+sabit pozisyon gerekli.
+
+141
+00:19:33,576 --> 00:19:35,036
+Başka ne yapılabilir?
+
+142
+00:19:35,119 --> 00:19:39,582
+Bazı parçalar kabuk bağlamış.
+Temizleyip sıkıştırmalıyız.
+
+143
+00:19:39,707 --> 00:19:42,293
+Çalıştırmak ne kadar sürer?
+
+144
+00:19:42,418 --> 00:19:45,755
+- Bak...
+- 17 saat gerektiğini söyle.
+
+145
+00:19:46,881 --> 00:19:49,634
+En azından 25 saat.
+
+146
+00:19:49,759 --> 00:19:52,053
+Başlat. Hemen geliyorum.
+
+147
+00:19:52,220 --> 00:19:58,101
+- Neden buraya geliyor?
+- Karşıma çıkmayıp, defolsun.
+
+148
+00:20:08,903 --> 00:20:10,947
+Bir haber var mı?
+
+149
+00:20:11,072 --> 00:20:16,244
+Her 12 saniyede gelen
+aynı ileti dışında, hiç bir şey yok.
+
+150
+00:20:16,369 --> 00:20:19,122
+Diğer iletişim kanalları ölü.
+
+151
+00:20:24,085 --> 00:20:26,212
+Aydınlatma ışıklarını yak.
+
+152
+00:20:40,893 --> 00:20:43,229
+Bu koşullarda bir yere gidemeyiz.
+
+153
+00:20:44,814 --> 00:20:47,150
+Anne, güneş 20 dakika sonra doğacak, diyor.
+
+154
+00:20:47,275 --> 00:20:53,239
+- İletişimin kaynağı hangi mesafede?
+- Kuzeydoğu. 2,000 metreden biraz az.
+
+155
+00:20:53,364 --> 00:20:55,658
+Yürüyüş mesafesi mi?
+
+156
+00:20:57,619 --> 00:21:01,539
+- Atmosfer analizini verir misin?
+- Evet
+
+157
+00:21:07,921 --> 00:21:10,006
+Başlangıç gibi.
+
+158
+00:21:10,590 --> 00:21:15,553
+Atıl nitrojen, karbondioksit kristallerinde
+yüksek yoğunluk, metan...
+
+159
+00:21:15,678 --> 00:21:18,723
+- Kalıntıları inceliyorum.
+- Başka bir şey var mı?
+
+160
+00:21:18,807 --> 00:21:22,769
+Kayalık ve lav temelli.
+
+161
+00:21:25,188 --> 00:21:28,108
+Çok soğuk, donma çizgisinin çok altında.
+
+162
+00:21:29,526 --> 00:21:32,320
+Dışarı çıkacak ilk gruba katılmaya
+gönüllüyüm.
+
+163
+00:21:32,403 --> 00:21:35,115
+Evet, Olabilir.
+
+164
+00:21:35,198 --> 00:21:39,327
+- Sen de, Lambert.
+- Harika.
+
+165
+00:21:39,411 --> 00:21:43,206
+Gidip silahları getirsen iyi olacak.
+
+166
+00:22:56,196 --> 00:23:02,118
+- Hiç bir bok göremiyorum.
+- Ash, duyuyor musun?
+
+167
+00:23:06,915 --> 00:23:09,334
+Bizimkilerle iletişim yolunda.
+
+168
+00:23:09,417 --> 00:23:12,462
+Açık ve serbest. Hattı açık tutun.
+
+169
+00:23:12,546 --> 00:23:13,588
+Gidelim.
+
+170
+00:23:28,019 --> 00:23:30,897
+Hey, Ripley.
+
+171
+00:23:30,981 --> 00:23:34,651
+Hey, Ripley, Sana bir soru sormak istiyorum.
+
+172
+00:23:34,735 --> 00:23:38,071
+Aradıklarını bulurlarsa,
+tam payımızı alacak mıyız?
+
+173
+00:23:38,155 --> 00:23:42,409
+Endişelenme,
+sana verilen neyse, alacaksın.
+
+174
+00:23:42,492 --> 00:23:46,621
+Bu konu açıklık kazanana kadar,
+bir iş yapmayacağım.
+
+175
+00:23:46,705 --> 00:23:51,043
+Brett, payını alman yasal açıdan
+garantide.
+
+176
+00:23:51,126 --> 00:23:54,046
+- Ne?
+- Neden defolup gitmiyorsun?
+
+177
+00:23:54,129 --> 00:23:57,632
+- Ne?
+- Ne dedin, Rip?
+
+178
+00:23:57,716 --> 00:24:02,179
+Bir sorun çıkarsa,
+beni köprünün üstünde bulabilirsiniz.
+
+179
+00:24:02,262 --> 00:24:05,390
+Hey, Ripley, Geri gel.
+
+180
+00:24:10,312 --> 00:24:13,982
+- Orospu çocuğu.
+- Sorun ne?
+
+181
+00:24:22,950 --> 00:24:25,452
+Bir şey göremiyorum.
+
+182
+00:24:25,535 --> 00:24:27,621
+Şikayeti kes.
+
+183
+00:24:27,704 --> 00:24:30,499
+- Şikayet etmeyi seviyorum.
+- Kesin şunu.
+
+184
+00:25:55,751 --> 00:25:59,380
+- Ash, şunu görüyor musun?
+- Evet.
+
+185
+00:26:02,466 --> 00:26:05,386
+Böyle şey görmedim.
+
+186
+00:26:13,394 --> 00:26:15,479
+Çok garip.
+
+187
+00:26:19,275 --> 00:26:21,360
+Sen söyledin.
+
+188
+00:26:29,952 --> 00:26:31,996
+Pekala.
+
+189
+00:26:32,079 --> 00:26:35,207
+İkinci açıya geçiyorum.
+
+190
+00:26:35,291 --> 00:26:37,376
+O da ne?
+
+191
+00:26:39,628 --> 00:26:41,630
+Buradan çıkalım.
+
+192
+00:26:41,714 --> 00:26:46,343
+Buraya kadar geldik. Devam etmeliyiz.
+Devam etmek zorundayız.
+
+193
+00:26:49,388 --> 00:26:51,932
+Tekrar eder misin?
+
+194
+00:26:52,016 --> 00:26:53,058
+Kahretsin.
+
+195
+00:26:54,435 --> 00:26:58,564
+Ash, Gördüğün gibi, tanımlamak güç.
+
+196
+00:26:58,647 --> 00:27:01,150
+Ekrana gene bakacağım.
+
+197
+00:27:48,155 --> 00:27:50,032
+Dallas!
+
+198
+00:28:42,376 --> 00:28:45,922
+Buraya gel.
+Değişik bir şey var.
+
+199
+00:28:46,005 --> 00:28:52,011
+Ne olduğunu anlamadım ama
+şu duvara tırmanırsak belli olur.
+
+200
+00:30:01,122 --> 00:30:04,459
+Canlı yaratık türü.
+
+201
+00:30:04,542 --> 00:30:07,545
+Uzun süredir ölmüş gibi görünüyor.
+
+202
+00:30:07,629 --> 00:30:10,298
+Fosilleşmiş.
+
+203
+00:30:10,381 --> 00:30:13,426
+Kabından taşmış gibi.
+
+204
+00:30:23,812 --> 00:30:25,980
+Kemikler dışarı doğru eğilmiş.
+
+205
+00:30:26,064 --> 00:30:28,650
+Sanki içten patlamış gibi.
+
+206
+00:30:31,027 --> 00:30:35,907
+Mürettebatın gerisine
+ne oldu acaba?
+
+207
+00:30:38,660 --> 00:30:41,371
+Çekip gidelim bu lanet yerden.
+
+208
+00:30:52,882 --> 00:30:55,468
+Dallas! Lambert! Buraya gelin.
+
+209
+00:30:58,513 --> 00:31:00,181
+Hadi.
+
+210
+00:31:05,186 --> 00:31:09,149
+- Ne buldun?
+- Bak bakalım neye benzeteceksin.
+
+211
+00:31:16,740 --> 00:31:19,576
+Ash, şu iletiler.
+
+212
+00:31:19,701 --> 00:31:22,495
+Anne bir kısmını deşifre etti.
+SOS'e benzemiyor.
+
+213
+00:31:22,746 --> 00:31:23,580
+Ne peki?
+
+214
+00:31:23,830 --> 00:31:27,167
+Uyarıya benziyor.
+
+215
+00:31:27,250 --> 00:31:31,338
+- Peşlerinden gideceğim.
+- Ne anlamı var ki?
+
+216
+00:31:32,797 --> 00:31:39,846
+Oraya varana kadar,
+uyarı olup olmadığı ortaya çıkacak. Değil mi?
+
+217
+00:32:05,664 --> 00:32:08,375
+Aşağıda herkes iyi mi?
+
+218
+00:32:11,878 --> 00:32:14,881
+- Bir şey görebiliyor musun?
+- Bilmiyorum... Bir mağara.
+
+219
+00:32:20,595 --> 00:32:23,056
+Bilmiyorum.
+Kahrolası dönence gibi burası.
+
+220
+00:32:26,476 --> 00:32:28,937
+Bu da nesi?
+
+221
+00:32:57,007 --> 00:33:00,093
+Kuyu tamamıyla kapanmış.
+
+222
+00:33:00,177 --> 00:33:05,515
+Derimsi nesnelerle dolu,
+yumurta gibi şeyler.
+
+223
+00:33:24,242 --> 00:33:29,665
+Yumurtalar, kırılınca tepki gösteren
+bir sis tabakasıyla kaplı
+
+224
+00:33:34,044 --> 00:33:36,964
+Kane? İyi misin?
+
+225
+00:33:37,047 --> 00:33:39,091
+Evet, İyiyim.
+
+226
+00:33:41,927 --> 00:33:43,971
+İyiyim, Kaydım sadece.
+
+227
+00:34:04,366 --> 00:34:07,452
+Tamamıyla kaplanmış gibi duruyor.
+
+228
+00:34:41,779 --> 00:34:45,366
+Dur bir saniye, bir hareket var.
+
+229
+00:34:45,491 --> 00:34:49,161
+Canlı gibi. Organik yaşam.
+
+230
+00:35:54,268 --> 00:35:56,687
+- Ripley, orada mısın?
+- Buradayım.
+
+231
+00:36:02,985 --> 00:36:06,322
+- Tamam Ripley, içeride kilitli kapağın oradayım.
+- Tamam.
+
+232
+00:36:15,956 --> 00:36:18,876
+Orada mısın, Ripley?
+Mikrop kapmadık, bizi içeri al.
+
+233
+00:36:18,959 --> 00:36:22,671
+- Kane'e ne oldu?
+- Bir şey üstüne yapıştı.
+
+234
+00:36:22,755 --> 00:36:25,341
+Ne tür bir şey?
+
+235
+00:36:25,424 --> 00:36:27,676
+Bir canlı. Kapağı aç.
+
+236
+00:36:27,760 --> 00:36:32,181
+İzin verirsek, gemiye bulaşabilir.
+Karantina kurallarını biliyorsun.
+
+237
+00:36:32,264 --> 00:36:36,060
+- Dezenfekte olması için 24 saat gerekli.
+- Ölebilir. Kapağı aç.
+
+238
+00:36:36,143 --> 00:36:38,979
+Karantinayı çiğnersek, hepimiz
+ölebiliriz.
+
+239
+00:36:39,063 --> 00:36:43,442
+Kahrolası kapağı açar mısın?
+Onu içeri getirmemiz gerek.
+
+240
+00:36:45,361 --> 00:36:48,906
+Hayır. Yapamam, yerimde olsaydınız,
+aynı şeyi yapardınız.
+
+241
+00:36:48,990 --> 00:36:52,201
+Ripley, Bu bir emir.
+Aç şu kapağı, beni duyuyor musun?
+
+242
+00:36:52,284 --> 00:36:55,579
+- Evet
+- Ripley, Bu bir emir! Beni duyuyor musun?
+
+243
+00:36:55,663 --> 00:36:58,291
+- Duyuyorum. Cevabım olumsuz.
+
+244
+00:37:00,751 --> 00:37:02,461
+İç kapak açık.
+
+245
+00:37:33,034 --> 00:37:33,576
+Tanrım.
+
+246
+00:37:43,211 --> 00:37:45,296
+Bu lanet şey de nesi?
+
+247
+00:37:46,672 --> 00:37:50,092
+Tanrım.
+
+248
+00:37:51,719 --> 00:37:53,805
+Bu ne böyle?
+
+249
+00:37:55,765 --> 00:38:00,061
+- Hey, hala nefes alıyor mu?
+- Hala yaşıyor mu?
+
+250
+00:38:00,144 --> 00:38:03,606
+Neden dondurmayı denemiyorsunuz onu?
+
+251
+00:38:03,689 --> 00:38:07,276
+Onu dondurmazsalar ne olacak?
+Neler oluyor orada?
+
+252
+00:38:07,360 --> 00:38:09,654
+- Neler oluyor?
+- Seni fahişe!
+
+253
+00:38:09,737 --> 00:38:12,031
+- Tanrım!
+- Hey! Hey!
+
+254
+00:38:12,115 --> 00:38:15,118
+- Bizi orada bırakıyordun!
+- Hey, kesin artık.
+
+255
+00:38:15,201 --> 00:38:19,288
+Bir emir verdiğimde,
+ona uyulmasını beklerim!
+
+256
+00:38:19,372 --> 00:38:22,959
+- Kurallara aykırı olsa bile mi?
+- Aynen öyle!
+
+257
+00:38:23,042 --> 00:38:25,962
+Bir bildiği vardı.
+Bunun ne olduğunu kim biliyor ki?
+
+258
+00:38:26,045 --> 00:38:28,965
+Nasıl çıkaracağız bunu?
+
+259
+00:38:29,048 --> 00:38:33,761
+- Nasıl çıkacak?
+- Bir saniye! Aletlerimi alayım.
+
+260
+00:38:40,727 --> 00:38:44,647
+Peki. Eğer buradan yararsam,
+
+261
+00:38:44,731 --> 00:38:48,109
+yüzünden bir kaç tanesini
+çıkarmaya çalışabilirim...
+
+262
+00:38:48,192 --> 00:38:50,153
+Ne yapacağım dedin?
+
+263
+00:38:50,236 --> 00:38:53,323
+Şu parmak. Parmağı sökmeye çalışacağım.
+
+264
+00:38:53,406 --> 00:38:56,200
+Tutacağı şuraya getirip...
+
+265
+00:38:59,162 --> 00:39:01,205
+- Kafa derisini çiziyor.
+- Biliyorum.
+
+266
+00:39:03,291 --> 00:39:06,210
+Suratını yırtmadan söküleceğe benzemiyor.
+
+267
+00:39:08,379 --> 00:39:09,797
+İçeriden bakalım.
+
+268
+00:39:11,925 --> 00:39:14,844
+Neden onu dondurmayı denemiyorlar?
+
+269
+00:39:14,928 --> 00:39:17,931
+Neden dondurmayı denemiyorsunuz?
+
+270
+00:39:33,571 --> 00:39:35,865
+Maskeni çıkartabilirsin.
+
+271
+00:39:54,426 --> 00:39:59,973
+- Boğazının dibindeki ne?
+- Sanırım oksijen sağlıyor.
+
+272
+00:40:00,056 --> 00:40:04,978
+Felç ediyor, komaya sokuyor,
+sonra yaşamasını sağlıyor.
+
+273
+00:40:05,061 --> 00:40:07,939
+Bu da nesi?
+
+274
+00:40:08,022 --> 00:40:11,735
+- Bunu çıkarmamız şart.
+- Bir dakika.
+
+275
+00:40:11,818 --> 00:40:14,404
+Acele karar vermeyelim.
+
+276
+00:40:14,487 --> 00:40:16,698
+Hakkında hiç bir şey...
+
+277
+00:40:16,781 --> 00:40:18,450
+...bilmiyoruz.
+
+278
+00:40:18,533 --> 00:40:24,998
+Oksijen sağladığı tahmininde bulunduk.
+Çıkarırsak, onu öldürebilir.
+
+279
+00:40:27,208 --> 00:40:30,170
+Bu riski göze alacağım.
+Hadi kesip çıkaralım.
+
+280
+00:40:30,253 --> 00:40:33,840
+- Sorumluluğu yükleniyor musun?
+- Evet, evet. Çıkar onu.
+
+281
+00:40:35,592 --> 00:40:37,886
+Nereden başlayalım?
+
+282
+00:40:37,969 --> 00:40:41,056
+Eklem yerinin
+hemen altından keseceğiz.
+
+283
+00:40:41,139 --> 00:40:43,224
+Buradan mı?
+
+284
+00:40:51,524 --> 00:40:52,567
+Aman Tanrım.
+
+285
+00:40:56,988 --> 00:41:00,325
+Bu pislik, gövdeyi delip geçecek.
+
+286
+00:41:01,785 --> 00:41:05,539
+Sanırım bu lanet olası şey gövdeyi
+delip geçecek. Hadi.
+
+287
+00:41:05,622 --> 00:41:07,249
+Neler oluyor?
+
+288
+00:41:07,332 --> 00:41:09,417
+Buradan.
+
+289
+00:41:17,342 --> 00:41:19,469
+Öbür güverte.
+
+290
+00:41:36,778 --> 00:41:38,905
+İşte orada.
+
+291
+00:41:40,490 --> 00:41:42,576
+Altına gitme.
+
+292
+00:41:48,373 --> 00:41:50,459
+Duruyor sanki.
+
+293
+00:41:53,420 --> 00:41:55,213
+Şuna bir bak.
+
+294
+00:41:55,297 --> 00:41:58,800
+Brett, kalemini ver, çabuk.
+
+295
+00:41:58,884 --> 00:42:00,969
+Hadi, Hadi!
+
+296
+00:42:06,141 --> 00:42:08,769
+Koluna bulaştırma.
+
+297
+00:42:15,150 --> 00:42:17,319
+Durdu.
+
+298
+00:42:17,402 --> 00:42:21,573
+Moleküler asit hariç,
+hiç böyle şey görmedim.
+
+299
+00:42:21,657 --> 00:42:24,868
+Kan yerine kullanıyor olmalı.
+
+300
+00:42:24,952 --> 00:42:28,914
+Harika bir savunma mekanizması var.
+Öldürmeye cesaret edemiyorsun.
+
+301
+00:42:28,997 --> 00:42:31,083
+Ya Kane?
+
+302
+00:42:33,085 --> 00:42:35,337
+Al kalemini.
+
+303
+00:42:35,420 --> 00:42:39,800
+- Şimdi ne yapıyoruz?
+- Kane'i Ash'e bırak. Sen işine bak.
+
+304
+00:42:41,802 --> 00:42:43,804
+Ne...?
+
+305
+00:42:52,980 --> 00:42:55,065
+Tamam.
+
+306
+00:42:55,148 --> 00:42:57,025
+Dene.
+
+307
+00:43:02,072 --> 00:43:06,034
+- Kahretsin. Bu olduğundan emindim.
+- Tekrar dene.
+
+308
+00:43:07,369 --> 00:43:11,498
+Bir aydır buradayım sanki.
+
+309
+00:43:11,582 --> 00:43:15,627
+Buraya hiç inmemeliydik.
+
+310
+00:43:15,711 --> 00:43:20,048
+Bu lanet çembere inmemeliydik,
+biliyordum böyle olacağını.
+
+311
+00:43:20,132 --> 00:43:24,636
+Bu şeyi ne kadar erken yamarsak,
+o kadar erken eve dönebiliriz.
+
+312
+00:43:24,720 --> 00:43:26,472
+Burası tüylerimi ürpertiyor.
+
+313
+00:44:29,952 --> 00:44:32,371
+Çok ilginç. Nedir bu?
+
+314
+00:44:34,123 --> 00:44:36,208
+Ben derim ki bu...
+
+315
+00:44:37,501 --> 00:44:39,587
+Henüz bilmiyorum.
+
+316
+00:44:44,008 --> 00:44:47,344
+- Bir şey ister misin?
+- Evet, Ben...
+
+317
+00:44:49,555 --> 00:44:52,391
+Biraz konuşalım. Kane nasıl?
+
+318
+00:44:52,474 --> 00:44:54,977
+Dayanıyor. Değişiklik yok.
+
+319
+00:44:55,060 --> 00:44:57,771
+Peki ya konuğumuz?
+
+320
+00:45:02,818 --> 00:45:06,238
+Dediğim gibi, hala karşılaştırma
+yapmaktayım.
+
+321
+00:45:06,322 --> 00:45:11,869
+Protein polisakaridesten oluşan
+bir dış tabakası olduğundan eminim.
+
+322
+00:45:11,952 --> 00:45:18,584
+Deri döküp donmuş silikonla yenileme
+gibi tuhaf bir alışkanlığı var,
+
+323
+00:45:18,667 --> 00:45:24,757
+bu da ona dış çevreye uyumda,
+uzun süreli dayanıklılık sağlıyor.
+
+324
+00:45:24,840 --> 00:45:26,842
+Yeterli mi?
+
+325
+00:45:26,926 --> 00:45:29,220
+Çok bile. Bunun anlamı nedir?
+
+326
+00:45:29,303 --> 00:45:33,766
+- Lütfen dokunma. Teşekkür ederim.
+- Affedersin.
+
+327
+00:45:33,849 --> 00:45:40,272
+İlginç unsurların birleşimi, sağlam bir
+orospu çocuğu olmasını sağlıyor.
+
+328
+00:45:40,356 --> 00:45:42,733
+Ve içeri sokan da sensin.
+
+329
+00:45:42,817 --> 00:45:45,236
+Direk bir emri yerine getiriyordum. Hatırladın mı?
+
+330
+00:45:45,945 --> 00:45:51,617
+Dallas ve Kane gemide olmadıkları zaman,
+benim sözüm geçer Ash.
+
+331
+00:45:51,701 --> 00:45:53,786
+Ah, evet. Unutmuşum.
+
+332
+00:45:54,662 --> 00:45:58,791
+Bilim Bölümü'nün genel karantina
+kurallarını da unuttun.
+
+333
+00:45:58,874 --> 00:46:03,170
+- Onları unutmadım.
+- Anlıyorum. Sadece ihlal ettin.
+
+334
+00:46:03,254 --> 00:46:06,757
+Sen olsan Kane'e ne yapardın?
+
+335
+00:46:06,841 --> 00:46:10,177
+Onu yaşatmak için, tek şansının, onu buraya
+getirmek olduğunu biliyordun.
+
+336
+00:46:10,261 --> 00:46:14,599
+Ne yazık ki, karantinayı ihlal etmekle,
+herkesin hayatını riske soktun.
+
+337
+00:46:14,682 --> 00:46:17,184
+Belki de onu dışarıda bırakmalıydım.
+
+338
+00:46:17,268 --> 00:46:21,772
+Belki geride kalanları tehlikeye attım
+ama bu riski almaya hazırdım.
+
+339
+00:46:21,856 --> 00:46:25,776
+Bir bilim adamı olarak çok büyük bir
+risk aldın.
+
+340
+00:46:25,902 --> 00:46:29,530
+El kitabı böyle demiyor, değil mi?
+
+341
+00:46:30,865 --> 00:46:34,368
+Sorumluluklarımı,
+senin kadar ciddiye alırım.
+
+342
+00:46:35,620 --> 00:46:39,540
+Kendi işini yap,
+bırak ben de kendi işime bakayım. Tamam mı?
+
+343
+00:46:59,852 --> 00:47:01,979
+- Dallas nerede?
+- Mekikte.
+
+344
+00:47:07,693 --> 00:47:08,319
+Dallas.
+
+345
+00:47:08,569 --> 00:47:11,239
+Kane'e baksan iyi olur.
+
+346
+00:47:11,489 --> 00:47:14,742
+- Neden?
+- Bir şey oldu.
+
+347
+00:47:14,826 --> 00:47:17,537
+- Ciddi mi?
+- İlginç.
+
+348
+00:47:22,667 --> 00:47:26,504
+Ripley, derhal revire gel.
+
+349
+00:47:29,257 --> 00:47:32,510
+- Nerede?
+- Bilmem.
+
+350
+00:47:32,593 --> 00:47:37,140
+- Bulmaya çalışmalıyız.
+- Arayalım.
+
+351
+00:48:02,123 --> 00:48:04,667
+Dallas, Lütfen dikkatli ol.
+
+352
+00:48:45,500 --> 00:48:47,710
+Affedersin.
+
+353
+00:49:20,076 --> 00:49:23,163
+Hayır, Köşede değil.
+
+354
+00:49:23,246 --> 00:49:26,708
+Birini al. Ne olur ne olmaz.
+
+355
+00:49:39,721 --> 00:49:41,431
+Kane?
+
+356
+00:49:47,228 --> 00:49:48,855
+İyi misin?
+
+357
+00:49:48,980 --> 00:49:53,276
+- Görmedim. Yukarıda mıydı?
+- Yukarıda bir yerdeydi.
+
+358
+00:49:53,401 --> 00:49:57,614
+- Tanrım.
+- Lanet şeyi kapatır mısın?
+
+359
+00:49:57,739 --> 00:49:59,866
+Bu canlı!
+
+360
+00:50:00,200 --> 00:50:01,993
+Bu refleks hareketi.
+
+361
+00:50:04,120 --> 00:50:05,997
+Bunu incelememiz gerek.
+
+362
+00:50:18,718 --> 00:50:20,762
+Affedersin.
+
+363
+00:50:26,434 --> 00:50:31,064
+- Yeterince ölü görünüyor.
+- İyi. Başımızdan atalım şunu.
+
+364
+00:50:31,189 --> 00:50:37,028
+Tanrı aşkına, böyle bir türle,
+ilk kez karşılaşıyoruz.
+
+365
+00:50:37,154 --> 00:50:40,031
+Geri dönmesi gerek,
+Bütün testler yapılmalı...
+
+366
+00:50:40,157 --> 00:50:44,995
+Ash, Dalga mı geçiyorsun? Kan yerine asit taşıyor.
+Ölüsünün ne yapacağını kim bilebilir?
+
+367
+00:50:45,078 --> 00:50:48,248
+Zombi olmadığı varsayımı güçlü sanırım.
+
+368
+00:50:48,373 --> 00:50:51,126
+Dallas, götürmeliyiz.
+
+369
+00:50:51,209 --> 00:50:56,465
+Bana kalsa riski göze almazdım
+ama bilim adamı olan sensin.
+
+370
+00:50:56,548 --> 00:50:58,967
+- Karar sana ait, Ash.
+- Dallas
+
+371
+00:50:59,050 --> 00:51:03,305
+- Fikrimi değiştirmeye çalışma...
+- Fikrini değiştirmeye çalışmıyorum.
+
+372
+00:51:03,388 --> 00:51:06,016
+Sadece beni dinlemeni istiyorum...
+Dinliycekmisin?
+
+373
+00:51:08,101 --> 00:51:12,272
+- Bu kararı nasıl ona bırakabilirsin?
+- Sadece gemiyi idare ediyorum.
+
+374
+00:51:12,356 --> 00:51:15,275
+Bilim söz konusu olduğunda,
+son söz Ash'in.
+
+375
+00:51:15,359 --> 00:51:18,653
+- Bu nerden çıktı şimdi?
+- Şirketin istediği bu.
+
+376
+00:51:18,737 --> 00:51:24,159
+- Bu yöntem ne zamandır geçerli?
+- Yöntem, dediklerini yap demek.
+
+377
+00:51:24,242 --> 00:51:28,080
+- Tamirat nasıl gidiyor?
+- Neredeyse bitmek üzere.
+
+378
+00:51:28,163 --> 00:51:30,707
+- Neden bana söylemedin?
+- Hala yapılacak bazı şeyler var.
+
+379
+00:51:31,375 --> 00:51:32,376
+Ne gibi?
+
+380
+00:51:32,834 --> 00:51:36,880
+B ve C bölümünde görüş aleti
+bozuk, yedek güç sistemi patladı...
+
+381
+00:51:37,130 --> 00:51:39,716
+Bu saçmalık. O olmadan da kalkabiliriz.
+
+382
+00:51:39,800 --> 00:51:44,221
+- Öyle mi? Bu iyi fikir mi sence?
+- Bütün istediğim buradan çekip gitmek.
+
+383
+00:52:08,495 --> 00:52:11,123
+Girişler tozlu.
+İki numarada aşırı ısınma.
+
+384
+00:52:11,206 --> 00:52:13,542
+İki dakika üstüne tükür!
+
+385
+00:52:14,418 --> 00:52:18,380
+Çok sıcak ve ısı giderek artıyor.
+
+386
+00:52:20,215 --> 00:52:22,926
+Makine dairesi, kızıl alarm statüsü.
+
+387
+00:52:23,844 --> 00:52:27,806
+- Yükselmeye bir kilometre.
+- Yapay yerçekimi devreye girsin.
+
+388
+00:52:27,890 --> 00:52:31,477
+- Devrede.
+- Yön değiştiriyorum... Şimdi.
+
+389
+00:52:35,773 --> 00:52:37,858
+CNG gazını kes.
+
+390
+00:52:40,903 --> 00:52:44,782
+- İniş takımlarını çek.
+- Çekildi.
+
+391
+00:53:07,137 --> 00:53:08,681
+Çocuk oyuncağı.
+
+392
+00:53:08,764 --> 00:53:12,017
+Tamir ettiğimiz,
+bir daha bozulmuyor değil mi, Brett?
+
+393
+00:53:12,101 --> 00:53:13,143
+Doğru.
+
+394
+00:53:28,659 --> 00:53:32,538
+Dondurmak en iyisi. Hastaysa,
+neden o noktada durdurmuyoruz?
+
+395
+00:53:32,621 --> 00:53:36,208
+- Eve dönünce doktora götürebiliriz.
+- Doğru.
+
+396
+00:53:36,292 --> 00:53:40,462
+Ne söylese, hep ''Doğru'' diyorsun, Brett
+Farkında mısın?
+
+397
+00:53:40,546 --> 00:53:42,298
+Doğru.
+
+398
+00:53:42,381 --> 00:53:46,760
+Parker, Adamların peşinde dolaşıyor
+ve ''Doğru'' deyip duruyor! Papağan gibi.
+
+399
+00:53:46,844 --> 00:53:50,389
+- Kendine gel. Papağan mısın ne?
+- Doğru.
+
+400
+00:53:50,472 --> 00:53:52,725
+Hadi, Kesin artık.
+
+401
+00:53:52,808 --> 00:53:56,812
+- Kane karantinaya girmek zorunda.
+- Biz de öyle.
+
+402
+00:53:56,896 --> 00:54:01,483
+- Moral bozucu bir habere ne dersiniz?
+- Heyecan kat bari.
+
+403
+00:54:01,525 --> 00:54:05,696
+Hesaplarıma göre,
+harcanan zamana dayanarak...
+
+404
+00:54:05,779 --> 00:54:08,949
+- Kısa kes. Dünya ne kadar uzaklıkta?
+- On ay.
+
+405
+00:54:08,991 --> 00:54:11,118
+Hay Allah.
+
+406
+00:54:11,869 --> 00:54:13,245
+Evet?
+
+407
+00:54:13,329 --> 00:54:16,874
+- Dallas, Kane'e bir baksan iyi olur.
+- Durumunda bir değişme mi var?
+
+408
+00:54:16,957 --> 00:54:20,711
+- Kendin baksan daha iyi.
+- Geliyoruz.
+
+409
+00:54:22,046 --> 00:54:24,131
+Doğru.
+
+410
+00:54:27,092 --> 00:54:29,595
+Kendini nasıl hissediyorsun?
+
+411
+00:54:32,348 --> 00:54:36,727
+- Nasılsın?
+- Harika. Başka aptal sorusu olan?
+
+412
+00:54:40,231 --> 00:54:42,316
+Teşekkür ederim.
+
+413
+00:54:44,360 --> 00:54:48,114
+Gezegen hakkında
+bir şey hatırlıyor musun?
+
+414
+00:54:49,782 --> 00:54:53,119
+En son hatırladığın şey ne?
+
+415
+00:54:59,291 --> 00:55:04,005
+Boğulmayla ilgili korkunç bir
+rüyayı hatırlıyorum ve...
+
+416
+00:55:06,632 --> 00:55:08,467
+Her neyse, neredeyiz?
+
+417
+00:55:08,551 --> 00:55:10,886
+- Buradayız.
+- Eve dönüş yolundayız.
+
+418
+00:55:10,970 --> 00:55:13,097
+Dondurucu kapsüllere dönüş.
+
+419
+00:55:15,224 --> 00:55:19,353
+- Önce bir şey yemem gerek.
+- Benim de bir şeye ihtiyacım var.
+
+420
+00:55:20,146 --> 00:55:23,065
+Yatmadan önce son bir yemek. Benden.
+
+421
+00:55:23,149 --> 00:55:26,193
+Ara diye buna derim.
+
+422
+00:55:46,088 --> 00:55:50,509
+Döndüğümüzde ilk yapacağım iş,
+doğru dürüst yemek yemek olacak.
+
+423
+00:55:50,635 --> 00:55:56,182
+Katılıyorum. Bundan kötüsünü yedim
+ama daha iyisini de tattığım oldu.
+
+424
+00:55:56,265 --> 00:55:59,352
+Sanki yarın ölecekmişsin gibi
+tıka basa yiyorsun.
+
+425
+00:55:59,435 --> 00:56:03,981
+Başka bir şeyi yemeğe tercih ederdim
+ama şu an yemek ön planda.
+
+426
+00:56:04,065 --> 00:56:06,776
+Biliyor olman lazım,
+neden yapıldığını sen biliyorsun.
+
+427
+00:56:07,902 --> 00:56:11,948
+Neden yapıldığı hakkında konuşmak
+istemiyorum. Yemek yiyorum şu anda.
+
+428
+00:56:13,324 --> 00:56:17,578
+Neyin var?
+Yemek o kadar da kötü değil.
+
+429
+00:56:18,704 --> 00:56:20,790
+Ne oldu?
+
+430
+00:56:23,376 --> 00:56:25,503
+Ne? Nedir?
+
+431
+00:56:25,586 --> 00:56:27,672
+- Bu ciddi bir şey.
+- Kane
+
+432
+00:56:37,014 --> 00:56:38,683
+Kaşığı al.
+
+433
+00:56:42,145 --> 00:56:45,064
+- Ağzına sok.
+- Çalışıyorum.
+
+434
+00:57:14,385 --> 00:57:16,471
+Aman Tanrım!
+
+435
+00:57:45,458 --> 00:57:48,044
+- Dallas?
+- Evet.
+
+436
+00:57:48,127 --> 00:57:51,881
+- Bir şey görüyor musun?
+- Hayır. Sen?
+
+437
+00:57:51,965 --> 00:57:54,092
+Hiç bir şey.
+
+438
+00:57:54,175 --> 00:57:56,553
+- Bir şey gördün mü?
+- Hayır.
+
+439
+00:58:18,700 --> 00:58:20,869
+İç kapak kapandı.
+
+440
+00:58:24,247 --> 00:58:26,541
+Bir şey söylemek isteyen var mı?
+
+441
+00:59:02,619 --> 00:59:06,373
+Bu sadece sıradan bir değnek,
+sığırlar için kullanılanlar gibi.
+
+442
+00:59:06,456 --> 00:59:11,253
+Taşınır pilleri var.
+Buradan şuraya yalıtılmış.
+
+443
+00:59:11,336 --> 00:59:15,340
+Dikkat edin de kimse,
+ucuna elini sürmesin.
+
+444
+00:59:17,884 --> 00:59:22,222
+Derisi bizden ince olmadığı sürece,
+bu piçe bir zararı olmaz.
+
+445
+00:59:22,264 --> 00:59:26,351
+Ama biraz olsun dürter.
+
+446
+00:59:26,434 --> 00:59:28,603
+Şimdi onu bulmamız gerekiyor.
+
+447
+00:59:28,687 --> 00:59:32,357
+Bunu hallettim.
+Bu izleme cihazını ben tasarladım.
+
+448
+00:59:32,440 --> 00:59:35,527
+Hareket eden bir nesneyi araması için
+ayarlıyorsun.
+
+449
+00:59:37,112 --> 00:59:41,658
+Çok geniş bir alanı kapsamıyor ama belirli bir
+mesafe içindeyse, sinyal veriyor.
+
+450
+00:59:41,741 --> 00:59:44,828
+Neleri kayıt ediyor?
+
+451
+00:59:44,911 --> 00:59:48,790
+Hava yoğunluğundaki
+küçük değişiklikleri.
+
+452
+00:59:48,874 --> 00:59:50,959
+Görelim.
+
+453
+00:59:53,420 --> 00:59:56,465
+Gördün mü? İşte...
+
+454
+00:59:56,548 --> 00:59:58,842
+Anladım.
+
+455
+00:59:58,925 --> 01:00:04,598
+İki ekip oluşturalım. Ash, Lambert ve ben.
+Ripley, sen Parker ve Brett'i al.
+
+456
+01:00:06,349 --> 01:00:07,726
+O şeyi gördüğünüz anda...
+
+457
+01:00:07,768 --> 01:00:10,228
+...Parker'ın elindeki ağ ile yakalayın.
+
+458
+01:00:10,562 --> 01:00:13,565
+Parker, bir saçmalık yapmaya kalkmayın,
+tamam mı?
+
+459
+01:00:13,857 --> 01:00:16,943
+Yakala, hava geçirmez kapıdan sok,
+kurtul.
+
+460
+01:00:17,027 --> 01:00:19,362
+Bütün güvertelerdeki kanallar açık.
+
+461
+01:00:19,446 --> 01:00:23,533
+Sürekli irtibat halinde olmanızı istiyorum.
+
+462
+01:00:23,617 --> 01:00:25,702
+Hadi gidelim.
+
+463
+01:00:29,873 --> 01:00:32,501
+12 modülü de tamir ettiğinizi sanıyordum.
+
+464
+01:00:32,584 --> 01:00:34,670
+Ettik.
+
+465
+01:00:34,753 --> 01:00:36,838
+Anlamıyorum.
+
+466
+01:00:38,799 --> 01:00:41,802
+Elektrik devreleri yanmış olmalı.
+
+467
+01:00:53,605 --> 01:00:57,025
+- Bu da nesi?
+- Kahretsin, ışığı üstüne tut.
+
+468
+01:00:57,109 --> 01:00:59,194
+Tamam.
+
+469
+01:00:59,278 --> 01:01:02,406
+Bu işe yarar mı bilmiyorum.
+
+470
+01:01:04,658 --> 01:01:07,244
+- Oraya koy.
+- Tamam.
+
+471
+01:01:11,748 --> 01:01:14,167
+Yalıtımı kontrol et.
+
+472
+01:01:14,251 --> 01:01:16,336
+Kahretsin...
+
+473
+01:01:38,484 --> 01:01:41,403
+Bu alete göre, beş metre ötede.
+
+474
+01:01:46,533 --> 01:01:49,495
+Hava yoğunluğunda küçük hareketlermiş, saçmalık.
+
+475
+01:01:54,708 --> 01:01:57,044
+Beş metre ötede.
+
+476
+01:01:57,127 --> 01:01:59,171
+Dikkatli ol.
+
+477
+01:02:09,181 --> 01:02:14,687
+- Hey, o şeyle korkutup durma beni.
+- Siz birlikte hareket edin.
+
+478
+01:02:30,202 --> 01:02:33,372
+- Şimdi...
+- Ne?
+
+479
+01:02:33,455 --> 01:02:35,666
+Parker, Brett, Bu dolabın içinde.
+
+480
+01:02:35,791 --> 01:02:37,501
+Neyin içinde?
+
+481
+01:02:37,584 --> 01:02:39,628
+Burada, tut.
+
+482
+01:02:41,922 --> 01:02:43,966
+Tuttum, tuttum.
+
+483
+01:02:46,719 --> 01:02:48,095
+Bekle.
+
+484
+01:02:49,346 --> 01:02:51,473
+Pekala, Parker? Ben işaret verince.
+
+485
+01:02:54,643 --> 01:02:57,646
+- Peki. Şimdi.
+- Sakin ol.
+
+486
+01:03:03,360 --> 01:03:06,780
+- Bekle! Bırakma sakın!
+- Ne halt ediyorsun?
+
+487
+01:03:06,906 --> 01:03:08,949
+Sadece kedi.
+
+488
+01:03:15,289 --> 01:03:19,877
+Hey, bak, şimdi. Onu kaçırmamalıydık.
+Şimdi, detektörde gene çıkabilir.
+
+489
+01:03:21,795 --> 01:03:24,882
+- Ben...
+- Git getir, dostum.
+
+490
+01:03:24,965 --> 01:03:27,051
+Sen onu bul, biz devam edeceğiz.
+
+491
+01:03:38,145 --> 01:03:40,189
+Pisi, pisi.
+
+492
+01:03:40,689 --> 01:03:42,733
+Pisi, pisi.
+
+493
+01:03:43,901 --> 01:03:46,570
+Pisi pisi de ne saçmalık. Jones!
+
+494
+01:03:49,615 --> 01:03:51,700
+Jonesy?
+
+495
+01:03:51,784 --> 01:03:53,828
+Gel, Jonesy!
+
+496
+01:04:01,252 --> 01:04:03,462
+Jonesy?
+
+497
+01:04:08,259 --> 01:04:10,594
+Pisi, pisi, pisi.
+
+498
+01:04:16,976 --> 01:04:19,020
+Gel, Jonesy!
+
+499
+01:04:30,698 --> 01:04:32,867
+Jonesy?
+
+500
+01:04:44,045 --> 01:04:46,088
+Gel, Pisi, pisi.
+
+501
+01:06:14,719 --> 01:06:16,763
+Pisi, pisi, pisi.
+
+502
+01:06:18,681 --> 01:06:20,767
+Jonesy.
+
+503
+01:06:25,438 --> 01:06:27,482
+Pisi, pisi.
+
+504
+01:07:01,224 --> 01:07:03,476
+Pisi, pisi, pisi.
+
+505
+01:07:06,604 --> 01:07:08,690
+Jonesy?
+
+506
+01:07:15,363 --> 01:07:18,074
+Hey. Hadi, Jonesy.
+
+507
+01:07:18,158 --> 01:07:20,577
+Hadi, yavrum. Gel kedicik.
+
+508
+01:07:20,660 --> 01:07:22,704
+Hadi, yavrum.
+
+509
+01:07:23,997 --> 01:07:25,790
+Uslu kedicik.
+
+510
+01:07:27,500 --> 01:07:30,670
+Bir şey yapmayacağım.
+Hadi.
+
+511
+01:08:02,952 --> 01:08:06,164
+Brett!
+
+512
+01:08:04,079 --> 01:08:06,164
+Brett!
+
+513
+01:08:13,922 --> 01:08:16,007
+Brett!
+
+514
+01:08:26,184 --> 01:08:28,144
+Her ne ise, kocamandı ve...
+
+515
+01:08:32,774 --> 01:08:34,734
+Onu hava borularının içine soktuğundan
+emin misin?
+
+516
+01:08:34,776 --> 01:08:36,653
+Soğutma borularının birinde gözden kayboldu.
+
+517
+01:08:36,695 --> 01:08:40,824
+Şüphe yok. O..
+O şey hava borularının içinde dolaşıyor.
+
+518
+01:08:43,410 --> 01:08:45,912
+Brett'i canlı mı yakalamak istiyor?
+
+519
+01:08:47,164 --> 01:08:49,374
+- Ne?
+- Brett yaşıyor olabilir mi?
+
+520
+01:08:49,457 --> 01:08:52,711
+Hayır. Yani sanmıyorum.
+
+521
+01:08:52,794 --> 01:08:56,298
+Hava borusunu
+kendi lehimize kullanabiliriz.
+
+522
+01:08:56,381 --> 01:09:01,344
+Ana kapıdan başlayarak geliyor.
+
+523
+01:09:01,428 --> 01:09:03,805
+Peki. Yol boyunca, bir tek büyük açıklık var.
+
+524
+01:09:03,889 --> 01:09:09,895
+Onu kapatırız, sonra ana kapıya sürer
+ve oradan da uzaya fırlatırız.
+
+525
+01:09:09,978 --> 01:09:12,355
+Orospu çocuğu, öyle büyük ki.
+
+526
+01:09:12,439 --> 01:09:14,816
+Yani, adam gibi. Büyük!
+
+527
+01:09:14,900 --> 01:09:16,777
+Kane'in oğlu.
+
+528
+01:09:18,153 --> 01:09:22,824
+Hadi, Ash. Bilim Departmanı yardım
+edebilir. Onu nasıl süreceğiz?
+
+529
+01:09:22,908 --> 01:09:27,037
+Beslenme ihtiyaçlarına bakarsak,
+atmosferimize iyi adapte olmuş.
+
+530
+01:09:27,120 --> 01:09:29,247
+Hakkında bilmediğimiz tek şey sıcaklık derecesi.
+
+531
+01:09:29,373 --> 01:09:36,338
+- Peki. Dereceyi değiştirirsek ne olur?
+- Deneyelim. Hayvanların çoğu ateşten kaçar.
+
+532
+01:09:36,463 --> 01:09:41,301
+Ateş, evet. Parker,
+üç ya da dört fırın ayarlar mısın?
+
+533
+01:09:42,302 --> 01:09:45,305
+Bana yirmi dakika verin.
+Halledeceğim.
+
+534
+01:09:45,639 --> 01:09:48,016
+- Deliğe kim girecek?
+- Ben.
+
+535
+01:09:48,225 --> 01:09:50,143
+Hayır.
+
+536
+01:09:50,268 --> 01:09:54,815
+Sen ve Ash, ana kapıya gidin.
+
+537
+01:09:54,940 --> 01:10:00,570
+Parker, Lambert, siz o
+bakım kapısını korumaya alın.
+
+538
+01:10:30,225 --> 01:10:33,979
+- İlk birleşim bölümündeyim.
+- Dallas, Ben buradayım.
+
+539
+01:10:34,062 --> 01:10:36,190
+- Parker?
+- Evet.
+
+540
+01:10:36,315 --> 01:10:40,194
+- Lambert?
+- Yerinde. Vericiyi okumaya çalışıyorum.
+
+541
+01:10:40,319 --> 01:10:43,071
+- Hava geçirmez kapı açık.
+- Tamam, Ripley.
+
+542
+01:10:43,155 --> 01:10:44,781
+Hazır.
+
+543
+01:10:55,167 --> 01:10:57,920
+Tamam, şu an seni izleyebiliyorum.
+
+544
+01:11:14,019 --> 01:11:16,563
+Üçüncü birleşim kapağını aç.
+
+545
+01:11:33,747 --> 01:11:35,416
+Tamam, geçtim.
+
+546
+01:11:35,708 --> 01:11:37,334
+Ripley?
+- Evet.
+
+547
+01:11:37,501 --> 01:11:40,004
+Arkamdan bütün kapakları kapat.
+
+548
+01:11:40,295 --> 01:11:42,381
+Ben harekete geçiyorum.
+
+549
+01:11:56,979 --> 01:11:59,815
+Dallas, dur. Sanırım buldum.
+
+550
+01:11:59,898 --> 01:12:03,110
+- Evet, buldum onu.
+- Nerede?
+
+551
+01:12:04,612 --> 01:12:07,615
+Üçüncü bölüme yakın bir yerlerde.
+
+552
+01:12:07,698 --> 01:12:09,783
+Tamam. Harekete geçin.
+
+553
+01:12:29,512 --> 01:12:35,226
+Tam o civarda bir yerde.
+Dallas, Dikkatli olman lazım.
+
+554
+01:12:43,442 --> 01:12:50,991
+Pekala. Üçüncü bölüme ulaştım
+ve aşağı iniyorum.
+
+555
+01:13:09,510 --> 01:13:12,680
+Bu cihazın nesi var?
+
+556
+01:13:13,431 --> 01:13:16,976
+Dallas, Bir süre olduğun yerde kal. Ben...
+
+557
+01:13:17,893 --> 01:13:20,730
+- Sinyal kayboldu!
+- Ne?
+
+558
+01:13:20,813 --> 01:13:22,064
+Emin misin?
+
+559
+01:13:22,148 --> 01:13:27,278
+Orada olmadığından emin misin?
+Oralarda bir yerde olmalı.
+
+560
+01:13:30,406 --> 01:13:34,285
+Şuna bir göz at, Lambert.
+Belki de parazit yapıyor.
+
+561
+01:13:34,368 --> 01:13:39,373
+Dallas, hiç iz olmadığından emin misin?
+Orada.
+
+562
+01:13:39,457 --> 01:13:41,834
+Oralarda bir yerde olmalı.
+
+563
+01:13:42,710 --> 01:13:44,337
+Dallas?
+
+564
+01:13:46,547 --> 01:13:48,341
+Buna inanamıyorum.
+
+565
+01:13:48,633 --> 01:13:50,676
+Pekala.
+
+566
+01:13:56,641 --> 01:13:59,185
+Bana yakın mı? Buradan çıkmak istiyorum.
+
+567
+01:14:01,312 --> 01:14:03,940
+Hay Allah! Tam sana doğru geliyor.
+
+568
+01:14:12,114 --> 01:14:13,699
+Git, çık oradan!
+
+569
+01:14:13,783 --> 01:14:15,993
+Çık!
+
+570
+01:14:16,077 --> 01:14:18,079
+Dallas! Çık, Dallas!
+
+571
+01:14:18,162 --> 01:14:21,207
+Çık, Dallas! Dışarı çık!
+
+572
+01:14:22,208 --> 01:14:25,086
+Hayır! Oradan değil! öbür taraftan!
+
+573
+01:14:27,004 --> 01:14:28,798
+Dallas?
+
+574
+01:14:28,881 --> 01:14:30,633
+- Hayır.
+- Sakin ol.
+
+575
+01:14:30,716 --> 01:14:32,802
+Dallas!
+
+576
+01:14:38,057 --> 01:14:40,977
+Bunu yerde bulduk.
+
+577
+01:14:41,894 --> 01:14:43,771
+Kan lekesi yok.
+
+578
+01:14:44,397 --> 01:14:46,482
+Dallas’tan iz yok.
+
+579
+01:14:47,483 --> 01:14:49,569
+Hiç bir şey yok.
+
+580
+01:14:53,948 --> 01:14:58,619
+- Neden kimse bir şey söylemiyor?
+- Düşünüyorum.
+
+581
+01:15:00,288 --> 01:15:06,669
+Daha iyi bir fikri olan yoksa, Dallas'ın
+planına uygun hareket edeceğiz.
+
+582
+01:15:06,753 --> 01:15:12,592
+Ne? Diğerleri gibi ölmek için mi?
+Hayır. Aklını mı kaçırdın.
+
+583
+01:15:12,675 --> 01:15:17,055
+- Daha iyi bir fikrin mi var?
+- Evet. Gemiyi terk edelim derim.
+
+584
+01:15:17,138 --> 01:15:22,685
+Mekiğe atlayıp buradan çıkalım
+ve birilerinin bizi bulacağını umalım.
+
+585
+01:15:22,769 --> 01:15:24,103
+Lambert, şşş.
+
+586
+01:15:24,187 --> 01:15:28,483
+- Mekik dört kişiyi alamaz.
+- Neden kura çekmiyoruz?
+
+587
+01:15:28,566 --> 01:15:31,611
+Kura falan çekmiyorum.
+Artık bu kahrolası şeyi öldürmekten yanayım.
+
+588
+01:15:31,694 --> 01:15:37,158
+Tamam. O halde öldürmeyi deneyelim.
+Hava borularını kullandığını biliyoruz...
+
+589
+01:15:37,241 --> 01:15:40,119
+Beni dinler misiniz, Parker? Susun!
+
+590
+01:15:40,203 --> 01:15:43,748
+Hadi dinleyelim.. Hadi dinleyelim.
+
+591
+01:15:43,831 --> 01:15:47,418
+- Hava borularını kullanıyor.
+- Bunu bilmiyoruz...
+
+592
+01:15:47,502 --> 01:15:51,673
+Bu tek yol.
+İkili gruplara ayrılacağız.
+
+593
+01:15:51,756 --> 01:15:55,385
+Adım adım ilerleyecek ve her bölümü
+ve her deliği,
+
+594
+01:15:55,468 --> 01:15:59,722
+onu köşeye sıkıştırana kadar kapatacağız,
+sonra da uzaya savuracağız.
+
+595
+01:15:59,806 --> 01:16:01,891
+Kabul edilebilir bir plan mı sizce?
+
+596
+01:16:01,975 --> 01:16:04,060
+Bu öldürmek demek oluyorsa, evet.
+
+597
+01:16:04,352 --> 01:16:05,979
+Tamamen, öldürmek anlamına geliyor...
+
+598
+01:16:07,397 --> 01:16:09,315
+Ama birbirimizden uzaklaşmamalıyız.
+
+599
+01:16:11,317 --> 01:16:13,444
+- Silahlarımız ne durumda?
+- İyi.
+
+600
+01:16:13,528 --> 01:16:15,488
+Bunun doldurulması gerek.
+
+601
+01:16:15,572 --> 01:16:17,907
+Yapar mısın, lütfen?
+
+602
+01:16:17,991 --> 01:16:21,744
+- Ash, onunla git.
+- Hayır, Ben kendim hallederim, Ash.
+
+603
+01:16:21,828 --> 01:16:23,913
+Beni takip etme.
+
+604
+01:16:27,333 --> 01:16:29,419
+Ash!
+
+605
+01:16:30,712 --> 01:16:33,840
+Senin ya da Anne'nin bir önerisi var mı?
+
+606
+01:16:35,133 --> 01:16:37,510
+Hayır. Hala karşılaştırma yapmaktayız.
+
+607
+01:16:38,762 --> 01:16:42,974
+Ne dedin? Hala karşılaştırıyor musunuz?
+
+608
+01:16:44,517 --> 01:16:47,312
+İnanamıyorum.
+
+609
+01:16:48,813 --> 01:16:53,568
+- Ne yapmamı istiyordun?
+- Şimdiye dek ne yapıyorsan, Ash. Hiçbir şey.
+
+610
+01:16:53,651 --> 01:16:59,574
+Şimdi Anne'yle bağlantıya geçeceğim,
+cevaplarımı kendim alırım, teşekkürler.
+
+611
+01:17:00,700 --> 01:17:02,786
+Pekala.
+
+612
+01:17:49,791 --> 01:17:50,959
+ARACI 2037 SORUŞTURMAYA HAZIR
+
+613
+01:17:50,959 --> 01:17:53,753
+BİLİMİN YARATIĞI YOK ETME
+YETERSİZLİĞİYLE İLGİLİ AÇIKLAMA İSTEMİ
+
+614
+01:17:53,837 --> 01:17:56,464
+AÇIKLAMA YAPILAMADI
+
+615
+01:18:02,137 --> 01:18:03,513
+EK PERSONEL İSTEMİ
+
+616
+01:18:03,513 --> 01:18:04,514
+EK PERSONELE İZİN YOK
+
+617
+01:18:04,514 --> 01:18:08,602
+ÖZEL EMİR 937
+SADECE BİLİM ADAMINA MAHSUS
+
+618
+01:18:12,397 --> 01:18:15,984
+YENİ ACİL EMİR 100375
+ÖZEL EMİR 937 NEDİR?
+
+619
+01:18:23,950 --> 01:18:26,620
+NOSTROMO YENİ KOORDİNATLARLA
+ROTA DEĞİŞTİRDİ
+
+620
+01:18:26,661 --> 01:18:29,164
+CANLI FORMU İNCELE
+ÖRNEK BUL
+
+621
+01:18:29,498 --> 01:18:32,501
+ÖNCELİK BİR: ORGANİZMAYI
+ANALİZ İÇİN GERİ GÖNDER
+
+622
+01:18:33,001 --> 01:18:34,961
+DİĞER OLASILIKLAR
+İKİNCİ PLANDA
+
+623
+01:18:35,045 --> 01:18:37,631
+MÜRETTEBAT FEDA EDİLEBİLİR
+
+624
+01:18:41,093 --> 01:18:44,971
+Bunun bir açıklaması var, biliyorsun.
+
+625
+01:18:45,097 --> 01:18:48,767
+Senin kahrolasıca açıklamanı
+duymak istemiyorum.
+
+626
+01:19:05,909 --> 01:19:08,370
+Parker. Lambert?
+
+627
+01:19:30,267 --> 01:19:32,352
+Ash!
+
+628
+01:19:35,647 --> 01:19:37,733
+Kapıyı açar mısın?
+
+629
+01:19:42,196 --> 01:19:44,489
+Geçmeme izin ver, Ash.
+
+630
+01:21:05,321 --> 01:21:07,031
+Ne yaptığını sanıyorsun?
+
+631
+01:21:25,007 --> 01:21:27,927
+Kaldır onu! Kaldır onu, kaldır onu!
+
+632
+01:21:41,273 --> 01:21:43,150
+Bu bir android!
+
+633
+01:21:57,998 --> 01:22:00,042
+Tanrım...
+
+634
+01:22:03,129 --> 01:22:06,424
+O bir robot.
+Ash kahrolası bir robot.
+
+635
+01:22:08,092 --> 01:22:10,177
+Tanrım.
+
+636
+01:22:16,726 --> 01:22:18,686
+Kahretsin.
+
+637
+01:22:20,146 --> 01:22:22,106
+Alın şu şeyi üstümden.
+
+638
+01:22:29,655 --> 01:22:31,907
+Tanrım... Tanrım...
+
+639
+01:22:31,991 --> 01:22:34,243
+Aman Tanrım.
+
+640
+01:22:37,913 --> 01:22:40,916
+Şirket bize nasıl,
+kahrolası bir robot gönderir?
+
+641
+01:22:41,000 --> 01:22:44,920
+Yaratığı, silah bölümü için
+istemiş olmalılar.
+
+642
+01:22:45,004 --> 01:22:47,590
+Onca zamandır koruyordu.
+
+643
+01:22:47,673 --> 01:22:52,178
+- Parker, Bağlar mısın?
+- Um... Bilmiyorum...
+
+644
+01:22:52,261 --> 01:22:55,765
+Nasıl öldürüleceğini biliyor olabilir.
+
+645
+01:23:20,164 --> 01:23:22,625
+Ash, beni duyabiliyor musun?
+
+646
+01:23:35,096 --> 01:23:37,598
+Duyuyorum.
+
+647
+01:23:41,894 --> 01:23:44,355
+Özel görevin neydi?
+
+648
+01:23:44,438 --> 01:23:47,567
+Okudun ya.
+Anlaşılır olduğunu sanıyordum.
+
+649
+01:23:47,650 --> 01:23:53,489
+- Neydi?
+- Canlı formu geri getir, öncelik bir.
+
+650
+01:23:53,573 --> 01:23:56,492
+Diğer önemli emirler iptal edildi.
+
+651
+01:23:59,245 --> 01:24:04,000
+Kahrolasıca şirket.
+Ya bizim canımız, seni orospu çocuğu?
+
+652
+01:24:04,083 --> 01:24:07,920
+Tekrarlıyorum, diğer emirler iptal edildi.
+
+653
+01:24:08,004 --> 01:24:12,592
+Onu nasıl öldüreceğiz, Ash?
+Öldürmenin bir yolu olmalı.
+
+654
+01:24:12,675 --> 01:24:15,845
+- Nasıl yapacağız?
+- Siz yapamazsınız.
+
+655
+01:24:16,763 --> 01:24:18,598
+Bu saçmalık.
+
+656
+01:24:18,681 --> 01:24:23,853
+Neyle karşı karşıya olduğunuzu
+hala anlamıyorsunuz, değil mi?
+
+657
+01:24:23,936 --> 01:24:26,606
+Mükemmel organizma.
+
+658
+01:24:29,150 --> 01:24:34,030
+Yapısal mükemmelliği,
+sadece düşmanlığıyla eş durumda.
+
+659
+01:24:34,113 --> 01:24:36,199
+Hayranlık duyuyorsun.
+
+660
+01:24:39,327 --> 01:24:42,038
+Doğallığına hayranlık duyuyorum.
+
+661
+01:24:45,291 --> 01:24:47,585
+Sağ kalmaya kararlı,
+
+662
+01:24:49,504 --> 01:24:52,048
+vicdan,
+
+663
+01:24:52,131 --> 01:24:55,468
+pişmanlık ya da
+
+664
+01:24:55,551 --> 01:24:57,845
+ahlak kuruntularından arınmış.
+
+665
+01:24:59,639 --> 01:25:04,143
+Bu kadarı bana yeter,
+ve senden fişi çıkarmanı istiyorum.
+
+666
+01:25:04,811 --> 01:25:06,896
+Son bir söz.
+
+667
+01:25:08,189 --> 01:25:09,399
+Ne?
+
+668
+01:25:09,899 --> 01:25:14,070
+Şansınızın ne olduğu konusunda yalan
+söyleyemem, ama...
+
+669
+01:25:16,948 --> 01:25:19,993
+Size acıyorum.
+
+670
+01:25:21,911 --> 01:25:25,248
+Gemiyi havaya uçuracağız.
+
+671
+01:25:25,331 --> 01:25:28,001
+Mekikle şansımızı deneyeceğiz.
+
+672
+01:25:28,084 --> 01:25:30,712
+- Gemiyi havaya uçur.
+- Güzel.
+
+673
+01:25:30,795 --> 01:25:32,881
+Hadi.
+
+674
+01:25:59,282 --> 01:26:01,951
+Bağlantıları kesince,
+geminin patlamasına ne kadar vakit kalacak?
+
+675
+01:26:02,035 --> 01:26:03,953
+- On dakika.
+- Bu iş ciddi.
+
+676
+01:26:04,079 --> 01:26:09,042
+On dakikada buradan çıkamazsak...
+uzayda kaybolmak için rokete ihtiyacımız kalmayacak.
+
+677
+01:26:09,167 --> 01:26:13,213
+Hava destek sistemi için soğutucu lazım.
+
+678
+01:26:17,884 --> 01:26:22,597
+Siz ikiniz, taşıyabileceğiniz kadar soğutucu
+getirin. Ben mekiği hazırlayacağım.
+
+679
+01:26:22,764 --> 01:26:25,976
+Size yaklaşık yedi dakika veriyorum.
+
+680
+01:26:26,101 --> 01:26:32,440
+Siz dönünce, kumandaları kapatacağım,
+ardından bu gemiyi uzaya doğru fırlatacağız.
+
+681
+01:26:32,565 --> 01:26:34,276
+- Hazır mısınız?
+- Dikkatli ol.
+
+682
+01:26:34,401 --> 01:26:36,653
+Yedi dakika.
+
+683
+01:26:58,925 --> 01:27:00,969
+Sakin ol.
+
+684
+01:27:05,182 --> 01:27:07,225
+Jones?
+
+685
+01:27:52,813 --> 01:27:54,898
+Jones?
+
+686
+01:28:24,720 --> 01:28:25,262
+Tamam, şişeleri kontrol et.
+
+687
+01:28:40,193 --> 01:28:42,279
+Jones?
+
+688
+01:28:46,742 --> 01:28:49,077
+- Nasıl gidiyor?
+- İyi.
+
+689
+01:28:51,788 --> 01:28:53,874
+Tamam, önden git.
+
+690
+01:28:55,375 --> 01:28:57,461
+Buraya gel, Jones.
+
+691
+01:29:02,925 --> 01:29:04,968
+Pisi, pisi, pisi.
+
+692
+01:29:05,052 --> 01:29:07,137
+Gel buraya, Jones, gel buraya.
+
+693
+01:29:07,221 --> 01:29:09,306
+Jones.
+
+694
+01:29:13,644 --> 01:29:18,857
+Gel buraya, oğlum. Gel buraya. Sevimli pisi.
+
+695
+01:29:20,234 --> 01:29:22,111
+Jones?
+
+696
+01:29:23,278 --> 01:29:25,072
+Jones?
+
+697
+01:29:28,951 --> 01:29:31,954
+Gel buraya. Gel buraya, tatlım.
+
+698
+01:29:33,080 --> 01:29:35,165
+Jones.
+
+699
+01:29:41,964 --> 01:29:45,092
+Jones. Jones.
+
+700
+01:29:47,636 --> 01:29:49,138
+Jones.
+
+701
+01:29:54,268 --> 01:29:56,353
+Jones! Kahretsin.
+
+702
+01:30:00,941 --> 01:30:03,027
+Yakaladım işte.
+
+703
+01:30:08,699 --> 01:30:11,660
+Hadi, tatlım. Şirin kedi.
+
+704
+01:30:33,432 --> 01:30:36,352
+Aman Tanrım...
+
+705
+01:30:37,144 --> 01:30:40,356
+- Çekil.
+- Yapamam.
+
+706
+01:30:40,439 --> 01:30:43,317
+Çekil! Bizi öldürecek!
+
+707
+01:30:43,400 --> 01:30:45,319
+Yapamam!
+
+708
+01:30:45,402 --> 01:30:48,739
+- Tanrı aşkına, çekil!
+- Parker... Lambert...
+
+709
+01:30:59,333 --> 01:31:01,585
+Çekil şuradan, Lambert!
+
+710
+01:31:04,672 --> 01:31:07,883
+Lambert! Lambert... Parker...
+
+711
+01:31:37,204 --> 01:31:39,582
+Gebermeye hazırlan!
+
+712
+01:32:17,370 --> 01:32:19,580
+Parker?
+
+713
+01:33:14,719 --> 01:33:17,013
+TEHLİKE
+ACİL İMHA SİSTEMİ
+
+714
+01:33:17,096 --> 01:33:20,558
+BAŞLATILDIĞINDA, GEMİ
+Z EKSİ 10 DAKİKA İÇİNDE PATLAYACAK
+
+715
+01:33:52,548 --> 01:33:54,092
+Tehlike.
+
+716
+01:33:54,217 --> 01:33:59,138
+Acil imha sistemi
+harekete geçirildi.
+
+717
+01:33:59,264 --> 01:34:05,228
+Gemi Z eksi 10 dakika
+içinde patlayacak.
+
+718
+01:34:05,353 --> 01:34:13,611
+Otomatik patlamayı iptal seçeneğini
+kullanmaya Z eksi beş dakika var.
+
+719
+01:35:25,725 --> 01:35:27,769
+Dallas?
+
+720
+01:35:34,150 --> 01:35:36,236
+Brett.
+
+721
+01:35:45,245 --> 01:35:47,706
+Öldür beni.
+
+722
+01:35:48,873 --> 01:35:52,419
+Öldür beni...
+
+723
+01:37:01,238 --> 01:37:10,122
+Otomatik patlamayı iptal seçeneğini
+kullanmaya Z eksi üç dakika var.
+
+724
+01:37:47,743 --> 01:37:57,044
+Otomatik patlamayı iptal seçeneğini
+kullanmaya Z eksi bir dakika var.
+
+725
+01:38:03,967 --> 01:38:06,720
+29, 28,
+
+726
+01:38:06,803 --> 01:38:08,013
+27,
+
+727
+01:38:08,096 --> 01:38:10,891
+26, 25,
+
+728
+01:38:10,974 --> 01:38:12,726
+24,
+
+729
+01:38:12,809 --> 01:38:15,479
+23, 22,
+
+730
+01:38:15,562 --> 01:38:18,565
+21, 20 saniye.
+
+731
+01:38:18,649 --> 01:38:21,151
+19, 18,
+
+732
+01:38:21,235 --> 01:38:23,904
+17, 16,
+
+733
+01:38:23,987 --> 01:38:27,533
+15, 14, 13,
+
+734
+01:38:27,658 --> 01:38:29,243
+12,
+
+735
+01:38:29,368 --> 01:38:31,912
+11, 10 saniye.
+
+736
+01:38:31,995 --> 01:38:33,997
+9, 8,
+
+737
+01:38:34,081 --> 01:38:37,042
+7, 6,
+
+738
+01:38:37,126 --> 01:38:40,003
+5, 4,
+
+739
+01:38:40,087 --> 01:38:42,798
+3, 2,
+
+740
+01:38:42,881 --> 01:38:44,508
+1.
+
+741
+01:38:44,591 --> 01:38:50,639
+Otomatik patlamayı iptal seçeneğini
+kullanma zamanı doldu.
+
+742
+01:38:51,932 --> 01:38:55,936
+Anne! Havalandırma ünitesini
+yeniden açtım.
+
+743
+01:38:56,020 --> 01:38:58,022
+Anne!
+
+744
+01:38:58,105 --> 01:39:05,279
+Gemi, Z eksi beş dakika içinde
+otomatik olarak patlayacak.
+
+745
+01:39:06,739 --> 01:39:08,824
+Seni orospu!
+
+746
+01:39:27,635 --> 01:39:29,720
+Kahretsin.
+
+747
+01:40:30,364 --> 01:40:32,533
+Jones.
+
+748
+01:41:15,952 --> 01:41:20,665
+Gemiyi terk etmeniz için
+bir dakikanız kaldı.
+
+749
+01:41:20,748 --> 01:41:26,671
+Gemi, Z eksi bir dakika içinde
+otomatik olarak patlayacak.
+
+750
+01:41:40,726 --> 01:41:42,061
+TASFİYE
+
+751
+01:41:47,775 --> 01:41:51,779
+Z eksi otuz saniye
+
+752
+01:41:51,946 --> 01:41:54,782
+29, 28,
+
+753
+01:41:54,949 --> 01:41:56,993
+27, 26,
+
+754
+01:41:57,118 --> 01:42:00,079
+25, 24,
+
+755
+01:42:00,204 --> 01:42:03,082
+23, 22,
+
+756
+01:42:03,207 --> 01:42:06,085
+21, 20 saniye.
+
+757
+01:42:06,210 --> 01:42:08,004
+19, 18,
+
+758
+01:42:08,129 --> 01:42:11,424
+17, 16,
+
+759
+01:42:11,549 --> 01:42:13,176
+15, 14,
+
+760
+01:42:13,259 --> 01:42:16,554
+13, 12, 11,
+
+761
+01:42:16,679 --> 01:42:18,055
+10 saniye.
+
+762
+01:42:18,139 --> 01:42:20,600
+9, 8,
+
+763
+01:42:20,725 --> 01:42:22,935
+7, 6,
+
+764
+01:42:23,061 --> 01:42:25,104
+5, 4,
+
+765
+01:42:25,229 --> 01:42:28,066
+3, 2, 1.
+
+766
+01:43:16,698 --> 01:43:19,158
+Hallettim seni,
+
+767
+01:43:20,702 --> 01:43:22,745
+orospu çocuğu.
+
+768
+01:44:07,290 --> 01:44:09,375
+Her şey yolunda.
+
+769
+01:44:34,025 --> 01:44:36,903
+Evet, seni yeniden görmek de güzel.
+
+770
+01:44:38,989 --> 01:44:40,907
+Tamam.
+
+771
+01:49:12,054 --> 01:49:13,180
+Hadi.
+
+772
+01:49:13,264 --> 01:49:18,936
+Sen... benim... uğurumsun.
+
+773
+01:49:19,687 --> 01:49:23,357
+Sen benim...
+
+774
+01:49:23,440 --> 01:49:25,901
+uğurumsun.
+
+775
+01:49:25,985 --> 01:49:27,695
+Sen...
+
+776
+01:49:27,778 --> 01:49:31,699
+Şans, şans, şans, şans...
+
+777
+01:49:31,782 --> 01:49:33,576
+Tamam.
+
+778
+01:49:41,917 --> 01:49:43,377
+Hadi.
+
+779
+01:49:43,461 --> 01:49:49,050
+Sen... benim uğurumsun...
+
+780
+01:49:49,967 --> 01:49:51,594
+Sen...
+
+781
+01:49:55,097 --> 01:49:57,767
+...benim uğurumsun...
+
+782
+01:49:57,892 --> 01:50:02,271
+Sen benim uğurumsun...
+
+783
+01:50:02,396 --> 01:50:06,067
+Sen benim...
+
+784
+01:50:30,549 --> 01:50:34,845
+Sen... benim uğurumsun...
+
+785
+01:51:52,965 --> 01:51:57,011
+Ticari gemi Nostromo'dan
+son rapor.
+
+786
+01:51:57,095 --> 01:51:59,972
+Üçüncü subay yazıyor.
+
+787
+01:52:00,056 --> 01:52:03,184
+Mürettebatın diğer üyeleri -
+
+788
+01:52:03,267 --> 01:52:04,477
+Kane,
+
+789
+01:52:04,560 --> 01:52:12,193
+Lambert, Parker, Brett, Ash
+ve Kaptan Dallas - öldüler.
+
+790
+01:52:12,902 --> 01:52:15,488
+Kargo ve gemi yok edildi.
+
+791
+01:52:16,698 --> 01:52:20,451
+Altı hafta içinde sınırda olacağım.
+
+792
+01:52:20,535 --> 01:52:24,289
+Şansım yaver giderse,
+şebeke beni almaya gelecek.
+
+793
+01:52:24,372 --> 01:52:29,794
+Ben Ripley,
+Nostromo'dan hayatta kalan son kişi,
+
+794
+01:52:29,877 --> 01:52:31,963
+bitiriyorum.
+
+795
+01:52:38,970 --> 01:52:41,055
+Hadi, kedicik.
