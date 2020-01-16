@@ -1,0 +1,5511 @@
+1
+00:03:07,550 --> 00:03:10,050
+<i>Maycomb, 1932'de
+ilk gördüğümde bile...</i>
+
+2
+00:03:10,250 --> 00:03:13,050
+<i>bildiğiniz bezgin kasabalardandı.</i>
+
+3
+00:03:14,850 --> 00:03:16,650
+<i>Ama o zamanlar iklimi
+biraz daha sıcaktı.</i>
+
+4
+00:03:18,050 --> 00:03:21,350
+<i>Erkeklerin kolalı yakaları daha
+sabahın dokuzunda kırış kırış olurdu.</i>
+
+5
+00:03:21,550 --> 00:03:26,250
+<i>Kadınlar öğleyin 12'den önce ve saat 3
+uykularından sonra yıkanırlardı...</i>
+
+6
+00:03:26,550 --> 00:03:28,950
+<i>ve akşam karanlığı bastığında
+pasta gibi yumuşacık olurlardı:</i>
+
+7
+00:03:29,050 --> 00:03:31,650
+<i>Üzeri şekerli krema yerine ter ve
+tatlı talk pudrasıyla kaplı bir pasta.</i>
+
+8
+00:03:33,650 --> 00:03:37,250
+<i>Gün 24 saat olsa bile
+sanki saatler daha uzun sürerdi.</i>
+
+9
+00:03:39,050 --> 00:03:42,250
+<i>Telaş yoktu: Çünkü gidilecek yer,
+satın alınacak bir şeyler yoktu...</i>
+
+10
+00:03:42,450 --> 00:03:44,150
+<i>alışveriş için para da yoktu...</i>
+
+11
+00:03:44,250 --> 00:03:46,250
+<i>aslında Maycomb County'ye
+hiçbir şeyden korkmaması gerektiği...</i>
+
+12
+00:03:46,350 --> 00:03:48,750
+<i>korkacağı tek şeyin kendisi olduğu
+çoktan söylenmişti.</i>
+
+13
+00:03:50,650 --> 00:03:53,350
+<i>O yaz ben altı yaşımdaydım.</i>
+
+14
+00:03:53,550 --> 00:03:57,050
+- Günaydın, Bay Cunningham.
+- Günaydın, küçük hanım.
+
+15
+00:03:57,150 --> 00:04:00,950
+Babam giyiniyor.
+Çağırmamı ister misiniz?
+
+16
+00:04:01,250 --> 00:04:04,950
+- Hayır küçük hanım, rahatsız olmasın.
+- Lafı mı olur, Bay Cunningham.
+
+17
+00:04:05,250 --> 00:04:07,550
+Sizi gördüğüne sevinecektir!
+Atticus!
+
+18
+00:04:12,350 --> 00:04:14,350
+Bay Cunningham geldi.
+
+19
+00:04:16,350 --> 00:04:19,150
+- Günaydın Walter.
+- Günaydın Bay Finch.
+
+20
+00:04:19,450 --> 00:04:21,750
+Sizi katiyen rahatsız
+etmek istemezdim.
+
+21
+00:04:22,050 --> 00:04:24,950
+Vasiyet yazma ücretinin bir kısmına
+karşılık bu cevizleri getirdim.
+
+22
+00:04:25,150 --> 00:04:28,850
+Teşekkür ederim. Geçen haftaki
+pazılar lezizdi.
+
+23
+00:04:29,150 --> 00:04:31,350
+- İyi sabahlar.
+- İyi sabahlar.
+
+24
+00:04:36,950 --> 00:04:38,950
+Scout, Bay Cunningham bir kez daha...
+
+25
+00:04:39,050 --> 00:04:43,050
+geldiğinde beni çağırmasan,
+diyorum.
+
+26
+00:04:43,350 --> 00:04:46,550
+- Teşekkür etmek istersin sandım.
+- Tabii ki isterim.
+
+27
+00:04:46,850 --> 00:04:49,150
+Bence kendisine teşekkür edilmesinden
+sıkılıyor.
+
+28
+00:04:55,050 --> 00:04:56,950
+Sana niçin bütün bunları
+getiriyor ki?
+
+29
+00:04:57,050 --> 00:04:59,450
+Bana borçlu olduğu avukatlık ücretini
+bu şekilde ödüyor.
+
+30
+00:04:59,650 --> 00:05:02,650
+- Neden bu şekilde ödeme yapıyor?
+- Ödeyebilmesinin tek yolu bu da ondan.
+
+31
+00:05:02,950 --> 00:05:04,150
+Hiç parası yok.
+
+32
+00:05:04,350 --> 00:05:06,250
+- Yoksul mu?
+- Evet.
+
+33
+00:05:09,350 --> 00:05:13,250
+- Biz de yoksul muyuz?
+- Maalesef evet.
+
+34
+00:05:13,450 --> 00:05:16,150
+Biz Cunninghamlar kadar
+yoksul muyuz?
+
+35
+00:05:16,350 --> 00:05:20,150
+Hayır, pek sayılmaz. Cunninghamlar
+kırsal yöreden, onlar çiftçi.
+
+36
+00:05:21,850 --> 00:05:23,650
+Buhrandan en çok çiftçiler etkilendi.
+
+37
+00:05:25,250 --> 00:05:30,350
+- Scout, kardeşine seslensene.
+- Atticus. Jem ağaca çıkmış.
+
+38
+00:05:30,650 --> 00:05:32,550
+Metodist takımında Amerikan futbolu
+oynamayı kabul etmezsen...
+
+39
+00:05:32,650 --> 00:05:35,250
+aşağı inmeyecekmiş,
+öyle söylüyor.
+
+40
+00:05:39,050 --> 00:05:41,050
+Jem.
+
+41
+00:05:42,950 --> 00:05:46,750
+Oğlum, neden aşağı inip bizimle
+birlikte kahvaltı etmiyorsun?
+
+42
+00:05:47,050 --> 00:05:49,550
+Bak, Calpurnia kahvaltı için ne yapmış.
+Sıcak kurabiye.
+
+43
+00:05:49,750 --> 00:05:53,550
+Hayır, baba. Metodist takımında
+futbol oynamazsan inmem.
+
+44
+00:05:53,650 --> 00:05:58,250
+Oğlum, yapamam. Sahaya çıkamayacak
+kadar yaşlandığımı söylemiştim.
+
+45
+00:05:58,550 --> 00:06:01,050
+Ne de olsa ben senin
+biricik babanım.
+
+46
+00:06:01,250 --> 00:06:03,950
+Benim sahaya çıkıp kafamı kırdırmamı
+ister misin?
+
+47
+00:06:04,150 --> 00:06:05,650
+İnmeyeceğim işte!
+
+48
+00:06:07,050 --> 00:06:08,950
+Canın isterse.
+
+49
+00:06:13,550 --> 00:06:15,650
+Günaydın.
+
+50
+00:06:15,750 --> 00:06:19,350
+- Günaydın, Bayan Maudie.
+- Ne oluyor orada?
+
+51
+00:06:19,550 --> 00:06:23,250
+Canıma okunuyor.
+Jem ağaca çıkmış, inmiyor...
+
+52
+00:06:23,450 --> 00:06:26,250
+Atticus Metodist takımında oynamaya...
+razı olmazsa inmeyecekmiş.
+
+53
+00:06:27,150 --> 00:06:29,750
+Atticus da yaşlandığını söylüyor.
+
+54
+00:06:30,050 --> 00:06:32,950
+Ne zaman ondan bir şey istesem
+artık benden geçti, diyor!
+
+55
+00:06:33,050 --> 00:06:37,750
+- Her şey için çok yaşlıymış!
+- Ama pek çok şeyi de yapabiliyor.
+
+56
+00:06:38,050 --> 00:06:41,050
+Uslu çocuk olun.
+Calipurnia'nın sözünü dinleyin.
+
+57
+00:06:42,250 --> 00:06:44,850
+- Günaydın, Maudie.
+- Günaydın, Atticus.
+
+58
+00:06:45,050 --> 00:06:47,250
+Bana silah almıyor...
+
+59
+00:06:47,450 --> 00:06:50,850
+ve benimle ancak hafif futbol
+oynarmış.
+
+60
+00:06:52,050 --> 00:06:56,650
+Müvekkillerine öyle sıkı vasiyetler
+yazıyor ki asla delinmez.
+
+61
+00:06:56,850 --> 00:07:00,150
+Yakınmayı bırakıp halinize
+şükredin. İkiniz de.
+
+62
+00:07:00,350 --> 00:07:03,350
+Şükürler olsun ki yaşına uygun
+davranmayı akıI ediyor.
+
+63
+00:07:04,050 --> 00:07:07,150
+- Jem, o oldukça yaşlandı.
+- Ben ne yapabilirim ki.
+
+64
+00:07:11,850 --> 00:07:13,650
+Hey.
+
+65
+00:07:17,550 --> 00:07:21,650
+- Sana da hey.
+- Ben Charles Baker Harris. Okumam var.
+
+66
+00:07:22,550 --> 00:07:25,350
+Okutmak istediğin bir şey varsa,
+ben okuyabilirim.
+
+67
+00:07:25,550 --> 00:07:28,250
+Kaç yaşındasın?
+Dört buçuk?
+
+68
+00:07:28,450 --> 00:07:31,650
+- Yediye basacağım.
+- O zaman anlaşıldı.
+
+69
+00:07:31,850 --> 00:07:33,850
+Scout'un doğduğundan beri
+okuması var...
+
+70
+00:07:34,050 --> 00:07:37,050
+üstelik de henüz okula gitmiyor,
+gelecek ay başlayacak.
+
+71
+00:07:37,250 --> 00:07:39,450
+Yediye basacak birisi için
+çok ufak gözüküyorsun.
+
+72
+00:07:39,750 --> 00:07:41,650
+Küçük olabilirim ama yaşlıyım.
+
+73
+00:07:42,850 --> 00:07:46,950
+Evde bana Dill derler.
+Mississippi'liyim, Meridian'dan...
+
+74
+00:07:47,150 --> 00:07:51,050
+ve iki haftalığına komşunuz Stephanie
+teyzemde kalıyorum.
+
+75
+00:07:51,350 --> 00:07:53,650
+Annem Meridian'da fotoğrafçıda
+çalışıyor.
+
+76
+00:07:53,850 --> 00:07:56,450
+Benim resmimi "Çocuk Güzeli"
+yarışmasına soktu...
+
+77
+00:07:56,650 --> 00:07:58,950
+ve sayemde beş dolar kazandı.
+
+78
+00:07:59,150 --> 00:08:03,150
+Parayı bana verdi, ben de 20 kez
+sinemaya gittim o parayla.
+
+79
+00:08:04,750 --> 00:08:08,150
+Bizim annemiz öldü, ama babamız var.
+Senin baban nerede?
+
+80
+00:08:08,850 --> 00:08:10,850
+Benim babam yok.
+
+81
+00:08:11,050 --> 00:08:13,350
+- Öldü mü?
+- Hayır.
+
+82
+00:08:15,950 --> 00:08:19,750
+Ölmediyse baban var demektir.
+Değil mi?
+
+83
+00:08:22,750 --> 00:08:24,750
+Susar mısın Scout?
+
+84
+00:08:25,850 --> 00:08:27,850
+Ne yaptım ki?
+
+85
+00:08:31,150 --> 00:08:35,350
+- Dill, bu Calpurnia.
+- Tanıştığımıza memnun oldum, Dill.
+
+86
+00:08:35,550 --> 00:08:37,350
+Ben de.
+
+87
+00:08:37,550 --> 00:08:39,650
+Babam L&N demiryolu
+şirketinin sahibidir.
+
+88
+00:08:39,850 --> 00:08:43,150
+Bana taa New Orleans'a kadar
+lokomotif kullandıracak.
+
+89
+00:08:43,450 --> 00:08:45,250
+Sahi mi?
+
+90
+00:08:47,350 --> 00:08:49,750
+İstediğini davet edebilirsin, diyor.
+
+91
+00:08:54,150 --> 00:08:57,850
+Bak, dünyanın gelmiş geçmiş en
+kötü adamı geçiyor.
+
+92
+00:09:01,450 --> 00:09:04,050
+Niçin en kötü adammış?
+
+93
+00:09:04,250 --> 00:09:06,750
+Bir kere...
+
+94
+00:09:07,850 --> 00:09:10,050
+Boo adlı bir oğlu var...
+
+95
+00:09:10,350 --> 00:09:13,350
+onu ordaki evinde yatağına
+zincirliyor.
+
+96
+00:09:16,750 --> 00:09:18,550
+Hadi ya!
+
+97
+00:09:23,350 --> 00:09:25,950
+Görüyor musun? Şurada oturuyor.
+
+98
+00:09:26,150 --> 00:09:30,750
+Boo ancak geceleri herkes uykudayken
+zifiri karanlıkta dışarı çıkıyor.
+
+99
+00:09:31,050 --> 00:09:33,150
+Gece yarısı uyandığında onun sesini
+duyabilirsin.
+
+100
+00:09:33,350 --> 00:09:36,050
+Bir keresinde tel kapımızı
+tırmaladığını duydum...
+
+101
+00:09:36,250 --> 00:09:39,350
+ama Atticus oraya vardığında
+o gitmişti.
+
+102
+00:09:40,650 --> 00:09:42,850
+Orada ne yaptığını merak ediyorum.
+
+103
+00:09:43,450 --> 00:09:46,950
+- Neye benzediğini merak ediyorum.
+- Şey...
+
+104
+00:09:48,250 --> 00:09:52,250
+ayak izlerine bakarsan
+boyu 1,95 falan olmalı.
+
+105
+00:09:52,550 --> 00:09:56,550
+Sincapları ve yakalayabildiği bütün
+kedileri çiğ çiğ yiyormuş.
+
+106
+00:09:56,850 --> 00:10:01,150
+Yüzünde, baştan aşağı, uzun,
+pürüzlü bir yara izi var.
+
+107
+00:10:01,550 --> 00:10:04,650
+Dişleri sapsarı ve çürük,
+gözleri de patlak...
+
+108
+00:10:04,850 --> 00:10:06,650
+ve hemen her zaman salyaları akıyor.
+
+109
+00:10:08,650 --> 00:10:10,950
+Sana inanmıyorum.
+
+110
+00:10:11,050 --> 00:10:14,350
+- Dill, orda ne yapıyorsun?
+- Eyvah, Stephanie Teyzem!
+
+111
+00:10:14,750 --> 00:10:18,650
+- Ödümü kopardınız!
+- Orada oynamanı istemiyorum.
+
+112
+00:10:18,950 --> 00:10:20,950
+Orada manyağın teki oturuyor,
+tehlikeli birisi o.
+
+113
+00:10:21,150 --> 00:10:22,550
+Gördün mü?
+
+114
+00:10:22,650 --> 00:10:25,450
+Onu Boo konusunda uyarmaya
+çalışıyordum ama bana inanmadı.
+
+115
+00:10:25,650 --> 00:10:27,750
+Ona inansan iyi olur,
+Bay Dill Harris.
+
+116
+00:10:27,950 --> 00:10:29,950
+Ona Boo'nun babasını nasıI öldürmeye
+yeltendiğini anlatsana.
+
+117
+00:10:30,150 --> 00:10:33,150
+Bir gün bahçemdeyken annesinin çığlık
+çığlığa dışarıya çıktığını gördüm...
+
+118
+00:10:33,350 --> 00:10:34,650
+"Hepimizi öldürecek!" diyordu.
+
+119
+00:10:34,850 --> 00:10:38,150
+Sonra anlaşıldı ki Boo karalama defteri
+için kağıt kesiyormuş...
+
+120
+00:10:38,450 --> 00:10:41,150
+babası gelince
+makası kaptığı gibi...
+
+121
+00:10:41,250 --> 00:10:44,350
+bacağına saplamış, sonra çıkarıp
+kağıt kesmeye devam etmiş.
+
+122
+00:10:44,550 --> 00:10:47,350
+Onu tımarhaneye göndermek istemişler
+ama babası...
+
+123
+00:10:47,550 --> 00:10:49,650
+"Bir Radley tımarhaneye gitmez." demiş.
+
+124
+00:10:49,850 --> 00:10:52,150
+Sonra onu adliyenin
+bodrumuna kapatmışlar...
+
+125
+00:10:52,350 --> 00:10:55,850
+orada rutubetten ölecekmiş, bunun
+üzerine babası onu eve geri getirmiş.
+
+126
+00:10:56,150 --> 00:10:59,850
+Hâlâ da orada, elinde makasıyla.
+
+127
+00:11:00,050 --> 00:11:02,350
+Ne yaptığını, ne düşündüğünü
+Allah bilir.
+
+128
+00:11:05,650 --> 00:11:09,750
+Altı, yedi, sekiz...
+
+129
+00:11:09,950 --> 00:11:12,450
+dokuz, on!
+
+130
+00:11:16,650 --> 00:11:18,550
+Hadi, Scout! Saat beş oldu!
+
+131
+00:11:23,350 --> 00:11:26,550
+- Nereye gidiyorsun?
+- Atticus'la buluşma zamanı.
+
+132
+00:11:26,750 --> 00:11:29,750
+- Neden babana Atticus diyorsun?
+- Çünkü Jem öyle diyor.
+
+133
+00:11:30,050 --> 00:11:32,050
+- Peki o neden öyle diyor.
+- Bilmem.
+
+134
+00:11:32,150 --> 00:11:35,050
+Konuşmayı öğrendiğinden
+beri hep öyle der.
+
+135
+00:11:39,250 --> 00:11:43,350
+Bekle. Dur.
+Bayan Dubose verandasında.
+
+136
+00:11:43,550 --> 00:11:46,950
+Bak, sana ne derse desin sakın
+cevap verme.
+
+137
+00:11:47,150 --> 00:11:49,850
+Kucağında, şalının altında İç
+Savaştan kalma bir tabanca var...
+
+138
+00:11:50,050 --> 00:11:52,350
+seni gözünü kırpmadan öldürür.
+
+139
+00:11:52,550 --> 00:11:54,350
+Yapma ya.
+
+140
+00:12:02,350 --> 00:12:05,650
+- Hey, Bayan Dubose.
+- Bana "Hey" deme, suratsız kız.
+
+141
+00:12:05,950 --> 00:12:09,050
+"İyi günler, Bayan Dubose" denir.
+
+142
+00:12:09,250 --> 00:12:11,750
+Sana bir şey söylediğimde
+yanıma gel.
+
+143
+00:12:11,950 --> 00:12:14,850
+Yanıma gel, dedim sana!
+
+144
+00:12:15,050 --> 00:12:16,850
+- Ben konuşurken beni dinle.
+- Atticus, bu Dill.
+
+145
+00:12:17,050 --> 00:12:19,950
+- Memnun oldum, Dill.
+- Baban sana saygı nedir öğretmedi mi?
+
+146
+00:12:20,050 --> 00:12:23,350
+Jean Louise Finch!
+Yanıma gel bakayım.
+
+147
+00:12:24,250 --> 00:12:27,350
+İyi günler, Bayan Dubose.
+
+148
+00:12:27,550 --> 00:12:31,150
+Oh, bugün resim gibisin.
+
+149
+00:12:31,350 --> 00:12:33,650
+Ne resmi olduğunu söylemiyor.
+
+150
+00:12:33,850 --> 00:12:36,550
+Aman Allahım!
+Şu çiçeklere bakın.
+
+151
+00:12:36,850 --> 00:12:39,750
+Hiç bundan daha
+güzel bir şey gördünüz mü?
+
+152
+00:12:39,950 --> 00:12:43,750
+Bayan Dubose, Bellingrath bahçeleri
+bile sizin çiçeklerinizin...
+
+153
+00:12:44,050 --> 00:12:46,350
+yanında hiç kalır.
+
+154
+00:12:46,550 --> 00:12:49,050
+Aslında geçen yılkiler kadar güzel
+olduklarını sanmıyorum.
+
+155
+00:12:49,150 --> 00:12:52,650
+Kadını iyi şeylerle oyalayıp
+ona kötü davranmayı unutturuyor.
+
+156
+00:12:52,850 --> 00:12:56,150
+Bence bahçeniz bu kasabanın
+en güzel yeri olacak.
+
+157
+00:12:56,350 --> 00:12:59,850
+Sizinle karşılaşmak harika bir
+bir şey Bayan Dubose.
+
+158
+00:13:13,050 --> 00:13:18,150
+"İki kedim vardı ve
+onları ilk salımla...
+
+159
+00:13:18,450 --> 00:13:21,650
+kıyıya çıkardım.
+
+160
+00:13:21,850 --> 00:13:25,450
+Bir de köpeğim vardı."
+
+161
+00:13:27,150 --> 00:13:30,150
+Boo Radley'in gerçekten geceleri gelip
+penceremden içeri...
+
+162
+00:13:30,250 --> 00:13:32,950
+baktığına inanıyor musun?
+
+163
+00:13:33,150 --> 00:13:36,350
+Jem öyle söylüyor. Bugün öğleden sonra
+evlerinin yanından geçerken...
+
+164
+00:13:36,550 --> 00:13:42,050
+Scout, sana ve Jem'e o zavallıları
+rahat bırakmanızı söylemiştim.
+
+165
+00:13:43,250 --> 00:13:46,850
+Evlerine yaklaşmayın, onları artık
+taciz etmeyin.
+
+166
+00:13:47,150 --> 00:13:50,150
+- Evet, efendim.
+- Bu gecelik bu kadar okumak yeter.
+
+167
+00:13:50,350 --> 00:13:53,050
+- Vakit geç oldu.
+- Saat kaç?
+
+168
+00:13:53,250 --> 00:13:57,050
+- 8:30.
+- Saatine bakabilir miyim?
+
+169
+00:14:16,150 --> 00:14:19,150
+"Sevgili kocam Atticus'a."
+
+170
+00:14:21,450 --> 00:14:24,450
+Jem bu saatin bir gün
+kendisinin olacağını söylüyor.
+
+171
+00:14:24,650 --> 00:14:27,350
+- Doğru.
+- Neden?
+
+172
+00:14:28,850 --> 00:14:33,750
+Babalarının saatlerinin erkek
+çocuklara kalması âdettendir.
+
+173
+00:14:35,550 --> 00:14:37,450
+Bana ne vereceksin?
+
+174
+00:14:38,950 --> 00:14:41,250
+Şey...
+
+175
+00:14:41,450 --> 00:14:44,650
+Bana ait başka değerli ne var
+bilmiyorum.
+
+176
+00:14:48,250 --> 00:14:51,150
+Ama bir inci kolye var.
+
+177
+00:14:51,350 --> 00:14:54,250
+Annene ait bir yüzük var.
+
+178
+00:14:54,450 --> 00:14:56,250
+Ve onları bir yere sakladım...
+
+179
+00:14:56,450 --> 00:14:58,950
+ve onlar senin olacak
+
+180
+00:15:08,350 --> 00:15:10,150
+- İyi geceler, Scout.
+- İyi geceler.
+
+181
+00:15:20,550 --> 00:15:22,450
+- İyi geceler, Jem.
+- İyi geceler.
+
+182
+00:15:37,250 --> 00:15:39,150
+Ne var?
+
+183
+00:15:42,750 --> 00:15:46,050
+- Annem öldüğünde kaç yaşındaydım?
+- İki.
+
+184
+00:15:47,250 --> 00:15:49,950
+- Sen kaç yaşındaydın?
+- Altı.
+
+185
+00:15:51,150 --> 00:15:53,750
+Benim şimdiki yaşımda mıydın yani?
+
+186
+00:15:56,550 --> 00:15:59,150
+Annemiz güzel miydi?
+
+187
+00:16:01,150 --> 00:16:03,050
+Annemiz iyi miydi?
+
+188
+00:16:07,450 --> 00:16:10,550
+- Onu sever miydin?
+- Evet.
+
+189
+00:16:10,850 --> 00:16:14,450
+- Ben onu sever miydim?
+- Evet.
+
+190
+00:16:17,950 --> 00:16:20,150
+Onu özlüyor musun?
+
+191
+00:16:30,250 --> 00:16:33,350
+- İyi akşamlar, Atticus.
+- İyi akşamlar, Hakim Bey.
+
+192
+00:16:37,650 --> 00:16:39,250
+Bayağı sıcak, değil mi?
+
+193
+00:16:39,850 --> 00:16:41,750
+Gerçekten öyle.
+
+194
+00:16:47,050 --> 00:16:50,350
+- Bayan Taylor nasıllar?
+- İyi. Gayet iyi, teşekkürler.
+
+195
+00:16:55,250 --> 00:16:57,950
+Atticus, Tom Robinson
+olayını duydun mu?
+
+196
+00:16:59,350 --> 00:17:01,150
+Evet, efendim.
+
+197
+00:17:02,150 --> 00:17:04,450
+Yarın büyük jüri toplanıp dava
+açılması konusunda karar verecek.
+
+198
+00:17:10,550 --> 00:17:14,550
+Onun savunmasıyla seni
+görevlendirmeyi düşünüyordum.
+
+199
+00:17:18,550 --> 00:17:21,850
+Ama şimdi büronda çok işin olduğunu
+fark ettim.
+
+200
+00:17:23,650 --> 00:17:26,450
+Üstelik çocukların da zamanının
+çoğunu alıyor.
+
+201
+00:17:29,050 --> 00:17:31,450
+Evet, efendim.
+
+202
+00:17:36,750 --> 00:17:38,150
+Savunmasını üstleneceğim.
+
+203
+00:17:40,050 --> 00:17:43,250
+Yarın onun duruşması yapılacağı zaman
+sana bir çocuk gönderirim.
+
+204
+00:17:46,650 --> 00:17:50,950
+- Tamam, yarın görüşürüz, Atticus.
+- Tamam, efendim.
+
+205
+00:17:54,650 --> 00:17:58,250
+- Sağol.
+- Bir şey değil, efendim.
+
+206
+00:18:08,750 --> 00:18:10,350
+Hey, Jem...
+
+207
+00:18:10,550 --> 00:18:14,150
+İki "Tom Swift"e bir "Boz Hortlak"
+veriyorum...
+
+208
+00:18:14,250 --> 00:18:17,250
+Boo Radley'in bahçe kapısından
+öteye gidemezsin, iddiaya var mısın?
+
+209
+00:18:22,750 --> 00:18:25,050
+- Korkmaz mısın?
+- Ben korkmam.
+
+210
+00:18:25,250 --> 00:18:28,550
+Hayatım boyunca hemen her gün
+Boo Radley'in evinin önünden geçtim.
+
+211
+00:18:28,850 --> 00:18:31,650
+- Hep koşarak geçtin ama.
+- Sen karışma, Scout.
+
+212
+00:18:36,350 --> 00:18:38,550
+- Hadi, Dill!
+- Önce ben!
+
+213
+00:18:40,350 --> 00:18:42,950
+- Önce Dill yapsın.
+- Hayır, ben!
+
+214
+00:18:43,150 --> 00:18:45,050
+Önce o yapsın.
+
+215
+00:18:45,250 --> 00:18:47,150
+Tamam. Gir içine!
+
+216
+00:18:47,350 --> 00:18:50,150
+- Çabuk!
+- Tamam.
+
+217
+00:18:51,050 --> 00:18:53,550
+- Hazır mısın?
+- Tamam. Bırak gitsin.
+
+218
+00:19:15,850 --> 00:19:18,650
+Oradan uzaklaş!
+Hadi Scout!
+
+219
+00:19:20,150 --> 00:19:22,150
+Orda yatıp durma! Ayağa kalk!
+
+220
+00:19:26,350 --> 00:19:28,150
+Hadi!
+
+221
+00:19:35,750 --> 00:19:38,450
+Çabuk koş!
+Hadi Dill!
+
+222
+00:19:47,650 --> 00:19:49,950
+Söyle bakalım, kim korkakmış?
+Bay Dill Harris...
+
+223
+00:19:50,250 --> 00:19:53,550
+Meridian County'ye döndüğünde
+herkese bunu anlat, olur mu?
+
+224
+00:19:55,150 --> 00:19:56,750
+Sana ne yapmamız
+gerektiğini söyleyeyim.
+
+225
+00:19:56,950 --> 00:20:00,650
+Adliyeye gidip Boo'yu
+kapattıkları odayı görelim.
+
+226
+00:20:00,950 --> 00:20:04,550
+Teyzemin dediğine göre orası yarasa
+doluymuş, az daha küften ölecekmiş.
+
+227
+00:20:04,750 --> 00:20:08,050
+Yok ya! Orada mutlaka prangalar,
+işkence aletleri vardır.
+
+228
+00:20:09,550 --> 00:20:11,550
+Hadi ya!
+
+229
+00:20:12,950 --> 00:20:16,450
+- Jem Finch?
+- Evet, efendim.
+
+230
+00:20:16,550 --> 00:20:19,850
+Babanı arıyorsan, adliyede.
+
+231
+00:20:20,150 --> 00:20:23,150
+- Sağolun, efendim ama biz onu...
+- Sağolun, Bay Townsend.
+
+232
+00:20:25,350 --> 00:20:27,750
+Babanızın adliyede ne
+işi var?
+
+233
+00:20:27,950 --> 00:20:30,650
+Kendisi avukattır,
+davası var.
+
+234
+00:20:30,850 --> 00:20:33,150
+Bugün büyük jüri müvekkiline karşı dava
+açılıp açılmayacağına karar verecek.
+
+235
+00:20:33,350 --> 00:20:36,250
+Dün gece Yargıç Taylor
+bize geldiğinde duydum.
+
+236
+00:20:36,450 --> 00:20:39,450
+- Biz de gidip izleyelim!
+- Olmaz Dill!
+
+237
+00:20:39,650 --> 00:20:41,550
+Babam istemez.
+
+238
+00:20:45,850 --> 00:20:47,650
+Bir dakika!
+
+239
+00:20:52,350 --> 00:20:54,350
+- Mahkeme salonu burası mı?
+- Evet.
+
+240
+00:21:00,150 --> 00:21:01,950
+Hiçbir şey göremiyorum.
+
+241
+00:21:04,350 --> 00:21:06,550
+Siz beni kaldırırsanız,
+olan biteni izleyebilirim.
+
+242
+00:21:06,750 --> 00:21:09,050
+Tamam. Ver elini de onu kaldıralım.
+
+243
+00:21:14,350 --> 00:21:16,150
+Pek de bir şey olmuyor.
+
+244
+00:21:17,650 --> 00:21:20,250
+Yargıç uyukluyor gibi.
+
+245
+00:21:23,150 --> 00:21:26,250
+Babanızı ve bir
+zenciyi görüyorum.
+
+246
+00:21:26,450 --> 00:21:28,650
+Zenci...
+
+247
+00:21:28,850 --> 00:21:31,450
+Galiba zenci ağlıyor.
+
+248
+00:21:31,650 --> 00:21:35,050
+- Onu Mayella'mla birlikte gördüm
+- Ne yapmış ki ağlıyor?
+
+249
+00:21:35,250 --> 00:21:37,050
+Neler oluyor?
+
+250
+00:21:37,650 --> 00:21:42,050
+Bir tarafta yan yana oturmuş
+bir sürü insan var...
+
+251
+00:21:42,350 --> 00:21:45,850
+ayrıca bir de parmağıyla zenciyi
+göstererek bağırıp çağıran birisi var.
+
+252
+00:21:46,850 --> 00:21:50,450
+- Zenciyi götürüyorlar.
+- Atticus nerede?
+
+253
+00:21:52,850 --> 00:21:55,250
+Artık babanı da göremiyorum.
+
+254
+00:21:58,450 --> 00:22:00,950
+- Acaba ne...
+- Scout, Jem.
+
+255
+00:22:02,950 --> 00:22:05,450
+Burada ne işiniz var.
+
+256
+00:22:05,550 --> 00:22:08,050
+Merhaba, Atticus.
+
+257
+00:22:08,250 --> 00:22:10,450
+Burada ne arıyorsunuz?
+
+258
+00:22:10,550 --> 00:22:14,050
+Boo Radley'in kapatıldığı yeri
+bulmaya geldik.
+
+259
+00:22:14,350 --> 00:22:16,450
+Yarasaları görmek istedik.
+
+260
+00:22:17,650 --> 00:22:20,150
+Hepinizin derhal eve dönmenizi
+istiyorum.
+
+261
+00:22:20,350 --> 00:22:22,350
+- Peki, efendim.
+- Hadi çabuk.
+
+262
+00:22:23,550 --> 00:22:25,850
+Akşam yemeğinde görüşürüz.
+
+263
+00:22:36,750 --> 00:22:39,250
+Merhaba, üstat.
+
+264
+00:22:40,350 --> 00:22:43,050
+- Bay Ewell.
+- Üstat, ben...
+
+265
+00:22:43,250 --> 00:22:47,450
+Mayella'mın ırzına geçen zenciyi
+savunmak üzere seçilmene üzüldüm.
+
+266
+00:22:47,650 --> 00:22:51,050
+Neden onu kendi ellerimle öldüreceğime
+şerife başvurdum ki, bilmiyorum.
+
+267
+00:22:51,350 --> 00:22:54,450
+Senin, şerifin ve vergi mükelleflerinin
+başına bir sürü dert açtım.
+
+268
+00:22:54,750 --> 00:22:57,450
+- Affedersiniz Bay Ewell, çok işim var.
+- Hey, Üstat...
+
+269
+00:22:57,650 --> 00:23:00,950
+biraz önce bana dediklerine göre...
+
+270
+00:23:01,250 --> 00:23:05,350
+bizim sözümüze değil de Tom
+Robinson'un anlattığına inanıyormuşsun.
+
+271
+00:23:06,850 --> 00:23:09,150
+Onlara ne cevap verdim, biliyor musun?
+
+272
+00:23:10,350 --> 00:23:12,950
+Dedim ki: "Yanlışın var, ahbap.
+Tamamen yanılıyorsun!
+
+273
+00:23:13,150 --> 00:23:15,950
+Bay Finch bizim sözümüze karşı
+onunkine inanmaz."
+
+274
+00:23:17,850 --> 00:23:21,450
+- Yanlışları var, değil mi?
+- Ben Tom Robinson'ın avukatıyım.
+
+275
+00:23:21,650 --> 00:23:25,450
+Dava açılmasına karar verildiğine
+göre onu savunacağım.
+
+276
+00:23:25,750 --> 00:23:28,550
+- Sen onun dediğine...
+- Müsaadenizle.
+
+277
+00:23:33,250 --> 00:23:36,050
+Ne biçim adamsın sen?
+
+278
+00:23:36,350 --> 00:23:38,250
+Senin de çocukların var.
+
+279
+00:23:58,350 --> 00:24:01,050
+Bence burada, Bayan Stephanie'nin
+bahçesinde durmalıyız.
+
+280
+00:24:01,250 --> 00:24:04,150
+Bizimle gelmek zorunda
+değilsin, Angel May.
+
+281
+00:24:19,250 --> 00:24:21,150
+Ne yapacaksınız?
+
+282
+00:24:22,650 --> 00:24:25,050
+Radley'lerin evinde bir
+pencereden içeriye bakacağız...
+
+283
+00:24:25,350 --> 00:24:27,750
+ve Boo Radley'i görmeye
+çalışacağız!
+
+284
+00:24:28,850 --> 00:24:30,550
+Hadi.
+
+285
+00:24:34,850 --> 00:24:37,550
+- Lütfen, korkuyorum.
+- Korkuyorsan eve dön.
+
+286
+00:24:37,750 --> 00:24:39,950
+Valla gittikçe daha fazla kız
+gibi davranıyorsun.
+
+287
+00:24:40,150 --> 00:24:42,150
+- Hadi.
+- Beni bekleyin. Geliyorum.
+
+288
+00:24:48,850 --> 00:24:50,750
+Arkadan dolanıp...
+
+289
+00:24:50,850 --> 00:24:53,750
+Radleyler'in arka bahçesindeki
+yüksek çitin altından geçeceğiz.
+
+290
+00:24:55,050 --> 00:24:57,350
+Oradan bizi göreceklerini
+sanmıyorum.
+
+291
+00:25:07,950 --> 00:25:09,850
+Hadi.
+
+292
+00:25:23,750 --> 00:25:25,550
+Hadi.
+
+293
+00:25:27,850 --> 00:25:29,750
+Hadi.
+
+294
+00:25:34,250 --> 00:25:36,150
+Kaldır da geçeyim.
+
+295
+00:25:53,550 --> 00:25:54,950
+Gürültü yapmayın.
+
+296
+00:26:03,350 --> 00:26:04,550
+Üzerine tükürün.
+
+297
+00:26:08,650 --> 00:26:10,550
+Tamam.
+
+298
+00:26:17,550 --> 00:26:18,650
+Biraz daha tükürün.
+
+299
+00:26:23,750 --> 00:26:25,550
+Tamam.
+
+300
+00:26:47,750 --> 00:26:49,950
+Hadi.
+
+301
+00:28:42,250 --> 00:28:43,850
+Hadi, çabuk!
+
+302
+00:28:45,950 --> 00:28:47,750
+Acele edelim!
+
+303
+00:29:31,250 --> 00:29:33,050
+Çabuk! Hadi!
+
+304
+00:29:39,850 --> 00:29:41,650
+Sessiz olun!
+
+305
+00:29:46,350 --> 00:29:48,950
+- Pantolonu ne yapacaksın?
+- Bilmiyorum.
+
+306
+00:29:56,650 --> 00:29:58,550
+Hadi içeri gir artık.
+
+307
+00:30:00,650 --> 00:30:02,550
+Benim gitmem lazım.
+
+308
+00:30:04,050 --> 00:30:06,350
+Geliyorum, Stephanie Teyze!
+
+309
+00:30:06,550 --> 00:30:08,650
+Hoşçakalın.
+Gelecek yaz görüşürüz.
+
+310
+00:30:08,850 --> 00:30:10,650
+Güle güle!
+
+311
+00:30:12,150 --> 00:30:13,750
+Geliyorum!
+
+312
+00:30:14,950 --> 00:30:18,450
+- Pantolonumu almaya gidiyorum.
+- Jem, lütfen eve gir.
+
+313
+00:30:18,750 --> 00:30:21,350
+Pantolonum olmadan içeri giremem.
+
+314
+00:30:21,550 --> 00:30:24,350
+- O zaman ben de Atticus'u çağırırım.
+- Hayır, çağıramazsın.
+
+315
+00:30:24,450 --> 00:30:27,450
+Şimdi dinle beni. Kendimi bildim
+bileli Atticus beni hiç kırbaçlamadı...
+
+316
+00:30:27,650 --> 00:30:30,350
+ve böyle devam etmesini istiyorum.
+
+317
+00:30:30,450 --> 00:30:34,250
+- O zaman seninle geliyorum.
+- Hayır! Sen burada kalacaksın.
+
+318
+00:30:34,550 --> 00:30:36,850
+Sen ona kadar sayamadan
+dönerim.
+
+319
+00:30:47,550 --> 00:30:50,250
+Bir, iki...
+
+320
+00:30:51,550 --> 00:30:54,550
+üç, dört...
+
+321
+00:30:58,850 --> 00:31:00,650
+Hadi içeri gir.
+
+322
+00:31:01,750 --> 00:31:03,150
+Beş...
+
+323
+00:31:03,250 --> 00:31:08,050
+altı, yedi, sekiz...
+
+324
+00:31:08,850 --> 00:31:11,650
+dokuz, on...
+
+325
+00:31:14,550 --> 00:31:18,450
+11, 12...
+
+326
+00:31:18,750 --> 00:31:22,750
+13, 14...
+
+327
+00:31:42,350 --> 00:31:45,350
+O da ne? Nedir bu?
+
+328
+00:31:45,550 --> 00:31:47,550
+Ne oldu?
+
+329
+00:31:49,450 --> 00:31:52,150
+Ne oluyor? Bu ne?
+
+330
+00:31:52,950 --> 00:31:54,850
+Bu ne?
+
+331
+00:31:55,050 --> 00:31:57,650
+Ne olduğunu lütfen
+söyler misiniz?
+
+332
+00:31:59,550 --> 00:32:03,750
+Bay Radley pazı bahçesine
+gizlice giren birine ateş etti.
+
+333
+00:32:04,050 --> 00:32:06,150
+Gizlice giren biri mi. Eyvah, Maudie!
+
+334
+00:32:06,350 --> 00:32:08,850
+O her kimse uzun süre
+geri gelemez.
+
+335
+00:32:09,050 --> 00:32:11,050
+Bay Radley ödlerini koparmış olmalı.
+
+336
+00:32:11,150 --> 00:32:13,050
+Şey, iyi geceler.
+
+337
+00:32:13,850 --> 00:32:16,050
+Beni fena korkuttu.
+
+338
+00:32:21,550 --> 00:32:24,350
+Hadi tamam. Heyecan bitti.
+Uyku zamanı.
+
+339
+00:32:47,850 --> 00:32:49,750
+Günaydın.
+
+340
+00:32:51,150 --> 00:32:53,750
+- Günaydın, Bayan Maudie.
+- Günaydın, Calpurnia.
+
+341
+00:32:53,850 --> 00:32:56,250
+Jean Louise'in okuldaki ilk günü için
+hazır olup olmadığına bakmaya geldim.
+
+342
+00:32:56,450 --> 00:32:58,950
+- Hey, Jem. Hepiniz hazır mısınız?
+- Evet, hanımefendi.
+
+343
+00:33:01,450 --> 00:33:05,150
+Çocukların ikisi de okuldayken
+sen neyle meşgul olacaksın?
+
+344
+00:33:05,350 --> 00:33:08,050
+İşin doğrusu şu ki
+bilmiyorum.
+
+345
+00:33:08,250 --> 00:33:10,550
+Tam da bunu düşünüyordum.
+
+346
+00:33:18,650 --> 00:33:21,050
+Beni duydun mu? Şimdi acele et!
+
+347
+00:33:32,650 --> 00:33:35,250
+Hey, millet!
+Scout'a bakın.
+
+348
+00:33:41,250 --> 00:33:43,050
+Buraya gel.
+
+349
+00:33:46,550 --> 00:33:48,450
+Kahvaltını ye.
+
+350
+00:33:57,350 --> 00:33:59,550
+Bence elbisen pek
+şık tatlım.
+
+351
+00:33:59,650 --> 00:34:02,450
+O elbiseyi çekiştirip durma.
+
+352
+00:34:02,550 --> 00:34:05,450
+Daha okula varmadan buruş buruş
+etmek mi istiyorsun?
+
+353
+00:34:07,050 --> 00:34:10,950
+Neden eski, yamalı bir elbise
+giymem gerektiğini anlamıyorum.
+
+354
+00:34:11,250 --> 00:34:13,350
+- Alışırsın.
+- Hazırım.
+
+355
+00:34:17,550 --> 00:34:20,550
+Okulun başlamasına
+yarım saat kaldı.
+
+356
+00:34:21,750 --> 00:34:24,050
+Arkana yaslanıp
+kızkardeşini bekle.
+
+357
+00:34:28,150 --> 00:34:32,650
+- Acele et!
+- Acele etmeye çalışıyorum.
+
+358
+00:34:32,850 --> 00:34:36,350
+Hadi! Bugün ilk günün.
+Geç kalmak mı istiyorsun.
+
+359
+00:34:39,150 --> 00:34:41,650
+- Hazırım.
+- Gidelim.
+
+360
+00:34:45,850 --> 00:34:47,750
+Hoşçakal!
+
+361
+00:35:07,150 --> 00:35:08,950
+Lanet olsun, Walter Cunningham!
+
+362
+00:35:19,350 --> 00:35:21,250
+Kes şunu!
+
+363
+00:35:21,450 --> 00:35:23,750
+Ne yaptığını sanıyorsun?
+
+364
+00:35:26,550 --> 00:35:28,950
+İlk günümü berbat etti.
+
+365
+00:35:29,150 --> 00:35:31,350
+O öğretmen hanıma neden
+yemek yiyecek parası olmadığını...
+
+366
+00:35:31,450 --> 00:35:35,250
+açıklamaya çalışıyordum ve
+kadın bana kızdı.
+
+367
+00:35:36,850 --> 00:35:38,750
+Kes şunu!
+
+368
+00:35:48,250 --> 00:35:51,050
+Baban Bay Walter Cunningham
+Old Sarum'lu mu?
+
+369
+00:35:54,050 --> 00:35:57,150
+Akşam yemeğine bize gel.
+Memnun oluruz.
+
+370
+00:36:00,050 --> 00:36:02,350
+Babalarımız arkadaşmış.
+
+371
+00:36:04,850 --> 00:36:07,750
+Scout çılgın gibi.
+Seninle artık dövüşmeyecek.
+
+372
+00:36:11,350 --> 00:36:14,250
+Umarım bu yemeği
+seviyorsundur.
+
+373
+00:36:14,550 --> 00:36:17,750
+Evet efendim. Son olarak ne
+zaman rosto yediğimi hatırlamıyorum.
+
+374
+00:36:18,050 --> 00:36:21,550
+Son zamanlarda sincap ve
+tavşan yiyoruz.
+
+375
+00:36:23,350 --> 00:36:27,150
+Ben ve babam boş zamanlarımızda
+ava çıkarız.
+
+376
+00:36:27,350 --> 00:36:29,850
+Kendine ait bir silahın var mı?
+
+377
+00:36:31,350 --> 00:36:34,550
+- Ne zamandır silahın var?
+- Bir yıI falan.
+
+378
+00:36:36,850 --> 00:36:39,850
+- Şurup alabilir miyim?
+- Elbette oğlum.
+
+379
+00:36:41,350 --> 00:36:43,250
+Şurup kasesini getirir misin?
+
+380
+00:36:43,450 --> 00:36:45,450
+Evet, efendim.
+
+381
+00:36:45,650 --> 00:36:47,950
+İlk silahını edindiğinde
+kaç yaşındaydın?
+
+382
+00:36:49,150 --> 00:36:50,950
+On üç veya on dört.
+
+383
+00:36:53,550 --> 00:36:56,750
+Babamın bana o silahı verdiği günü
+hatırlıyorum.
+
+384
+00:36:57,750 --> 00:37:00,350
+Evin içindeki hiçbir şeye nişan
+almamamı, bunun yerine...
+
+385
+00:37:01,550 --> 00:37:04,250
+arka bahçede konserve kutularına
+ateş etmemi tercih ettiğini söyledi.
+
+386
+00:37:06,250 --> 00:37:10,550
+Ama kuş peşine düşmenin kısa sürede
+çok çekici hale geleceğini...
+
+387
+00:37:12,950 --> 00:37:16,150
+ve vurabileceğim bütün alakargaları
+vurmakta serbest olduğumu...
+
+388
+00:37:16,350 --> 00:37:18,350
+söyledi.
+
+389
+00:37:18,450 --> 00:37:21,650
+Ama bülbül öldürmenin günah
+olduğunu unutmamamı söyledi.
+
+390
+00:37:22,350 --> 00:37:24,450
+Neden?
+
+391
+00:37:24,450 --> 00:37:27,650
+Sanırım bülbüller bizi eğlendirmek
+için müzik yapmaktan başka...
+
+392
+00:37:27,950 --> 00:37:30,150
+bir şey yapmadıklarından.
+
+393
+00:37:33,250 --> 00:37:37,250
+Milletin bahçesinde zarar vermezler.
+Mısır haznelerine yuva yapmazlar.
+
+394
+00:37:38,450 --> 00:37:42,050
+Bize yorulmadan şarkı söylemek
+dışında hiçbir şey yapmazlar.
+
+395
+00:37:44,750 --> 00:37:46,250
+Okulu sevdin mi?
+
+396
+00:37:47,250 --> 00:37:49,150
+İyi.
+
+397
+00:37:50,050 --> 00:37:52,450
+Sağol, Cal.
+Bu Walter için.
+
+398
+00:38:13,450 --> 00:38:17,350
+Ne işler çeviriyorsun
+bakalım...
+
+399
+00:38:17,650 --> 00:38:20,750
+Ama Atticus yemeğini
+şurupla doldurdu...
+
+400
+00:38:20,950 --> 00:38:23,550
+şimdi de şurubu her tarafa
+döküyor.
+
+401
+00:38:25,350 --> 00:38:28,050
+- Ne var?
+- Buraya gel. Seninle konuşacağım.
+
+402
+00:38:37,150 --> 00:38:39,150
+Bu çocuk senin arkadaşın...
+
+403
+00:38:39,350 --> 00:38:42,950
+ve masa örtüsünü yemek istese bile
+sesini çıkarma, anlaşıldı mı?
+
+404
+00:38:43,150 --> 00:38:44,950
+Ve yetişkin gibi davranıp
+adam gibi yemek yiyemeyeceksen...
+
+405
+00:38:45,150 --> 00:38:47,450
+şurada oturup
+yemeğini mutfakta yiyebilirsin.
+
+406
+00:39:05,650 --> 00:39:07,850
+Ne oldu sana?
+
+407
+00:39:09,150 --> 00:39:10,950
+- Tamam, tamam.
+- Oraya bir daha gitmeyeceğim.
+
+408
+00:39:15,350 --> 00:39:17,650
+Bir daha okula
+gitmeyeceğim.
+
+409
+00:39:17,750 --> 00:39:20,150
+Bak, Scout.
+Bu senin ilk günündü.
+
+410
+00:39:20,450 --> 00:39:23,550
+Bana ne.
+Her şey ters gitti.
+
+411
+00:39:23,750 --> 00:39:26,150
+Öğretmen bana
+fena kızdı...
+
+412
+00:39:26,350 --> 00:39:29,150
+ve senin bana okuma öğretmenin
+tamamen yanlış olduğunu...
+
+413
+00:39:29,250 --> 00:39:30,850
+ve buna son vermeni söyledi.
+
+414
+00:39:30,950 --> 00:39:34,450
+Sonra da öğretmen aptallık edip Walter
+Cunningham'a 25 sent vermeye çalıştı...
+
+415
+00:39:34,750 --> 00:39:39,050
+oysa Cunninghamlar'ın kimseden
+bir şey almadığını herkes bilir.
+
+416
+00:39:39,350 --> 00:39:41,450
+Bir salak bile bunu
+ona söyleyebilirdi.
+
+417
+00:39:41,550 --> 00:39:43,950
+Belki de sadece sinirliydi.
+
+418
+00:39:44,150 --> 00:39:48,150
+Ne de olsa, onun da okulda öğretmen
+olarak ilk günü ve buraya yeni geldi.
+
+419
+00:39:49,650 --> 00:39:52,450
+Şimdi dur bir dakika.
+
+420
+00:39:54,950 --> 00:39:57,250
+Eğer sadece tek şu
+numarayı öğrenirsen...
+
+421
+00:39:57,450 --> 00:40:00,250
+her türlü insanla
+çok daha iyi geçinebilirsin.
+
+422
+00:40:00,450 --> 00:40:02,350
+Bir insanı gerçekten
+anlamanın tek yolu...
+
+423
+00:40:02,550 --> 00:40:05,650
+dünyayı onun gözleriyle
+görmektir.
+
+424
+00:40:05,850 --> 00:40:07,350
+Efendim?
+
+425
+00:40:07,550 --> 00:40:11,850
+Onun derisinin içine girip
+içinde dolaşmaktır.
+
+426
+00:40:12,050 --> 00:40:15,950
+Ama ben okula gitmeyi sürdürürsem
+artık hiç okuyamayız.
+
+427
+00:40:23,250 --> 00:40:26,150
+Uzlaşma ne demektir,
+biliyor musun?
+
+428
+00:40:27,450 --> 00:40:29,250
+Kanunu saptırmak mı?
+
+429
+00:40:33,050 --> 00:40:37,450
+Hayır, uzlaşma, karşılıklı
+kabulle yapılan bir anlaşmadır.
+
+430
+00:40:38,850 --> 00:40:44,850
+Bak şöyle olur.
+
+431
+00:40:45,250 --> 00:40:48,450
+Sen okula gitmenin gerekli
+olduğunu kabul edersin...
+
+432
+00:40:50,550 --> 00:40:54,250
+ve biz de her akşam yaptığımız
+gibi okumaya...
+
+433
+00:40:54,450 --> 00:40:56,250
+devam ederiz.
+
+434
+00:40:59,650 --> 00:41:00,650
+Anlaştık mı?
+
+435
+00:41:04,350 --> 00:41:06,750
+<i>Atticus'un açıklayamayacağı</i>
+
+436
+00:41:06,950 --> 00:41:10,150
+<i>hiç kimse ve hiçbir şey
+yok gibiydi.</i>
+
+437
+00:41:11,350 --> 00:41:15,050
+<i>Bu, arkadaşlarımızın hayran olacağı
+bir yetenek olmasa bile...</i>
+
+438
+00:41:15,250 --> 00:41:17,750
+<i>Jem ve ben onun bunda çok başarılı
+olduğunu itiraf etmek zorundaydık.</i>
+
+439
+00:41:18,850 --> 00:41:21,250
+<i>Ama tek başarılı olduğu şeyin...</i>
+
+440
+00:41:21,350 --> 00:41:23,250
+<i>bu olduğunu düşünüyorduk.</i>
+
+441
+00:41:23,650 --> 00:41:25,550
+Görüyor musun? İşte orada.
+
+442
+00:41:37,550 --> 00:41:39,850
+İçeri girsene.
+
+443
+00:41:39,950 --> 00:41:41,850
+Hadi. İçeri gir.
+
+444
+00:41:50,450 --> 00:41:52,250
+Bay Finch? Bu Cal.
+
+445
+00:41:52,450 --> 00:41:55,150
+Yemin ederim ki sokağın biraz
+aşağısında kuduz bir köpek var.
+
+446
+00:41:55,350 --> 00:41:57,250
+Bu tarafa doğru geliyor!
+
+447
+00:42:05,350 --> 00:42:07,550
+İşte orada.
+
+448
+00:42:10,650 --> 00:42:12,550
+Bay Finch, kuduz olduğuna eminim.
+
+449
+00:42:16,550 --> 00:42:18,850
+İçerde kal oğlum.
+Onu orda tut Cal.
+
+450
+00:42:20,350 --> 00:42:22,450
+Heck, hayvan vurulabilecek mesafede.
+
+451
+00:42:24,350 --> 00:42:27,050
+- Vurun onu, Bay Finch.
+- Hayır, Bay Tate.
+
+452
+00:42:27,250 --> 00:42:29,350
+- Ateş edemiyor!
+- Vakit kaybetmeyin.
+
+453
+00:42:29,550 --> 00:42:32,750
+Tanrı aşkına,
+hemen öldürülmesi şart.
+
+454
+00:42:32,950 --> 00:42:35,950
+Bakın taa nerde. O kadar iyi nişancı
+olmadığımı biliyorsunuz.
+
+455
+00:42:36,050 --> 00:42:38,650
+- Yıllar var ki silah kullanmadım.
+- Şimdi kullanırsanız...
+
+456
+00:42:38,850 --> 00:42:40,750
+kendimi çok güvende hissedeceğim.
+
+457
+00:43:34,050 --> 00:43:37,450
+O köpeğe yaklaşmayın.
+Ölüsü de canlısı kadar tehlikeli.
+
+458
+00:43:37,650 --> 00:43:39,550
+Peki, efendim.
+
+459
+00:43:41,950 --> 00:43:43,950
+Evet oğlum.
+
+460
+00:43:47,250 --> 00:43:49,650
+- Bir şey yok.
+- Ne oldu, evlat?
+
+461
+00:43:49,750 --> 00:43:52,950
+Dilini mi yuttun? Babanın bu ilçedeki
+en iyi nişancı olduğunu bilmiyor musun?
+
+462
+00:43:53,150 --> 00:43:56,250
+Kes sesini Heck.
+Kasabaya dönelim.
+
+463
+00:43:56,550 --> 00:43:59,450
+- Sakın unutma. O köpeğe yaklaşma.
+- Evet efendim.
+
+464
+00:44:01,050 --> 00:44:03,650
+Hemen Zeebo'yu gönderip
+onu aldıracağım.
+
+465
+00:44:24,750 --> 00:44:27,450
+Seninle gelebilir miyiz?
+
+466
+00:44:27,650 --> 00:44:29,650
+- Gelebilir miyiz? Lütfen.
+- Ha? Gelebilir miyiz?
+
+467
+00:44:29,750 --> 00:44:32,950
+Hayır. İş için kasaba dışına gitmem
+gerekiyor, yorulursunuz.
+
+468
+00:44:33,150 --> 00:44:35,850
+Hayır, ben yorulmam!
+Yorulmam.
+
+469
+00:44:36,050 --> 00:44:40,050
+Peki, ben Helen Robinson'la konuşurken
+arabada kalmaya söz verin.
+
+470
+00:44:41,150 --> 00:44:43,350
+Ve yorulursanız geri dönelim
+diye tutturmayacaksınız.
+
+471
+00:44:43,750 --> 00:44:45,350
+Tamam. Binin bakalım.
+
+472
+00:44:54,150 --> 00:44:58,050
+- Helen Robinson kim?
+- Savunduğum adamın karısı.
+
+473
+00:45:18,150 --> 00:45:20,350
+- İyi akşamlar, David.
+- İyi akşamlar.
+
+474
+00:45:20,550 --> 00:45:22,950
+- İyi akşamlar, Helen.
+- İyi akşamlar, Bay Finch.
+
+475
+00:45:23,150 --> 00:45:25,150
+Sana Tom'la görüşmem hakkında
+bilgi vermeye geldim.
+
+476
+00:45:25,350 --> 00:45:26,850
+- Evet efendim.
+- Ayrıca duruşmayı...
+
+477
+00:45:27,050 --> 00:45:29,150
+ertelettiğimi bildirmek istiyorum.
+
+478
+00:46:03,550 --> 00:46:05,850
+Babama dışarı gelmesini
+söyler misin, lütfen?
+
+479
+00:46:55,750 --> 00:46:58,550
+Seni zenci dostu.
+
+480
+00:47:16,250 --> 00:47:19,350
+Ondan korkmaya gerek yok, oğlum.
+Sadece kuru sıkı atar.
+
+481
+00:47:34,250 --> 00:47:36,350
+Zenci dostu!
+
+482
+00:47:48,050 --> 00:47:51,250
+Bu dünyada pek çok
+çirkinlik var, oğlum.
+
+483
+00:47:53,250 --> 00:47:55,550
+Seni hepsinden uzak tutmayı isterdim.
+
+484
+00:47:58,550 --> 00:48:00,450
+Ama asla mümkün değildir.
+
+485
+00:48:04,050 --> 00:48:06,150
+Scout'u yatırmamı beklersen
+seni evine götürürüm.
+
+486
+00:48:06,350 --> 00:48:08,250
+Evet, efendim.
+
+487
+00:48:23,050 --> 00:48:26,050
+Cal'ı götürene kadar Scout'la burada
+kalmanda sakınca var mı?
+
+488
+00:48:26,250 --> 00:48:28,750
+- Hayır efendim.
+- İyi geceler, Jem.
+
+489
+00:48:28,950 --> 00:48:30,850
+İyi geceler Cal.
+
+490
+00:51:01,550 --> 00:51:04,550
+<i>Atticus, bir daha
+kavga ettiğimi duyarsa...</i>
+
+491
+00:51:04,850 --> 00:51:07,650
+<i>canıma okuyacağına
+yemin etmişti.</i>
+
+492
+00:51:07,850 --> 00:51:11,150
+<i>Ona göre ben bu tür çocukça şeyleri
+yapmayacak kadar yaşlı ve büyüktüm.</i>
+
+493
+00:51:11,450 --> 00:51:13,550
+<i>Ve kendimi tutmayı
+ne kadar erken öğrenirsem...</i>
+
+494
+00:51:13,750 --> 00:51:16,450
+<i>sonuç herkes için
+daha iyi olacaktı.</i>
+
+495
+00:51:16,650 --> 00:51:18,450
+<i>Bunu hemen unuttum.</i>
+
+496
+00:51:19,750 --> 00:51:22,050
+<i>Cecil Jacobs'un yüzünden unuttum.</i>
+
+497
+00:51:26,150 --> 00:51:27,950
+Ne oldu?
+
+498
+00:51:32,450 --> 00:51:34,650
+Atticus, sen pis zencileri mi
+savunursun?
+
+499
+00:51:38,050 --> 00:51:40,850
+- "Pis zenci" deme.
+- Ben demedim.
+
+500
+00:51:41,050 --> 00:51:44,250
+Cecil Jacobs dedi.
+Ve onunla dövüşmek zorunda kaldım.
+
+501
+00:51:45,050 --> 00:51:47,350
+Scout, senin dövüşmeni istemiyorum.
+
+502
+00:51:48,350 --> 00:51:52,750
+- Mecbur kaldım. O...
+- Nedeninin ne olduğu umurumda değil.
+
+503
+00:51:53,050 --> 00:51:57,150
+- Kavga etmeni yasaklıyorum.
+- Evet, efendim.
+
+504
+00:52:03,350 --> 00:52:07,850
+Her neyse, sadece bir zenciyi
+savunuyorum. Tom Robinson'ı.
+
+505
+00:52:11,050 --> 00:52:13,050
+Henüz bazı şeyleri...
+
+506
+00:52:13,250 --> 00:52:15,550
+anlayabilecek yaşta değilsin.
+
+507
+00:52:18,150 --> 00:52:22,850
+Bu adamı savunmak için
+pek de uğraşmamam konusunda...
+
+508
+00:52:23,150 --> 00:52:26,050
+kasabada yoğun bir tartışma var.
+
+509
+00:52:29,150 --> 00:52:33,150
+Onu savunmaman gerekiyorsa, neden
+savunuyorsun?
+
+510
+00:52:38,750 --> 00:52:40,550
+Bunun birkaç nedeni var.
+
+511
+00:52:42,850 --> 00:52:45,150
+Başlıca nedeni şu:
+Onu savunmasam...
+
+512
+00:52:45,550 --> 00:52:47,850
+kasabada başım dik dolaşamazdım.
+
+513
+00:52:49,350 --> 00:52:52,250
+Sana ve Jem'e bile
+bir şeyi bir daha...
+
+514
+00:52:52,350 --> 00:52:54,250
+yapmamanızı söyleyemezdim.
+
+515
+00:53:02,850 --> 00:53:05,150
+Bu konu hakkında okulda hoş olmayan
+şeyler duyacaksın.
+
+516
+00:53:06,950 --> 00:53:11,150
+Senden bana söz vermeni istiyorum:
+
+517
+00:53:11,450 --> 00:53:14,450
+Sana ne derlerse desinler...
+
+518
+00:53:14,650 --> 00:53:16,950
+bu nedenle kavga etmeyeceksin.
+
+519
+00:53:23,850 --> 00:53:25,650
+Evet efendim.
+
+520
+00:53:39,250 --> 00:53:41,150
+Ne yapıyorsun.
+
+521
+00:53:41,350 --> 00:53:43,550
+Eski Mısırlılar gibi yürüyorum.
+
+522
+00:53:43,750 --> 00:53:45,850
+Okulda bu konuyu işliyorduk.
+
+523
+00:53:46,050 --> 00:53:48,250
+Öğretmen, onlar olmasaydı
+biz bir hiç olurduk diyor.
+
+524
+00:53:49,150 --> 00:53:50,650
+Sahi mi?
+
+525
+00:53:50,750 --> 00:53:54,650
+Uygarlığın beşiği. Mısırlılar mumyayı
+ve tuvalet kağıdını icat ettiler.
+
+526
+00:53:57,450 --> 00:53:59,750
+Öyle değil.
+
+527
+00:54:02,550 --> 00:54:04,950
+Ayağını bu şekilde koyacaksın.
+
+528
+00:54:06,050 --> 00:54:07,750
+Bak.
+
+529
+00:54:23,050 --> 00:54:27,050
+Bak. Oğlanın saçları
+tıpkı seninki gibi öne taranmış.
+
+530
+00:54:28,550 --> 00:54:31,150
+Evet, kızın perçemi de
+tıpkı seninki gibi.
+
+531
+00:54:31,350 --> 00:54:33,250
+Bunlar bizim suretlerimiz.
+
+532
+00:55:29,050 --> 00:55:30,650
+Uyanık mısın?
+
+533
+00:55:30,850 --> 00:55:34,350
+- Yatağına dön.
+- Uyuyamıyorum.
+
+534
+00:55:34,450 --> 00:55:38,750
+- Yatağına dön.
+- O kutuda ne var?
+
+535
+00:55:39,150 --> 00:55:41,150
+Hiçbir şey. Yatağına dön.
+
+536
+00:55:49,350 --> 00:55:51,250
+Hadi.
+
+537
+00:55:58,550 --> 00:56:01,650
+Sana gösterirsem, kimseye
+söylemeyeceğine ant içer misin?
+
+538
+00:56:03,050 --> 00:56:06,350
+- Ant içerim.
+- Yemin et.
+
+539
+00:56:28,250 --> 00:56:30,450
+Bütün bunları farklı zamanlarda...
+
+540
+00:56:30,750 --> 00:56:33,750
+o yaşlı ağacın kovuğunda buldum.
+
+541
+00:56:36,050 --> 00:56:38,850
+Bu bir imla madalyası.
+
+542
+00:56:41,150 --> 00:56:43,850
+Biliyorsun, biz doğmadan önce
+bunları okulda imla yarışması...
+
+543
+00:56:44,050 --> 00:56:46,350
+birincilerine verirlermiş.
+
+544
+00:56:47,550 --> 00:56:50,950
+Bir keresinde de bunu buldum.
+
+545
+00:57:05,450 --> 00:57:07,350
+Bunu.
+
+546
+00:57:21,250 --> 00:57:24,350
+Ve Scout...
+
+547
+00:57:24,650 --> 00:57:26,450
+biliyor musun, sana hiç söylemediğim
+başka bir şey daha var...
+
+548
+00:57:26,650 --> 00:57:28,950
+Hani o gece tekrar Radleylerin evine
+gitmiştim ya?
+
+549
+00:57:29,150 --> 00:57:32,750
+Başka bir şey mi? O gece hakkında
+bana hiçbir şey söylemedin.
+
+550
+00:57:33,950 --> 00:57:36,250
+Şey...
+
+551
+00:57:36,450 --> 00:57:38,750
+hani başta pantolonumu çıkarırken...
+
+552
+00:57:40,150 --> 00:57:42,550
+pantolonum tele dolanmıştı...
+
+553
+00:57:42,650 --> 00:57:44,550
+ve kurtaramıyordum.
+
+554
+00:57:45,950 --> 00:57:50,050
+İşte, geri döndüğümde
+pantolonum...
+
+555
+00:57:50,350 --> 00:57:53,650
+çitin karşısında
+sanki katlanmış olarak...
+
+556
+00:57:53,850 --> 00:57:56,050
+beni bekliyordu.
+
+557
+00:58:03,750 --> 00:58:06,350
+<i>Jem ile ben bir daha
+uzun bir süre...</i>
+
+558
+00:58:06,550 --> 00:58:09,650
+<i>Boo'dan söz etmedik.</i>
+
+559
+00:58:12,350 --> 00:58:15,350
+<i>Okul, sonunda bitti
+ve yaz geldi...</i>
+
+560
+00:58:16,450 --> 00:58:17,850
+<i>yazla birlikte Dill de geldi.</i>
+
+561
+00:58:17,950 --> 00:58:20,250
+- Günaydın!
+- Günaydın.
+
+562
+00:58:20,350 --> 00:58:23,050
+Şuraya bak, çok erken
+kalkmışsın.
+
+563
+00:58:23,250 --> 00:58:26,650
+- Sabah 4:00'te kalktım.
+- 4:00 mü?
+
+564
+00:58:26,850 --> 00:58:30,650
+Evet. Her zaman 4:00'te kalkarım.
+Bu benim kanımda var.
+
+565
+00:58:30,850 --> 00:58:34,350
+Babam zengin olmadan önce
+demiryolu işçisiydi.
+
+566
+00:58:34,550 --> 00:58:37,450
+Şimdi ise uçak kullanıyor.
+Bugünlerde...
+
+567
+00:58:37,650 --> 00:58:39,650
+göklerden buraya, Maycomb'a
+inecek...
+
+568
+00:58:39,850 --> 00:58:42,350
+ve beni
+uçağıyla dolaştıracak.
+
+569
+00:58:51,650 --> 00:58:56,450
+- Şerifle birlikte arabada olan kim?
+- Tom Robinson, evlat.
+
+570
+00:58:56,650 --> 00:59:00,750
+- Neredeydi?
+- Abbottsville Hapishanesinde.
+
+571
+00:59:01,950 --> 00:59:05,750
+- Neden?
+- Şerife göre orada daha güvende.
+
+572
+00:59:05,950 --> 00:59:08,450
+Onu bu gece buraya
+geri getiriyorlar...
+
+573
+00:59:08,650 --> 00:59:10,550
+çünkü duruşması yarın yapılacak.
+
+574
+00:59:28,550 --> 00:59:31,350
+- İyi akşamlar, Heck.
+- İyi akşamlar, Bay Finch.
+
+575
+00:59:32,950 --> 00:59:34,750
+İçeri gel.
+
+576
+00:59:39,450 --> 00:59:43,750
+Tom Robinson'ı hapishaneye geri
+getirdiğim haberi yayılmış.
+
+577
+00:59:43,950 --> 00:59:48,450
+Duyduğuma göre Old Sarum'daki
+o güruh olay çıkarabilirmiş.
+
+578
+00:59:59,350 --> 01:00:02,150
+Bu gece burada kalmanı istersem
+kalabilir misin?
+
+579
+01:00:02,350 --> 01:00:04,350
+- Evet efendim, kalabilirim.
+- Teşekkür ederim.
+
+580
+01:00:11,550 --> 01:00:15,850
+- Bence kalacağını düşünerek plan yap.
+- Evet, efendim.
+
+581
+01:00:50,550 --> 01:00:53,050
+- Ne oluyor?
+- Yatağına dön?
+
+582
+01:00:53,250 --> 01:00:55,150
+Ne oluyor?
+
+583
+01:01:05,250 --> 01:01:07,150
+Arabası işte burada.
+
+584
+01:01:20,650 --> 01:01:23,050
+Görüyor musun? İşte orada!
+
+585
+01:01:26,450 --> 01:01:29,750
+Hayır Scout. Ona gitme.
+Hoşlanmayabilir.
+
+586
+01:01:31,050 --> 01:01:34,250
+Sadece nerede olduğunu ve
+ne yaptığını öğrenmek istedim.
+
+587
+01:01:36,050 --> 01:01:37,750
+Bir şeyi yok.
+Eve dönelim.
+
+588
+01:01:37,950 --> 01:01:39,750
+Hadi.
+
+589
+01:02:37,750 --> 01:02:41,750
+- O içerde mi, Bay Finch?
+- Evet.
+
+590
+01:02:41,950 --> 01:02:45,550
+Uyuyor. Uyandırma.
+
+591
+01:02:45,750 --> 01:02:48,150
+Ne istediğimizi biliyorsunuz.
+
+592
+01:02:50,250 --> 01:02:53,250
+Kapıdan çekilin, Bay Finch.
+
+593
+01:02:55,450 --> 01:02:57,250
+Walter...
+
+594
+01:02:59,450 --> 01:03:01,850
+gerisin geri eve
+dönseniz iyi olur bence.
+
+595
+01:03:02,950 --> 01:03:06,550
+- Heck Tate buralarda bir yerde.
+- Hayır, değil.
+
+596
+01:03:06,850 --> 01:03:09,650
+Heck ile adamları Old Sarum'da
+bizi arıyorlar.
+
+597
+01:03:09,950 --> 01:03:12,450
+Aradığını bildiğimiz için
+bu yoldan geldik.
+
+598
+01:03:12,650 --> 01:03:15,150
+Bunu düşünmemiştiniz, değil mi
+Bay Finch.
+
+599
+01:03:15,250 --> 01:03:17,950
+- Düşündüm.
+- Atticus'u göremiyorum.
+
+600
+01:03:18,150 --> 01:03:21,250
+Bu her şeyi biraz değiştiriyor.
+
+601
+01:03:28,850 --> 01:03:31,850
+Jem, eve git ve Scout
+ile Dill'i de götür.
+
+602
+01:03:34,150 --> 01:03:37,450
+- Oğlum, eve git, dedim.
+- Hayır, efendim.
+
+603
+01:03:39,650 --> 01:03:43,650
+- Ben onu eve gönderirim.
+- Dokunma ona. Bırak gitsin!
+
+604
+01:03:44,450 --> 01:03:46,250
+Tamam, yeter!
+
+605
+01:03:48,750 --> 01:03:50,950
+Kimse Jem'e böyle
+davranamaz!
+
+606
+01:03:53,650 --> 01:03:55,850
+Şimdi onları buradan götür.
+
+607
+01:03:59,950 --> 01:04:03,150
+- Sizden gitmenizi rica ediyorum.
+- Hayır efendim.
+
+608
+01:04:05,550 --> 01:04:10,350
+- Size gitmeyeceğimi söylüyorum.
+- Hey, Bay Cunningham.
+
+609
+01:04:13,250 --> 01:04:17,450
+Size "Hey, Bay Cunningham" dedim.
+Vasiyetiniz nasıI gidiyor.
+
+610
+01:04:21,050 --> 01:04:24,650
+Beni hatırlamadınız mı,
+Bay Cunningham?
+
+611
+01:04:24,950 --> 01:04:27,150
+Ben Jean Louise Finch'im.
+
+612
+01:04:29,550 --> 01:04:33,350
+Bir sabah erkenden bize ceviz
+getirmiştiniz. Hatırladınız mı?
+
+613
+01:04:34,550 --> 01:04:36,650
+Sizinle sohbet etmiştik.
+
+614
+01:04:37,750 --> 01:04:40,850
+Babamı çağırıp size
+teşekkür etmesini sağlamıştım.
+
+615
+01:04:41,550 --> 01:04:45,150
+Oğlunuzla aynı okula gidiyoruz.
+Walter'la aynı okula gidiyoruz.
+
+616
+01:04:45,850 --> 01:04:49,950
+İyi bir çocuk.
+Ona benden selam söyleyin.
+
+617
+01:04:51,150 --> 01:04:53,250
+Biliyor musunuz
+Bay Cunningham?
+
+618
+01:04:53,450 --> 01:04:56,650
+Vasiyetnameler kötüdür.
+Vasiyetnameler...
+
+619
+01:05:05,850 --> 01:05:09,750
+Bay Cunningham'a vasiyetnamelerin
+kötü olduğunu söylüyordum...
+
+620
+01:05:10,050 --> 01:05:12,050
+ama merak etmeyin.
+
+621
+01:05:12,250 --> 01:05:14,850
+Bazen uzun sürer.
+
+622
+01:05:17,150 --> 01:05:19,350
+Ne oldu?
+
+623
+01:05:26,650 --> 01:05:30,250
+Kesinlikle sizi gücendirmek
+istemedim, Bay Cunningham.
+
+624
+01:05:34,150 --> 01:05:36,450
+Hiç gücenmedim, küçük hanım.
+
+625
+01:05:40,050 --> 01:05:42,950
+Walter'a "Selam"ınızı ileteceğim.
+
+626
+01:05:43,050 --> 01:05:45,150
+Gidelim buradan.
+
+627
+01:05:46,750 --> 01:05:48,550
+Hadi gidelim, çocuklar.
+
+628
+01:06:14,250 --> 01:06:16,950
+Şimdi eve gidebilirsiniz.
+
+629
+01:06:17,150 --> 01:06:19,650
+Hepiniz.
+
+630
+01:06:19,850 --> 01:06:21,650
+Sonra ben de geleceğim.
+
+631
+01:06:23,750 --> 01:06:25,450
+Hadi.
+
+632
+01:06:52,750 --> 01:06:56,150
+Bay Finch, gittiler mi?
+
+633
+01:06:57,550 --> 01:07:01,350
+Gittiler.
+Seni artık rahatsız etmeyecekler.
+
+634
+01:07:22,450 --> 01:07:24,250
+Günaydın, Bay Strikes.
+
+635
+01:07:24,450 --> 01:07:27,150
+- NasıI gidiyor?
+- Hiç böyle kalabalık gördünüz mü?
+
+636
+01:07:27,250 --> 01:07:29,650
+Sanki Cumartesi günü.
+
+637
+01:07:32,350 --> 01:07:35,050
+- Nereye gidiyorsun?
+- Artık dayanamıyorum.
+
+638
+01:07:35,150 --> 01:07:37,950
+- Adliyeye gidip seyredeceğim.
+- Gitmesen iyi olur.
+
+639
+01:07:38,050 --> 01:07:40,750
+- Atticus'un ne dediğini biliyorsun.
+- Ne dediyse dedi, aldırmıyorum.
+
+640
+01:07:40,950 --> 01:07:44,350
+Bu kasabada olan en heyecan verici
+olayı kaçırmayacağım.
+
+641
+01:08:04,250 --> 01:08:08,050
+Tıklım tıklım.
+Bir sürü insan arkada duruyor.
+
+642
+01:08:09,650 --> 01:08:12,150
+- Rahip.
+- Evet.
+
+643
+01:08:12,250 --> 01:08:16,250
+- Rahip Sykes, yukarı mı çıkıyorsunuz?
+- Evet.
+
+644
+01:08:26,250 --> 01:08:29,350
+Joe birader, yerimi
+koruduğun için sağol.
+
+645
+01:08:29,550 --> 01:08:31,850
+Hadi çocuklar.
+Hadi, hadi.
+
+646
+01:09:06,450 --> 01:09:09,350
+Duruşma başlamıştır.
+Herkes ayağa kalksın.
+
+647
+01:09:21,450 --> 01:09:23,850
+21 Ağustos gecesi...
+
+648
+01:09:24,150 --> 01:09:27,850
+eve gitmek üzere büromdan
+çıkıyordum ki Bob...
+
+649
+01:09:28,150 --> 01:09:30,450
+yani Bay Ewell geldi.
+
+650
+01:09:31,450 --> 01:09:33,350
+Çok heyecanlıydı
+ve hemen onunla...
+
+651
+01:09:33,550 --> 01:09:36,250
+evine gitmemi istedi...
+
+652
+01:09:36,450 --> 01:09:38,750
+kızına tecavüz edildiğini söyledi.
+
+653
+01:09:39,050 --> 01:09:43,350
+Arabama binip hızla
+oraya gittim.
+
+654
+01:09:43,550 --> 01:09:45,350
+Fena halde dövülmüştü.
+
+655
+01:09:46,650 --> 01:09:50,350
+Kendisine onu Tom Robinson'un mu
+dövdüğünü sordum.
+
+656
+01:09:50,550 --> 01:09:52,550
+Kız evet dedi, o dövmüştü.
+
+657
+01:09:54,150 --> 01:09:57,250
+Kendisinden faydalanıp
+faydalanmadığını sordum.
+
+658
+01:09:57,450 --> 01:10:00,350
+Kız faydalandığını söyledi.
+
+659
+01:10:00,550 --> 01:10:02,950
+Hepsi bu kadar.
+
+660
+01:10:04,750 --> 01:10:06,250
+Teşekkür ederim.
+
+661
+01:10:09,350 --> 01:10:12,650
+Şerif, doktor çağıran
+oldu mu?
+
+662
+01:10:12,850 --> 01:10:15,450
+- Hayır, efendim.
+- Neden?
+
+663
+01:10:15,750 --> 01:10:17,850
+Şey, bunun gerekli
+olduğunu düşünmedim.
+
+664
+01:10:18,050 --> 01:10:20,150
+Kız fena halde dövülmüştü.
+
+665
+01:10:20,350 --> 01:10:22,450
+Bir şeyin olduğu belliydi.
+Görülebiliyordu.
+
+666
+01:10:24,850 --> 01:10:29,750
+Şerif, dediğinize göre kız fena halde
+dövülmüştü. Ne şekilde?
+
+667
+01:10:30,150 --> 01:10:32,750
+Kafasına vurulmuştu.
+
+668
+01:10:33,050 --> 01:10:36,050
+Kollarında morluklar
+oluşmaya başlamıştı.
+
+669
+01:10:36,250 --> 01:10:39,250
+Gözü morarmaya başlamıştı.
+
+670
+01:10:39,350 --> 01:10:42,650
+- Hangi gözü?
+- Bir düşüneyim.
+
+671
+01:10:42,950 --> 01:10:44,750
+Sol gözüydü.
+
+672
+01:10:46,050 --> 01:10:48,850
+Peki, bu...
+
+673
+01:10:49,050 --> 01:10:51,650
+Ona göre
+sol tarafı mıydı...
+
+674
+01:10:51,850 --> 01:10:53,750
+yoksa siz ona
+baktığınızda sol tarafı mı?
+
+675
+01:10:53,950 --> 01:10:57,850
+Evet, bu durumda
+sağ gözü olabilir.
+
+676
+01:10:59,350 --> 01:11:02,350
+Sağ gözüydü Bay Finch.
+Şimdi hatırladım.
+
+677
+01:11:02,650 --> 01:11:05,950
+Yüzünün o tarafına vurulmuştu.
+
+678
+01:11:11,850 --> 01:11:14,350
+Hangi taraf demiştin, Heck?
+
+679
+01:11:14,450 --> 01:11:16,050
+Sağ taraf.
+
+680
+01:11:17,350 --> 01:11:19,650
+Kollarında çürükler vardı.
+
+681
+01:11:21,750 --> 01:11:25,550
+Bana boynunu gösterdi. Gırtlağındaki
+parmak izleri belliydi.
+
+682
+01:11:29,650 --> 01:11:34,550
+Boynunun her tarafında mı,
+boğazının arkasında mı?
+
+683
+01:11:36,550 --> 01:11:38,550
+Her tarafında vardı diyebilirim.
+
+684
+01:11:47,250 --> 01:11:49,050
+Tanık yerine oturabilir.
+
+685
+01:11:51,250 --> 01:11:52,550
+Robert E. Lee Ewell.
+
+686
+01:11:58,150 --> 01:11:59,950
+Elinizi İncil'in
+üzerine koyun lütfen.
+
+687
+01:12:00,150 --> 01:12:03,150
+Gerçeği, sadece gerçeği söyleyeceğinize
+Tanrı önünde yemin eder misiniz?
+
+688
+01:12:03,250 --> 01:12:05,350
+- Evet.
+- Buyrun oturun.
+
+689
+01:12:08,950 --> 01:12:10,750
+Şimdi, Bay Ewell...
+
+690
+01:12:10,850 --> 01:12:13,750
+bize 21 Ağustos günü
+neler olduğunu...
+
+691
+01:12:13,850 --> 01:12:16,850
+kendi sözlerinizle anlatın.
+
+692
+01:12:17,050 --> 01:12:18,650
+O gece...
+
+693
+01:12:18,850 --> 01:12:21,550
+biraz yakacak odunla
+korudan geliyordum...
+
+694
+01:12:21,750 --> 01:12:24,850
+Çite yaklaştığımda
+Mayella'nın bağırdığını duydum.
+
+695
+01:12:25,050 --> 01:12:29,450
+Odunları atıp var gücümle koştum,
+fakat çite takıldım.
+
+696
+01:12:29,750 --> 01:12:34,050
+Ama kurtulunca
+pencereye koştum...
+
+697
+01:12:34,350 --> 01:12:36,850
+ve onu Mayella'mla gördüm!
+
+698
+01:12:42,250 --> 01:12:43,650
+Sanığı görünce...
+
+699
+01:12:43,750 --> 01:12:46,250
+ne yaptın?
+
+700
+01:12:46,450 --> 01:12:48,250
+Evin etrafını dolandım,
+içeri girmeye uğraşıyordum...
+
+701
+01:12:48,450 --> 01:12:51,550
+fakat ben kapıya varmadan
+çıktığını gördüm!
+
+702
+01:12:51,850 --> 01:12:53,650
+Ama kim olduğunu gördüm!
+
+703
+01:12:55,050 --> 01:12:56,950
+Gördüm onu.
+
+704
+01:12:59,750 --> 01:13:02,750
+Koşarak eve girdim...
+
+705
+01:13:03,050 --> 01:13:05,550
+zavallı Mayella yerde yatıyor
+ve feryat ediyordu.
+
+706
+01:13:07,350 --> 01:13:10,150
+Ben de, var hızımla
+Bay Tate'i çağırmaya koştum.
+
+707
+01:13:13,150 --> 01:13:14,450
+Teşekkür ederim.
+
+708
+01:13:24,050 --> 01:13:28,350
+Size birkaç soru sormamın bir mahzuru
+var mı, Bay Ewell?
+
+709
+01:13:28,650 --> 01:13:31,050
+Hayır efendim,
+buyrun sorun, Bay Finch.
+
+710
+01:13:36,750 --> 01:13:39,050
+O gece pek çok insan
+bir hayli koşuyordu.
+
+711
+01:13:39,250 --> 01:13:43,650
+Siz eve koştuğunuzu,
+pencereye koştuğunuzu söylüyorsunuz...
+
+712
+01:13:44,050 --> 01:13:48,250
+içeri koştunuz, Mayella'ya koştunuz
+ve Şerif Tate'e koştunuz.
+
+713
+01:13:48,450 --> 01:13:52,750
+Tüm bu koşuşmalar arasında
+bir de doktora koştunuz mu?
+
+714
+01:13:53,050 --> 01:13:55,750
+Gerek yoktu ki.
+Kimin yaptığını gördüm.
+
+715
+01:13:58,450 --> 01:14:01,450
+Bir dakika Bay Ewell,
+Şerif Tate'in ifadesini duydunuz.
+
+716
+01:14:01,750 --> 01:14:04,150
+Mayella'nın yaraları konusunda
+ona katılıyor musunuz?
+
+717
+01:14:04,950 --> 01:14:08,450
+Bay Tate'in dediği
+her şeye katılıyorum.
+
+718
+01:14:08,850 --> 01:14:10,650
+Gözü morarmıştı.
+
+719
+01:14:10,850 --> 01:14:14,350
+İyice dövülmüştü,
+iyice dayak yemişti.
+
+720
+01:14:16,650 --> 01:14:21,750
+Pekala, Bay Ewell, siz...
+Sizin okuma yazmanız var mı?
+
+721
+01:14:24,350 --> 01:14:27,950
+Evet efendim,
+okumayı ve yazmayı bilirim, Bay Finch.
+
+722
+01:14:30,050 --> 01:14:31,250
+Güzel.
+
+723
+01:14:32,450 --> 01:14:35,450
+O zaman, lütfen kendi adınızı
+yazabilir misiniz?
+
+724
+01:14:35,750 --> 01:14:38,350
+Tam şuraya.
+Görelim bakalım.
+
+725
+01:15:10,250 --> 01:15:12,150
+Ne var bunda?
+
+726
+01:15:12,250 --> 01:15:14,050
+Siz solaksınız, Bay Ewell.
+
+727
+01:15:14,250 --> 01:15:18,250
+Bunun ne ilgisi var, sayın Yargıç?
+Ben dini bütün bir adamım.
+
+728
+01:15:18,550 --> 01:15:20,950
+Şu Atticus Finch,
+beni oyuna getirmeye çalışıyor!
+
+729
+01:15:21,150 --> 01:15:23,550
+Atticus Finch gibi kurnaz avukatlara
+dikkat etmek gerekir!
+
+730
+01:15:23,650 --> 01:15:26,050
+Sessizlik istiyorum. Susun, Bayım.
+
+731
+01:15:26,150 --> 01:15:29,150
+Tanık artık yerine dönebilir.
+
+732
+01:15:39,250 --> 01:15:40,950
+Mayella Violet Ewell.
+
+733
+01:15:53,550 --> 01:15:55,650
+İncil'e el basın, lütfen!
+
+734
+01:15:57,850 --> 01:16:01,650
+Gerçeği, sadece gerçeği söyleyeceğinize
+Tanrı önünde yemin eder misiniz?
+
+735
+01:16:01,950 --> 01:16:03,850
+Lütfen oturun.
+
+736
+01:16:08,350 --> 01:16:10,250
+Şimdi, Mayella...
+
+737
+01:16:11,650 --> 01:16:16,250
+istersen tam ne olduğunu bize
+sen anlat, ha?
+
+738
+01:16:23,750 --> 01:16:27,550
+Verandada oturuyordum ve o geldi.
+
+739
+01:16:30,950 --> 01:16:34,550
+Bahçede şu eski şifoniyer vardır...
+
+740
+01:16:35,650 --> 01:16:38,150
+ve dedim ki...
+
+741
+01:16:38,350 --> 01:16:40,850
+"Gel buraya, evlat,
+şu şifoniyeri parçalarsan...
+
+742
+01:16:41,050 --> 01:16:43,250
+benden sana bir beşlik."
+
+743
+01:16:44,650 --> 01:16:47,150
+Ve o bahçeye girdiğinde...
+
+744
+01:16:47,450 --> 01:16:50,150
+ben de, beşliği almaya, eve girdim...
+
+745
+01:16:51,550 --> 01:16:54,350
+ve arkamı döndüm ki
+üstüme atılmıştı bile.
+
+746
+01:16:56,750 --> 01:16:58,250
+Onunla boğuştum ve bağırdım...
+
+747
+01:16:58,250 --> 01:17:00,750
+ama boğazıma sarılmıştı...
+
+748
+01:17:00,950 --> 01:17:04,450
+ve tekrar, tekrar bana vurdu.
+
+749
+01:17:07,050 --> 01:17:11,550
+Ondan sonra da babamın odada
+olduğunu hatırlıyorum...
+
+750
+01:17:11,850 --> 01:17:13,950
+başımda dikilmiş,
+bağırıp çağırıyordu...
+
+751
+01:17:14,050 --> 01:17:17,350
+"Kimdi? Kim yaptı bunu?"
+
+752
+01:17:18,650 --> 01:17:20,450
+Teşekkürler, Mayella.
+
+753
+01:17:22,250 --> 01:17:24,150
+Tanık sizin, Atticus.
+
+754
+01:17:27,450 --> 01:17:29,150
+Bayan Mayella...
+
+755
+01:17:30,250 --> 01:17:34,050
+babanız size karşı iyi midir?
+
+756
+01:17:34,350 --> 01:17:37,350
+Yani, geçinmesi kolay biri midir?
+
+757
+01:17:39,350 --> 01:17:40,750
+Dayanılabilir.
+
+758
+01:17:40,750 --> 01:17:43,050
+Yani, içmediği zamanlar.
+
+759
+01:17:46,050 --> 01:17:49,250
+Kızgınken, hiç sana vurduğu oldu mu?
+
+760
+01:17:56,050 --> 01:17:59,550
+Babam, bir kez bile olsun
+saçımın tek teline bile dokunmamıştır.
+
+761
+01:18:04,550 --> 01:18:09,450
+Dediğine göre, Tom'a içeri gelip
+kırmasını söyledin... o şeyi, neydi o?
+
+762
+01:18:11,150 --> 01:18:12,650
+Şifoniyer.
+
+763
+01:18:12,850 --> 01:18:15,550
+Bu, senin onu çitin içine...
+
+764
+01:18:15,650 --> 01:18:17,950
+ilk çağırışın mıydı?
+
+765
+01:18:19,050 --> 01:18:20,450
+Evet.
+
+766
+01:18:22,250 --> 01:18:24,050
+Daha önce, hiç çitin...
+
+767
+01:18:24,250 --> 01:18:26,550
+içine girmesini istemedin mi?
+
+768
+01:18:31,050 --> 01:18:32,850
+Belki istemişimdir.
+
+769
+01:18:34,150 --> 01:18:36,350
+Böyle başka bir durum
+hatırlamıyor musun?
+
+770
+01:18:39,550 --> 01:18:41,350
+Diyorsun ki...
+
+771
+01:18:41,450 --> 01:18:45,150
+"Beni yakaladı, boğazımı sıktı
+ve benden yararlandı."
+
+772
+01:18:45,350 --> 01:18:46,650
+Doğru mu bu?
+
+773
+01:18:50,650 --> 01:18:52,850
+Yüzüne vurduğunu
+hatırlıyor musun?
+
+774
+01:18:55,250 --> 01:18:57,250
+Hayır.
+
+775
+01:18:57,450 --> 01:18:58,950
+Bana vurup vurmadığını...
+
+776
+01:19:00,950 --> 01:19:03,150
+hatırlamıyorum.
+
+777
+01:19:07,650 --> 01:19:10,750
+Yani, evet!
+Vurdu bana!
+
+778
+01:19:10,950 --> 01:19:12,550
+Bana vurdu!
+
+779
+01:19:18,650 --> 01:19:20,150
+Teşekkürler.
+
+780
+01:19:20,250 --> 01:19:22,850
+Şimdi, bize sana vuran adamı
+gösterebilir misin?
+
+781
+01:19:23,050 --> 01:19:26,050
+Elbette göstereceğim.
+Tam şurada oturuyor.
+
+782
+01:19:28,750 --> 01:19:31,550
+Tom, lütfen ayağa kalkar mısın?
+
+783
+01:19:31,650 --> 01:19:34,950
+Bırak da Bayan Mayella
+sana iyice bir baksın.
+
+784
+01:19:44,750 --> 01:19:46,950
+Şunu yakalar mısın lütfen?
+
+785
+01:19:51,550 --> 01:19:52,550
+Teşekkürler.
+
+786
+01:19:55,650 --> 01:19:59,650
+Pekala, şimdi de sol elinle
+yakala bakalım.
+
+787
+01:20:00,950 --> 01:20:02,450
+Yapamam, efendim.
+
+788
+01:20:02,450 --> 01:20:04,250
+Neden yapamazmışsın?
+
+789
+01:20:04,350 --> 01:20:06,650
+Sol elimi hiç kullanamam da, ondan.
+
+790
+01:20:07,950 --> 01:20:11,550
+12 yaşımdayken çırçır makinesine
+kaptırmıştım.
+
+791
+01:20:11,850 --> 01:20:14,250
+Kaslarımın hepsi paralanmıştı.
+
+792
+01:20:31,550 --> 01:20:33,850
+Irzına geçen adam bu mu?
+
+793
+01:20:36,250 --> 01:20:38,150
+Kesinlikle o.
+
+794
+01:20:39,250 --> 01:20:40,750
+NasıI?
+
+795
+01:20:43,950 --> 01:20:47,250
+NasıI yaptığını bilmiyorum.
+
+796
+01:20:47,550 --> 01:20:49,650
+Yaptı işte.
+
+797
+01:20:49,750 --> 01:20:52,650
+İfadende...
+
+798
+01:20:52,850 --> 01:20:56,750
+boğazını sıktığını
+ve sana vurduğunu söyledin.
+
+799
+01:20:57,950 --> 01:21:02,050
+Arkandan gizlice sokulup
+seni bayılttığını söylemedin...
+
+800
+01:21:03,350 --> 01:21:06,450
+arkanı döndüğünde birden...
+
+801
+01:21:06,750 --> 01:21:09,350
+onu karşında bulduğunu söyledin.
+
+802
+01:21:10,650 --> 01:21:13,450
+Bize, gerçekten ne olduğunu
+söylemek ister misin?
+
+803
+01:21:15,950 --> 01:21:18,250
+Söyleyecek bir lafım var...
+
+804
+01:21:20,450 --> 01:21:22,950
+ama bundan sonra artık
+bir şey söylemeyeceğim!
+
+805
+01:21:27,050 --> 01:21:29,950
+Benden yararlandı!
+
+806
+01:21:33,050 --> 01:21:35,350
+Ve, eğer siz, sayın...
+
+807
+01:21:35,550 --> 01:21:37,450
+kibar beyler...
+
+808
+01:21:37,650 --> 01:21:39,750
+bu konuda bir şey yapmayacaksanız...
+
+809
+01:21:39,950 --> 01:21:42,350
+o zaman, siz bir avuç işe yaramaz...
+
+810
+01:21:42,550 --> 01:21:44,950
+korkak, kokuşmuş heriflersiniz...
+
+811
+01:21:45,150 --> 01:21:47,450
+topunuz birden!
+
+812
+01:21:47,550 --> 01:21:50,650
+Ve sizin züppe tavırlarınızın da
+beş paralık hükmü yok!
+
+813
+01:21:50,950 --> 01:21:53,950
+Sizin "ham'fendi"leriniz
+ve "Bayan Mayella"larınız...
+
+814
+01:21:54,150 --> 01:21:57,150
+beş para etmez, Bay Finch!
+
+815
+01:22:02,400 --> 01:22:04,700
+Şimdi yerine otur.
+
+816
+01:22:21,800 --> 01:22:23,300
+Atticus.
+
+817
+01:22:26,500 --> 01:22:27,800
+Bay Gilmer.
+
+818
+01:22:32,300 --> 01:22:34,500
+Savcılığın ekleyeceği bir şey yok,
+Sayın Yargıç.
+
+819
+01:22:42,900 --> 01:22:45,200
+Tom Robinson,
+tanık sandalyesine gel.
+
+820
+01:23:00,500 --> 01:23:02,300
+Elini İncil'in üzerine koy.
+
+821
+01:23:03,500 --> 01:23:06,800
+Gerçeği, sadece gerçeği söyleyeceğine
+Tanrı önünde yemin eder misin?
+
+822
+01:23:07,000 --> 01:23:08,800
+- Yemin ederim.
+- Otur.
+
+823
+01:23:23,600 --> 01:23:26,900
+Mayella Violet Ewell ile
+tanışıyor muydun?
+
+824
+01:23:27,100 --> 01:23:28,300
+Evet, efendim.
+
+825
+01:23:28,400 --> 01:23:31,800
+Her gün, tarlaya gidip gelirken
+evinin önünden geçmem gerekiyor.
+
+826
+01:23:33,100 --> 01:23:35,500
+Hiç başka yol var mı?
+
+827
+01:23:35,800 --> 01:23:39,100
+Hayır, efendim.
+Bildiğim kadarıyla yok.
+
+828
+01:23:39,300 --> 01:23:41,400
+Pekala, hiç seninle
+konuştuğu oldu mu?
+
+829
+01:23:41,600 --> 01:23:43,700
+Evet, tabii, efendim.
+
+830
+01:23:43,900 --> 01:23:46,200
+Geçerken şapkamla selamlardım.
+
+831
+01:23:47,600 --> 01:23:50,700
+Ve bir gün, bana çitten
+içeri girmemi söyledi...
+
+832
+01:23:51,000 --> 01:23:54,000
+girip bir şifoniyeri
+parçalamamı istedi.
+
+833
+01:23:54,200 --> 01:23:56,700
+Bana bir nacak verdi
+ve ben de kırdım.
+
+834
+01:23:56,900 --> 01:23:59,200
+Sonra da dedi ki,
+
+835
+01:23:59,400 --> 01:24:01,600
+"Sanırım sana bir beşlik
+vermem gerekiyor, di mi?"
+
+836
+01:24:01,800 --> 01:24:05,500
+Ben de "Hayır, hanımefendi,
+ücret istemiyorum" dedim.
+
+837
+01:24:05,800 --> 01:24:07,600
+Ve evime gittim.
+
+838
+01:24:08,800 --> 01:24:13,000
+Bay Finch, bu geçen baharda oldu,
+bir yıldan çok önce.
+
+839
+01:24:14,600 --> 01:24:16,600
+Bundan sonra tekrar oraya gittin mi?
+
+840
+01:24:20,300 --> 01:24:21,700
+Evet, efendim.
+
+841
+01:24:22,800 --> 01:24:24,300
+Ne zaman?
+
+842
+01:24:26,700 --> 01:24:30,200
+Birçok kez gittim.
+
+843
+01:24:30,500 --> 01:24:33,000
+Oradan her geçişimde diyebilirim...
+
+844
+01:24:33,200 --> 01:24:35,600
+benim için hep yapacak
+bir şeyler bulurdu:
+
+845
+01:24:35,800 --> 01:24:38,500
+Yakacak odun kesmek, su taşımak.
+
+846
+01:24:50,500 --> 01:24:52,300
+Geçen sene Ağustos'un 21 'inde...
+
+847
+01:24:52,500 --> 01:24:55,800
+akşam başına neler geldi?
+
+848
+01:25:06,300 --> 01:25:09,300
+Her zamanki gibi,
+o akşam da eve gidiyordum.
+
+849
+01:25:11,400 --> 01:25:14,200
+Eweller'in oradan geçerken...
+
+850
+01:25:14,300 --> 01:25:18,000
+Bayan Mayella, kendi de dediği gibi,
+verandalarında oturuyordu.
+
+851
+01:25:18,300 --> 01:25:21,900
+Oraya gidip ona bir dakika
+yardım etmemi istedi.
+
+852
+01:25:23,000 --> 01:25:25,600
+Çitten içeri girdim...
+
+853
+01:25:25,700 --> 01:25:30,700
+ve kesilecek odun aradım
+ama hiçbir şey göremedim.
+
+854
+01:25:32,800 --> 01:25:35,600
+O zaman, eve,
+içeriye gelmemi söyledi...
+
+855
+01:25:35,900 --> 01:25:38,100
+onarılacak bir kapı varmış.
+
+856
+01:25:39,000 --> 01:25:41,200
+Ben de peşinden içeri girdim...
+
+857
+01:25:41,400 --> 01:25:45,000
+ve kapıya baktım
+ve tamir gerektirmiyordu.
+
+858
+01:25:46,600 --> 01:25:48,000
+Sonra, kapıyı kapattı.
+
+859
+01:25:50,500 --> 01:25:54,600
+Bütün bu sırada ortalığın neden
+o denli sessiz olduğunu düşünüyordum.
+
+860
+01:25:56,800 --> 01:25:59,300
+Sonra, birden ayıldım.
+
+861
+01:25:59,600 --> 01:26:02,400
+Evde tek çocuk yoktu.
+
+862
+01:26:02,500 --> 01:26:07,200
+Ben de sordum, "Bayan Mayella,
+çocuklar nerede?"
+
+863
+01:26:09,100 --> 01:26:12,000
+O da "Hepsi, dondurma
+yemeye gittiler" dedi.
+
+864
+01:26:12,200 --> 01:26:17,100
+Yedi beşliği biriktirmek için bir yıI
+uğraştım ama sonunda becerdim, dedi.
+
+865
+01:26:17,400 --> 01:26:19,500
+Ve hepsi de şehre gitmişler.
+
+866
+01:26:21,400 --> 01:26:22,700
+Sen ne dedin, o zaman?
+
+867
+01:26:26,100 --> 01:26:28,600
+Ben de şöyle bir şeyler dedim:
+
+868
+01:26:28,800 --> 01:26:32,700
+"Bayan Mayella, onlara dondurma
+ısmarlamanız çok güzel olmuş" dedim.
+
+869
+01:26:34,000 --> 01:26:36,200
+"Öyle mi dersin?" dedi.
+
+870
+01:26:36,300 --> 01:26:39,600
+"Eh, ben artık gideyim" dedim.
+
+871
+01:26:39,900 --> 01:26:44,100
+Onun için yapabileceğin bir şey yoktu.
+O ise, evet var, dedi.
+
+872
+01:26:44,400 --> 01:26:46,300
+Ben de ne olduğunu sordum.
+
+873
+01:26:47,800 --> 01:26:51,500
+Berideki sandalyenin
+üstüne çıkmamı ve...
+
+874
+01:26:51,800 --> 01:26:55,500
+şifoniyerin üstündeki
+kutuyu almamı söyledi.
+
+875
+01:26:57,600 --> 01:27:00,800
+Ben de dediği gibi yaptım...
+
+876
+01:27:01,000 --> 01:27:03,900
+ve yukarı uzanırken...
+
+877
+01:27:04,100 --> 01:27:08,800
+birden bacaklarıma sarıldı.
+
+878
+01:27:16,200 --> 01:27:20,200
+Beni öyle korkuttu ki, aşağı atladım
+ve sandalyeyi devirdim.
+
+879
+01:27:20,300 --> 01:27:22,800
+O, odadaki bozulmuş tek şey...
+
+880
+01:27:23,000 --> 01:27:25,800
+tek mobilya idi, Bay Finch...
+
+881
+01:27:26,000 --> 01:27:28,300
+Yemin ederim, çıktığımda.
+
+882
+01:27:31,200 --> 01:27:34,000
+Sandalyeyi devirdikten sonra ne oldu?
+
+883
+01:27:48,400 --> 01:27:53,100
+Tüm gerçeği anlatacağına
+yemin etmiştin. Anlatacak mısın?
+
+884
+01:27:56,500 --> 01:27:58,900
+Ondan sonra ne oldu?
+
+885
+01:28:06,800 --> 01:28:09,500
+Sandalyeden indim ve...
+
+886
+01:28:09,700 --> 01:28:12,800
+arkama döndüm...
+
+887
+01:28:13,000 --> 01:28:15,700
+ve o, neredeyse üstüme atladı.
+
+888
+01:28:17,000 --> 01:28:19,800
+Beni, belimden kucakladı.
+
+889
+01:28:20,200 --> 01:28:23,000
+Ayaklarının ucunda yükselip
+yüzümü öpmeye başladı.
+
+890
+01:28:24,500 --> 01:28:29,200
+Daha önce, yetişkin bir adamı
+hiç öpmemiş olduğunu...
+
+891
+01:28:29,500 --> 01:28:31,800
+hiç değilse beni
+öpebileceğini söyledi.
+
+892
+01:28:33,100 --> 01:28:35,600
+Bana da öpücüklerine
+karşılık vermemi söyledi.
+
+893
+01:28:37,300 --> 01:28:41,200
+Ben de "Bayan Mayella,
+bırak gideyim" dedim...
+
+894
+01:28:41,300 --> 01:28:43,300
+ve koşmaya çalıştım.
+
+895
+01:28:45,100 --> 01:28:48,900
+Bay Ewell pencereden ona küfretti.
+
+896
+01:28:50,500 --> 01:28:52,500
+Onu öldüreceğini söyledi.
+
+897
+01:29:01,400 --> 01:29:03,000
+Sonra ne oldu?
+
+898
+01:29:06,700 --> 01:29:11,200
+Öyle hızlı koşuyordum ki,
+ne olduğunu bilmiyorum.
+
+899
+01:29:19,500 --> 01:29:23,000
+Tom, Mayella Ewell'e
+tecavüz ettin mi?
+
+900
+01:29:27,300 --> 01:29:29,400
+Etmedim, efendim.
+
+901
+01:29:30,600 --> 01:29:33,100
+Ona, herhangi bir biçimde
+zarar verdin mi?
+
+902
+01:29:40,300 --> 01:29:42,700
+Vermedim, efendim.
+
+903
+01:30:02,300 --> 01:30:03,800
+Robinson...
+
+904
+01:30:05,700 --> 01:30:10,000
+Tek elle şifoniyer ve odun kırmakta
+ustasın, değil mi?
+
+905
+01:30:10,200 --> 01:30:12,500
+Ve bir kadının boğazını sıkıp
+onu yere fırlatacak...
+
+906
+01:30:12,700 --> 01:30:14,600
+kadar güçlüsün, değil mi?
+
+907
+01:30:15,700 --> 01:30:18,900
+- Asla böyle bir şey yapmadım efendim.
+- Ama yapabilecek kadar kuvvetlisin.
+
+908
+01:30:20,800 --> 01:30:22,600
+Sanırım, efendim.
+
+909
+01:30:29,600 --> 01:30:33,200
+NasıI oluyor da o kadının ufak tefek
+işlerini yapmaya bu kadar heveslisin?
+
+910
+01:30:37,000 --> 01:30:40,300
+Anladığım kadarıyla...
+Ona yardım edecek kimse yoktu.
+
+911
+01:30:41,100 --> 01:30:42,300
+Dediğim gibi...
+
+912
+01:30:42,600 --> 01:30:45,700
+Evde Bay Ewell ve
+yedi çocuk varken mi?
+
+913
+01:30:45,900 --> 01:30:49,700
+Tüm bu odun kırmayı ve işleri sırf
+iyilik olsun diye mi yaptın, evlat?
+
+914
+01:30:51,600 --> 01:30:53,900
+Anlaşılan bayağı iyi bir
+adammışsın.
+
+915
+01:30:54,100 --> 01:30:56,400
+Tüm bunları metelik
+almadan mı yaptın?
+
+916
+01:30:57,900 --> 01:31:02,000
+Evet, efendim.
+Ona gerçekten acıyordum.
+
+917
+01:31:02,300 --> 01:31:03,600
+Bana öyle geliyordu ki, o...
+
+918
+01:31:20,100 --> 01:31:22,200
+Ona acıyor muydun?
+
+919
+01:31:23,400 --> 01:31:25,300
+Bir beyaz kadına?
+
+920
+01:31:27,300 --> 01:31:30,300
+Ona acıyordun.
+
+921
+01:32:03,400 --> 01:32:05,900
+Bir kere...
+
+922
+01:32:06,100 --> 01:32:08,600
+bu dava, duruşma aşamasına
+hiç gelmemeliydi.
+
+923
+01:32:08,800 --> 01:32:11,700
+Devlet, Tom Robinson'a
+atfedilen suçun...
+
+924
+01:32:11,900 --> 01:32:13,900
+işlendiğine dair...
+
+925
+01:32:14,000 --> 01:32:17,500
+tek bir tıbbi kanıt bile...
+
+926
+01:32:17,800 --> 01:32:20,100
+gösteremedi.
+
+927
+01:32:21,200 --> 01:32:23,500
+Bunun yerine...
+
+928
+01:32:23,700 --> 01:32:26,900
+iki tanığın ifadelerine
+dayandı ki...
+
+929
+01:32:27,100 --> 01:32:30,300
+bunların tanıklığı
+çapraz sorgulamada
+
+930
+01:32:30,500 --> 01:32:32,900
+ciddi biçimde kuşku uyandırmakla
+kalmadığı gibi...
+
+931
+01:32:33,100 --> 01:32:36,900
+sanığın beyanlarıyla da
+tamamen tezat oluşturuyor.
+
+932
+01:32:39,300 --> 01:32:42,600
+Mayella Ewell'in, hemen hemen
+hep sol elini kullanan...
+
+933
+01:32:42,800 --> 01:32:45,400
+birisi tarafından...
+
+934
+01:32:45,500 --> 01:32:47,500
+vahşice dövüldüğünü...
+
+935
+01:32:47,700 --> 01:32:52,200
+gösteren tali deliller
+bulunmaktadır.
+
+936
+01:32:55,200 --> 01:32:59,200
+Şimdi karşınızda oturan
+Tom Robinson...
+
+937
+01:32:59,300 --> 01:33:02,900
+tek işe yarar eli olan
+sağ elini kullanarak...
+
+938
+01:33:03,000 --> 01:33:04,900
+yemin etti.
+
+939
+01:33:16,500 --> 01:33:19,700
+Devletin baş tanığına karşı...
+
+940
+01:33:21,800 --> 01:33:24,500
+sadece acıma hissi duyuyorum.
+
+941
+01:33:27,400 --> 01:33:29,300
+O, insafsız bir...
+
+942
+01:33:29,500 --> 01:33:32,700
+yoksulluk ve cehaletin...
+kurbanıdır.
+
+943
+01:33:36,500 --> 01:33:39,800
+Ama acıma hissim...
+
+944
+01:33:40,000 --> 01:33:43,000
+onun kendi suçluluk duygusundan
+kurtulma çabası içinde...
+
+945
+01:33:43,300 --> 01:33:46,300
+bir adamın hayatını...
+
+946
+01:33:47,900 --> 01:33:51,900
+tehlikeye atmasını kapsamıyor.
+
+947
+01:33:53,200 --> 01:33:56,300
+"Suçluluk" diyorum, baylar...
+
+948
+01:33:56,600 --> 01:34:00,100
+onun hareketlerine
+yön veren...
+
+949
+01:34:00,400 --> 01:34:02,500
+suçluluk duygusuydu.
+
+950
+01:34:03,600 --> 01:34:05,900
+O herhangi bir suç işlemedi.
+
+951
+01:34:07,400 --> 01:34:10,200
+O, sadece, toplumumuzun
+katı ve köklü kurallarından birini...
+
+952
+01:34:10,400 --> 01:34:12,500
+ihlal etti.
+
+953
+01:34:14,200 --> 01:34:18,200
+Bu öylesine ciddi bir kuraldır ki,
+onu ihlal eden, birlikte yaşamaya...
+
+954
+01:34:18,500 --> 01:34:20,600
+uygun değil diye
+aramızdan kovulur.
+
+955
+01:34:20,800 --> 01:34:23,900
+İşlediği suçun kanıtını...
+
+956
+01:34:24,100 --> 01:34:26,000
+yok etmek zorundaydı.
+
+957
+01:34:27,100 --> 01:34:31,300
+Peki ama suçunun
+kanıtı neydi?
+
+958
+01:34:31,600 --> 01:34:35,300
+Tom Robinson, yani bir insan.
+
+959
+01:34:38,000 --> 01:34:41,400
+Tom Robinson'u kendinden
+uzaklaştırmak zorundaydı.
+
+960
+01:34:44,500 --> 01:34:48,100
+Tom Robinson her gün...
+
+961
+01:34:48,300 --> 01:34:51,000
+yaptığını hatırlamasına
+vesile oluyordu.
+
+962
+01:34:51,200 --> 01:34:53,400
+Peki, o ne yapmıştı?
+
+963
+01:34:54,600 --> 01:34:56,600
+Bir Zenciyi ayartmıştı.
+
+964
+01:34:56,800 --> 01:34:59,600
+O beyazdı,
+ve bir zenciyi ayartmıştı.
+
+965
+01:35:01,300 --> 01:35:04,900
+O, bizim toplumumuzda
+ağza alınmayacak bir şey yaptı.
+
+966
+01:35:06,300 --> 01:35:08,500
+Bir zenci adamı öptü.
+
+967
+01:35:08,700 --> 01:35:11,000
+İhtiyar bir amcayı değil...
+
+968
+01:35:13,000 --> 01:35:16,100
+güçlü kuvvetli
+bir zenci delikanlıyı.
+
+969
+01:35:19,100 --> 01:35:22,800
+Kuralı ihlal etmeden önce
+hiçbir kural onu ilgilendirmiyordu...
+
+970
+01:35:23,100 --> 01:35:26,100
+ama daha sonra
+onların altında ezildi.
+
+971
+01:35:34,200 --> 01:35:36,000
+Savcılığın tanıkları...
+
+972
+01:35:36,200 --> 01:35:38,400
+Maycomb County şerifi
+dışında, Baylar...
+
+973
+01:35:38,600 --> 01:35:41,800
+size ve bu Mahkemeye
+ifade verirken...
+
+974
+01:35:43,800 --> 01:35:47,700
+tanıklıklarından kuşku
+duyulmayacağından...
+
+975
+01:35:48,000 --> 01:35:50,800
+içtenliksiz bir biçimde
+emindiler.
+
+976
+01:35:51,900 --> 01:35:55,100
+Sizlerin de onlar gibi...
+
+977
+01:35:55,300 --> 01:35:58,300
+tüm zencilerin yalan söylediği...
+
+978
+01:36:01,300 --> 01:36:03,100
+tüm zencilerin esas olarak
+ahlaksız yaratıklar olduğu...
+
+979
+01:36:03,300 --> 01:36:05,600
+kadınlarımız söz konusu olduğunda
+hiçbir zenci erkeğe güvenilemeyeceği...
+
+980
+01:36:05,800 --> 01:36:08,900
+varsayımını...
+
+981
+01:36:09,100 --> 01:36:13,200
+bu iğrenç varsayımı
+benimseyeceğinizden emindiler.
+
+982
+01:36:16,700 --> 01:36:21,800
+Onların düzeyinden
+beklenen...
+
+983
+01:36:22,100 --> 01:36:26,300
+ve, Baylar, aslında yalan
+olan bir varsayım.
+
+984
+01:36:29,300 --> 01:36:32,600
+Bunu size söylememe
+gerek bile yok.
+
+985
+01:36:38,900 --> 01:36:40,500
+Böylece...
+
+986
+01:36:41,800 --> 01:36:45,200
+beyaz bir kadına acımak
+küstahlığını gösteren...
+
+987
+01:36:45,400 --> 01:36:49,100
+sessiz, mütevazı,
+saygın bir zenci...
+
+988
+01:36:49,300 --> 01:36:52,200
+iki beyazın sözlerine karşı
+
+989
+01:36:53,900 --> 01:36:58,200
+sözlerinin doğruluğunu
+kanıtlamak zorunda kaldı.
+
+990
+01:37:04,200 --> 01:37:06,800
+Sanık suçlu değildir...
+
+991
+01:37:07,900 --> 01:37:11,100
+ama bu mahkeme salonunda
+suçlu olan biri vardır.
+
+992
+01:37:13,100 --> 01:37:14,800
+Şimdi, baylar...
+
+993
+01:37:16,200 --> 01:37:18,200
+bu ülkede...
+
+994
+01:37:18,400 --> 01:37:22,300
+mahkemelerimiz
+büyük eşitleyici kurullardır.
+
+995
+01:37:22,400 --> 01:37:24,600
+Mahkemelerimizin huzurunda...
+
+996
+01:37:24,900 --> 01:37:29,000
+<i>tüm insanlar...</i>
+
+997
+01:37:29,200 --> 01:37:30,700
+eşittir.
+
+998
+01:37:31,800 --> 01:37:35,800
+Ben, mahkemelerimizin ve jüri
+sistemimizin dürüstlüğüne...
+
+999
+01:37:36,000 --> 01:37:39,000
+inandığım için bir idealist
+değilim.
+
+1000
+01:37:39,300 --> 01:37:43,600
+Bu, benim için bir ideal değildir.
+Bu, yaşayan, işleyen bir gerçektir!
+
+1001
+01:37:48,100 --> 01:37:52,500
+Baylar, dinlediğiniz
+ifadeleri...
+
+1002
+01:37:53,800 --> 01:37:56,900
+soğukkanlılıkla...
+
+1003
+01:37:57,200 --> 01:38:00,000
+değerlendireceğinizden...
+
+1004
+01:38:01,400 --> 01:38:03,600
+bir karara varacağınızdan...
+
+1005
+01:38:05,100 --> 01:38:07,700
+bu adamı ailesinin yanına
+göndereceğinizden eminim.
+
+1006
+01:38:17,700 --> 01:38:19,500
+Tanrı adına...
+
+1007
+01:38:22,600 --> 01:38:24,500
+görevinizi yapın.
+
+1008
+01:38:31,100 --> 01:38:33,400
+Tanrı adına...
+
+1009
+01:38:33,700 --> 01:38:35,500
+Tom Robinson'a...
+
+1010
+01:38:36,800 --> 01:38:38,600
+inanın.
+
+1011
+01:39:13,600 --> 01:39:16,500
+Jüri toplanalı ne kadar
+oldu, Sayın Rahip?
+
+1012
+01:39:17,500 --> 01:39:19,600
+Bakalım.
+
+1013
+01:39:19,800 --> 01:39:22,900
+Neredeyse iki saat oluyor.
+
+1014
+01:39:24,500 --> 01:39:28,100
+Bence bu çok iyi
+bir işaret, öyle değil mi?
+
+1015
+01:40:14,700 --> 01:40:17,300
+Duruşma açılmıştır.
+Herkes ayağa kalksın.
+
+1016
+01:40:37,800 --> 01:40:41,100
+Sayın jüri üyeleri,
+bir karara vardınız mı?
+
+1017
+01:40:41,300 --> 01:40:43,000
+Vardık, Sayın Hakim.
+
+1018
+01:40:47,800 --> 01:40:50,400
+Sanık lütfen ayağa kalsın
+ve yüzünü jüriye dönsün.
+
+1019
+01:40:59,500 --> 01:41:01,900
+Kararınız nedir?
+
+1020
+01:41:02,200 --> 01:41:04,900
+Sanığın iddia edilen suçu
+işlediğine karar verdik.
+
+1021
+01:41:24,500 --> 01:41:27,400
+Baylar,
+bu jürinin işi bitmiştir.
+
+1022
+01:41:32,900 --> 01:41:34,800
+Duruşma ertelenmiştir.
+
+1023
+01:41:46,100 --> 01:41:48,500
+Yarın sabah ilk iş olarak
+gidip Helen'i göreceğim.
+
+1024
+01:41:48,700 --> 01:41:51,800
+Ona hayal kırıklığına uğramamasını,
+muhtemelen kaybedeceğimizi söyledim.
+
+1025
+01:42:57,200 --> 01:42:58,600
+Bayan Jean Louise.
+
+1026
+01:43:00,200 --> 01:43:02,900
+Bayan Jean Louise, ayağa kalkın.
+
+1027
+01:43:07,000 --> 01:43:08,900
+Babanız geçiyor.
+
+1028
+01:43:44,600 --> 01:43:47,300
+Üzgünüm, Atticus.
+
+1029
+01:43:47,400 --> 01:43:49,500
+Teşekkür ederim, Maudie.
+
+1030
+01:43:58,500 --> 01:44:00,800
+Atticus, seninle
+bir dakika konuşabilir miyim?
+
+1031
+01:44:03,600 --> 01:44:05,300
+Müsaadenizle.
+
+1032
+01:44:33,200 --> 01:44:34,900
+Evet, efendim?
+
+1033
+01:44:38,600 --> 01:44:41,500
+Bir yararı olur mu bilmiyorum...
+
+1034
+01:44:41,700 --> 01:44:44,100
+ama sana şunu söylemek istiyorum.
+
+1035
+01:44:48,300 --> 01:44:52,100
+Bu dünyada bazı insanlar
+vardır ki...
+
+1036
+01:44:52,300 --> 01:44:56,100
+hoş olmayan işlerimizi
+yapmak için doğmuşlardır.
+
+1037
+01:45:00,300 --> 01:45:02,500
+Baban da onlardan biri.
+
+1038
+01:45:07,000 --> 01:45:08,500
+Neyse.
+
+1039
+01:45:34,400 --> 01:45:37,000
+Ne oldu, Atticus?
+
+1040
+01:45:39,900 --> 01:45:41,700
+Tom Robinson öldü.
+
+1041
+01:45:52,200 --> 01:45:55,900
+Onu muhafaza etmek için...
+
+1042
+01:45:56,100 --> 01:45:58,400
+Abbottsville'e götürüyorlarmış.
+
+1043
+01:45:58,600 --> 01:46:01,000
+Tom kurtulup kaçmış.
+
+1044
+01:46:02,700 --> 01:46:05,100
+Muavin...
+
+1045
+01:46:05,300 --> 01:46:08,200
+durmasını söylemiş...
+
+1046
+01:46:08,400 --> 01:46:10,400
+ve Tom durmamış.
+
+1047
+01:46:12,000 --> 01:46:14,600
+Yaralamak için ona ateş etmiş...
+
+1048
+01:46:14,800 --> 01:46:16,900
+ve hedefi şaşırmış.
+
+1049
+01:46:20,100 --> 01:46:22,300
+Onu öldürmüş.
+
+1050
+01:46:26,700 --> 01:46:28,500
+Muavin'in dediğine göre...
+
+1051
+01:46:32,200 --> 01:46:35,100
+Tom çılgın gibi koşuyormuş.
+
+1052
+01:46:45,100 --> 01:46:47,400
+Ona son olarak
+umudunu kaybetmemesi gerektiğini...
+
+1053
+01:46:47,600 --> 01:46:49,700
+temyize gideceğimizi söylemiştim.
+
+1054
+01:46:59,000 --> 01:47:01,500
+Kazanma olasılığımız yüksekti.
+
+1055
+01:47:06,000 --> 01:47:08,800
+Hatta çok yüksekti.
+
+1056
+01:47:24,000 --> 01:47:26,300
+Gidip ailesine
+haber vermeliyim.
+
+1057
+01:47:27,500 --> 01:47:30,000
+Sen çocuklara
+bak, Maudie.
+
+1058
+01:47:35,700 --> 01:47:38,400
+Atticus, seninle
+gelmemi ister misin?
+
+1059
+01:47:38,600 --> 01:47:41,800
+Hayır, oğlum. Oraya yalnız
+gitsem daha iyi olur.
+
+1060
+01:47:45,500 --> 01:47:47,300
+Ben de seninle geliyorum.
+
+1061
+01:47:49,400 --> 01:47:51,300
+Peki, oğlum.
+
+1062
+01:48:14,700 --> 01:48:17,900
+Merhaba, Bay Finch.
+Ben, Tom'un babası Spence'im.
+
+1063
+01:48:19,200 --> 01:48:21,000
+Merhaba, Spence.
+
+1064
+01:48:23,600 --> 01:48:25,100
+- Helen burada mı?
+- Evet, efendim.
+
+1065
+01:48:25,100 --> 01:48:28,300
+İçeride yatıyor,
+biraz uyumaya çalışıyor.
+
+1066
+01:48:28,600 --> 01:48:31,000
+Temyiz hakkında
+konuşuyorduk, Bay Finch.
+
+1067
+01:48:31,200 --> 01:48:33,300
+Sizce ne kadar sürer?
+
+1068
+01:48:38,600 --> 01:48:40,900
+Temyiz olmayacak.
+
+1069
+01:48:42,400 --> 01:48:45,400
+Artık olmayacak. Tom öldü.
+
+1070
+01:48:45,700 --> 01:48:47,300
+Öldü mü?
+
+1071
+01:49:26,300 --> 01:49:27,800
+Evlat.
+
+1072
+01:49:29,700 --> 01:49:33,500
+İçeriye git ve Atticus Finch'e
+onu çağırdığımı söyle.
+
+1073
+01:49:34,800 --> 01:49:36,300
+Hadi, evlat.
+
+1074
+01:51:14,600 --> 01:51:17,400
+<i>Ekim ayında, ortalık
+tekrar biraz yatışmıştı.</i>
+
+1075
+01:51:18,900 --> 01:51:23,200
+<i>Radley'lerin oradan geçerken
+her seferinde hâlâ Boo'yu arıyordum.</i>
+
+1076
+01:51:27,200 --> 01:51:31,300
+<i>O gece kafam hep
+Cadılar Bayramındaydı.</i>
+
+1077
+01:51:31,400 --> 01:51:35,300
+<i>Bizim oranın tarım ürünlerini
+temsil eden bir geçit töreni olacaktı.</i>
+
+1078
+01:51:36,600 --> 01:51:38,300
+<i>Ben jambon olacaktım.</i>
+
+1079
+01:51:40,400 --> 01:51:43,700
+<i>Jem, okulun toplantı salonuna
+kadar benimle geleceğini söyledi.</i>
+
+1080
+01:51:45,400 --> 01:51:49,200
+<i>Bizim birlikte en uzun
+yolculuğumuz böyle başladı.</i>
+
+1081
+01:52:08,200 --> 01:52:10,200
+- Scout.
+- Ne var?
+
+1082
+01:52:11,400 --> 01:52:15,100
+Hadi gelsene?
+Herkes gitti.
+
+1083
+01:52:15,400 --> 01:52:19,100
+- Eve bu şekilde gidemem.
+- İyi, ben gidiyorum.
+
+1084
+01:52:19,400 --> 01:52:22,500
+Saat 10:00'a geliyor,
+ve Atticus bizi bekliyor.
+
+1085
+01:52:22,600 --> 01:52:25,200
+Tamam, geliyorum.
+
+1086
+01:52:25,400 --> 01:52:29,000
+"Jambon"
+Ama eve böyle yürürken
+kendimi soytarı gibi hissediyorum.
+
+1087
+01:52:29,200 --> 01:52:31,500
+Elbiseni kaybetmen
+benim kabahatim değil.
+
+1088
+01:52:31,700 --> 01:52:34,600
+Kaybetmedim.
+Sadece bulamıyorum.
+
+1089
+01:52:34,700 --> 01:52:38,300
+- Ayakkabıların nerede?
+- Onları da bulamıyorum.
+
+1090
+01:52:38,600 --> 01:52:41,000
+- Onları yarın alırsın.
+- Ama yarın Pazar.
+
+1091
+01:52:41,200 --> 01:52:44,300
+Hademenin seni içeri almasını
+sağlayabilirsin. Hadi.
+
+1092
+01:53:12,000 --> 01:53:15,500
+Buradan Scout. Seni tutayım da
+boynunu kırma.
+
+1093
+01:53:19,500 --> 01:53:22,000
+Jem, beni tutmana
+gerek yok.
+
+1094
+01:53:24,600 --> 01:53:27,500
+- Ne oldu?
+- Bir dakika sesini kes, Scout.
+
+1095
+01:53:36,000 --> 01:53:38,300
+Bir şey duyduğumu sandım.
+
+1096
+01:53:41,600 --> 01:53:42,700
+Hadi.
+
+1097
+01:53:54,500 --> 01:53:56,500
+Bekle.
+
+1098
+01:53:56,700 --> 01:54:00,000
+Beni korkutmaya mı çalışıyorsun?
+Korkmayacak kadar büyüğüm, biliyorsun.
+
+1099
+01:54:00,200 --> 01:54:01,800
+Ses çıkarma.
+
+1100
+01:54:04,600 --> 01:54:07,000
+- Yaşlı bir köpek uluyor.
+- Hayır, uluma değil.
+
+1101
+01:54:07,200 --> 01:54:09,800
+Birlikte yürürken
+duyuyorum.
+
+1102
+01:54:10,000 --> 01:54:12,200
+Durduğumuz zaman
+duymuyorum.
+
+1103
+01:54:13,300 --> 01:54:16,800
+Ha, evet, kostümüm hışırdıyor.
+
+1104
+01:54:17,000 --> 01:54:19,300
+Cadılar Bayramından etkilenmişsin.
+
+1105
+01:54:26,000 --> 01:54:28,000
+Şimdi duyuyorum.
+
+1106
+01:54:28,100 --> 01:54:31,500
+İddiaya girerim ihtiyar
+Cecil Jacobs beni korkutmaya çalışıyor.
+
+1107
+01:54:32,800 --> 01:54:35,600
+Cecil Jacobs koca ıslak bir tavuk.
+
+1108
+01:54:43,100 --> 01:54:44,600
+Hadi.
+
+1109
+01:55:24,800 --> 01:55:26,000
+Koş Scout!
+
+1110
+01:55:26,000 --> 01:55:28,600
+Koş Scout! Koş! Koş!
+
+1111
+01:57:22,200 --> 01:57:23,800
+Ne oldu?
+
+1112
+01:57:24,000 --> 01:57:26,300
+Bilmiyorum.
+
+1113
+01:57:28,100 --> 01:57:30,700
+- Dr. Reynolds'a buraya gelmesini söyle
+- Başüstüne efendim.
+
+1114
+01:57:33,200 --> 01:57:35,400
+- Sen iyi misin?
+- Evet, efendim.
+
+1115
+01:57:35,600 --> 01:57:37,800
+- Emin misin?
+- Evet, efendim.
+
+1116
+01:57:46,500 --> 01:57:48,600
+Şerif Tate, lütfen.
+
+1117
+01:57:48,700 --> 01:57:50,900
+Atticus, Jem öldü mü?
+
+1118
+01:57:51,200 --> 01:57:53,800
+Hayır. Bilinci yerinde değil.
+
+1119
+01:57:53,900 --> 01:57:56,900
+Doktor buraya gelene kadar yarasının
+ne kadar ağır olduğunu bilemeyiz.
+
+1120
+01:57:57,100 --> 01:57:59,700
+Heck mi? Ben Atticus Finch.
+
+1121
+01:57:59,900 --> 01:58:01,900
+Birisi çocuklarıma saldırmış.
+
+1122
+01:58:05,200 --> 01:58:07,600
+Anladığım kadarıyla
+ciddi bir kırığı var.
+
+1123
+01:58:07,800 --> 01:58:10,800
+Sanki birisi kolunu
+koparmaya çalışmış.
+
+1124
+01:58:17,700 --> 01:58:19,500
+Hemen döneceğim, Atticus.
+
+1125
+01:58:21,100 --> 01:58:24,100
+- Oğlum nasıI, doktor?
+- İyileşecek.
+
+1126
+01:58:27,000 --> 01:58:28,900
+Şerif Tate.
+
+1127
+01:58:48,600 --> 01:58:50,800
+Ne var, Heck?
+
+1128
+01:58:54,700 --> 01:58:57,300
+Bob Ewell şuradaki ağacın altında,
+kaburgalarının altına bir mutfak...
+
+1129
+01:58:57,600 --> 01:59:00,000
+bıçağı saplanmış olarak
+yerde yatıyor.
+
+1130
+01:59:03,700 --> 01:59:05,100
+Ölmüş.
+
+1131
+01:59:20,400 --> 01:59:22,800
+- Emin misin?
+- Evet, efendim.
+
+1132
+01:59:26,800 --> 01:59:29,300
+Bu çocukları artık
+rahatsız edemeyecek.
+
+1133
+01:59:31,600 --> 01:59:33,900
+Bayan Scout, olanları bize
+anlatabilecek misiniz?
+
+1134
+01:59:36,000 --> 01:59:37,900
+Bilmiyorum.
+
+1135
+01:59:38,100 --> 01:59:42,000
+Birden bire birisi beni yakaladı,
+vurup yere yuvarladı.
+
+1136
+01:59:42,300 --> 01:59:44,900
+Sonra Jem beni buldu.
+
+1137
+01:59:45,000 --> 01:59:49,200
+Sonra sanırım Bay Ewell onu yeniden
+yakaladı ve Jem bağırmaya başladı.
+
+1138
+01:59:49,400 --> 01:59:53,700
+Sonra birisi beni yakaladı.
+Sanırım Bay Ewell'dı.
+
+1139
+01:59:55,100 --> 01:59:56,900
+Birisi de onu yakaladı...
+
+1140
+01:59:57,100 --> 02:00:00,400
+ve sonra birisinin
+soluduğunu ve öksürdüğünü duydum.
+
+1141
+02:00:05,100 --> 02:00:06,900
+Sonra birinin Jem'i taşıdığını
+gördüm.
+
+1142
+02:00:07,100 --> 02:00:09,200
+Kimdi o?
+
+1143
+02:00:13,900 --> 02:00:15,500
+İşte orada, Bay Tate.
+
+1144
+02:00:16,400 --> 02:00:19,300
+Size adını söyleyebilir.
+
+1145
+02:00:46,000 --> 02:00:47,400
+Selam, Boo.
+
+1146
+02:00:50,000 --> 02:00:53,500
+Bayan Jean Louise,
+Bay Arthur Radley.
+
+1147
+02:00:55,900 --> 02:00:58,800
+Sanırım o seni zaten tanıyor.
+
+1148
+02:01:08,500 --> 02:01:10,800
+Heck, ön verandaya
+çıkalım.
+
+1149
+02:01:23,000 --> 02:01:26,300
+Bay Arthur, Jem'e iyi geceler demek
+ister miydiniz?
+
+1150
+02:01:49,800 --> 02:01:53,600
+Onu okşayabilirsiniz, Bay Arthur.
+Uyuyor.
+
+1151
+02:01:53,800 --> 02:01:56,800
+Uyanık olsa yapamazdınız.
+Size izin vermezdi.
+
+1152
+02:02:01,200 --> 02:02:03,000
+Hadi.
+
+1153
+02:02:41,200 --> 02:02:43,600
+Gidip salıncağa oturalım,
+Bay Arthur.
+
+1154
+02:02:51,000 --> 02:02:54,800
+Bence yapılması gereken şey...
+
+1155
+02:02:59,400 --> 02:03:03,100
+Aman Allahım.
+Hafızamı kaybediyor olmalıyım.
+
+1156
+02:03:05,700 --> 02:03:10,100
+Jem'in 12'sinde mi yoksa 13'ünde mi
+olduğunu hatırlayamıyorum.
+
+1157
+02:03:14,500 --> 02:03:17,100
+Her neyse, bu meselenin
+ilçe mahkemesinde...
+
+1158
+02:03:17,400 --> 02:03:19,800
+ele alınması gerekecek.
+
+1159
+02:03:23,000 --> 02:03:26,600
+Elbette, bu kesinlikle
+bir meşru savunma durumu.
+
+1160
+02:03:28,200 --> 02:03:30,000
+Ben bir koşu büroya gidip...
+
+1161
+02:03:30,200 --> 02:03:31,800
+Bay Finch...
+
+1162
+02:03:33,000 --> 02:03:35,200
+Bob Ewell'ı Jem'in mi
+öldürdüğünü düşünüyorsunuz?
+
+1163
+02:03:35,400 --> 02:03:37,600
+Düşündüğünüz bu mu?
+
+1164
+02:03:39,600 --> 02:03:41,800
+Onu kesinlikle oğlunuz bıçaklamadı.
+
+1165
+02:03:59,300 --> 02:04:01,800
+Bob Ewell kendi bıçağının
+üstüne düştü.
+
+1166
+02:04:03,200 --> 02:04:05,200
+Kendisini öldürdü.
+
+1167
+02:04:09,800 --> 02:04:12,700
+Sebepsiz yere öldürülmüş
+bir zenci var.
+
+1168
+02:04:12,900 --> 02:04:16,300
+Bunun sorumlusu olan adam
+şimdi ölmüş bulunuyor.
+
+1169
+02:04:16,500 --> 02:04:19,600
+Bu kez ölüyü ölüler gömsün,
+Bay Finch.
+
+1170
+02:04:19,800 --> 02:04:22,100
+Bir yurttaşın suç işlenmesini önlemek
+için elinden geleni yapmasının...
+
+1171
+02:04:22,300 --> 02:04:24,900
+yasaya aykırı olduğunu
+ben hiç duymadım.
+
+1172
+02:04:25,200 --> 02:04:27,300
+Onun yaptığı tam da buydu.
+
+1173
+02:04:27,500 --> 02:04:30,400
+Belki de görevimin
+olayı kapatmak yerine...
+
+1174
+02:04:30,500 --> 02:04:32,700
+olan biteni kasabalılara
+anlatmam olduğunu düşünüyorsunuz.
+
+1175
+02:04:32,900 --> 02:04:35,300
+Sonra ne olacağını biliyorsunuz.
+
+1176
+02:04:35,500 --> 02:04:39,500
+Maycomb'daki bütün kadınlar, karım da
+dahil olmak üzere onun kapısını...
+
+1177
+02:04:39,700 --> 02:04:41,900
+çalıp pastalar getirecekler.
+
+1178
+02:04:42,200 --> 02:04:45,200
+Kanaatimce,
+size ve bu kasabaya...
+
+1179
+02:04:45,400 --> 02:04:48,100
+büyük bir hizmette bulunmuş
+bir insanı alıp...
+
+1180
+02:04:48,300 --> 02:04:51,900
+bütün çekingenliğiyle gün ışığına
+sürüklemek...
+
+1181
+02:04:53,200 --> 02:04:55,900
+Bence bu günah olur.
+
+1182
+02:04:56,100 --> 02:04:58,200
+Evet, günahtır.
+
+1183
+02:04:58,400 --> 02:05:01,100
+Ve bu günahın vebalini
+taşımak istemiyorum.
+
+1184
+02:05:02,600 --> 02:05:05,300
+Önemli biri olmayabilirim,
+Bay Finch...
+
+1185
+02:05:05,500 --> 02:05:08,800
+ama gene de Maycomb County
+şerifiyim...
+
+1186
+02:05:09,100 --> 02:05:12,100
+ve Bob Ewell
+bıçağının üstüne düştü.
+
+1187
+02:05:13,400 --> 02:05:15,200
+İyi geceler, efendim.
+
+1188
+02:05:54,100 --> 02:05:56,500
+Bay Tate haklıydı.
+
+1189
+02:06:01,200 --> 02:06:03,800
+Ne demek istiyorsun?
+
+1190
+02:06:04,000 --> 02:06:07,100
+Şey, bu bülbülü...
+
+1191
+02:06:07,400 --> 02:06:10,900
+öldürmek gibi bir şey olurdu,
+değil mi?
+
+1192
+02:06:40,100 --> 02:06:41,900
+Teşekkürler, Arthur.
+
+1193
+02:06:49,800 --> 02:06:52,000
+Çocuklarım için
+sana teşekkür borçluyum.
+
+1194
+02:07:07,300 --> 02:07:10,300
+<i>Bir evde ölüm olduğunda
+komşular yemek getirirler...</i>
+
+1195
+02:07:10,500 --> 02:07:13,200
+<i>hastalara ise çiçek taşırlar...</i>
+
+1196
+02:07:13,400 --> 02:07:16,100
+<i>arada da küçük şeyler getirirler.</i>
+
+1197
+02:07:16,300 --> 02:07:18,800
+<i>Boo bizim komşumuzdu.</i>
+
+1198
+02:07:19,100 --> 02:07:21,700
+<i>Bize sabundan yapılmış iki bebek...</i>
+
+1199
+02:07:21,900 --> 02:07:24,600
+<i>bozuk bir köstekli saat...</i>
+
+1200
+02:07:24,800 --> 02:07:27,200
+<i>bir bıçak...</i>
+
+1201
+02:07:27,400 --> 02:07:29,300
+<i>ve hayatlarımızı vermişti.</i>
+
+1202
+02:07:34,700 --> 02:07:38,300
+<i>Bir keresinde Atticus bize
+birisini tanımanın tek yolu...</i>
+
+1203
+02:07:38,600 --> 02:07:41,500
+<i>kendini onun yerine koyup onun
+ayakkabılarıyla dolaşmaktır demişti.</i>
+
+1204
+02:07:47,400 --> 02:07:50,800
+<i>Radley'lerin verandasında
+durmak yeterliydi.</i>
+
+1205
+02:07:58,200 --> 02:08:01,500
+<i>Çok uzun süre önce başlamış olan
+yaz bitmiş...</i>
+
+1206
+02:08:01,800 --> 02:08:04,400
+<i>ve yerini başka bir yaza...</i>
+
+1207
+02:08:04,600 --> 02:08:06,500
+<i>ardından da sonbahara bırakmıştı.</i>
+
+1208
+02:08:06,600 --> 02:08:09,100
+<i>Ve Boo Radley dünyaya çıkmıştı.</i>
+
+1209
+02:08:13,300 --> 02:08:16,500
+<i>O günleri daha sonra pek çok kez
+düşünecektim...</i>
+
+1210
+02:08:16,600 --> 02:08:18,600
+<i>Jem'i ve Dill'i...</i>
+
+1211
+02:08:18,800 --> 02:08:21,400
+<i>ve Boo Radley ile Tom Robinson'ı.</i>
+
+1212
+02:08:23,900 --> 02:08:25,700
+<i>Ve Atticus'u.</i>
+
+1213
+02:08:34,200 --> 02:08:36,900
+<i>Bütün gece
+Jem'in odasında oturur...</i>
+
+1214
+02:08:38,300 --> 02:08:42,400
+<i>Jem sabahleyin uyandığında
+orada olurdu.</i>
