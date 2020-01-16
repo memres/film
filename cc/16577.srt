@@ -1,0 +1,5401 @@
+2
+00:01:27,300 --> 00:01:28,509
+İşte geldik.
+
+3
+00:01:28,593 --> 00:01:31,679
+Gökyüzünde sükûnetle süzülen,
+Metro Şehri.
+
+4
+00:01:31,721 --> 00:01:33,473
+Şehirlerin en değerlisi.
+
+5
+00:01:33,514 --> 00:01:35,224
+Çok güzel, değil mi?
+
+6
+00:01:35,500 --> 00:01:37,344
+Peki ama bu günlere nasıl mı geldik?
+
+7
+00:01:37,902 --> 00:01:40,813
+Yüz yıl önce, Metro Şehrinin kurucuları,...
+
+8
+00:01:40,855 --> 00:01:42,732
+...Dünya'nın değişimini fark etmişler,...
+
+9
+00:01:42,774 --> 00:01:46,277
+...ve bir dağı Dünya'dan ayırıp
+gökyüzüne yükselterek...
+
+10
+00:01:46,653 --> 00:01:50,698
+...bir vaha hatta havada yüzen
+bir cennet inşa etmişler.
+
+11
+00:01:52,392 --> 00:01:55,203
+O günlerde, geride bıraktığımız
+garip ve gizemli yüzeyde...
+
+12
+00:01:55,244 --> 00:01:57,830
+...neler olduğunu tam olarak bilmiyoruz.
+
+13
+00:01:57,872 --> 00:02:00,750
+Ama Metro Şehrindeki hayat
+her zamankinden daha güzel.
+
+14
+00:02:00,792 --> 00:02:04,003
+Robot arkadaşlarımıza teşekkür ederiz.
+
+15
+00:02:04,629 --> 00:02:06,673
+Robotlar alışverişimizi yapıyorlar,...
+
+16
+00:02:07,432 --> 00:02:11,227
+...yemeğimizi pişiriyorlar
+ve masayı hazırlıyorlar.
+
+17
+00:02:11,269 --> 00:02:13,480
+Bize çok iyi bakıyorlar.
+
+18
+00:02:13,897 --> 00:02:16,316
+Çok önemli işlerimizi bile hallediyorlar,...
+
+19
+00:02:16,357 --> 00:02:19,110
+...doğum gününde annemizi
+aramayı hatırlatmak,...
+
+20
+00:02:19,402 --> 00:02:21,074
+...çocuklarımızı büyütmek,...
+
+21
+00:02:21,214 --> 00:02:22,548
+...binalar inşa etmek,...
+
+22
+00:02:22,590 --> 00:02:26,400
+...veya sağlığımızın iyiliğinden
+emin olmak gibi.
+
+23
+00:02:26,718 --> 00:02:29,946
+Bu çocuklar için,
+hiçbir iş çok büyük...
+
+24
+00:02:30,937 --> 00:02:32,689
+...veya çok küçük değil.
+
+25
+00:02:32,891 --> 00:02:35,994
+Artı, robotların yaptığı işlerin arasında...
+
+26
+00:02:36,035 --> 00:02:38,037
+...artık, yapmaktan
+hoşlanmadığımız işler de var.
+
+27
+00:02:38,955 --> 00:02:40,039
+Olamaz!
+
+28
+00:02:40,081 --> 00:02:41,624
+Merak etme, evlat.
+
+29
+00:02:41,708 --> 00:02:43,543
+Sokak hemen temizlenecek.
+
+30
+00:02:43,584 --> 00:02:46,963
+En iyi ve parlak olanları ise
+daha önemli işler için seçiliyorlar.
+
+31
+00:02:47,297 --> 00:02:50,633
+Bu şanslı adam
+yeni işindeki ilk gününe başlıyor.
+
+32
+00:02:50,675 --> 00:02:51,634
+Deneme Sürüşü
+
+33
+00:02:53,886 --> 00:02:56,431
+Ve bunların hepsi için
+şu adama teşekkür ediyoruz.
+
+34
+00:02:57,098 --> 00:02:58,474
+Dr. Tenma.
+
+35
+00:02:58,516 --> 00:03:02,312
+Bilim bakanlığı başkanı,
+ve modern robotik çalışmaların babası.
+
+36
+00:03:02,353 --> 00:03:04,981
+Muhteşem icatları için
+ona teşekkür ediyoruz.
+
+37
+00:03:05,023 --> 00:03:07,358
+Toby, şu adam senin baban değil mi?
+
+38
+00:03:07,400 --> 00:03:09,068
+- Evet, öyle.
+- Susun!
+
+39
+00:03:09,152 --> 00:03:11,654
+Arkadaşlarımız robotlar
+bizlere yardım ediyorlar.
+
+40
+00:03:11,779 --> 00:03:15,533
+Her gün binlercesi üretiliyor
+ve yine binlercesi imha ediliyor...
+
+41
+00:03:15,575 --> 00:03:19,787
+...böylece muhteşem şehrimizdeki
+döngü devam ediyor.
+
+42
+00:03:19,829 --> 00:03:21,748
+Her şey için teşekkür ederiz, çocuklar!
+
+43
+00:03:21,831 --> 00:03:23,875
+Huzur içinde yatın!
+
+44
+00:03:24,876 --> 00:03:27,086
+Peki, çocuklar,
+sınav için hazır mısınız?
+
+45
+00:03:27,128 --> 00:03:28,338
+Ne?
+
+46
+00:03:28,379 --> 00:03:30,131
+- Hayır!
+- Başladı.
+
+47
+00:03:32,425 --> 00:03:34,719
+Çok fena çuvalladım!
+
+48
+00:03:46,564 --> 00:03:47,690
+Efendim, Toby?
+
+49
+00:03:47,732 --> 00:03:49,943
+- Bir sorun mu var?
+- Sorun, yok.
+
+50
+00:03:49,984 --> 00:03:51,819
+Sınavı bitirdim ve çıkmak istiyorum.
+
+51
+00:03:51,861 --> 00:03:53,071
+- Bitirdin mi?
+- Ne!?
+
+52
+00:03:53,112 --> 00:03:56,282
+Roket bilimi ama
+tam bir roket bilimi değildi.
+
+53
+00:03:56,366 --> 00:03:59,619
+Sanırım seni daha fazla tutmaya gerek yok.
+
+54
+00:04:00,495 --> 00:04:01,871
+İyi şanslar, millet!
+
+55
+00:04:05,375 --> 00:04:07,251
+100 puan.
+
+56
+00:04:07,293 --> 00:04:09,212
+Aynı babası gibi.
+
+57
+00:04:09,712 --> 00:04:11,798
+Merhaba, Efendi Toby!
+
+58
+00:04:11,839 --> 00:04:14,050
+- Gününüz iyi geçti mi?
+- En iyisi, Orrin.
+
+59
+00:04:14,884 --> 00:04:16,970
+Teşekkürler, Efendi Toby.
+
+60
+00:04:17,011 --> 00:04:19,055
+Bu arada, çok iyi bir atıştı!
+
+61
+00:04:21,391 --> 00:04:23,101
+- Merhaba, oğlum!
+- Merhaba, efendim!
+
+62
+00:04:23,142 --> 00:04:24,769
+- Okul nasıldı?
+- Harikaydı.
+
+63
+00:04:24,811 --> 00:04:26,980
+Bay Pistachio hazırlıksız sınav yaptı,...
+
+64
+00:04:27,021 --> 00:04:28,940
+...ama 100 alacağımdan
+oldukça eminim.
+
+65
+00:04:28,982 --> 00:04:29,899
+Çok iyi, oğlum.
+
+66
+00:04:29,941 --> 00:04:30,817
+Çok çok iyi.
+
+67
+00:04:30,858 --> 00:04:33,611
+Ama küçümsemeni istemiyorum.
+
+68
+00:04:33,653 --> 00:04:35,780
+Öğrenimini devam ettirmen çok önemli.
+
+69
+00:04:35,822 --> 00:04:37,782
+İleri ve yukarı, Toby!
+
+70
+00:04:38,074 --> 00:04:39,367
+Elbette, baba.
+
+71
+00:04:41,077 --> 00:04:43,579
+Sana kuantum mekaniği sempozyumu için
+söz verdiğimi biliyorum,...
+
+72
+00:04:43,621 --> 00:04:47,125
+...ama korkarım ki
+daha sonraya ertelememiz gerekiyor.
+
+73
+00:04:47,875 --> 00:04:48,918
+Ama söz vermiştin!
+
+74
+00:04:48,960 --> 00:04:51,421
+Üzgünüm, Toby,
+ama değiştirilemez.
+
+75
+00:04:51,462 --> 00:04:54,257
+Başkan Stone Barış Kuvvetlerini
+denetlemek için geliyor.
+
+76
+00:04:54,299 --> 00:04:55,717
+Barış Muhafızları mı?
+
+77
+00:04:55,758 --> 00:04:58,219
+- Şaka yapıyor olmalısın.
+- Ben şaka yapmam, evlat.
+
+78
+00:04:58,636 --> 00:05:00,096
+Görüşürüz, oğlum.
+
+79
+00:05:02,348 --> 00:05:03,891
+Barış Muhafızları, ha!
+
+80
+00:05:04,058 --> 00:05:06,436
+Orrin, planlar değişti.
+
+81
+00:05:06,477 --> 00:05:08,062
+Beni Bilim Bakanlığına götür.
+
+82
+00:05:08,104 --> 00:05:09,814
+Üzgünüm, Efendi Toby.
+
+83
+00:05:09,856 --> 00:05:12,692
+Ama babanızın bana verdiği
+kesin talimatlara göre...
+
+84
+00:05:12,900 --> 00:05:13,985
+Yapma!
+
+85
+00:05:14,027 --> 00:05:15,653
+Ne yapıyorsun arkamda?
+
+86
+00:05:17,572 --> 00:05:20,158
+Sonraki durak, Bilim Bakanlığı!
+
+87
+00:05:29,459 --> 00:05:31,878
+Aklımı başımdan almaya
+hazır mısın, Tenma?
+
+88
+00:05:31,919 --> 00:05:33,296
+Saçlarım havaya dikilecek mi?
+
+89
+00:05:33,338 --> 00:05:34,839
+Çoraplarım ayaklarımdan fırlayacak mı?
+
+90
+00:05:34,881 --> 00:05:36,257
+Evet, evet...
+
+91
+00:05:36,299 --> 00:05:38,801
+- Mecazi olarak söylemek gerekirse, evet.
+- İşte böyle.
+
+92
+00:05:39,260 --> 00:05:41,888
+Dr. Elefun değerli bir meslektaşımdır,
+Bay Başkan.
+
+93
+00:05:41,930 --> 00:05:45,683
+Belki kendi buluşunun askeri amaçlar için
+kullanılmasına karşı çıkabilir.
+
+94
+00:05:45,725 --> 00:05:47,810
+Dr. Elefun'u bana bırak.
+
+95
+00:05:47,852 --> 00:05:48,770
+Baba!
+
+96
+00:05:48,811 --> 00:05:50,355
+Kıpırdama!
+
+97
+00:05:50,396 --> 00:05:51,648
+Ne yapıyorsun burada?
+
+98
+00:05:51,689 --> 00:05:54,067
+Orrin'e kesin talimatlar vermiştim.
+
+99
+00:05:55,485 --> 00:05:57,612
+Sunumu görmek istemiştim.
+
+100
+00:05:57,654 --> 00:05:59,530
+Devamlı, Barış Muhafızları
+hakkında konuşuyordun.
+
+101
+00:05:59,572 --> 00:06:00,448
+Öyle mi, Toby?
+
+102
+00:06:00,490 --> 00:06:02,575
+- Oğlun mu?
+- Evet, efendim.
+
+103
+00:06:02,617 --> 00:06:03,910
+Bırakın gelsin.
+
+104
+00:06:03,952 --> 00:06:05,328
+Potansiyel tehdit serbest bırakılıyor!
+
+105
+00:06:05,370 --> 00:06:07,455
+Bu onun için iyi olacak.
+İyi bir eğitim.
+
+106
+00:06:07,622 --> 00:06:08,790
+Evet, efendim.
+
+107
+00:06:09,290 --> 00:06:11,751
+Demek robotlarla ilgilisin, evlat?
+
+108
+00:06:11,918 --> 00:06:13,795
+- Robot silahlar mı?
+- Kesinlikle.
+
+109
+00:06:13,836 --> 00:06:15,713
+Eminim siz de bana hak verirsiniz ki,...
+
+110
+00:06:15,755 --> 00:06:17,799
+...en son D sınıfı
+hedefleme sisteminin...
+
+111
+00:06:17,840 --> 00:06:19,842
+...oldukça modası geçmiş.
+
+112
+00:06:21,803 --> 00:06:23,638
+Kimse böyle ukalalardan hoşlanmaz!
+
+113
+00:06:23,680 --> 00:06:26,015
+Çocuğu güvenli bir yere götürüp orada tutun.
+
+114
+00:06:26,057 --> 00:06:27,558
+Ne?
+Baba!
+
+115
+00:06:27,600 --> 00:06:28,726
+Bence en iyisi bu, Toby!
+
+116
+00:06:28,768 --> 00:06:30,603
+Ama Barış Muhafızlarını
+görebileceğimi söylemiştin.
+
+117
+00:06:30,645 --> 00:06:32,105
+Yine de görebilirsin,...
+
+118
+00:06:32,146 --> 00:06:34,691
+...ama diğer herkes gibi haberlerde.
+
+119
+00:06:35,108 --> 00:06:36,734
+Baylar ve bayanlar, sizlere...
+
+120
+00:06:36,776 --> 00:06:40,822
+...Mavi Çekirdek Enerjisini
+takdim etmeme izin verin.
+
+121
+00:06:41,739 --> 00:06:43,825
+Mavi Çekirdek Enerjisi.
+
+122
+00:06:43,866 --> 00:06:46,411
+Kendini besleyen
+yeni bir enerji kaynağı,...
+
+123
+00:06:46,452 --> 00:06:48,579
+...nükleer enerjiden çok daha güçlü,...
+
+124
+00:06:48,621 --> 00:06:50,790
+...ve son derece temiz.
+
+125
+00:06:50,999 --> 00:06:53,251
+Ham maddesi uzaydan geliyor.
+
+126
+00:06:53,418 --> 00:06:58,381
+Milyonlarca ışık yılı uzaktan gelen ve
+şu an artık var olmayan bir yıldız parçası.
+
+127
+00:06:58,631 --> 00:07:01,509
+Ondan geriye kalan tek şey bu.
+
+128
+00:07:01,718 --> 00:07:04,971
+Düzgünce kullanılan
+bu küçük küre...
+
+129
+00:07:05,138 --> 00:07:07,932
+...sadece Metro Şehrindeki değil...
+
+130
+00:07:07,974 --> 00:07:10,977
+...yüzeydeki hayatı da
+güzelleştirebilir.
+
+131
+00:07:14,314 --> 00:07:16,733
+Dünya'nın suyunun temizlendiğini hayal edin.
+
+132
+00:07:16,858 --> 00:07:18,860
+Ormanların geri geldiğini hayal edin.
+
+133
+00:07:18,901 --> 00:07:21,988
+Kirliliğin etkilemediği
+yüzlerce yıl öncesini hayal edin.
+
+134
+00:07:22,030 --> 00:07:23,906
+Hayalci biri olduğunu biliyorum,...
+
+135
+00:07:23,948 --> 00:07:25,742
+...ama çok zeki bir bilim adamıdır.
+
+136
+00:07:25,783 --> 00:07:29,287
+Çok yüksek bir zekaya sahip
+tehlikeli bir aptal.
+
+137
+00:07:29,579 --> 00:07:31,831
+Ne yazık ki, beleş enerji yok.
+
+138
+00:07:31,873 --> 00:07:35,460
+Yıldız parçasından
+Mavi Pozitif Enerjiyi çıkardığımızda,...
+
+139
+00:07:35,501 --> 00:07:38,880
+...geriye oldukça dengesiz bir ürün kalıyor,...
+
+140
+00:07:38,963 --> 00:07:40,548
+...Negatif Kırmızı Enerji.
+
+141
+00:07:40,590 --> 00:07:41,925
+Bunu sevdim.
+
+142
+00:07:41,966 --> 00:07:44,886
+Kadın seçmenlerin kırmızya düşkünliğünü,
+biliyor musun?
+
+143
+00:07:44,928 --> 00:07:47,847
+Güvenlice ayrıştırıp kullanma
+yöntemini bulana kadar...
+
+144
+00:07:48,306 --> 00:07:49,390
+Ne yapıyorsunuz?
+
+145
+00:07:49,432 --> 00:07:50,558
+Durun!
+
+146
+00:07:50,600 --> 00:07:53,019
+Çekirdekleri birbirinden uzak tutun,
+yoksa hepimizi öldüreceksiniz.
+
+147
+00:07:53,061 --> 00:07:54,646
+Söylediğini yapın.
+
+148
+00:07:55,730 --> 00:07:57,565
+Bu yaptığınız zorbalık!
+
+149
+00:07:57,607 --> 00:07:59,442
+Bunu yapmaktaki amacın ne?
+
+150
+00:08:00,193 --> 00:08:03,488
+Şehir halkına beni tekrar seçmeleri için
+bir sebep sunacağım.
+
+151
+00:08:03,529 --> 00:08:04,322
+Nasıl?
+
+152
+00:08:04,364 --> 00:08:06,324
+Bu işin tek yolu var, Doktor.
+
+153
+00:08:06,366 --> 00:08:08,284
+Birilerini çok fena ezeceğim.
+
+154
+00:08:12,246 --> 00:08:13,623
+Bu haksızlık ama!
+
+155
+00:08:13,665 --> 00:08:15,667
+Sakinleş bakalım, ukala!
+
+156
+00:08:15,708 --> 00:08:17,251
+Lütfen, beni burada bırakmayın, efendim!
+
+157
+00:08:17,293 --> 00:08:19,879
+Kapalı yerlerde kalamıyorum.
+
+158
+00:08:19,921 --> 00:08:22,257
+Sakin ol, evlat!
+Neredeyse 13 yaşına gelmişsin.
+
+159
+00:08:22,298 --> 00:08:24,259
+Büyüyüp güçlenme vakti.
+
+160
+00:08:25,009 --> 00:08:28,388
+Hayat dersi için sağ ol,
+ve bunun için teşekkürler.
+
+161
+00:08:28,513 --> 00:08:30,932
+Arkadaşın olarak söylüyorum,
+sakın bunu yapma, Tenma.
+
+162
+00:08:30,974 --> 00:08:32,183
+Hadi ama, Elefun.
+
+163
+00:08:32,225 --> 00:08:34,769
+Senin de bildiğin gibi,
+ordunun desteği olmadan,...
+
+164
+00:08:34,811 --> 00:08:38,815
+...seninki de dahil tüm araştırmalar
+yavaşça durdurulacak!
+
+165
+00:08:38,940 --> 00:08:40,275
+Başlatın!
+
+166
+00:08:56,374 --> 00:08:58,334
+Başkan Stone'a söyledim.
+
+167
+00:08:58,376 --> 00:09:00,545
+Büyük silahları yetiştirmeli!
+
+168
+00:09:00,586 --> 00:09:02,203
+İleri ve yukarı, Toby.
+
+169
+00:09:02,589 --> 00:09:04,632
+Mavi çekirdeği yükleyin.
+
+170
+00:09:11,764 --> 00:09:12,682
+Durun!
+
+171
+00:09:12,724 --> 00:09:16,185
+Şu Mavi Çekirdek
+sırf iyilik ve güzellik, değil mi?
+
+172
+00:09:16,227 --> 00:09:19,063
+Yunusları kurtaran, barış için falan yani?
+
+173
+00:09:19,105 --> 00:09:21,566
+Bu, saf pozitif enerji.
+
+174
+00:09:21,608 --> 00:09:23,276
+Bana hayalci diyebilirsiniz ama,...
+
+175
+00:09:23,318 --> 00:09:26,738
+...ama Kırmızı Çekirdeği kullanarak
+daha fazla banka soyabiliriz.
+
+176
+00:09:27,739 --> 00:09:29,073
+Şaka yapmıyorsun!
+
+177
+00:09:29,115 --> 00:09:31,555
+Efendim, tehlikeli bir şeyin içine...
+
+178
+00:09:31,590 --> 00:09:33,995
+...başka tehlikeli bir şey koymuyoruz.
+
+179
+00:09:34,037 --> 00:09:35,455
+Dinle, Tenma!
+
+180
+00:09:35,496 --> 00:09:37,922
+Bu seçimi kazanmalıyım.
+
+181
+00:09:37,957 --> 00:09:40,418
+Aşık değil, savaşçı bir robota
+ihtiyacım var!
+
+182
+00:09:40,585 --> 00:09:42,879
+- Kırmızı olanı yükleyin.
+- Yapamam.
+
+183
+00:09:42,921 --> 00:09:44,422
+Öyleyse ben yaparım.
+
+184
+00:09:44,464 --> 00:09:45,924
+Kay bakalım, tatlım.
+
+185
+00:09:46,090 --> 00:09:47,300
+Hayır!
+
+186
+00:09:48,968 --> 00:09:51,429
+Bilgisayar oyunu gibi.
+
+187
+00:09:58,436 --> 00:10:00,563
+Çekirdek yüklendi.
+
+188
+00:10:00,980 --> 00:10:02,440
+Çocuk oyuncağı.
+
+189
+00:10:02,565 --> 00:10:04,609
+Drone silahlarını etkinleştirin!
+
+190
+00:10:11,032 --> 00:10:12,700
+Bu işten nefret ediyorum!
+
+191
+00:10:16,454 --> 00:10:18,289
+Daha yakından bakmalıyım.
+
+192
+00:10:18,331 --> 00:10:21,250
+- Gazetedeki iş ilanlarına bakıyorum.
+- Seni duydum.
+
+193
+00:10:27,590 --> 00:10:30,885
+Dronlardan birini diğer dronlara
+karşı kullanıyor. Nasıl mümkün olabilir?
+
+194
+00:10:30,927 --> 00:10:34,222
+Buna adaptasyon teknolojisi diyoruz.
+Her şeyi absorbe edip kontrol edebiliyor.
+
+195
+00:10:34,264 --> 00:10:37,642
+Üniversiteden atılmış olabilirim ama
+Kırmızı Çekirdek hakkında haklıydım!
+
+196
+00:10:37,684 --> 00:10:40,979
+Ayrıca bir tek kendinde
+beyin olduğunu sanıyorsun.
+
+197
+00:10:44,607 --> 00:10:45,817
+Efendim!
+
+198
+00:10:52,907 --> 00:10:54,867
+Acil Çıkış Kapısı
+
+199
+00:10:58,830 --> 00:11:00,039
+Baba!
+
+200
+00:11:00,581 --> 00:11:01,666
+Baba!
+
+201
+00:11:01,791 --> 00:11:02,813
+Toby!
+
+202
+00:11:02,848 --> 00:11:03,835
+HATA
+
+203
+00:11:03,876 --> 00:11:06,629
+Kapıyı açamıyorum!
+Kapıyı açamıyorum!
+
+204
+00:11:07,088 --> 00:11:08,214
+İmdat!
+
+205
+00:11:08,339 --> 00:11:10,258
+- Baba, yardım et!
+- Toby!
+
+206
+00:11:10,300 --> 00:11:12,176
+- Baba!
+- Merak etme, Toby!
+
+207
+00:11:12,218 --> 00:11:14,304
+Bariyer Analizi: Korumalı Mekan
+- Seni oradan çıkaracağım.
+
+208
+00:11:14,345 --> 00:11:16,014
+Bariyer Analizi: Kalkanı Yok Et
+- Her şey yoluna girecek.
+
+209
+00:11:16,055 --> 00:11:17,390
+Söz veriyorum.
+
+210
+00:11:25,231 --> 00:11:26,482
+Toby!
+
+211
+00:11:27,317 --> 00:11:28,610
+Kalkan Kırılamadı
+
+212
+00:11:28,651 --> 00:11:30,111
+Absorbe Et
+
+213
+00:11:32,322 --> 00:11:34,073
+Yok edin şunu!
+
+214
+00:12:02,810 --> 00:12:04,520
+Toby nerede?
+
+215
+00:12:05,188 --> 00:12:06,981
+Oğlum nerede?
+
+216
+00:12:08,483 --> 00:12:10,485
+Çok üzgünüm, Tenma!
+
+217
+00:12:21,162 --> 00:12:22,372
+Toby!
+
+218
+00:12:27,001 --> 00:12:28,711
+Hepsi benim hatam!
+
+219
+00:13:11,754 --> 00:13:13,756
+Bilim Bakanlığı
+
+220
+00:13:25,768 --> 00:13:27,770
+DNA analizi
+
+221
+00:14:07,685 --> 00:14:10,355
+- Günlerdir ne yemek yiyor ne de uyuyor.
+- Biliyorum.
+
+222
+00:14:10,396 --> 00:14:12,065
+Kafayı yiyor, değil mi?
+
+223
+00:14:12,273 --> 00:14:17,820
+Oğlunu kaybedip vicdanın sızlamıyorsa
+insanlığın yotur.
+
+224
+00:14:18,404 --> 00:14:20,031
+Laboratuvarı boşaltın!
+
+225
+00:14:36,005 --> 00:14:38,716
+- Aynı onun gibi görünüyor. Ne dersin?
+- Evet.
+
+226
+00:14:39,425 --> 00:14:41,511
+Kusursuz bir kopya.
+
+227
+00:14:41,636 --> 00:14:44,931
+Artı, Toby'nin tüm hafızasını da yükledim.
+
+228
+00:14:45,682 --> 00:14:49,394
+- Bence artık o Toby.
+- Çok fazla bir şey bekleme, Tenma.
+
+229
+00:14:49,894 --> 00:14:53,606
+Şimdiye kadar ki yaratılmış
+en gelişmiş savunma sistemine sahip.
+
+230
+00:14:53,731 --> 00:14:55,775
+Onu tekrar kaybetmeyeceğim.
+
+231
+00:14:56,192 --> 00:14:57,902
+İstediğim şeyi getirdin mi?
+
+232
+00:14:58,152 --> 00:15:00,822
+Kederli bir babayı geri çeviremezdim.
+
+233
+00:15:05,785 --> 00:15:08,121
+Çekirdeğin davranışı öngörülemez.
+
+234
+00:15:08,162 --> 00:15:11,207
+- Sana hiçbir şeyi garanti--
+- Mükemmel olacak.
+
+235
+00:15:11,499 --> 00:15:12,709
+Harika!
+
+236
+00:15:13,334 --> 00:15:15,086
+Toby'nin olduğu gibi.
+
+237
+00:16:21,736 --> 00:16:23,071
+Baba!
+
+238
+00:16:23,404 --> 00:16:24,572
+Toby!
+
+239
+00:16:31,955 --> 00:16:33,247
+Baba!
+
+240
+00:16:33,831 --> 00:16:35,458
+Hoş geldin, oğlum!
+
+241
+00:16:36,042 --> 00:16:37,502
+Teşekkürler, Elefun!
+
+242
+00:16:37,543 --> 00:16:38,920
+Onu alıp--
+Oğlumu alı...
+
+243
+00:16:38,962 --> 00:16:40,797
+...eve götüreceğim.
+
+244
+00:16:40,838 --> 00:16:44,801
+Birlikte vakit geçirip
+çok güzel şeyler yapacağız.
+
+245
+00:16:44,968 --> 00:16:46,636
+Hoşça kalın, Doktor Elefun.
+
+246
+00:16:46,970 --> 00:16:48,972
+Hoşça kal, Toby!
+
+247
+00:16:50,765 --> 00:16:52,308
+İnanılmaz.
+
+248
+00:17:13,288 --> 00:17:14,455
+Baba!
+
+249
+00:17:16,791 --> 00:17:18,543
+Günaydın, oğlum!
+
+250
+00:17:19,294 --> 00:17:20,753
+Kendini nasıl hissediyorsun?
+
+251
+00:17:21,421 --> 00:17:23,047
+Biraz garip.
+
+252
+00:17:24,173 --> 00:17:25,717
+Hastalandım mı?
+
+253
+00:17:25,758 --> 00:17:28,636
+Hayır, iyisin, Toby.
+Harikasın.
+
+254
+00:17:28,678 --> 00:17:29,971
+Mükemmelsin.
+
+255
+00:17:30,013 --> 00:17:32,515
+Sevindim, çünkü...
+
+256
+00:17:38,896 --> 00:17:40,481
+Sen iyi misin?
+
+257
+00:17:44,444 --> 00:17:45,570
+Hayır!
+
+258
+00:17:45,945 --> 00:17:48,323
+Hatalı çalışıyor olmalıyım!
+Kablolarımda kısa devre mi var?
+
+259
+00:17:48,364 --> 00:17:50,325
+Bu sen olamazsın!
+
+260
+00:17:50,366 --> 00:17:51,743
+Sen...
+
+261
+00:17:52,952 --> 00:17:54,537
+Aman Tanrım!
+
+262
+00:17:54,579 --> 00:17:55,705
+Sen...
+
+263
+00:17:55,747 --> 00:17:58,207
+- Sen...
+- Orrin, iyi misin?
+
+264
+00:17:58,249 --> 00:18:01,544
+Okula geç kalıyorsun!
+
+265
+00:18:04,172 --> 00:18:06,758
+Kabul etmeliyim ki...
+
+266
+00:18:07,008 --> 00:18:09,886
+...seni tekrar gördüğüme çok sevindim.
+
+267
+00:18:10,261 --> 00:18:11,721
+Otur, Toby.
+
+268
+00:18:11,804 --> 00:18:14,015
+- Seninle konuşmak istiyorum.
+- Peki, Baba.
+
+269
+00:18:14,057 --> 00:18:15,850
+Okul hakkında.
+
+270
+00:18:15,892 --> 00:18:18,978
+Artık okula gitmemen gerektiğine
+karar verdim, oğlum.
+
+271
+00:18:19,062 --> 00:18:22,023
+Seni evde kendim eğiteceğim!
+
+272
+00:18:22,148 --> 00:18:23,274
+Bana uyar.
+
+273
+00:18:23,316 --> 00:18:26,319
+Orrin, görünüşe göre
+bugün beraber takılıyoruz.
+
+274
+00:18:26,402 --> 00:18:27,862
+Beraber mi?
+
+275
+00:18:28,279 --> 00:18:32,784
+Çok güzel olacak, Efendi Toby!
+
+276
+00:18:33,368 --> 00:18:34,410
+Tanrım!
+
+277
+00:18:34,452 --> 00:18:37,538
+Lütfen, Toby,
+bırak robot işlerini halletsin.
+
+278
+00:18:37,580 --> 00:18:38,539
+Üzgünüm.
+
+279
+00:18:39,332 --> 00:18:43,503
+Beni evde eğiteceksen,
+Bakanlıktaki işin ne olacak?
+
+280
+00:18:43,544 --> 00:18:47,465
+Şimdiki işim
+sana babalık yapmak.
+
+281
+00:18:48,299 --> 00:18:51,010
+Resmen afalladım!
+
+282
+00:18:52,929 --> 00:18:55,306
+Alışık olduğun bir şeyler ile başlayalım.
+
+283
+00:18:55,598 --> 00:18:58,768
+Kartezyen çarpımı.
+En sevdiğin şey!
+
+284
+00:18:59,310 --> 00:19:00,478
+Sanırım.
+
+285
+00:19:00,520 --> 00:19:04,899
+Efendim, isterseniz
+Efendi Toby'e yardım edebilirim.
+
+286
+00:19:05,316 --> 00:19:07,652
+Kötü fikir, kötü fikir...
+
+287
+00:19:07,694 --> 00:19:09,862
+Ben bir robotum,
+ne düşünüyordum ki?
+
+288
+00:19:11,489 --> 00:19:13,408
+Bu tarafa!
+
+289
+00:19:13,783 --> 00:19:15,076
+Peki.
+
+290
+00:19:17,287 --> 00:19:18,788
+Mükemmel.
+
+291
+00:19:21,541 --> 00:19:23,626
+İlginç bir çözüm!
+
+292
+00:19:24,085 --> 00:19:25,086
+Güzel!
+
+293
+00:19:25,128 --> 00:19:26,129
+Çok güzel!
+
+294
+00:19:29,465 --> 00:19:32,802
+Bravo, mükemmel, Toby,
+ilk gün için çok iyi!
+
+295
+00:19:32,844 --> 00:19:34,554
+Daha hiçbir şey görmedin!
+
+296
+00:19:41,477 --> 00:19:42,687
+Selam!
+
+297
+00:19:51,696 --> 00:19:53,656
+Temellere dönelim.
+
+298
+00:19:53,740 --> 00:19:54,657
+Bunu hatırladın mı?
+
+299
+00:19:54,699 --> 00:19:57,577
+IMMANUEL KANT
+''Saf Aklın Eleştirisi''
+
+300
+00:19:57,619 --> 00:20:00,330
+Küçüklüğünde yatmadan önce
+sana bunu okurdum.
+
+301
+00:20:00,413 --> 00:20:02,165
+Beni uyutmak için mi?
+
+302
+00:20:02,457 --> 00:20:03,333
+Evet!
+
+303
+00:20:03,374 --> 00:20:05,376
+Her gece okumamı isterdin!
+
+304
+00:20:06,419 --> 00:20:09,380
+- Bu benim isteyeceğim türden--
+- Bir kere okumayı denesen yeter.
+
+305
+00:20:09,422 --> 00:20:11,674
+Eski hatıralarını canlandır.
+
+306
+00:20:28,316 --> 00:20:30,068
+DESCARTES
+''Tersine İş Yapmak''
+
+307
+00:20:30,109 --> 00:20:31,319
+Sonraki.
+
+308
+00:20:33,029 --> 00:20:35,031
+LEONARDO DA VINCI
+''Tüm Çalışmaları''
+
+309
+00:20:35,073 --> 00:20:36,908
+Savaş Makinaları
+
+310
+00:20:39,702 --> 00:20:42,572
+Uçuş
+
+311
+00:20:51,422 --> 00:20:52,882
+Çok güzel.
+
+312
+00:20:53,091 --> 00:20:54,926
+Tuttum.
+Tuttum!
+
+313
+00:20:56,928 --> 00:20:58,888
+Çok iyisin, Orrin!
+Adamım sensin.
+
+314
+00:20:59,222 --> 00:21:00,014
+Evet!
+
+315
+00:21:00,056 --> 00:21:03,935
+Şimdiye kadar hiç bu kadar
+eğlenmemiştim.
+
+316
+00:21:03,977 --> 00:21:05,478
+Şuna bir bak!
+
+317
+00:21:13,528 --> 00:21:15,071
+Etkilendim!
+
+318
+00:21:15,113 --> 00:21:16,406
+Şunlar kadar değil.
+
+319
+00:21:16,447 --> 00:21:17,615
+Ama yine de etkilendim.
+
+320
+00:21:17,657 --> 00:21:19,784
+Daha bir şey görmedin.
+Dikkatli bak!
+
+321
+00:21:26,165 --> 00:21:30,003
+İşte bu şimdi etkileyici oldu,
+Efendi, Toby!
+
+322
+00:21:30,086 --> 00:21:32,297
+Bana sadece Toby desen yeter.
+
+323
+00:21:38,261 --> 00:21:39,637
+Toby!
+
+324
+00:21:43,099 --> 00:21:44,475
+Ne yapıyorsun?
+
+325
+00:21:44,559 --> 00:21:47,061
+Sana bu kitapları oku dedim,
+yok et demedim.
+
+326
+00:21:47,103 --> 00:21:50,523
+Ben sadece Da Vinci'nin
+teorilerini denemek istemiştim.
+
+327
+00:21:50,857 --> 00:21:56,613
+Belki de ben, efendi Toby'i
+cesaretlendirmiş olabilirim.
+
+328
+00:21:56,696 --> 00:21:57,905
+Efendim!
+
+329
+00:22:01,659 --> 00:22:05,246
+O şapkayı takmamalısın.
+
+330
+00:22:05,913 --> 00:22:11,002
+Robotun biri oğlum Toby'nin
+şapkasını takmamalı!
+
+331
+00:22:18,968 --> 00:22:20,595
+Baba, önemli değil.
+
+332
+00:22:20,678 --> 00:22:22,513
+Zaten o şapkadan hoşlanmıyorum.
+
+333
+00:22:26,768 --> 00:22:28,645
+Bence odana gitmelisin.
+
+334
+00:22:28,686 --> 00:22:30,772
+- Ama, Baba...
+- Gitmeni söyledim.
+
+335
+00:22:45,370 --> 00:22:46,621
+Tenma!
+
+336
+00:22:46,663 --> 00:22:47,830
+Sorun ne?
+
+337
+00:22:47,872 --> 00:22:49,832
+Sanırım korkunç bir hata yaptım.
+
+338
+00:22:49,874 --> 00:22:52,669
+Onun Toby gibi olacağını zannetmiştim.
+
+339
+00:22:53,044 --> 00:22:54,045
+Ama olmadı!
+
+340
+00:22:54,087 --> 00:22:56,589
+Garip biri oldu, hem de çok garip!
+
+341
+00:22:56,631 --> 00:22:57,882
+Garip mi?
+
+342
+00:22:57,924 --> 00:23:00,426
+- Nasıl garip?
+- Çok zeki!
+
+343
+00:23:00,468 --> 00:23:02,929
+Aynı Toby gibi, ama farklı.
+
+344
+00:23:03,012 --> 00:23:06,641
+Karbon kâğıdından çıkmış gibi bir kopya
+bekleyemezsin, ona biraz zaman ver, Tenma.
+
+345
+00:23:06,683 --> 00:23:08,476
+Anlamıyorsun!
+
+346
+00:23:09,018 --> 00:23:11,271
+Toby'nin yerine geçmesi için yapıldı!
+
+347
+00:23:11,312 --> 00:23:16,067
+Ama ne zaman ona baksam,
+bana Toby'nin öldüğünü hatırlatıyor!
+
+348
+00:23:17,485 --> 00:23:19,612
+Ve asla geri dönmeyecek!
+
+349
+00:23:28,663 --> 00:23:30,081
+Fark nedir?
+
+350
+00:23:30,623 --> 00:23:32,792
+Babamı daha önce hiç bu kadar
+kızgın görmemiştim.
+
+351
+00:23:39,000 --> 00:23:41,252
+Şu çocuğun saç kesimine bak!
+
+352
+00:23:41,544 --> 00:23:43,129
+Boynuzları var gibi görünüyor!
+
+353
+00:23:43,171 --> 00:23:44,506
+Boynuz!
+İyi espriydi!
+
+354
+00:23:44,547 --> 00:23:46,841
+Boynuz mu?
+Jöle sürdüm.
+
+355
+00:23:47,509 --> 00:23:48,635
+Dur bakalım!
+
+356
+00:23:48,885 --> 00:23:51,179
+- Sizi anlayabiliyorum.
+- Ürkütücü bir durum.
+
+357
+00:23:51,221 --> 00:23:53,473
+- Ne gibi?
+- Bizi anlayabiliyor olması gibi.
+
+358
+00:23:53,723 --> 00:23:56,434
+- Aptallaşma.
+- Söylediklerinizi duyabiliyorum.
+
+359
+00:23:56,476 --> 00:23:59,187
+- Konuştuklarımız duyabiliyorsa, ürkütücü.
+- Mümkün değil!
+
+360
+00:23:59,229 --> 00:24:00,522
+O bir insan!
+
+361
+00:24:00,855 --> 00:24:03,942
+Hadi, gidip heykelin birini temizleyelim.
+
+362
+00:24:04,234 --> 00:24:05,693
+Oki-doki.
+
+363
+00:24:07,362 --> 00:24:09,239
+Söylediklerini nasıl anlayabilirim ki?
+
+364
+00:24:09,280 --> 00:24:11,574
+- Siz robotsunuz!
+- Başını belaya sokmak istemezsin.
+
+365
+00:24:11,658 --> 00:24:14,744
+- Nasıl olduğunu anlamaya çalışıyorum.
+- Rahat bırak bizi!
+
+366
+00:24:21,251 --> 00:24:22,585
+Pekala, çocuklar!
+
+367
+00:24:23,002 --> 00:24:26,005
+Çok dikkatlice geriye doğru itin!
+
+368
+00:24:27,590 --> 00:24:28,842
+Olamaz!
+
+369
+00:24:30,093 --> 00:24:32,303
+Hızlı gitme, geliyoruz!
+
+370
+00:24:39,018 --> 00:24:41,229
+Bu benim için biraz ürkütücü!
+
+371
+00:25:12,927 --> 00:25:14,929
+Bifteğim az pişmiş!
+
+372
+00:25:15,805 --> 00:25:17,265
+Gülümsemen Işıldasın!
+
+373
+00:26:48,606 --> 00:26:50,149
+Harika!
+
+374
+00:26:51,025 --> 00:26:52,902
+Bunu babama göstermeliyim!
+
+375
+00:26:56,906 --> 00:26:57,907
+Refah ve Huzur için
+Oylar Logan'a
+
+376
+00:26:59,325 --> 00:27:02,245
+Oylarımın nasıl bu kadar düşebildi?
+
+377
+00:27:02,287 --> 00:27:03,872
+Lisede çok popüler bir öğrenciydim!
+
+378
+00:27:03,913 --> 00:27:06,916
+Nüfuzlu birçok arkadaşıma
+vergi indirimi yaptım.
+
+379
+00:27:06,958 --> 00:27:08,543
+İnsanlar daha fazla ne ister!
+
+380
+00:27:08,585 --> 00:27:12,130
+Metro Şehri üzerinde uçan tanımlanamayan
+bir cisim tespit ettik, efendim!
+
+381
+00:27:12,172 --> 00:27:14,048
+Yüzeydekiler bize saldırı mı yapacak?
+
+382
+00:27:14,090 --> 00:27:15,550
+İşte bu beklediğim şey!
+
+383
+00:27:15,592 --> 00:27:16,759
+Savaş ilan edin!
+
+384
+00:27:16,801 --> 00:27:18,428
+Bu benim tekrar seçilmemi sağlayacak!
+
+385
+00:27:18,469 --> 00:27:20,054
+Sinyal yüzeyden gelmedi, Efendim!
+
+386
+00:27:20,096 --> 00:27:21,514
+Öyleyse bu benim rakibim.
+
+387
+00:27:21,556 --> 00:27:23,474
+Eldivenlerini çıkardı,
+sert oynuyor!
+
+388
+00:27:23,516 --> 00:27:25,393
+Mavi Çekirdek Enerjisi var, efendim!
+
+389
+00:27:25,435 --> 00:27:28,730
+Ne? Elefun bana mavi çekirdeğin
+yok edildiğini söylemişti!
+
+390
+00:27:28,771 --> 00:27:32,609
+O cismin yerini bulup tüm birimleri
+harekete geçirin. O şeyi hemen istiyorum!
+
+391
+00:27:34,402 --> 00:27:37,697
+Buraya olabildiğince hızlı geldim.
+Nerede?
+
+392
+00:27:37,739 --> 00:27:40,116
+- Toby, nerede?
+- Odasına yolladım.
+
+393
+00:27:40,158 --> 00:27:43,119
+Lütfen, onu kapat ve geri götür!
+
+394
+00:27:43,161 --> 00:27:46,122
+Yüzünü görmeye dayanamıyorum.
+
+395
+00:27:46,623 --> 00:27:49,792
+Hadi, Tenma, onu bir hurda parçası gibi
+başından atamazsın!
+
+396
+00:27:49,834 --> 00:27:50,960
+Baba!
+
+397
+00:27:52,921 --> 00:27:54,422
+Neler oluyor?
+
+398
+00:27:54,464 --> 00:27:56,966
+- Neden hakkımda böyle konuşuyorsun?
+- Toby!
+
+399
+00:27:57,050 --> 00:27:59,135
+Küçük bir yanlış anlaşılma var.
+
+400
+00:27:59,177 --> 00:28:03,181
+Sen tam olarak normal bir çocuk değilsin.
+
+401
+00:28:03,223 --> 00:28:04,849
+Biliyorum!
+
+402
+00:28:05,016 --> 00:28:06,559
+Baba, uçabiliyorum!
+
+403
+00:28:06,601 --> 00:28:09,479
+Yoluma çıkan taşları delip geçebiliyorum.
+Bu harika!
+
+404
+00:28:10,104 --> 00:28:12,357
+Nasıl oldu da işe yarayacağını
+düşünebildim ki?
+
+405
+00:28:12,482 --> 00:28:14,192
+Sorun ne?
+
+406
+00:28:14,400 --> 00:28:15,944
+Neden artık beni sevmiyor musun?
+
+407
+00:28:15,985 --> 00:28:18,905
+Ama oğlunun hafızasıyla
+programlandı, Tenma!
+
+408
+00:28:18,947 --> 00:28:21,658
+- Program mı?
+- Sana hiçbir şey ifade etmiyor mu?
+
+409
+00:28:23,326 --> 00:28:24,828
+Ama o benim oğlum değil.
+
+410
+00:28:26,120 --> 00:28:27,288
+Baba!
+
+411
+00:28:27,914 --> 00:28:30,291
+Ben senin baban değilim.
+
+412
+00:28:30,542 --> 00:28:32,252
+Sen Toby değilsin.
+
+413
+00:28:32,377 --> 00:28:34,295
+Sen Toby'nin bir koyasısın.
+
+414
+00:28:35,088 --> 00:28:37,131
+Sen benim oğlum değilsin,
+sen bir robotsun,...
+
+415
+00:28:37,173 --> 00:28:38,842
+...ve ben...
+
+416
+00:28:39,926 --> 00:28:42,345
+...artık...
+
+417
+00:28:42,720 --> 00:28:43,888
+...seni istemiyorum.
+
+418
+00:28:43,930 --> 00:28:45,849
+Hayır!
+Olamaz!
+
+419
+00:28:46,808 --> 00:28:48,142
+Toby, dur!
+
+420
+00:28:48,184 --> 00:28:50,937
+Geleceğini göremiyorum,
+ama eminim ki...
+
+421
+00:28:50,979 --> 00:28:53,606
+...senin için bir yer var ve
+orayı bulmalısın.
+
+422
+00:28:53,648 --> 00:28:54,983
+O benim babam!
+
+423
+00:28:55,275 --> 00:28:56,860
+Burası benim evim!
+
+424
+00:28:57,068 --> 00:29:00,572
+- Tüm bildiğim bu.
+- Herkesin bir kaderi vardır, Toby.
+
+425
+00:29:01,156 --> 00:29:02,949
+Dediğini duymadın mı?
+
+426
+00:29:03,032 --> 00:29:04,701
+Ben Toby değilim.
+
+427
+00:29:04,826 --> 00:29:06,411
+Lütfen, Elefun.
+
+428
+00:29:32,854 --> 00:29:34,230
+Gerçek!
+
+429
+00:29:35,106 --> 00:29:36,149
+Ne?
+
+430
+00:29:38,234 --> 00:29:40,737
+Sinyalin kaynağını bulduk...
+
+431
+00:29:40,778 --> 00:29:42,280
+...ama bu bir çocuk!
+
+432
+00:29:42,322 --> 00:29:44,282
+Çekirdek çocuğun içinde.
+
+433
+00:29:44,324 --> 00:29:46,284
+O, Tenma'nın oğlu mu?
+
+434
+00:29:46,326 --> 00:29:47,952
+Tabii ki, değil.
+
+435
+00:29:48,119 --> 00:29:49,454
+Tanrım!
+
+436
+00:29:49,496 --> 00:29:51,539
+Tenma kafayı yemiş olmalı!
+
+437
+00:29:51,664 --> 00:29:52,665
+Onu buraya getirin!
+
+438
+00:29:52,707 --> 00:29:55,376
+Burası Stinger 1,
+silahları yakalamaya ayarlayın.
+
+439
+00:29:55,585 --> 00:29:56,669
+Olamaz!
+
+440
+00:29:59,631 --> 00:30:00,840
+Havalandı!
+
+441
+00:30:00,882 --> 00:30:04,344
+Kumandan,
+nesneyi yakalamak üzere takibe al!
+
+442
+00:30:11,893 --> 00:30:13,478
+Benden ne istiyorsunuz?
+
+443
+00:30:13,520 --> 00:30:16,022
+Kumanda merkezi,
+hedef görüş alanımızda!
+
+444
+00:30:38,711 --> 00:30:40,171
+Aman Tanrım!
+
+445
+00:30:40,213 --> 00:30:43,132
+Bunu geri götüreceğim.
+
+446
+00:30:43,174 --> 00:30:45,051
+Evleniyorum!
+
+447
+00:30:45,260 --> 00:30:46,886
+Öldürün!
+
+448
+00:30:50,598 --> 00:30:52,016
+Nereye gitti?
+
+449
+00:31:10,869 --> 00:31:12,996
+Çocuğu yakaladık.
+Üsse dönüyoruz.
+
+450
+00:31:53,828 --> 00:31:55,955
+Hayır, hayır, hayır...
+
+451
+00:31:57,540 --> 00:31:58,750
+Olamaz!
+
+452
+00:32:01,711 --> 00:32:04,797
+Vücut Sıvısı Durumu:
+Altına Kaçırmış
+
+453
+00:32:08,009 --> 00:32:10,011
+Özgürlük Savaşçısını gönderin.
+
+454
+00:32:10,553 --> 00:32:13,014
+Robotu yok edin ve çekirdeği alın!
+
+455
+00:32:15,225 --> 00:32:16,726
+Güvendesin.
+
+456
+00:32:18,520 --> 00:32:19,604
+Yine mi?
+
+457
+00:32:19,646 --> 00:32:21,105
+Sizin derdiniz ne?
+
+458
+00:32:21,147 --> 00:32:22,565
+Seni seviyorum.
+
+459
+00:32:23,358 --> 00:32:24,776
+Gelin bakalım!
+
+460
+00:32:43,378 --> 00:32:44,838
+Ateş!
+
+461
+00:33:02,939 --> 00:33:04,566
+Bitirin işini!
+
+462
+00:33:11,865 --> 00:33:13,283
+İşte bu!
+
+463
+00:33:19,164 --> 00:33:21,583
+- Nereye gidiyor?
+- Zemine düşüyor.
+
+464
+00:33:21,624 --> 00:33:22,834
+Geri getirin!
+
+465
+00:33:23,168 --> 00:33:25,628
+Ulusal acil durum ilan ediyorum.
+
+466
+00:33:25,670 --> 00:33:28,381
+Askeri personelin tüm izinlerini
+iptal ediyorum...
+
+467
+00:33:28,673 --> 00:33:31,259
+...ta ki, Tenma'nın oğlu bulunana kadar!
+
+468
+00:33:53,615 --> 00:33:55,617
+Yeni evine hoş geldin, evlat!
+
+469
+00:33:57,118 --> 00:33:58,703
+Selam!
+
+470
+00:33:59,162 --> 00:34:00,538
+Piller!
+
+471
+00:34:00,580 --> 00:34:02,332
+Taptaze pilleri var!
+
+472
+00:34:02,373 --> 00:34:04,709
+Bize birkaç volt yardım et, dostum.
+
+473
+00:34:04,751 --> 00:34:06,044
+Yeni piller mi?
+
+474
+00:34:06,085 --> 00:34:07,420
+Yardım et, evlat.
+
+475
+00:34:07,462 --> 00:34:09,005
+Ölüyoruz.
+
+476
+00:34:10,298 --> 00:34:13,134
+Tek kişilik masa mı?
+Sigara içilen mi, içilmeyen mi?
+
+477
+00:34:13,176 --> 00:34:15,595
+Yanıyorum, hem de içmeden yanıyorum!
+
+478
+00:34:16,221 --> 00:34:18,431
+Artık bizden birisin.
+Tanıştığımıza sevindik.
+
+479
+00:34:18,473 --> 00:34:19,766
+Hayır!
+
+480
+00:34:19,807 --> 00:34:23,353
+- Hayır, sizlerden biri değilim, çocuklar.
+- Robotsun, değil mi?
+
+481
+00:34:23,520 --> 00:34:26,898
+- Evet, ama...
+- Öyleyse çöplüğe hoş geldin.
+
+482
+00:34:26,940 --> 00:34:29,108
+Er ya da geç hepimizin sonu burası.
+
+483
+00:34:29,150 --> 00:34:31,277
+İmkanı yok.
+Daha buna hazır değilim.
+
+484
+00:34:31,319 --> 00:34:34,697
+Bırakın beni!
+Ne yapıyorsunuz?
+
+485
+00:34:34,739 --> 00:34:38,117
+- Bırakın beni.
+- Dikkat, geliyor!
+
+486
+00:34:53,967 --> 00:34:55,635
+Ne yapacağım ben şimdi?
+
+487
+00:34:57,637 --> 00:34:58,680
+Baba!
+
+488
+00:35:02,433 --> 00:35:04,018
+Kim var orada?
+
+489
+00:35:12,694 --> 00:35:14,571
+Demek beni sevdin.
+
+490
+00:35:14,904 --> 00:35:16,030
+Çöp kutusu.
+
+491
+00:35:16,072 --> 00:35:18,575
+Kayıp mı oldun, çöp kutusu?
+
+492
+00:35:19,367 --> 00:35:21,411
+Ben kayboldum da!
+
+493
+00:35:22,495 --> 00:35:24,289
+Ne var, oğlum?
+
+494
+00:35:24,372 --> 00:35:26,207
+Birinin başı dertte mi?
+
+495
+00:35:26,249 --> 00:35:27,709
+Olamaz!
+
+496
+00:35:29,794 --> 00:35:32,005
+Çöp kutusu, bekle!
+
+497
+00:35:33,673 --> 00:35:35,175
+Burada mı?
+
+498
+00:35:36,843 --> 00:35:39,345
+Burası...
+Merhaba?!
+
+499
+00:35:40,221 --> 00:35:41,848
+Çok derin olabilir.
+
+500
+00:35:41,890 --> 00:35:43,474
+Görünüşe göre çok...
+
+501
+00:35:43,516 --> 00:35:44,559
+...derin!
+
+502
+00:35:47,312 --> 00:35:50,356
+Çabuk, halatı getirin!
+
+503
+00:35:50,398 --> 00:35:53,109
+Aferin, oğlum!
+Al bakalım, bu sana!
+
+504
+00:35:53,443 --> 00:35:55,570
+Çekin elinizi!
+
+505
+00:35:57,197 --> 00:35:58,740
+Bu bir robot değil.
+
+506
+00:35:58,781 --> 00:36:00,700
+Bu bir çocuk!
+
+507
+00:36:00,742 --> 00:36:05,079
+Doğru. Ben bir çocuğum!
+Aynı sizin gibi!
+
+508
+00:36:05,121 --> 00:36:08,875
+Ne? Biz robot istiyoruz, aptal bir çocuk,
+veya değersiz bir çöp parçası değil!
+
+509
+00:36:08,917 --> 00:36:10,835
+Nereden geliyorsun
+robot olmayan çocuk?
+
+510
+00:36:10,877 --> 00:36:12,712
+Metro Şehrinden.
+
+511
+00:36:12,754 --> 00:36:14,506
+Metro Şehri mi?
+
+512
+00:36:14,547 --> 00:36:18,051
+İnanabiliyor musunuz, çocuklar?
+Metro Şehrinden gelmiş ve benimle konuşuyor!
+
+513
+00:36:18,092 --> 00:36:19,052
+İyi misin?
+
+514
+00:36:19,093 --> 00:36:20,970
+Aman Tanrım, benimle iki kere konuştu!
+
+515
+00:36:21,012 --> 00:36:24,432
+Bu kesinlikle günlüğüme de yazacağım
+hayatımın en heyecanlı günü.
+
+516
+00:36:24,474 --> 00:36:27,894
+Tamam, anladım, Metro Şehrindeki
+insanlardan pek hoşlanmıyorsunuz.
+
+517
+00:36:27,936 --> 00:36:31,439
+Metro Şehri, elleri ve ayakları
+olan robotların şehri.
+
+518
+00:36:31,481 --> 00:36:34,400
+Bir günlük de olsa
+oraya gitmeyi çok istiyorum.
+
+519
+00:36:34,442 --> 00:36:37,111
+Seni oraya almazlar,
+yüzeydeki ezikleri...
+
+520
+00:36:37,153 --> 00:36:39,739
+...içeri almamakla ilgili
+katı kuralları var.
+
+521
+00:36:39,823 --> 00:36:41,658
+Neden, insanların,
+senin değersiz olduğunu düşündüğü...
+
+522
+00:36:41,699 --> 00:36:43,493
+...bir yere gitmek istiyorsun ki?
+
+523
+00:36:44,160 --> 00:36:46,412
+Yani, şuna bak.
+
+524
+00:36:46,454 --> 00:36:48,748
+Birini bunu öylecene
+çöpe attığına inanabiliyor musun?
+
+525
+00:36:48,790 --> 00:36:51,209
+Kim bulduysa onundur!
+
+526
+00:36:51,584 --> 00:36:53,628
+Peki, aşağıda ne yapıyorsun?
+
+527
+00:36:54,128 --> 00:36:55,797
+Henüz bilmiyorum.
+
+528
+00:36:55,839 --> 00:36:58,967
+Sanırım bir yerlerde bir şeyler arıyordum.
+
+529
+00:36:59,008 --> 00:37:00,552
+Evden mi kaçtın?
+
+530
+00:37:00,635 --> 00:37:02,053
+Tam olarak değil.
+
+531
+00:37:02,095 --> 00:37:05,014
+Bana yeni bir yer bulmamı önerdiler.
+
+532
+00:37:05,598 --> 00:37:06,933
+Ne anlama geliyorsa artık.
+
+533
+00:37:06,975 --> 00:37:09,352
+Dostum, seni evden kovmuşlar
+anlamına geliyor.
+
+534
+00:37:09,394 --> 00:37:12,522
+Ben Zane.
+
+535
+00:37:12,564 --> 00:37:14,399
+- Ben Widget.
+- Ben Sludge.
+
+536
+00:37:14,440 --> 00:37:16,317
+- Ondan büyüğüm.
+- Sadece 90 saniye.
+
+537
+00:37:16,359 --> 00:37:18,319
+Ve ben Cora,
+senin ismin nedir?
+
+538
+00:37:18,361 --> 00:37:19,946
+Ben...
+
+539
+00:37:20,071 --> 00:37:22,407
+Çok Yaşa Robot Devrimi!
+
+540
+00:37:22,532 --> 00:37:24,325
+Az önce ne oldu öyle?
+
+541
+00:37:25,785 --> 00:37:28,496
+İnsanların yüzlerini gördün mü?
+
+542
+00:37:28,538 --> 00:37:31,249
+Kapitalist botlarının içinde
+titriyorlardı.
+
+543
+00:37:32,542 --> 00:37:36,379
+- Merak etme kardeşim, güvendesin.
+- Seni kurtaranlar...
+
+544
+00:37:36,921 --> 00:37:39,424
+...Devrimci Robot Cephesi!
+
+545
+00:37:40,466 --> 00:37:41,968
+Ben Sparx, zeki olan.
+
+546
+00:37:42,010 --> 00:37:44,429
+Ve ben Robotsky, güçlü olan.
+
+547
+00:37:44,470 --> 00:37:46,890
+Ben de Mike, Buzdolabı Mike.
+
+548
+00:37:47,515 --> 00:37:48,683
+Buz gibiyim.
+
+549
+00:37:48,725 --> 00:37:51,060
+Artık özgürlüğüne kavuştun!
+
+550
+00:37:51,102 --> 00:37:52,395
+Gel buraya, yoldaş.
+
+551
+00:37:52,437 --> 00:37:55,773
+Özgür bir robot olarak ilk adımı at.
+
+552
+00:37:55,815 --> 00:37:57,901
+Adımını at!
+
+553
+00:38:00,445 --> 00:38:02,280
+Farklıydı değil mi?
+
+554
+00:38:03,364 --> 00:38:04,532
+Biraz ıslaktı.
+
+555
+00:38:04,574 --> 00:38:06,701
+- Islaktı!
+- Islaktı!
+
+556
+00:38:06,743 --> 00:38:08,870
+Özgürlük!
+
+557
+00:38:10,371 --> 00:38:12,373
+Ne yapıyorsun?
+
+558
+00:38:13,041 --> 00:38:14,709
+Üzgünüm.
+
+559
+00:38:15,376 --> 00:38:17,003
+Ben temizlik yapayım.
+
+560
+00:38:17,045 --> 00:38:19,547
+Evet!
+Lütfen!
+
+561
+00:38:19,672 --> 00:38:22,800
+Oldukça ileri teknoloji teknoloji
+bir robota benziyorsun.
+
+562
+00:38:22,842 --> 00:38:25,428
+Sırf merakımdan soruyorum,
+özel bir sebebi yok,...
+
+563
+00:38:25,470 --> 00:38:27,722
+...Robotik kanunlarına bağlı mısın?
+
+564
+00:38:27,764 --> 00:38:28,973
+Hatıtlatır mısın?
+
+565
+00:38:29,015 --> 00:38:33,228
+Bir robot bir insana zarar veremez
+veya zarar verecek bir iş yapamaz...
+
+566
+00:38:33,269 --> 00:38:35,271
+...falan filan, sıkıcılıklar...
+
+567
+00:38:35,313 --> 00:38:37,899
+Ben kimseye zarar vermek istemiyorum.
+
+568
+00:38:37,941 --> 00:38:39,192
+Aman be!
+
+569
+00:38:39,234 --> 00:38:43,363
+DRC kendini, robotları insanların
+köleliğinden kurtarmaya adamıştır.
+
+570
+00:38:43,404 --> 00:38:45,532
+Her türlü yola başvurarak!
+
+571
+00:38:45,573 --> 00:38:49,077
+Her türlü yola başvurarak, her türlü!
+
+572
+00:38:49,118 --> 00:38:51,079
+İsmin nedir, yoldaş?
+
+573
+00:38:51,120 --> 00:38:52,413
+Toby.
+
+574
+00:38:52,455 --> 00:38:53,665
+Toby mi?
+
+575
+00:38:53,706 --> 00:38:56,751
+Pek de bir isme benzemiyor
+sana daha isim gibi bir isim bulmalıyız.
+
+576
+00:38:56,793 --> 00:38:59,045
+Mesela, Buz Yapıcı gibi bir şey.
+
+577
+00:38:59,087 --> 00:39:02,590
+- Buldum, Yok edici!
+- Veya Pelin.
+
+578
+00:39:03,258 --> 00:39:04,175
+Sanırım ben...
+
+579
+00:39:04,217 --> 00:39:07,053
+Dur bir dakika,
+daha sana yeni bir isim bulamadık.
+
+580
+00:39:07,095 --> 00:39:09,597
+Şuna ne dersin?
+
+581
+00:39:10,390 --> 00:39:12,392
+Şuna ne dersin?
+
+582
+00:39:12,433 --> 00:39:13,518
+Astro!
+
+583
+00:39:13,560 --> 00:39:16,271
+Sessiz ol biraz,
+mantıklı bir öneriyle gelemiyorsan...
+
+584
+00:39:16,312 --> 00:39:18,690
+...kendi işine bakacaksın!
+
+585
+00:39:18,731 --> 00:39:21,067
+- Üzgünüm.
+- Düşün! Düşün!
+
+586
+00:39:21,109 --> 00:39:22,277
+- Buldum!
+- Ne?
+
+587
+00:39:22,318 --> 00:39:25,071
+- Astro!
+- Harika bir isim, dostum.
+
+588
+00:39:25,113 --> 00:39:27,699
+- Modern bir isim, uzay çağıyla ilgili.
+Beğendim.  - Sağolun, çocuklar.
+
+589
+00:39:27,740 --> 00:39:31,619
+- Ama ben gitsem iyi olur.
+- Astro'ya planı göster.
+
+590
+00:39:31,661 --> 00:39:33,705
+Sen nasıl istersen, yoldaş.
+
+591
+00:39:33,746 --> 00:39:35,456
+Bu adam HAMEGG!
+
+592
+00:39:38,001 --> 00:39:40,670
+- Güzel.  - O adam türümüzü
+köleleştirmekten zevk alıyor.
+
+593
+00:39:40,712 --> 00:39:42,922
+Onu, başkalarına ibret olsun diye
+cezalandırmalıyız.
+
+594
+00:39:42,964 --> 00:39:46,676
+Ona çok korkunç, çok feci,
+çok berbat bir şey yapacağız ki...
+
+595
+00:39:46,718 --> 00:39:49,846
+...insanlar, robotları
+rahat bırakmaya mecbur kalacak.
+
+596
+00:39:49,929 --> 00:39:52,098
+- Ne yapacaksınız?
+- Gizlice şehre sızacağız,...
+
+597
+00:39:52,140 --> 00:39:54,267
+...ve Hamegg'in
+ortaya çıkmasını bekleyip...
+
+598
+00:39:54,309 --> 00:39:57,228
+- Sonra?
+- Ortaya çıktığında...
+
+599
+00:39:57,437 --> 00:40:01,107
+- Evet?  - Robotik kanunlarına
+sadık kaldığımızı hatırlatırız.
+
+600
+00:40:01,149 --> 00:40:05,778
+- Tamam.
+- Kuş tüyüyle gıdıklayacağız!
+
+601
+00:40:05,820 --> 00:40:07,780
+Yaşasın Robot Devrimi!
+
+602
+00:40:08,031 --> 00:40:09,115
+Plan bu mu?
+
+603
+00:40:09,157 --> 00:40:11,493
+Kuş tüyünü bulduğumuz gibi
+içeri giriyoruz.
+
+604
+00:40:11,534 --> 00:40:14,245
+- O da ne!?
+- İyi misin?
+
+605
+00:40:14,287 --> 00:40:16,498
+Gizli yerimizi nasıl buldunuz?
+
+606
+00:40:16,539 --> 00:40:19,459
+Kamuflaj tekniklerinizi
+biraz geliştirmelisiniz.
+
+607
+00:40:19,501 --> 00:40:22,420
+Bana kendini parçalatma!
+Biz sadece çocuğu geri istiyoruz.
+
+608
+00:40:22,462 --> 00:40:25,840
+Çocuk mu?
+Kimin hakkında konuşuyorsun sen?
+
+609
+00:40:26,007 --> 00:40:27,717
+Canını yakmamı mı istiyorsun,
+teneke adam?
+
+610
+00:40:27,759 --> 00:40:30,386
+Çaktırma, ben Metro Şehrinden gelen
+kılık değiştirmiş bir robotum.
+
+611
+00:40:30,428 --> 00:40:33,473
+Biliyordum!
+Yaşasın Robot Devrimi!
+
+612
+00:40:33,515 --> 00:40:35,475
+Bu çocuklar bana zarar vermediler.
+
+613
+00:40:35,517 --> 00:40:38,186
+- Çekip gidelim.
+- Sen nasıl istersen.
+
+614
+00:40:39,729 --> 00:40:44,067
+Sağ ol, kardeş. RDC
+daima sana minnettar kalacaktır.
+
+615
+00:40:45,610 --> 00:40:47,570
+İsmin nedir?
+
+616
+00:40:48,071 --> 00:40:50,907
+Toby, ama gerçek adım bu değil.
+
+617
+00:40:50,949 --> 00:40:53,743
+Dostum, çok basit bir şey sordum!
+
+618
+00:40:55,203 --> 00:40:57,455
+İsmim Astro.
+
+619
+00:40:57,497 --> 00:40:59,082
+- Bana Astro deyin.
+- Güzel.
+
+620
+00:40:59,123 --> 00:41:01,918
+- Kulağa çok modern geliyor.
+- Uzayı çağrıştırıyor, beğendim.
+
+621
+00:41:02,585 --> 00:41:05,046
+Bekleyin, birazdan geliyorum.
+
+622
+00:41:05,088 --> 00:41:07,340
+- Hoşgel--
+- Müsaadenle, robot. Sağ ol.
+
+623
+00:41:07,382 --> 00:41:09,551
+Etrafı arayın, her taşın altına bakın.
+
+624
+00:41:09,592 --> 00:41:11,719
+- Adamı tutuklayın.
+- Peki, efendim.
+
+625
+00:41:11,761 --> 00:41:13,304
+Ne yapıyorsunuz?
+Durun!
+
+626
+00:41:13,346 --> 00:41:14,848
+Tenma'nın robot oğlu nerede?
+
+627
+00:41:14,889 --> 00:41:16,516
+Burada değil.
+
+628
+00:41:16,558 --> 00:41:18,101
+Bunun anlamı ne?
+
+629
+00:41:18,142 --> 00:41:21,062
+Barış Muhafızımın çekirdeğini
+kendi robotuna koymuşsun.
+
+630
+00:41:21,104 --> 00:41:23,231
+Fark edemediysen,
+tekrar seçilmeye çalışıyorum.
+
+631
+00:41:23,273 --> 00:41:25,440
+Yüzeydekilere karşı
+silahlanma yarışı içindeyiz.
+
+632
+00:41:25,441 --> 00:41:28,278
+Silahlanma yarışı mı?
+Saçmalık!
+
+633
+00:41:29,362 --> 00:41:31,281
+Aptalca bir hataydı.
+
+634
+00:41:31,948 --> 00:41:34,033
+Oğlumu kaybettiğimde, düşündüm ki...
+
+635
+00:41:35,076 --> 00:41:36,578
+Belki de...
+
+636
+00:41:36,911 --> 00:41:38,079
+Düşündüm ki...
+
+637
+00:41:38,121 --> 00:41:40,999
+Biliyorum.
+Ben de kaybetmekten nefret ediyorum.
+
+638
+00:41:41,040 --> 00:41:43,918
+Kanıt istiyorsan,
+karılarımdan birine sorabilirsin.
+
+639
+00:41:43,960 --> 00:41:46,504
+Fakat kişisel şeyleri aşmalıyız, Tenma.
+
+640
+00:41:46,546 --> 00:41:49,048
+Sen Bilim Bakanlığının başındasın.
+
+641
+00:41:49,090 --> 00:41:50,508
+Senin için ilerleme vakti.
+
+642
+00:41:50,550 --> 00:41:52,927
+Çekirdeği geri getir.
+Barış Muhafızına geri koy.
+
+643
+00:41:52,969 --> 00:41:55,346
+Ve tüm bu karmaşa bir son bulsun.
+
+644
+00:42:00,143 --> 00:42:03,438
+Robotu bulduğun zaman,
+etkisiz hale getireceğim.
+
+645
+00:42:03,897 --> 00:42:05,773
+Ve sana çekirdeği vereceğim.
+
+646
+00:42:05,815 --> 00:42:07,609
+İyi adam.
+Bırakın onu gitsin.
+
+647
+00:42:10,820 --> 00:42:13,198
+Umarım onu asla bulamazsın.
+
+648
+00:42:14,491 --> 00:42:17,076
+Yani gerçekten bu çöplüğün içinde
+yaşayan insanlar var mı?
+
+649
+00:42:17,202 --> 00:42:18,286
+Çöplük mü?
+
+650
+00:42:18,328 --> 00:42:23,124
+Metro Şehri gibi görünmeyebilir
+ama burası bizim evimiz gibidir.
+
+651
+00:42:23,333 --> 00:42:25,001
+İşte geldik!
+
+652
+00:42:29,172 --> 00:42:30,882
+Hadi, Astro!
+
+653
+00:42:36,763 --> 00:42:38,473
+Pardon!
+
+654
+00:42:44,896 --> 00:42:46,564
+Şifre nedir?
+
+655
+00:42:46,606 --> 00:42:48,316
+Almayayım şimdi seni ayağımın altına!
+
+656
+00:42:48,983 --> 00:42:50,902
+Yeterli.
+
+657
+00:42:59,953 --> 00:43:01,371
+4.
+
+658
+00:43:01,538 --> 00:43:02,664
+5.
+
+659
+00:43:02,705 --> 00:43:03,665
+Dışarı!
+
+660
+00:43:03,706 --> 00:43:06,376
+Elmalar bitti, üzüm kulanacağız!
+
+661
+00:43:07,085 --> 00:43:09,420
+Cora, bana bir şey getirdin mi?
+
+662
+00:43:09,462 --> 00:43:12,173
+Küçük, tatlı kız için
+harika bir hediye.
+
+663
+00:43:12,715 --> 00:43:14,509
+Teşekkürler!
+
+664
+00:43:14,551 --> 00:43:16,302
+Dikkatli ol!
+
+665
+00:43:18,680 --> 00:43:19,889
+İyi misin?
+
+666
+00:43:19,931 --> 00:43:21,057
+İyiyim.
+
+667
+00:43:21,099 --> 00:43:23,726
+Buradayken daha dikkatli olmalıyız.
+
+668
+00:43:29,649 --> 00:43:31,234
+Selam, Hamegg!
+
+669
+00:43:33,653 --> 00:43:36,406
+Ne çabuk döndünüz?
+
+670
+00:43:36,573 --> 00:43:39,075
+Çocuklar, benim için
+güzel bir şeyler buldunuz mu?
+
+671
+00:43:39,200 --> 00:43:41,744
+Bilemiyorum, çocuklar.
+
+672
+00:43:41,828 --> 00:43:44,789
+Burada bitik piller ve kırık bir dirsek var.
+
+673
+00:43:45,039 --> 00:43:47,917
+Tuvalet temizleme robotundan
+dirsek mi?
+
+674
+00:43:47,959 --> 00:43:50,003
+Size söylemiştim, bana el lazım.
+
+675
+00:43:50,044 --> 00:43:52,046
+Daha iyi şeyler bulabiliriz.
+
+676
+00:43:56,509 --> 00:43:57,886
+Bu da kim?
+
+677
+00:43:57,927 --> 00:44:00,180
+İsmi Astro.
+Metro Şehrinden geliyor.
+
+678
+00:44:00,221 --> 00:44:02,390
+Metro Şehri mi?
+Süper!
+
+679
+00:44:02,432 --> 00:44:05,560
+- Bir zamanlar orada çalışırdım.
+- Sahiden mi?
+
+680
+00:44:05,602 --> 00:44:08,563
+Neden yüzeyde dandik bir
+tamirhaneyi çalıştırıyorum da...
+
+681
+00:44:08,605 --> 00:44:12,358
+...Metro Şehrinde gelişmiş bir robot
+atölyesi işletmiyorum?
+
+682
+00:44:12,400 --> 00:44:13,860
+Öyle demek istemedim.
+
+683
+00:44:13,902 --> 00:44:16,571
+Rahat ol, evlat
+Biz burada bir aileyiz.
+
+684
+00:44:16,613 --> 00:44:17,780
+Her türlü soruyu sorabilirsin.
+
+685
+00:44:17,822 --> 00:44:20,324
+Cevabı ise, ''Robotları seviyorum!''
+
+686
+00:44:20,325 --> 00:44:22,660
+Özellikle de ıskartaya çıkarılanları.
+
+687
+00:44:22,702 --> 00:44:24,954
+Çoğu hasar görmüş, suistimal edilmiş...
+
+688
+00:44:24,996 --> 00:44:27,540
+...ve onarıp tekrar
+ayağa kaldırmaya çalıştığım robotlar.
+
+689
+00:44:31,377 --> 00:44:33,546
+Benim için neredeyse
+ayin gibi bir şey.
+
+690
+00:44:33,588 --> 00:44:36,299
+Azizlerin yoksullar için düşündükleri,...
+
+691
+00:44:36,341 --> 00:44:38,760
+...veya ayakkabıları düşünen kadınlar gibi,...
+
+692
+00:44:38,801 --> 00:44:40,845
+...ya da tatlıları düşünen şişkolar gibi
+düşünmeyi seviyorum.
+
+693
+00:44:40,887 --> 00:44:42,222
+Veya...
+
+694
+00:44:43,014 --> 00:44:44,682
+...şişkolar için verdiğim örnek yeterdi.
+
+695
+00:44:44,724 --> 00:44:47,519
+Yani sen robotları köle yapmaya
+çalışmıyor musun?
+
+696
+00:44:47,560 --> 00:44:50,146
+- Ne?
+- DRC ile karşılaştı.
+
+697
+00:44:50,897 --> 00:44:54,317
+Robotları köleleştirmiyorum.
+
+698
+00:44:54,484 --> 00:44:56,444
+Robotlara aşığım!
+
+699
+00:44:56,486 --> 00:44:57,862
+Onlar bizim arkadaşlarımızdır.
+
+700
+00:44:57,904 --> 00:45:01,157
+Hatta günlük yemeğimiz için
+onlara bağımlıyız.
+
+701
+00:45:01,407 --> 00:45:04,077
+Lafı geçmişken,
+aranızda karnı acıkan var mı?
+
+702
+00:45:05,954 --> 00:45:07,163
+Durun tahmin edeyim...
+
+703
+00:45:07,205 --> 00:45:09,415
+Pizza, yine!
+
+704
+00:45:09,457 --> 00:45:12,168
+Çöplükten çıkmış pizza gibi, yine!
+
+705
+00:45:12,210 --> 00:45:15,380
+Sadece birkaç günlük.
+
+706
+00:45:15,421 --> 00:45:18,216
+Bakın, bunun malzemesi hala yerinde.
+
+707
+00:45:19,467 --> 00:45:22,679
+Hey!
+Bir şey unutmadınız mı?
+
+708
+00:45:23,930 --> 00:45:26,808
+Neyi unuttular, evlat?
+
+709
+00:45:27,183 --> 00:45:28,268
+Şükretmeyi mi?
+
+710
+00:45:28,309 --> 00:45:31,604
+- Kesinlikle, şükretmeyi!
+- Ne?
+
+711
+00:45:31,646 --> 00:45:34,774
+Zahmet olmazsa TV'yi açar mısın, tatlım?
+İşte böyle.
+
+712
+00:45:37,735 --> 00:45:39,070
+Afiyet olsun.
+
+713
+00:45:39,112 --> 00:45:41,281
+Yeni çocuk, onu yiyecek misin?
+
+714
+00:45:41,322 --> 00:45:42,782
+İstiyorsan alabilirsin.
+
+715
+00:45:42,824 --> 00:45:44,367
+Bu kadar nazik olma.
+
+716
+00:45:44,409 --> 00:45:45,910
+Açlıktan ölebilirsin.
+
+717
+00:45:45,952 --> 00:45:48,204
+Ya da tek hayatta kalan olabilirsin.
+
+718
+00:45:48,246 --> 00:45:51,332
+Söyle bakalım, Astro,
+ailen nerede olduğunu biliyor mu?
+
+719
+00:45:51,374 --> 00:45:53,543
+Benim ailem yok.
+
+720
+00:45:53,585 --> 00:45:55,545
+Zor durum!
+
+721
+00:45:55,587 --> 00:45:58,423
+Onları kayıp mı ettin?
+
+722
+00:45:58,464 --> 00:46:00,258
+- Ya da daha kötüsü, onlar mı seni kaybetti?
+- Hayır.
+
+723
+00:46:00,717 --> 00:46:02,760
+İşin aslı...
+
+724
+00:46:02,802 --> 00:46:04,846
+Ben aslında...
+
+725
+00:46:04,888 --> 00:46:06,389
+Ben...
+
+726
+00:46:06,431 --> 00:46:07,849
+Ne?
+
+727
+00:46:07,891 --> 00:46:09,893
+Canını sıkma, evlat.
+
+728
+00:46:09,934 --> 00:46:11,853
+Buradaki herkes yetim.
+
+729
+00:46:11,895 --> 00:46:13,855
+Bunda utanacak bir şey yok.
+
+730
+00:46:15,023 --> 00:46:17,025
+Yani hiçbirinizin ailesi yok mu?
+
+731
+00:46:17,066 --> 00:46:18,985
+Aile mi, şaka mı yapıyorsun?
+
+732
+00:46:21,946 --> 00:46:24,157
+Burası ailesiz çocukların bölgesi.
+
+733
+00:46:24,199 --> 00:46:25,742
+Ben hurdalıkta doğmuşum.
+
+734
+00:46:25,783 --> 00:46:27,702
+- Beni vahşi köpekler büyüttü.
+- Sahiden mi?
+
+735
+00:46:27,744 --> 00:46:29,662
+Vahşi domuzlar olmadıklarına emin misin?
+
+736
+00:46:48,681 --> 00:46:51,351
+Metro Şehrindeki
+evini mi özlüyorsun, Astro.
+
+737
+00:46:52,602 --> 00:46:53,853
+Hayır.
+
+738
+00:46:53,895 --> 00:46:55,730
+Ben de özlemiyorum.
+
+739
+00:46:57,273 --> 00:47:00,777
+Bilim Bakanlığı Robotik Çalışmalar
+Bölüm Başkanıydım.
+
+740
+00:47:00,985 --> 00:47:02,862
+Evet.
+
+741
+00:47:02,904 --> 00:47:05,865
+Tenma ve diğer maymunlarla
+birlikte çalışıyordum.
+
+742
+00:47:05,907 --> 00:47:07,033
+Ne oldu?
+
+743
+00:47:07,075 --> 00:47:09,619
+Dehaların başına her zaman
+aynı şeyler gelir.
+
+744
+00:47:09,661 --> 00:47:12,163
+Yeteneklerimden ve fikirlerimden
+gözleri korktu.
+
+745
+00:47:12,413 --> 00:47:15,124
+Sonra beni bitik piller gibi sokağa attılar.
+
+746
+00:47:16,793 --> 00:47:18,044
+Üzgünüm.
+
+747
+00:47:18,086 --> 00:47:19,587
+Senin sorunun değil.
+
+748
+00:47:19,629 --> 00:47:23,132
+Seninle ilgili bir önsezim var, Astro.
+
+749
+00:47:23,466 --> 00:47:26,094
+Bu ailede iyi çocuklar için
+daima yerimiz vardır.
+
+750
+00:47:27,136 --> 00:47:29,180
+Şimdi gözlerini biraz kapamaya ne dersin?
+
+751
+00:47:30,014 --> 00:47:32,225
+İyi geceler, evlat.
+
+752
+00:47:33,643 --> 00:47:35,395
+İyi geceler, Hamegg.
+
+753
+00:47:38,690 --> 00:47:42,318
+Onlara söyleyeceğim,
+ama henüz değil, tamam mı?
+
+754
+00:47:50,827 --> 00:47:53,454
+Tamam, rahat bırak beni,
+sana yapacağımı söyledim.
+
+755
+00:47:53,496 --> 00:47:55,915
+Ama önce bana alışmalarını istiyorum.
+
+756
+00:47:58,793 --> 00:48:00,837
+Hamegg tüm bu parçalarla ne için istiyor?
+
+757
+00:48:00,879 --> 00:48:05,842
+O bir deha. Hurdalardan bile
+çok iyi robotlar yapar...
+
+758
+00:48:05,884 --> 00:48:08,887
+...ve onları
+Hamegg Robot Oyunlarına sokar.
+
+759
+00:48:09,053 --> 00:48:11,806
+- Robot oyunları mı?
+- Buranın bir geleneğidir.
+
+760
+00:48:11,848 --> 00:48:14,267
+Bir çeşit Romalı şeysi.
+
+761
+00:48:14,309 --> 00:48:15,859
+Çok güzeldir.
+
+762
+00:48:15,894 --> 00:48:17,478
+Burada pek bir şey bulunmaz.
+
+763
+00:48:17,520 --> 00:48:19,105
+Burası bir mezarlık.
+
+764
+00:48:19,147 --> 00:48:22,317
+Bay Metro Şehri daha ilk günden
+başımıza uzman kesildi.
+
+765
+00:48:22,358 --> 00:48:25,445
+Çok şaşırırdın, robotlar hakkında
+biraz bilgiye sahibim.
+
+766
+00:48:25,487 --> 00:48:27,322
+Hey, millet, sanırım bir şeyler bulduk.
+
+767
+00:48:27,363 --> 00:48:29,699
+Bak.
+Geliyorum.
+
+768
+00:48:31,910 --> 00:48:34,037
+Sorun ne, oğlum?
+
+769
+00:48:35,872 --> 00:48:38,041
+O bir Robot
+
+770
+00:48:43,046 --> 00:48:45,048
+Tabii, okuyabilmemi dilemedikçe.
+
+771
+00:48:46,341 --> 00:48:48,593
+İyi deneme, paslı kova.
+
+772
+00:48:51,429 --> 00:48:53,556
+Cora, sanırım bir şey buldum!
+
+773
+00:48:57,227 --> 00:48:59,312
+O sadece eski bir inşaat robotu.
+
+774
+00:48:59,354 --> 00:49:02,023
+Neredeyse 100 önce
+yüzeye düşmüş gibi.
+
+775
+00:49:02,065 --> 00:49:03,441
+Sence Hamegg bunu kullanabilir mi?
+
+776
+00:49:03,483 --> 00:49:06,903
+Oyunda böyle bir robotu olsa
+bir servet kazanabilir.
+
+777
+00:49:06,945 --> 00:49:08,404
+Ama o sadece bir hurda.
+
+778
+00:49:08,446 --> 00:49:10,615
+Eskiden kafasının içinde piknik yapardık.
+
+779
+00:49:10,657 --> 00:49:11,825
+Bana sadece bir dakika verin.
+
+780
+00:49:11,866 --> 00:49:14,042
+Yüzlerce ton çeker.
+
+781
+00:49:14,077 --> 00:49:16,287
+Ne yapacaksın?
+Sırt çantana mı atacaksın?
+
+782
+00:49:17,956 --> 00:49:19,999
+Taşıyabildiklerimi görsen
+dudağın uçuklardı.
+
+783
+00:49:41,229 --> 00:49:42,814
+ZOG
+
+784
+00:49:42,856 --> 00:49:46,317
+Ölmediğini biliyordum.
+Ölüymüş gibi davranıyorsun.
+
+785
+00:50:04,377 --> 00:50:06,171
+Hadi, koca oğlan!
+
+786
+00:50:06,212 --> 00:50:08,006
+Uyanma vakti.
+
+787
+00:50:22,437 --> 00:50:24,355
+ZOG, bırak sana yardım edeyim.
+
+788
+00:50:27,025 --> 00:50:28,651
+Hadi!
+
+789
+00:50:40,872 --> 00:50:43,124
+Peki, kaplan, göster bakalım nelerin var?
+
+790
+00:50:46,586 --> 00:50:48,671
+Olduğun yerde kal, titrek ayak!
+
+791
+00:50:48,796 --> 00:50:51,216
+Nesin sen, buz patencisi mi?
+
+792
+00:50:51,257 --> 00:50:55,053
+Adamın biriyle baloda dans mı edeceksin,
+yoksa kavga mı edeceksin?
+
+793
+00:50:55,762 --> 00:50:57,680
+İşte böyle daha iyi!
+Belden alta vur!
+
+794
+00:50:58,139 --> 00:51:00,433
+Evet, işte ben de bundan bahsediyordum!
+
+795
+00:51:00,475 --> 00:51:02,060
+Şimdi de boyunduruk yap.
+
+796
+00:51:02,101 --> 00:51:03,686
+Kafasına, kafasına vur!
+
+797
+00:51:03,728 --> 00:51:05,230
+Baş parmağını kullan.
+
+798
+00:51:05,271 --> 00:51:09,192
+Harika, harika.
+Sanırım Şampiyon belli.
+
+799
+00:51:15,698 --> 00:51:17,367
+Selam, Hamegg.
+
+800
+00:51:17,408 --> 00:51:19,786
+Robotun için üzgünüz.
+
+801
+00:51:20,161 --> 00:51:22,705
+Ne?
+O mu?
+
+802
+00:51:22,747 --> 00:51:24,499
+Zaten pek de işe yaramıyordu.
+
+803
+00:51:24,541 --> 00:51:28,586
+Ama bu adam çok başka bir şey!
+
+804
+00:51:28,670 --> 00:51:31,256
+Şu ayakların büyüklüğüne de bir bakın!
+
+805
+00:51:31,297 --> 00:51:34,259
+Bu adamın hiçbir yerinde
+karbon-fiber plastik yok.
+
+806
+00:51:34,300 --> 00:51:36,177
+Demir külçesi gibi sağlam!
+
+807
+00:51:36,219 --> 00:51:38,179
+Onu Astro çalıştırdı.
+
+808
+00:51:38,221 --> 00:51:40,056
+Ama ben yine de
+ona inanmakta zorlanıyorum.
+
+809
+00:51:40,098 --> 00:51:42,225
+En az 100 yıldır ölüydü.
+
+810
+00:51:42,267 --> 00:51:43,977
+Bunu nasıl yaptın?
+
+811
+00:51:44,018 --> 00:51:46,980
+Lütfen, anlat, nasıl yaptın?
+
+812
+00:51:47,188 --> 00:51:49,315
+Kola makinesi gibi tekmeledim.
+
+813
+00:51:49,357 --> 00:51:51,442
+''Paramı geri ver!'' der gibi.
+
+814
+00:51:52,068 --> 00:51:54,070
+- Önemsiz bir şeydi.
+- Duydunuz mu, çocuklar?
+
+815
+00:51:54,112 --> 00:51:55,321
+Bir dehanın alçak gönüllüğü.
+
+816
+00:51:55,363 --> 00:51:57,907
+Doğanın onu düzelteceğini
+düşünmemiştim bile.
+
+817
+00:51:57,949 --> 00:52:00,827
+Neredeyse gerçek olamayacak
+kadar iyisin, evlat.
+
+818
+00:52:00,869 --> 00:52:03,705
+Aynen böyle devam et ki
+ben de seni evlat edineyim.
+
+819
+00:52:06,833 --> 00:52:10,962
+Kutsal inek! Bu şey tüm şehri
+çalıştıracak kadar enerjiye sahip.
+
+820
+00:52:11,379 --> 00:52:14,299
+- O da ne?
+- Hiçbir şey, evlat.
+
+821
+00:52:14,424 --> 00:52:17,302
+Bana geçmişi hatırlatan
+başka bir makine sadece.
+
+822
+00:52:22,390 --> 00:52:24,184
+Hazır mısınız, millet?
+
+823
+00:53:46,558 --> 00:53:48,476
+Ama sen şu taraftaydın...
+
+824
+00:53:48,518 --> 00:53:50,019
+Sen...
+
+825
+00:53:50,979 --> 00:53:52,480
+Bunu nasıl yaptın?
+
+826
+00:53:52,522 --> 00:53:53,940
+Etrafımı iyi gözlerim.
+
+827
+00:54:05,869 --> 00:54:10,039
+- Herkes peynir desin.
+- Peynir!
+
+828
+00:54:18,548 --> 00:54:20,383
+İyi geceler, ZOG.
+
+829
+00:54:21,843 --> 00:54:23,428
+Hey, Çöp kutusu.
+
+830
+00:54:24,220 --> 00:54:25,805
+Oynamak mı istiyorsun?
+
+831
+00:54:27,932 --> 00:54:29,809
+Yakala!
+
+832
+00:54:43,506 --> 00:54:45,691
+- Selam.
+- Selam.
+
+833
+00:54:49,579 --> 00:54:52,499
+İnsanları korkutmamalısın!
+
+834
+00:54:52,700 --> 00:54:55,745
+- Başın nasıl?
+- Sanırım iyiyim.
+
+835
+00:54:57,005 --> 00:55:00,958
+Bazen, gökyüzü açık olduğu zaman
+Metro Şehrini arayabilirsin.
+
+836
+00:55:01,393 --> 00:55:03,444
+Metro Şehrini arayabiliyor musun?
+
+837
+00:55:03,861 --> 00:55:06,989
+Evet, hiç arayıp da
+telefonu kapattığın olmadı mı?
+
+838
+00:55:08,449 --> 00:55:11,577
+Çalışmıyor bu aptal telefon!
+
+839
+00:55:11,994 --> 00:55:15,456
+- Bir de ben deneyeyim...
+- İyi, sen de dene.
+
+840
+00:55:19,835 --> 00:55:22,421
+Tamam, bir daha dene.
+
+841
+00:55:22,546 --> 00:55:24,632
+Yeni gibi değil,
+ama en azından çekiyor.
+
+842
+00:55:25,466 --> 00:55:28,594
+Hiç de fena değil, yeteneklisin.
+
+843
+00:55:28,677 --> 00:55:30,679
+Evet, öyleyimdir.
+
+844
+00:55:31,514 --> 00:55:33,808
+Lütfen, cevap ver.
+
+845
+00:55:33,843 --> 00:55:36,393
+Benim, Cora.
+
+846
+00:55:37,353 --> 00:55:39,855
+Seni çok özledim.
+
+847
+00:55:42,024 --> 00:55:44,944
+- Herşey yolunda mı?
+- Bazen çok garipleşiyor.
+
+848
+00:55:45,069 --> 00:55:47,446
+Kaçtığımı farketmişler midir?
+
+849
+00:55:47,780 --> 00:55:50,908
+- Kimler?
+- Ailem.
+
+850
+00:55:51,408 --> 00:55:54,453
+- Ailen mi?
+- Evet.
+
+851
+00:55:54,537 --> 00:55:56,831
+Artık gerçeği biliyorsun.
+
+852
+00:55:57,200 --> 00:56:00,500
+Ne duruyorsun?
+Git ve diğerlerine...
+
+853
+00:56:00,535 --> 00:56:04,964
+...Cora'nın kendi evini
+aramaya çalıştığını...
+
+854
+00:56:05,172 --> 00:56:08,300
+...ve dadısının adresini bulduğunu söyle.
+
+855
+00:56:09,677 --> 00:56:12,680
+Herkesin bir sırrı vardır.
+
+856
+00:56:12,805 --> 00:56:14,890
+Kimseye söylemem.
+
+857
+00:56:14,974 --> 00:56:17,601
+- Bana güvenebilirsin, Cora.
+- Biliyorum...
+
+858
+00:56:17,643 --> 00:56:20,146
+...sen iyi bir çocuksun, Astro.
+
+859
+00:56:21,355 --> 00:56:23,274
+Sana bir şey söyleyebilir miyim?
+
+860
+00:56:24,024 --> 00:56:25,901
+- Bir sırrımı.
+- Elbette.
+
+861
+00:56:25,943 --> 00:56:27,987
+Arkadaşlar bunun içindir, değil mi?
+
+862
+00:56:28,779 --> 00:56:31,282
+Uyumu sağlamadığını hiç düşündün mü?
+
+863
+00:56:32,241 --> 00:56:34,243
+Herkesten farklı gibiyim,...
+
+864
+00:56:34,368 --> 00:56:35,953
+...bir çeşit yabancıyım.
+
+865
+00:56:35,995 --> 00:56:37,538
+Tabii ki.
+
+866
+00:56:37,580 --> 00:56:39,874
+Bazen herkes böyle hisseder.
+
+867
+00:56:39,957 --> 00:56:42,585
+Son bir kaç gün benim için farklıydı.
+
+868
+00:56:42,835 --> 00:56:46,130
+Sizinle ve Hamegg ile birlikteydim.
+
+869
+00:56:47,298 --> 00:56:49,467
+Bu yaşadıklarım benim...
+
+870
+00:56:50,593 --> 00:56:52,344
+Ben bir çeşit...
+
+871
+00:56:53,846 --> 00:56:55,181
+Ben...
+
+872
+00:56:55,681 --> 00:56:57,725
+- Evet?
+- Ben...
+
+873
+00:56:57,975 --> 00:57:01,020
+Sizinle burada olmaktan
+gerçekten hoşlanmaya başladım.
+
+874
+00:57:01,896 --> 00:57:04,064
+- Sizinle birlikte.
+- Evet.
+
+875
+00:57:05,900 --> 00:57:08,110
+Biz de seni seviyoruz, Astro.
+
+876
+00:57:10,529 --> 00:57:12,406
+Hey, Çöp kutusu.
+
+877
+00:57:17,245 --> 00:57:21,332
+Aynı şey olmadığını biliyorum ama
+Hamegg çocuklar için baba gibi, değil mi?
+
+878
+00:57:22,041 --> 00:57:24,448
+Evet, sanırım.
+
+879
+00:57:31,300 --> 00:57:33,010
+Devrimci Robot Cephesi.
+
+880
+00:57:33,052 --> 00:57:34,804
+Dönüşün!
+
+881
+00:57:49,527 --> 00:57:50,945
+Bana vurdu!
+
+882
+00:57:50,986 --> 00:57:54,114
+Ninja olmanın hangi bölümünü anlamadın?
+
+883
+00:57:54,156 --> 00:57:56,116
+Ninja ne ki?
+
+884
+00:57:56,158 --> 00:57:59,411
+Gizli silahı ortaya çıkarın!
+
+885
+00:58:11,590 --> 00:58:13,300
+Ben de bunu mu arıyordum.
+
+886
+00:58:16,137 --> 00:58:18,180
+Yaşasın Robot Devrimi!
+
+887
+00:58:20,391 --> 00:58:23,227
+Beklediğiniz gün geldi çattı!
+
+888
+00:58:23,269 --> 00:58:25,980
+Alkışlayın onu, millet.
+Kırmızı çizmeli çocuk!
+
+889
+00:58:26,021 --> 00:58:28,941
+Çalışır vaziyetteki
+en büyük ölüm makinası.
+
+890
+00:58:29,024 --> 00:58:31,068
+İşin bitti, Hamegg!
+
+891
+00:58:34,155 --> 00:58:36,448
+Sen Altın Çocuksun.
+Hamegg seni gerçekten seviyor.
+
+892
+00:58:36,490 --> 00:58:37,658
+Ben de onu seviyorum.
+
+893
+00:58:37,700 --> 00:58:40,536
+Ölüm Makinesi derken
+ne kastediyordu?
+
+894
+00:58:40,578 --> 00:58:42,913
+Rakiplerden biri ölene kadar
+durmayan robot savaşı.
+
+895
+00:58:42,955 --> 00:58:45,124
+- Ne?
+- Merak etme.
+
+896
+00:58:45,166 --> 00:58:48,502
+- ZOG hepsini ezip geçecek.
+- Robot oyunlarında böyle mi oluyor?
+
+897
+00:58:48,544 --> 00:58:50,713
+Ne bekliyordun ki?
+Taş, kağıt, makas mı?
+
+898
+00:58:50,754 --> 00:58:53,174
+- Kimmiş robot?
+- Benim robot!
+
+899
+00:58:53,215 --> 00:58:55,092
+- Kimmiş robot?
+- Benim robot!
+
+900
+00:58:55,134 --> 00:58:56,635
+- Kimmiş robot?
+- Benim robot!
+
+901
+00:58:56,677 --> 00:58:58,137
+- Acımak yok.
+- Acımak yok!
+
+902
+00:58:58,179 --> 00:58:59,805
+- Acımak yok.
+- Acımak yok!
+
+903
+00:58:59,847 --> 00:59:01,432
+Acımak yok!
+Acımak yok!
+
+904
+00:59:05,436 --> 00:59:06,520
+Acı bana!
+
+905
+00:59:06,562 --> 00:59:08,105
+Seni tanımak güzeldi, evlat.
+
+906
+00:59:08,147 --> 00:59:09,940
+Bunun kasaplık değil de
+bir şov olduğunu zannediyordum.
+
+907
+00:59:09,982 --> 00:59:11,317
+Bunlar sadece robotlar, evlat.
+
+908
+00:59:11,358 --> 00:59:13,527
+- Hani robotları seviyordun?
+- Seviyorum.
+
+909
+00:59:13,569 --> 00:59:16,947
+Ama günün sonunda
+onları bekleyen şey hurdalık.
+
+910
+00:59:17,615 --> 00:59:21,452
+Biliyorum, bazıları Metro Şehrinden
+gelmiş çok gelişmiş robotlar...
+
+911
+00:59:21,494 --> 00:59:24,914
+...bizim gibi gülümseyip kahkaha atmaları
+için programlanmışlar.
+
+912
+00:59:24,955 --> 00:59:28,667
+- Sahiden mi?
+- Evet, ama maalesef gerçek duyguları yok.
+
+913
+00:59:28,834 --> 00:59:32,379
+O yüzdendir ki, bunu yapmakta
+hiçbir sakınca görmüyorum!
+
+914
+00:59:37,927 --> 00:59:40,429
+- İnanamıyorum, işe yaradı!
+- Ne yapıyorsun?!
+
+915
+00:59:40,471 --> 00:59:43,724
+Bilim Bakanlığından kovulduktan sonra
+bunu Dr. Tenma'dan çalmıştım.
+
+916
+00:59:43,766 --> 00:59:46,936
+- Kim takar! Astro'ya neden bunu yaptın?
+- O bizim arkadaşımız!
+
+917
+00:59:46,977 --> 00:59:49,271
+Sizi iyi yetiştirdiğimi düşünmüştüm.
+Kör müsünüz?
+
+918
+00:59:49,313 --> 00:59:51,524
+O bir robot!
+
+919
+00:59:51,565 --> 00:59:53,651
+Doğru değil.
+
+920
+00:59:53,734 --> 00:59:57,321
+- Doğru olamaz.
+- Birisi onu iyi olması için programlamış.
+
+921
+00:59:57,363 --> 01:00:00,950
+Aslında iyi değil, sadece inanılmaz
+derecede güçlü bir makine!
+
+922
+01:00:00,991 --> 01:00:03,994
+- Ama o...
+- Biliyorum, tatlım.
+
+923
+01:00:04,036 --> 01:00:05,830
+Zor olmalı.
+
+924
+01:00:05,871 --> 01:00:07,414
+Ona ne yapacaksın?
+
+925
+01:00:07,498 --> 01:00:09,416
+Kabaca bir tahmin et bakalım.
+
+926
+01:00:16,132 --> 01:00:19,802
+Beyler ve bayanlar, kızlar ve oğlanlar!
+
+927
+01:00:19,844 --> 01:00:21,846
+Ve bilet almadan giren serseriler!
+
+928
+01:00:21,887 --> 01:00:26,600
+Sizlere gururla Astro Çocuğu sunuyorum!
+
+929
+01:00:29,019 --> 01:00:33,941
+Biliyorum, böyle sevimli görünen bir çocuğun
+arenada ne yaptığını merak ediyorsunuz.
+
+930
+01:00:33,983 --> 01:00:35,860
+Ama o bir çocuk değil, millet.
+
+931
+01:00:35,901 --> 01:00:38,237
+O bir robot!
+
+932
+01:00:38,279 --> 01:00:40,573
+Metro Şehrinden.
+
+933
+01:00:40,614 --> 01:00:42,845
+Dikkatinizi bana verin, millet.
+
+934
+01:00:42,880 --> 01:00:45,077
+Astro bana şahsen dedi ki...
+
+935
+01:00:45,119 --> 01:00:48,414
+...robot savaşına katılmayı istemiyormuş.
+
+936
+01:00:49,707 --> 01:00:51,834
+Hepinize teşekkürler, hanım evlâtları.
+
+937
+01:00:51,876 --> 01:00:54,545
+Hepsinin hurda parçası
+olduğunu düşünüyormuş.
+
+938
+01:00:54,587 --> 01:00:57,923
+- Bize böyle söylememişti.
+- Onun bir robot olduğunu da söylememişti.
+
+939
+01:00:57,965 --> 01:01:00,551
+İşte uzun süredir beklediğiniz şey.
+
+940
+01:01:00,593 --> 01:01:05,055
+Yüzey ile Metro Şehri arasındaki savaş!
+
+941
+01:01:06,098 --> 01:01:08,017
+Haydi başlayalım!
+
+942
+01:01:14,398 --> 01:01:16,025
+Seninle savaşmayacağım.
+
+943
+01:01:24,992 --> 01:01:26,786
+Savaşmak istemiyorum.
+
+944
+01:01:52,478 --> 01:01:54,146
+Haydi, Astro!
+
+945
+01:02:00,569 --> 01:02:03,405
+Küçük kokarcayı gönderin.
+
+946
+01:02:07,493 --> 01:02:09,286
+Bizimle oynamak ister misin?
+
+947
+01:02:09,328 --> 01:02:10,746
+''Bizimle'' mi?
+
+948
+01:02:10,788 --> 01:02:12,206
+Evet, bizimle.
+
+949
+01:02:28,180 --> 01:02:29,557
+Hey, ahbap...
+
+950
+01:02:36,730 --> 01:02:39,441
+Bombalarım var!
+
+951
+01:02:44,613 --> 01:02:45,906
+Yakalayın!
+
+952
+01:02:45,948 --> 01:02:48,117
+Yakalayın! Yakalayın!
+Yakalayın! Yakalayın!
+
+953
+01:02:54,540 --> 01:02:58,961
+Geri çekilin. Kuş tüyümüz var.
+Ve kullanmaktan çekinmeyiz.
+
+954
+01:03:01,881 --> 01:03:04,633
+Çok mu acele konuştum?
+
+955
+01:03:20,274 --> 01:03:23,819
+Neden savaşıyoruz, kardeşlerim?
+Büyük bir robot demiş ki:
+
+956
+01:03:24,028 --> 01:03:25,821
+Burnum!
+
+957
+01:03:54,183 --> 01:03:56,143
+Tenma'nın oğlunun yerini belirledik.
+
+958
+01:03:56,977 --> 01:03:58,437
+Yine ben kazandım.
+
+959
+01:03:58,687 --> 01:04:01,899
+Ve şimdi de son savaşçımız!
+
+960
+01:04:01,941 --> 01:04:05,027
+Çok güçlü ve çok vahşi bir robot.
+
+961
+01:04:05,069 --> 01:04:08,155
+Ben bile ondan korkuyorum.
+
+962
+01:04:08,531 --> 01:04:09,740
+Sizlere...
+
+963
+01:04:09,782 --> 01:04:13,536
+...Yüce ZOG'u takdim ediyorum!
+
+964
+01:04:13,577 --> 01:04:14,912
+Olamaz!
+
+965
+01:04:15,204 --> 01:04:18,124
+Astro Çocuk, kendisiyle aynı enerji
+kaynağını kullanan bu robota karşı...
+
+966
+01:04:18,165 --> 01:04:21,836
+...bakalım nasıl savaşacak?
+
+967
+01:04:22,002 --> 01:04:24,046
+Seninle savaşmayacağım, ZOG.
+
+968
+01:04:27,383 --> 01:04:30,010
+Ciddiyim, savaşmayacağım.
+
+969
+01:04:35,099 --> 01:04:36,559
+Olamaz!
+
+970
+01:04:49,780 --> 01:04:52,408
+Çok iyi, sizleri seviyorum!
+Aman ne büyük final!
+
+971
+01:04:52,450 --> 01:04:54,368
+Sana savaş dedim!
+
+972
+01:04:56,871 --> 01:04:58,205
+Savaşmayacağım.
+
+973
+01:04:58,247 --> 01:04:59,707
+Savaş!
+
+974
+01:04:59,832 --> 01:05:01,041
+Bu kadar yeter!
+
+975
+01:05:01,083 --> 01:05:02,251
+Senin derdin ne?
+
+976
+01:05:02,293 --> 01:05:04,378
+O sadece bir makine.
+Onalara ne söylersem yapacaklar!
+
+977
+01:05:04,420 --> 01:05:08,757
+Metro Şehrinden gelen ukala bir robota
+kendimi rezil mi ettireyim?
+
+978
+01:05:09,258 --> 01:05:12,553
+New Jersey'den
+100 yıllık bir buldozer mi?
+
+979
+01:05:12,595 --> 01:05:14,597
+Hiç sanmıyorum!
+
+980
+01:05:14,638 --> 01:05:17,349
+Senin enejini keserim!
+
+981
+01:05:22,813 --> 01:05:23,856
+Dur!
+
+982
+01:05:23,898 --> 01:05:27,735
+Robotik kanunlarına göre
+insanlara zarar veremezsin.
+
+983
+01:05:27,770 --> 01:05:29,987
+50 yıldır bu böyle.
+
+984
+01:05:30,488 --> 01:05:32,740
+Ben eski modelim.
+
+985
+01:05:35,451 --> 01:05:36,786
+Bak!
+
+986
+01:05:44,335 --> 01:05:46,629
+Sen ne çeşit bir robotsun?
+
+987
+01:05:49,465 --> 01:05:51,717
+Büyük korsanı
+tarafımıza çekmemekle hata ettik!
+
+988
+01:06:05,940 --> 01:06:07,525
+Ne yapıyorlar orada?
+
+989
+01:06:07,817 --> 01:06:10,694
+Robotu tutuklayın ve
+çevreyi güvenlik altına alın.
+
+990
+01:06:13,364 --> 01:06:14,782
+ZOG, dur!
+
+991
+01:06:14,824 --> 01:06:16,242
+İndir onları.
+
+992
+01:06:18,869 --> 01:06:20,162
+Artık önemi yok.
+
+993
+01:06:20,204 --> 01:06:22,248
+Bırak beni!
+
+994
+01:06:22,289 --> 01:06:24,333
+Yürü bakalım!
+
+995
+01:06:29,505 --> 01:06:33,008
+- Üzgünüm, söylemeye çalışmıştım.
+- Yürümeye devam et!
+
+996
+01:06:34,135 --> 01:06:36,137
+Çöp kutusu, dur!
+
+997
+01:06:37,429 --> 01:06:40,099
+Bırak beni, seni aptal robot!
+
+998
+01:06:40,307 --> 01:06:41,642
+Bırak!
+
+999
+01:06:42,309 --> 01:06:44,186
+Önemli değil, Çöp kutusu.
+
+1000
+01:06:48,566 --> 01:06:51,527
+Seçimlerle ilgili son haberlere göre,
+Başkan Stone'un anket sonuçları...
+
+1001
+01:06:51,569 --> 01:06:55,239
+...Tv'deki tartışma programına katılmayınca
+Robert Logan'a karşı düşüşe geçti.
+
+1002
+01:06:55,281 --> 01:06:58,451
+Birçok önemli kaynağa göre
+Metro Şehrinin yeni başkanı O olacak.
+
+1003
+01:06:58,492 --> 01:07:01,412
+Hiçbir beş kuruşluk pis hippi herif
+benim oval ofisimde oturup...
+
+1004
+01:07:01,495 --> 01:07:04,373
+...pis parfümümü sıkıp
+çerezlerimi atıştıramaz!
+
+1005
+01:07:04,540 --> 01:07:06,333
+Mavi çekirdeği aldım.
+
+1006
+01:07:06,375 --> 01:07:09,295
+Barış Muhafızlarım
+yüzeye karşı savaşı başlattı.
+
+1007
+01:07:09,336 --> 01:07:12,465
+Bu benim tekrar seçilmemi sağlayacak.
+
+1008
+01:07:12,506 --> 01:07:15,259
+Neden yüzün asık, Robot Çocuk?
+
+1009
+01:07:15,301 --> 01:07:18,053
+Seni evine, babana götürüyoruz.
+
+1010
+01:07:18,095 --> 01:07:19,847
+İçecek ister misin?
+
+1011
+01:07:19,889 --> 01:07:21,504
+<i>Makine Yağı</i>
+
+1012
+01:07:21,765 --> 01:07:23,767
+<i>Çok komiksiniz, Bay Başkan.</i>
+
+1013
+01:07:32,401 --> 01:07:34,737
+Deneyiniz bitti.
+
+1014
+01:07:34,778 --> 01:07:38,741
+Mavi çekirdeğin çıkarılıp Barış Muhafızına
+nakledilmesini istiyorum, hemen!
+
+1015
+01:07:38,783 --> 01:07:41,118
+Bana yardım eder misin, Elefun?
+
+1016
+01:07:41,160 --> 01:07:42,578
+Onu burada yarattık.
+
+1017
+01:07:42,620 --> 01:07:44,121
+Yarattığınız gibi yok edin.
+
+1018
+01:07:44,163 --> 01:07:46,749
+Fişini çekin.
+Ulusal Güvenlik Sorunu.
+
+1019
+01:07:46,791 --> 01:07:49,376
+Önce onunla konuşmama müsaade et.
+
+1020
+01:07:52,671 --> 01:07:55,216
+- Merhaba, Dr. Elefun.
+- Merhaba, Toby.
+
+1021
+01:07:55,257 --> 01:07:58,260
+Toby mi? Bir süredir kimse
+bana öyle hitap etmiyor.
+
+1022
+01:07:58,302 --> 01:08:00,596
+Bunun senin hatan olmadığını bilmelisin.
+
+1023
+01:08:00,638 --> 01:08:05,684
+Sen harika, mükemmel, muhteşem,
+şahane, süpersin.
+
+1024
+01:08:05,726 --> 01:08:06,519
+Teşekkürler.
+
+1025
+01:08:06,560 --> 01:08:10,189
+Dünya'daki yerimi bulmaya çalıştım.
+
+1026
+01:08:11,106 --> 01:08:12,775
+Bulduğumu düşünmüştüm.
+
+1027
+01:08:12,817 --> 01:08:16,237
+Ama sanırım uyum sağlamak
+göründüğünden çok daha karışık.
+
+1028
+01:08:16,487 --> 01:08:18,572
+Evladım, anlayabilseydin...
+
+1029
+01:08:18,614 --> 01:08:21,867
+Belki de olması gereken böyledir.
+
+1030
+01:08:22,201 --> 01:08:24,203
+Bu benim kaderim.
+
+1031
+01:08:27,915 --> 01:08:32,378
+Bu bir makine, hadi buradan gidelim.
+
+1032
+01:08:32,419 --> 01:08:35,673
+Bu çok yanlış, Tenma,
+sen de biliyorsun.
+
+1033
+01:08:35,714 --> 01:08:38,968
+Başkan haklı.
+O sadece bir makine.
+
+1034
+01:08:40,427 --> 01:08:41,929
+Hoşça kal, Dr. Elefun.
+
+1035
+01:08:42,429 --> 01:08:44,390
+Mavi çekirdeği Barış Muhafızına yükle.
+
+1036
+01:08:44,431 --> 01:08:46,976
+10 dakika içinde ayarlanmış bir
+basın konferansım var.
+
+1037
+01:09:28,976 --> 01:09:30,352
+Üzgünüm.
+
+1038
+01:09:30,519 --> 01:09:31,937
+Üzülme.
+
+1039
+01:09:31,979 --> 01:09:34,899
+Senin için daha iyi bir Toby
+olamadığım için üzgünüm,...
+
+1040
+01:09:35,983 --> 01:09:37,610
+...Baba.
+
+1041
+01:09:40,529 --> 01:09:43,532
+Tenma, bitti mi?
+
+1042
+01:09:47,620 --> 01:09:49,497
+Bitti.
+
+1043
+01:09:55,336 --> 01:09:56,921
+Aferin.
+
+1044
+01:09:56,962 --> 01:09:58,339
+Tekrar seçildiğim zaman...
+
+1045
+01:09:58,380 --> 01:10:02,635
+...sen de istediğin kadar
+oyuncak yapacak kaynağı alabilirsin.
+
+1046
+01:10:03,427 --> 01:10:05,054
+Hayır.
+
+1047
+01:10:05,304 --> 01:10:07,848
+Çekirdeği istiyorsan,
+önce beni öldürmelisin.
+
+1048
+01:10:09,517 --> 01:10:11,894
+Tenma, hayır!
+Çekirdeği ben yarattım.
+
+1049
+01:10:11,936 --> 01:10:13,604
+Beni öldürmelisiniz.
+
+1050
+01:10:13,646 --> 01:10:16,148
+Bence Metro Şehri sensiz de yapabilir.
+
+1051
+01:10:16,190 --> 01:10:18,025
+Artık bitti.
+
+1052
+01:10:19,902 --> 01:10:21,821
+Görünüşe göre bende değil.
+
+1053
+01:10:21,946 --> 01:10:23,739
+Tenma!
+
+1054
+01:10:26,826 --> 01:10:28,869
+Tenma!
+Aç kapıyı!
+
+1055
+01:10:29,829 --> 01:10:31,489
+Açın şu kapıyı!
+
+1056
+01:10:32,365 --> 01:10:34,059
+Lütfen!
+
+1057
+01:10:38,254 --> 01:10:39,864
+Sana kapıyı aç dedim!
+
+1058
+01:10:39,865 --> 01:10:41,799
+Asla!
+Hayır!
+
+1059
+01:10:44,218 --> 01:10:45,267
+Kaybettik.
+
+1060
+01:10:45,302 --> 01:10:48,514
+Bir şeyin doğru yapılmasını
+istiyorsan, kendin yapmalısın.
+
+1061
+01:10:53,853 --> 01:10:56,313
+Ne yapıyorsun?
+
+1062
+01:10:56,438 --> 01:10:59,942
+Belki Toby olmayabilirsin,
+ama yine de benim oğlumsun.
+
+1063
+01:10:59,984 --> 01:11:01,569
+Baba.
+
+1064
+01:11:05,948 --> 01:11:08,409
+- Hadi uç!
+- Uçuş modu!
+
+1065
+01:11:17,042 --> 01:11:20,129
+Hayır!
+Olamaz!
+
+1066
+01:11:21,714 --> 01:11:24,800
+Şunları hemen tutuklayın.
+Vatan hainliğinden öldürülmelerini istiyorum.
+
+1067
+01:11:24,842 --> 01:11:27,511
+Mavi Çekirdeği geri almak için
+Barış Muhafızını kullanmak zorundayız.
+
+1068
+01:11:27,553 --> 01:11:29,013
+Sakın Kırmızı Çekirdeği kullanma!
+
+1069
+01:11:29,054 --> 01:11:31,724
+Negatif enerjiye sahip ve
+nasıl etki göstereceğini bilmiyoruz.
+
+1070
+01:11:31,765 --> 01:11:34,351
+Negatif ve Pozitif enerji arasındaki
+o kadar çatışamdan sonra...
+
+1071
+01:11:34,393 --> 01:11:36,812
+...Negatif hep galip gelmiştir.
+
+1072
+01:11:36,854 --> 01:11:39,231
+İnsanlık tarihine bak.
+Bana bak!
+
+1073
+01:11:39,273 --> 01:11:40,441
+Ben de öyle kastetmiştim.
+
+1074
+01:11:40,483 --> 01:11:41,609
+- Çalıştır şu robotu.
+- Olmaz!
+
+1075
+01:11:41,650 --> 01:11:44,820
+Dışarıda bekleyen 50 tane gazeteci var!
+Çalıştır şunu!
+
+1076
+01:11:44,862 --> 01:11:47,448
+Teknolojiyi anlamıyorsun.
+
+1077
+01:11:47,490 --> 01:11:48,783
+Teknoloji mi?
+
+1078
+01:11:48,824 --> 01:11:50,534
+Kim takar teknolojiyi.
+
+1079
+01:11:50,576 --> 01:11:52,244
+Teknolojiyi kim anlıyor ki?
+
+1080
+01:11:52,286 --> 01:11:55,206
+O bir robot ve
+ben ne dersen onu yapacak.
+
+1081
+01:11:56,999 --> 01:11:58,667
+Mavi Çekirdek yüklendi.
+
+1082
+01:11:58,709 --> 01:12:00,669
+Sana söylenenleri yapmaya hazır mısın?
+
+1083
+01:12:00,711 --> 01:12:03,214
+Rock & Roll yapmaya hazır mısın?
+
+1084
+01:12:03,255 --> 01:12:04,256
+Evet, efendim!
+
+1085
+01:12:04,298 --> 01:12:06,091
+Robot çocuğu yok et.
+
+1086
+01:12:06,133 --> 01:12:09,136
+Mavi Çekirdeği geri getir.
+
+1087
+01:12:12,556 --> 01:12:14,231
+Sağır mısın, sen?
+
+1088
+01:12:14,266 --> 01:12:16,852
+Sana dedim ki, robot çocuğu yok et...
+
+1089
+01:12:18,646 --> 01:12:21,690
+...ve Mavi Çekirdeği geri al.
+
+1090
+01:12:21,816 --> 01:12:23,818
+Herkes hemen dışarı çıksın!
+
+1091
+01:12:25,152 --> 01:12:26,570
+Acele edin!
+
+1092
+01:12:31,575 --> 01:12:33,577
+Bilim Bakanlığı
+Değişim İçin Uygun Zaman Değil
+
+1093
+01:12:34,370 --> 01:12:38,040
+Üzgünüm, arkadaşlar, fakat
+Başkan Stone biraz gecikebilir.
+
+1094
+01:12:47,550 --> 01:12:49,218
+Mikrofon açık mı?
+
+1095
+01:12:52,179 --> 01:12:54,140
+Nereye gidiyorsunuz?
+Geri dönün.
+
+1096
+01:12:54,181 --> 01:12:56,433
+Canavar, olduğun yerde kal!
+
+1097
+01:12:56,475 --> 01:12:58,644
+Başkan Stone'un emriyle!
+
+1098
+01:13:02,356 --> 01:13:06,235
+Hayat budur, dostum.
+Sakin bir uçuş.
+
+1099
+01:13:07,945 --> 01:13:10,030
+- Afedersiniz, çocuklar.
+- Olamaz!
+
+1100
+01:13:10,072 --> 01:13:14,034
+- Uçan, çılgın çocuk yine!
+- Ben de sizin gibi robotum!
+
+1101
+01:13:14,702 --> 01:13:16,537
+Bu kadar yüksekte ne yapıyorsunuz?
+
+1102
+01:13:16,579 --> 01:13:19,248
+Hayat mücadelesinden sıkıldık.
+İstifa ettik.
+
+1103
+01:13:19,290 --> 01:13:21,959
+Daha doğal yaşamaya çalışıyoruz,
+bilirsin işte, kuşlar gibi.
+
+1104
+01:13:23,502 --> 01:13:25,838
+- Bu da ne?
+- İnsanların neleri sevdiğini biliyorsun!
+
+1105
+01:13:25,880 --> 01:13:28,632
+Yeni Yıl kutlaması, 4 Temmuz kutlaması,
+Anneler Günü.
+
+1106
+01:13:28,674 --> 01:13:31,427
+- Bir şeyler yapmalıyız.
+- İnsanlara yardım etmek mi?
+
+1107
+01:13:31,469 --> 01:13:33,637
+- Biz robotuz, bizim sorunumuz değil ki.
+- Evet.
+
+1108
+01:13:33,679 --> 01:13:35,806
+Boşver onları, onlar bizim için
+ne yapıyorlar ki?
+
+1109
+01:13:43,272 --> 01:13:44,148
+O haklı.
+
+1110
+01:13:44,190 --> 01:13:46,901
+Robotik kanunlarına göre
+yardım etmek zorundayız.
+
+1111
+01:13:47,526 --> 01:13:51,655
+Cam Sil yapmak zorundaysa,
+Cam Sil yapmak zorundadır.
+
+1112
+01:13:57,286 --> 01:13:59,622
+Neredesin?
+
+1113
+01:14:08,631 --> 01:14:11,717
+Neredesin, Robot Çocuk?
+
+1114
+01:14:15,638 --> 01:14:17,014
+Olamaz!
+
+1115
+01:14:21,393 --> 01:14:23,187
+Demek buradasın!
+
+1116
+01:14:33,197 --> 01:14:34,698
+Kol Silahlarını Etkinleştir
+
+1117
+01:14:36,951 --> 01:14:38,536
+Harika.
+
+1118
+01:14:50,131 --> 01:14:53,467
+- Bu Astro olmalı.
+- Onun robot olmasını umursamıyorum.
+
+1119
+01:14:53,509 --> 01:14:56,053
+- Onu özledim.
+- Biz de.
+
+1120
+01:14:59,056 --> 01:15:02,101
+İşler zora girdiğinde,
+zeki adamlar uçar gider.
+
+1121
+01:15:02,143 --> 01:15:03,644
+Görüşürüz, çocuklar.
+
+1122
+01:15:03,686 --> 01:15:05,104
+Ne istiyorsun?
+Özür mü?
+
+1123
+01:15:05,146 --> 01:15:08,858
+- Hayır, arabayı.
+- Vermek isterdim, ama...
+
+1124
+01:15:12,528 --> 01:15:15,156
+Hadi ama! Sizi seviyorum, çocuklar!
+Lütfen...
+
+1125
+01:15:15,197 --> 01:15:18,159
+O sadece basit bir robot!
+
+1126
+01:15:22,455 --> 01:15:23,456
+Yakaladım!
+
+1127
+01:15:32,882 --> 01:15:35,134
+Bu şehir beni seçti!
+
+1128
+01:15:35,176 --> 01:15:38,471
+Burası bana ait, bu şehir benim!
+
+1129
+01:15:47,605 --> 01:15:50,149
+- Hey, ben diğer adaya oy verdim.
+- Ne?
+
+1130
+01:15:56,989 --> 01:15:59,241
+Teşekkürler.
+Ne zaman ihtiyacınız olursa.
+
+1131
+01:16:12,505 --> 01:16:14,006
+Ne?
+
+1132
+01:16:15,591 --> 01:16:18,719
+Kıçımda makineli tüfek mi var?
+
+1133
+01:16:21,347 --> 01:16:22,973
+Şaka yapıyor olmalısın.
+
+1134
+01:16:23,015 --> 01:16:23,891
+Geliyor!
+
+1135
+01:16:28,395 --> 01:16:30,231
+Sayı!
+
+1136
+01:16:50,251 --> 01:16:52,628
+- Astro?
+- Cora?
+
+1137
+01:16:53,504 --> 01:16:55,297
+Teşekkürler, çocuklar.
+
+1138
+01:16:55,339 --> 01:16:57,091
+Hey, kim kullanıyor?
+
+1139
+01:17:05,141 --> 01:17:07,143
+Çöp kutusu, bas gaza!
+
+1140
+01:17:08,310 --> 01:17:09,979
+Diğer tarafa!
+
+1141
+01:17:35,504 --> 01:17:37,840
+- Yukarı mı yükseliyoruz?
+- Hayır, şehir aşağı düşüyor!
+
+1142
+01:17:37,882 --> 01:17:41,135
+- Cora, bu işle ilgilenmeliyim.
+- Astro, hayır.
+
+1143
+01:17:41,802 --> 01:17:43,387
+Astro!
+
+1144
+01:17:49,477 --> 01:17:51,145
+Bakın!
+
+1145
+01:18:03,532 --> 01:18:06,118
+Savaşın yoldaşlar, kollar!
+
+1146
+01:18:06,660 --> 01:18:07,787
+Benim 3 kolum var.
+
+1147
+01:18:23,302 --> 01:18:24,512
+Nerede?
+
+1148
+01:18:24,553 --> 01:18:27,181
+- İyi olacak mı?
+- Umarım.
+
+1149
+01:18:33,312 --> 01:18:35,231
+Hey, Çirkin!
+
+1150
+01:18:35,272 --> 01:18:37,107
+Aşağı bak!
+
+1151
+01:18:37,399 --> 01:18:41,821
+Senden Yoldaş Astro'yu
+ezmeyi kesmeni istiyoruz.
+
+1152
+01:18:41,862 --> 01:18:43,656
+İnsanlara zarar vermeye
+iznimiz olmayabilir...
+
+1153
+01:18:43,697 --> 01:18:48,619
+...ama bir canavara ciddi hasar vermeyi
+yasaklayan hiçbir kanun yok!
+
+1154
+01:18:48,661 --> 01:18:50,371
+Değil mi, yoldaşlar?
+
+1155
+01:18:53,916 --> 01:18:55,584
+Bak, kuş geçiyor!
+
+1156
+01:18:57,419 --> 01:18:59,296
+Neredesin, Robot Çocuk?
+
+1157
+01:18:59,338 --> 01:19:01,215
+Hayatta olduğunu biliyorum.
+
+1158
+01:19:01,257 --> 01:19:02,216
+Benden saklanamazsın!
+
+1159
+01:19:07,513 --> 01:19:09,306
+Yapabildiğin bu mu?
+
+1160
+01:19:16,313 --> 01:19:17,314
+Gel buraya!
+
+1161
+01:19:21,569 --> 01:19:25,573
+Oyun bitti, evlat.
+Mavi Çekirdek ele geçirildi.
+
+1162
+01:19:46,510 --> 01:19:48,053
+Toby!
+
+1163
+01:19:48,762 --> 01:19:50,097
+Baba!
+
+1164
+01:19:51,557 --> 01:19:54,643
+Anlamıyorum, neden beni yok etmedi?
+
+1165
+01:19:54,685 --> 01:19:58,689
+Çünkü yapamaz. Mavi Çekirdek ile
+Kırmızı Çekirdek bir araya gelirse...
+
+1166
+01:19:58,731 --> 01:20:02,443
+...ikiniz de ölürsünüz.
+
+1167
+01:20:02,485 --> 01:20:05,112
+Hadi, evlat, buradan gitmeliyiz.
+
+1168
+01:20:06,030 --> 01:20:07,823
+Neredesin, Astro?
+
+1169
+01:20:09,825 --> 01:20:12,244
+Robot arkadaşınız nerede?
+Nerede o?
+
+1170
+01:20:13,871 --> 01:20:17,333
+Kazanamam gereken bir seçim var,
+ve o çekirdeği istiyorum.
+
+1171
+01:20:21,086 --> 01:20:23,047
+Nerede saklandığını söyleyin?
+Söyleyin!
+
+1172
+01:20:23,088 --> 01:20:25,049
+Duydunuz mu? Nerede o?
+
+1173
+01:20:25,591 --> 01:20:30,471
+- Gitmek zorundayız.
+- Benim yaratılış sebebim bu.
+
+1174
+01:20:30,513 --> 01:20:33,307
+Bu benim kaderim.
+
+1175
+01:20:33,349 --> 01:20:37,102
+- Toby, hayır!
+- Üzgünüm, ama buyum.
+
+1176
+01:20:37,244 --> 01:20:40,747
+İleri ve yukarı, Baba.
+
+1177
+01:20:41,065 --> 01:20:42,108
+Hayır!
+
+1178
+01:20:44,693 --> 01:20:47,279
+Daha fazlası için mi döndün?
+
+1179
+01:20:53,994 --> 01:20:56,664
+Dur, dur...
+Hayır, dur, dur, dur!
+
+1180
+01:21:00,126 --> 01:21:01,961
+Hayır!
+
+1181
+01:21:11,470 --> 01:21:13,556
+- Oğlum.
+- Baba.
+
+1182
+01:21:20,271 --> 01:21:22,439
+Çık içimden.
+
+1183
+01:21:23,732 --> 01:21:25,317
+Çık içimden!
+
+1184
+01:21:25,693 --> 01:21:27,862
+- Bizi buradan çıkar!
+- Deniyorum!
+
+1185
+01:21:29,947 --> 01:21:31,365
+Hayır!
+Olamaz!
+
+1186
+01:21:33,367 --> 01:21:35,369
+İşim bitti!
+
+1187
+01:21:44,044 --> 01:21:46,005
+Oğlum!
+
+1188
+01:22:06,275 --> 01:22:08,277
+Korumalar, şu kızı hemen tutuklayın!
+Beni tekmeledi.
+
+1189
+01:22:09,653 --> 01:22:12,406
+Başkan Stone, tutuklusunuz!
+
+1190
+01:22:12,698 --> 01:22:15,800
+Hayır, bunu yapamazsınız.
+Girmem gereken bir seçim var...
+
+1191
+01:22:17,244 --> 01:22:19,580
+- Astro!
+- Astro!
+
+1192
+01:22:22,291 --> 01:22:23,918
+Astro!
+
+1193
+01:22:26,504 --> 01:22:28,172
+Olamaz!
+
+1194
+01:22:31,842 --> 01:22:33,511
+Astro.
+
+1195
+01:22:34,220 --> 01:22:35,930
+- Kim o?
+- O robot Metro Şehrini kurtardı.
+
+1196
+01:22:35,971 --> 01:22:37,807
+Neden umursuyor ki?
+
+1197
+01:22:37,848 --> 01:22:42,311
+Çünkü o robotun
+çoğumuzdan fazla insanlığı vardı.
+
+1198
+01:22:42,353 --> 01:22:45,523
+- Sen kimsin?
+- Onun bir arkadaşıyım.
+
+1199
+01:22:45,564 --> 01:22:48,609
+- Yüzeyden.
+- Yüzeyden misin?
+
+1200
+01:22:53,614 --> 01:22:56,742
+- Onu onarabilir misin?
+- Korkarım ki, hayır.
+
+1201
+01:22:56,909 --> 01:22:59,245
+Mavi Çekirdek eşsizdi.
+
+1202
+01:23:00,162 --> 01:23:01,997
+Onunla birlikte öldü.
+
+1203
+01:23:02,164 --> 01:23:05,835
+Bu haksızlık.
+Tek yaptığı insanlara yardım etmekti.
+
+1204
+01:23:05,876 --> 01:23:07,419
+Sadece insanlara değil.
+
+1205
+01:23:09,588 --> 01:23:12,133
+- Astro, ZOG'u hayata döndürdü.
+- Nasıl?
+
+1206
+01:23:12,174 --> 01:23:13,968
+Mavi şey sayesinde.
+
+1207
+01:23:15,094 --> 01:23:18,472
+Birazcık da olsa mavi şeyden kaldı mı?
+
+1208
+01:23:18,514 --> 01:23:22,560
+Arkadaşını hayata döndürmek için
+biraz verebilir misin?
+
+1209
+01:23:57,887 --> 01:23:59,180
+Baba.
+
+1210
+01:23:59,221 --> 01:24:00,389
+Cora.
+
+1211
+01:24:00,431 --> 01:24:02,766
+Ne oldu?
+Barış Muhafızları gitti mi?
+
+1212
+01:24:02,808 --> 01:24:04,518
+Evet.
+
+1213
+01:24:08,898 --> 01:24:11,734
+Peki ama nasıl canlandım?
+
+1214
+01:24:15,613 --> 01:24:17,281
+Teşekkür ederim, ZOG.
+
+1215
+01:24:17,323 --> 01:24:18,991
+Büyütmeye gerek yok.
+
+1216
+01:24:26,540 --> 01:24:30,711
+Astro, sanırım sonunda
+Dünya'daki yerini buldun.
+
+1217
+01:24:30,753 --> 01:24:33,005
+Sen bir kahramansın.
+
+1218
+01:24:33,047 --> 01:24:35,361
+Cesur kalpli bir robot.
+
+1219
+01:24:35,396 --> 01:24:37,676
+Ve sonunda herkes öğrendi.
+
+1220
+01:24:44,934 --> 01:24:47,436
+Mutlu sonları seviyorum!
+
+1221
+01:24:48,312 --> 01:24:50,272
+- Sen mi?
+- Tabii ki.
+
+1222
+01:24:50,356 --> 01:24:52,191
+Sağ ol.
+
+1223
+01:24:52,316 --> 01:24:55,194
+- Cora?
+- Cora?
+
+1224
+01:24:55,903 --> 01:24:58,572
+- Anne, Baba?
+- Nerelerdeydin, tatlım?
+
+1225
+01:24:58,614 --> 01:25:01,283
+- Her yerde seni aradık.
+- Gerçekten mi?
+
+1226
+01:25:06,205 --> 01:25:08,582
+Yaşasın Robot Devrimi!
+
+1227
+01:25:08,624 --> 01:25:11,043
+Bütün şenliği kaçırdık gibi görünüyor.
+
+1228
+01:25:11,085 --> 01:25:14,100
+- Hep böyle oluyor!
+- Yardımınız için sağolun, çocuklar.
+
+1229
+01:25:14,101 --> 01:25:17,808
+- Hiç önemli değil.
+- Aslında düşününce, Sparxy.
+
+1230
+01:25:18,050 --> 01:25:19,009
+Gerçekten bir şey yapmadık.
+
+1231
+01:25:19,051 --> 01:25:21,303
+Beni kızdırmaya mı çalışıyorsun?
+
+1232
+01:25:22,721 --> 01:25:25,224
+Arabanızı getirmemi ister misiniz, efendim?
+
+1233
+01:25:25,266 --> 01:25:27,768
+Artık bana efendim diye hitap etmeni
+istemiyorum, Orrin.
+
+1234
+01:25:27,810 --> 01:25:29,603
+Bugün kendine izin ver.
+
+1235
+01:25:29,645 --> 01:25:32,815
+Git ve bayan robot
+arkadaşlarınla biraz vakit geçir.
+
+1236
+01:25:32,857 --> 01:25:35,234
+Teşekkürler, Doktor Tenma.
+
+1237
+01:25:35,276 --> 01:25:38,237
+Bana Bill de.
+
+1238
+01:25:39,655 --> 01:25:41,232
+Keçileri kaçırmak üzereyim!
+
+1239
+01:25:46,495 --> 01:25:47,997
+Herkes gizlensin.
+
+1240
+01:25:48,038 --> 01:25:49,999
+Uzaylı istilası altındayız!
+
+1241
+01:25:51,876 --> 01:25:54,587
+Bekle! Bunun için hazır olduğundan
+emin misin, Astro?
+
+1242
+01:25:54,628 --> 01:25:56,922
+Doğuştan hazırım!
