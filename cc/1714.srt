@@ -1,0 +1,5058 @@
+1
+00:00:18,601 --> 00:00:21,102
+Bir Enterprise Vineyard Yapımı.
+
+2
+00:00:21,138 --> 00:00:23,605
+Oskar Werner,
+Julie Christie...
+
+3
+00:00:24,105 --> 00:00:26,107
+FAHRENHEIT 451'de.
+
+4
+00:00:26,607 --> 00:00:30,610
+Diğer oyuncular: Cyril Cusack,
+Anton Diffring,
+
+5
+00:00:30,646 --> 00:00:34,577
+Jeremy Spenser,
+Bee Duffeil, Alex Scott.
+
+6
+00:00:34,613 --> 00:00:38,617
+Senaryo: François Truffaut
+Ve Jean-Louis Richard.
+
+7
+00:00:38,653 --> 00:00:40,619
+Ray Bradburyn'nin Romanından.
+
+8
+00:00:40,655 --> 00:00:43,084
+Müzik: Bernard Herman.
+
+9
+00:00:43,120 --> 00:00:45,623
+Görüntü Yönetmeni:
+Nicholas Rove.
+
+10
+00:00:46,123 --> 00:00:47,624
+Renklendiren: TECHNICOLOR.
+
+11
+00:00:48,125 --> 00:00:50,091
+Sanat Yönetmeni: Sid Caine.
+
+12
+00:00:50,127 --> 00:00:54,128
+Prodüksiyon ve Kostüm Dizaynı
+Tony Walton.
+
+13
+00:00:54,165 --> 00:00:56,595
+Film Editörü: Thom Noble.
+
+14
+00:00:56,631 --> 00:01:00,134
+Ortak Prodüktör:
+Mickey Delamar.
+
+15
+00:01:00,171 --> 00:01:02,653
+Prodüktör: Lewis M. Allen.
+
+16
+00:01:02,691 --> 00:01:05,138
+Yönetmen: Fançois Truffaut.
+
+17
+00:02:07,689 --> 00:02:09,655
+Alo?
+
+18
+00:02:09,691 --> 00:02:11,693
+- Dışarı çık! Çabuk!
+- Ne? Kimsin?
+
+19
+00:02:11,728 --> 00:02:14,195
+Çık! Tanrı aşkına çık oradan!
+
+20
+00:02:14,232 --> 00:02:16,197
+Alo?
+
+21
+00:06:50,419 --> 00:06:53,922
+Montag, buraya.
+
+22
+00:06:57,424 --> 00:07:01,929
+Pekala... Ne türdüler, Montag?
+
+23
+00:07:02,430 --> 00:07:04,893
+Gerçekten bakamadım, efendim.
+Her türden biraz.
+
+24
+00:07:04,932 --> 00:07:08,935
+- Romanlar, biyografiler, macera hikayeleri.
+- Oh, sıradan, ha?
+
+25
+00:07:08,971 --> 00:07:12,437
+Neden bunu yapacaklar?
+Katıksız inatçılık.
+
+26
+00:07:12,939 --> 00:07:15,403
+Bunun dışında...
+
+27
+00:07:15,439 --> 00:07:18,905
+...Montag iş dışında neler yapar?
+
+28
+00:07:18,944 --> 00:07:21,444
+Çok bir şey yapmaz, efendim.
+Çimleri biçer.
+
+29
+00:07:21,481 --> 00:07:23,911
+Peki ya kanun bunu yasaklarsa?
+
+30
+00:07:23,947 --> 00:07:25,948
+Sadece büyümelerini izler, efendim.
+
+31
+00:07:25,984 --> 00:07:28,915
+A- ha. İyi.
+
+32
+00:07:28,951 --> 00:07:33,454
+İyi. Montag bir iki gün içinde
+heyecan verici haberler alacak.
+
+33
+00:07:33,492 --> 00:07:36,976
+Benedict daha fazla bizimle
+birlikte olmayacak.
+
+34
+00:07:37,011 --> 00:07:40,488
+- Ve Montag'ın bahsi geçti.
+- Terfi mi, efendim?
+
+35
+00:07:40,524 --> 00:07:43,962
+Görüşlerin Montag'ı mutlu edeceğine
+güveniyorum.
+
+36
+00:08:38,049 --> 00:08:41,552
+Sanırım komşuyuz.
+Blok 813'ün yanında oturuyorum.
+
+37
+00:08:41,589 --> 00:08:44,518
+- Siz de orada otumuyor musunuz?
+- Evet, öyle.
+
+38
+00:08:44,553 --> 00:08:47,556
+Her gün birlikte yolculuk yaptığımızı
+biliyor musunuz?
+
+39
+00:08:47,594 --> 00:08:49,522
+Öyle mi?
+
+40
+00:08:49,557 --> 00:08:51,523
+Bu nedenle birbirimizle...
+
+41
+00:08:51,559 --> 00:08:54,562
+...konuşabileceğimizi düşündüm.
+
+42
+00:08:54,599 --> 00:08:57,333
+Sakıncası var mı?
+Yani konuşmamın.
+
+43
+00:08:57,368 --> 00:09:00,030
+Hayır, hayır. Devam edin.
+Konuşun.
+
+44
+00:09:00,067 --> 00:09:02,569
+Her şeye cevap verebileceğime
+söz veremem.
+
+45
+00:09:02,605 --> 00:09:04,571
+Bunun için endişelenmeyin.
+
+46
+00:09:05,073 --> 00:09:07,823
+Bir kez başladım mı
+hiçbir şey beni durduramaz.
+
+47
+00:09:07,860 --> 00:09:10,539
+Amcam kelimeleri çok iyi
+kullandığımı söyler.
+
+48
+00:09:10,576 --> 00:09:14,078
+Bu amcanız sizi yabancılarla
+konuşmamanız konusunda uyarmadı mı?
+
+49
+00:09:14,113 --> 00:09:18,546
+Hayır. Bir keresinde bana
+insanlar yaşımı sorarsa...
+
+50
+00:09:18,582 --> 00:09:21,085
+...20 yaşında olduğumu ve
+hafif kafalı olduğumu söylememi söyledi.
+
+51
+00:09:21,120 --> 00:09:23,586
+- Bunlar her zaman birliktedir.
+- "Hafif kafalı"?
+
+52
+00:09:23,624 --> 00:09:27,554
+Mmm. Çılgın. Deli.
+
+53
+00:09:27,589 --> 00:09:30,842
+Her neyse.
+Beni korkutmuyorsun.
+
+54
+00:09:30,877 --> 00:09:34,095
+- Neden korkutayım ki?
+- Nedeni yok.
+
+55
+00:09:34,130 --> 00:09:36,864
+Üniforma, sanırım.
+
+56
+00:09:36,901 --> 00:09:39,562
+Çoğu insan... korkar.
+
+57
+00:09:39,599 --> 00:09:42,101
+- İtfaiyecilerden korkarlar.
+- Burası benim durağım.
+
+58
+00:09:42,136 --> 00:09:44,604
+Benim de.
+
+59
+00:09:45,104 --> 00:09:48,606
+- Memur musunuz?
+- Hayır, henüz değil.
+
+60
+00:09:48,643 --> 00:09:52,072
+Bir memur...
+Yakında terfi edeceğim.
+
+61
+00:09:52,109 --> 00:09:55,112
+Gözlerim kapalı bile olsa
+ne iş yaptığınızı söyleyebilirim.
+
+62
+00:09:55,611 --> 00:09:58,615
+- Gazyağı kokusunudan mı?
+- Huh.
+
+63
+00:09:58,651 --> 00:10:01,116
+Oldukça kokuyar, değil mi?
+
+64
+00:10:01,617 --> 00:10:05,619
+Karım bundan hiç hoşlanmıyor.
+Midesini bulandırdığını söylüyor.
+
+65
+00:10:05,656 --> 00:10:09,623
+Umursamıyorum.
+Onu... parfüm gibi düşünüyorum
+
+66
+00:10:10,124 --> 00:10:13,627
+- Parfüm mü?
+- Evet, parfüm. Diğerleri gibi.
+
+67
+00:10:16,128 --> 00:10:19,131
+Karınızı gördüğümü sanmıyorum.
+Nasıl biri?
+
+68
+00:10:19,167 --> 00:10:22,633
+Sizin gibi.
+Ama onun saçları uzun.
+
+69
+00:10:22,671 --> 00:10:25,636
+- Benim gibi mi?
+- Sizin gibi.
+
+70
+00:10:27,638 --> 00:10:31,641
+Giysinizdeki numaranın anlamı nedir?
+
+71
+00:10:31,678 --> 00:10:34,107
+Oh, Fahrenheit 451.
+
+72
+00:10:34,145 --> 00:10:37,145
+Neden 451 de 813 ya da 121 değil?
+
+73
+00:10:37,645 --> 00:10:40,648
+Fahrenheit 451 kitap kağıdının...
+
+74
+00:10:40,686 --> 00:10:43,651
+...yanmaya başlama sıcaklığıdır.
+
+75
+00:10:46,154 --> 00:10:49,656
+Bir şey daha sormak istiyorum.
+
+76
+00:10:49,692 --> 00:10:52,122
+Devam et.
+
+77
+00:10:52,159 --> 00:10:54,659
+İtfaiyecilerin...
+
+78
+00:10:55,161 --> 00:10:57,127
+...uzun zaman önce...
+
+79
+00:10:57,163 --> 00:11:02,167
+...kitapları yakmadığı ve
+ateşleri söndürdüğü doğru mu?
+
+80
+00:11:02,202 --> 00:11:04,686
+Gerçekten, amcan haklıymış.
+Hafif kafalısın.
+
+81
+00:11:04,722 --> 00:11:07,133
+"Ateşi söndürmek"?
+Kim söyledi bunu sana?
+
+82
+00:11:07,169 --> 00:11:11,173
+- Bilmiyorum. Birisi. Ama doğru mu?
+- Ne tuhaf bir fikir.
+
+83
+00:11:11,209 --> 00:11:14,677
+- Evler her zaman ateş korumalıdır.
+- Bizimki değil.
+
+84
+00:11:14,713 --> 00:11:18,680
+Öyleyse, ayıplanmalı.
+
+85
+00:11:19,181 --> 00:11:21,182
+Orası yıkılmalı
+ve sen de taşınmalısın...
+
+86
+00:11:21,218 --> 00:11:23,183
+...ateş korumalı bir eve.
+
+87
+00:11:23,219 --> 00:11:25,649
+Çok kötü.
+
+88
+00:11:25,686 --> 00:11:28,187
+Söylesene, neden kitapları yakıyorsunuz?
+
+89
+00:11:28,223 --> 00:11:30,190
+Ne?
+
+90
+00:11:30,689 --> 00:11:33,155
+Diğerleri gibi bir iş işte.
+
+91
+00:11:33,191 --> 00:11:35,657
+Pek çok değişikliği olan bir iş.
+
+92
+00:11:35,693 --> 00:11:39,947
+Pazartesi Miller yakarız; Salı Tolstoy;
+Çarşamba Walt Whitman...
+
+93
+00:11:39,983 --> 00:11:44,201
+...Cuma Faulkner; Cumartesi ve Pazar da
+Schopenhauer ve Sartre..
+
+94
+00:11:44,236 --> 00:11:46,700
+"Kül olana dek yakıp
+sonra da küllerini yakarız."
+
+95
+00:11:47,203 --> 00:11:50,206
+- Bu bizim ilkemiz.
+- Öyleyse kitapları sevmiyorsun?
+
+96
+00:11:50,704 --> 00:11:54,210
+- Yağmuru sever misin?
+- Evet, taparım.
+
+97
+00:11:56,210 --> 00:11:58,713
+Kitaplar sadece fazlasıyla... saçma.
+
+98
+00:11:59,213 --> 00:12:00,713
+İlginç değiller.
+
+99
+00:12:01,215 --> 00:12:05,718
+Bu kadar tehlikeli olmalarına rağmen
+neden bazı insanlar hala okuyor?
+
+100
+00:12:05,755 --> 00:12:08,219
+Kesinlikle yasak oldukları için.
+
+101
+00:12:08,255 --> 00:12:10,686
+Neden yasak?
+
+102
+00:12:10,722 --> 00:12:13,474
+Çünkü insanları mutsuz ediyorlar.
+
+103
+00:12:13,511 --> 00:12:16,190
+Buna gerçekten inanıyor musun?
+
+104
+00:12:16,227 --> 00:12:19,229
+Oh, evet.
+Kitaplar insanları rahatsız eder.
+
+105
+00:12:19,265 --> 00:12:21,231
+Onları antisosyal yapar.
+
+106
+00:12:22,731 --> 00:12:26,234
+Sence ben antisosyal miyim?
+
+107
+00:12:26,271 --> 00:12:28,701
+Neden soruyorsun?
+
+108
+00:12:28,737 --> 00:12:32,203
+Şey...
+Ben bir öğretmenim.
+
+109
+00:12:32,239 --> 00:12:35,705
+Tam olarak değil.
+Hala stajyerim.
+
+110
+00:12:35,742 --> 00:12:39,496
+Bu öğleden sonra analist beni çağırdı...
+
+111
+00:12:39,532 --> 00:12:43,392
+...ve sanırım doğru şeyleri söylemedim.
+
+112
+00:12:43,427 --> 00:12:47,216
+Cevaplarımdan dolayı mutlu değilim.
+
+113
+00:12:47,252 --> 00:12:50,755
+Bu yüzden sana kaba davranmış olabilirim.
+Seni sinirlendirdim mi?
+
+114
+00:12:50,792 --> 00:12:52,719
+Oh, hayır.
+Hiç de değil.
+
+115
+00:12:52,754 --> 00:12:56,758
+Aslında bu öğleden sonranın
+iyi olmasını istemiştim.
+
+116
+00:12:56,796 --> 00:12:59,262
+Ben de çok iyi geçirmedim.
+
+117
+00:12:59,297 --> 00:13:03,227
+Yaşadığım yer burası.
+
+118
+00:13:03,265 --> 00:13:06,767
+Gördün mü?
+Burası benim evim.
+
+119
+00:13:09,771 --> 00:13:11,773
+- Bir soru daha?
+- Bir tane daha mı?
+
+120
+00:13:11,810 --> 00:13:14,737
+- Küçük bir tane?
+- Nedir?
+
+121
+00:13:14,773 --> 00:13:17,740
+Yaktığın kitapları hiç okudun mu?
+
+122
+00:13:17,778 --> 00:13:20,743
+Neden okuyayım ki?
+Birincisi, ilgimi çekmiyor.
+
+123
+00:13:20,779 --> 00:13:23,281
+İkincisi, yapacak daha iyi işlerim var.
+Üçüncüsü, yasak.
+
+124
+00:13:23,318 --> 00:13:25,283
+Elbette.
+
+125
+00:13:28,285 --> 00:13:30,789
+- Mutlu musun?
+- Ne?
+
+126
+00:13:30,824 --> 00:13:33,290
+Elbette mutluyum.
+
+127
+00:13:59,893 --> 00:14:02,395
+...yani kendini caddelerde koruyabilirsin.
+
+128
+00:14:02,433 --> 00:14:05,863
+Kendini koruma ve saldırı sanatı...
+
+129
+00:14:05,899 --> 00:14:08,902
+...evde elle kullanılabilir olmalı, kuzen.
+
+130
+00:14:09,402 --> 00:14:11,367
+Eğer dikkatle izlersen görebilirsin...
+
+131
+00:14:11,402 --> 00:14:15,407
+Bir kadın, bir erkeğin ağırlığını
+nasıl kendi avantajına çevirir.
+
+132
+00:14:15,443 --> 00:14:17,407
+Bunu gördün mü?
+
+133
+00:14:17,909 --> 00:14:20,912
+Bir kez de normal olarak seyredelim.
+
+134
+00:14:24,413 --> 00:14:26,917
+Şimdi de ağır çekimde.
+
+135
+00:14:27,416 --> 00:14:29,918
+Tekrar dikkat et, kuzen.
+
+136
+00:14:29,955 --> 00:14:31,921
+Terfi edeceğim.
+
+137
+00:14:32,421 --> 00:14:36,426
+- Adam ilerleyince kızın hareketine dikkat et.
+- Dinliyor musun, Linda?
+
+138
+00:14:36,461 --> 00:14:40,428
+Dizler ve omuzlar yavaşça ters döner.
+
+139
+00:14:40,928 --> 00:14:42,430
+Oh, bu harika, Montag.
+
+140
+00:14:42,930 --> 00:14:45,431
+Orada. Şimdi kızın diğerini
+nasıl kolayca alt ettiğini gördün...
+
+141
+00:14:45,932 --> 00:14:47,933
+Yüzbaşı çağrı için
+dışarı çıktığımızda söyledi.
+
+142
+00:14:48,434 --> 00:14:50,436
+Ne dedin?
+
+143
+00:14:50,935 --> 00:14:54,403
+Terfimden bahsediyorum.
+
+144
+00:14:54,440 --> 00:14:56,441
+Bu bir artış anlamına mı geliyor, canım?
+
+145
+00:14:56,941 --> 00:14:59,908
+- Ne kadar?
+- Bundan bahsetmedi.
+
+146
+00:14:59,944 --> 00:15:02,446
+Daha büyük bir eve taşınabiliriz.
+Bu hoşuna gider mi?
+
+147
+00:15:02,946 --> 00:15:05,699
+Daha büyük bir duvar seti koyabiliriz.
+
+148
+00:15:05,735 --> 00:15:08,414
+Duvar ekranını büyüttüğün zaman...
+
+149
+00:15:08,450 --> 00:15:11,953
+...aileni de büyütmüş gibi
+görüneceğini söylediler.
+
+150
+00:15:11,990 --> 00:15:14,455
+Linda, bu haplardan bugün kaç tane aldın?
+
+151
+00:15:14,491 --> 00:15:18,421
+Nedir o?
+
+152
+00:15:18,459 --> 00:15:22,713
+Oh, onlar. Kendine yardım et.
+Bende bir şişe daha var.
+
+153
+00:15:22,748 --> 00:15:26,965
+- Kaç tane aldın?
+- Oh, öyle taşıma. Sadece bir kaç tane.
+
+154
+00:15:27,003 --> 00:15:29,968
+Herneyse, bu gece benim için özel.
+
+155
+00:15:30,004 --> 00:15:32,934
+Aile'nin bir parçasıyım.
+
+156
+00:15:32,970 --> 00:15:34,971
+- Ne?
+- Halk barışı için verdiğimiz savaş...
+
+157
+00:15:35,008 --> 00:15:36,936
+...hız kazanıyor.
+
+158
+00:15:36,973 --> 00:15:40,477
+Bugünkü operasyonlar
+kentsel alanlar için...
+
+159
+00:15:40,512 --> 00:15:43,748
+...toplam yoketme miktarı...
+
+160
+00:15:43,784 --> 00:15:46,634
+...yayınlar için 2750 pound.
+
+161
+00:15:46,669 --> 00:15:49,447
+İlk baskılar için 836 pound...
+
+162
+00:15:49,485 --> 00:15:53,449
+...ve 17 pound da yok ettiğiniz
+el yazmaları için.
+
+163
+00:15:53,486 --> 00:15:57,989
+23 antisosyal kişi, yeniden eğitime
+tabi tutulmak üzere yakalandı.
+
+164
+00:15:58,027 --> 00:16:00,494
+Bunu gördün mü?
+Kuzen Claudette'nin bu gece bir şeyleri var.
+
+165
+00:16:00,530 --> 00:16:02,457
+- Kim?
+Kuzen Claudette.
+
+166
+00:16:02,495 --> 00:16:06,498
+- Kuzen Claudette de kim?
+- Kuzen spiker. Senin sevmediğin.
+
+167
+00:16:06,998 --> 00:16:08,500
+Hiç birini sevmem.
+
+168
+00:16:08,999 --> 00:16:12,753
+Neden mutfağı böyle karıştırıyorsun.
+Korkunçsun.
+
+169
+00:16:12,789 --> 00:16:16,506
+Oh, çabuk, çabuk!
+Bir dakikada hazır olurum.
+
+170
+00:16:16,541 --> 00:16:18,508
+Çabuk! Çabuk!
+
+171
+00:16:22,512 --> 00:16:26,476
+Anlamıyorum.
+Nasıl oyunda olabilirsin?
+
+172
+00:16:26,515 --> 00:16:30,017
+Bu bölümü kayıp olarak yazmışlar.
+Bu da benim.
+
+173
+00:16:30,518 --> 00:16:32,519
+İnsanlar bana baktıkları zaman
+konuşmak zorunda kalıyorum.
+
+174
+00:16:33,018 --> 00:16:36,023
+Bana bir soru sorduklarında
+düşüncelerimi söylemeliyim.
+
+175
+00:16:38,022 --> 00:16:42,026
+- Oyun, başlıyor.
+- Ve şimdi, her yerdeki kuzenler için...
+
+176
+00:16:42,526 --> 00:16:44,528
+Ailemiz Tiyatrosu.
+
+177
+00:16:46,029 --> 00:16:49,497
+"Gel, bizimle oyna."
+
+178
+00:16:49,533 --> 00:16:52,035
+Aslında gördüğün şeyler...
+
+179
+00:16:52,535 --> 00:16:56,539
+...gerçek ve gerçek yaşam arasındaki
+benzerlik tamamen rastlantısal olabilir.
+
+180
+00:16:56,576 --> 00:16:58,504
+Akla uygun olanı yap.
+
+181
+00:16:58,540 --> 00:17:02,543
+Peki, bizimle oynamaya geliyor musun?
+
+182
+00:17:02,580 --> 00:17:06,313
+Geliyor musun? İyi.
+Öyle sanıyorum.
+
+183
+00:17:06,349 --> 00:17:10,013
+Gelin, kuzenler.
+Aileden biri olun.
+
+184
+00:17:10,049 --> 00:17:13,552
+Cahrles, bunun nasıl bir ikilem
+olduğunu farkettin mi?
+
+185
+00:17:13,589 --> 00:17:15,822
+Bu korkunç zor.
+Bir çıkış yolu göremiyorum.
+
+186
+00:17:15,858 --> 00:17:18,055
+Hadi, hadi, Bernard.
+Elbette bir çıkış var.
+
+187
+00:17:18,092 --> 00:17:20,059
+Bizden 13 kişi uzak, değil mi?
+
+188
+00:17:20,558 --> 00:17:23,058
+14. olarak Edward'ı
+davet etmek istiyorsun.
+
+189
+00:17:23,096 --> 00:17:25,563
+Ama biri hastaysa 13'e
+geri dönmek zorundayız.
+
+190
+00:17:26,062 --> 00:17:29,566
+- Kesinlikle.
+Öyleyse daha çok kişi davet etmeliyiz.
+- Bu bir fikir.
+
+191
+00:17:29,601 --> 00:17:32,568
+Lottie ve James'e ne dersin?
+O zaman 16 yapar.
+
+192
+00:17:32,605 --> 00:17:35,069
+Birileri hastalanırsa 13 olmayız.
+
+193
+00:17:35,570 --> 00:17:37,535
+Ama o zaman da oda sorun olur.
+
+194
+00:17:37,573 --> 00:17:42,077
+Lottie'nin 2 oğlu var:
+Freddie ve Küçük John.
+
+195
+00:17:42,113 --> 00:17:44,040
+Ben bir sorun göremiyorum.
+
+196
+00:17:44,076 --> 00:17:47,079
+Çocukları Helen'in odasına koyarız.
+
+197
+00:17:47,581 --> 00:17:50,581
+Ne düşünüyorsun, Linda?
+
+198
+00:17:56,086 --> 00:18:00,090
+- Devam et. Seni bekliyorlar.
+- Bence...
+
+199
+00:18:00,128 --> 00:18:02,055
+Gördün mü?
+Linda da bana katılıyor.
+
+200
+00:18:02,091 --> 00:18:05,596
+Lottie'nin çocukları Helen'inkilerle gitmeli.
+Linda kesinlikle haklı.
+
+201
+00:18:05,631 --> 00:18:08,060
+O zaman oturma da sorun olur, Charles.
+
+202
+00:18:08,095 --> 00:18:10,849
+Sanırım işe yarar bir şeyler yapabiliriz.
+Bak.
+
+203
+00:18:10,885 --> 00:18:13,564
+Yvonne'u başa,
+Richard'ı da sağına koyarsak...
+
+204
+00:18:13,602 --> 00:18:16,604
+Oh, hayır, Bernard.
+Richard Yvonne'la konuşmuyor bile.
+
+205
+00:18:16,640 --> 00:18:18,569
+- Oh?
+- Leslie yüzünden.
+
+206
+00:18:18,605 --> 00:18:21,107
+- Oh!
+- Madeleine başta olmalı.
+
+207
+00:18:21,609 --> 00:18:25,110
+Ayrıca Madeleine Yvonne'dan daha yaşlıdır.
+Jacqueline'den bile yaşlı olabilir.
+
+208
+00:18:25,147 --> 00:18:28,614
+Bence sorun yok.
+Madeleine'i masada başa oturturuz.
+
+209
+00:18:28,649 --> 00:18:31,115
+Madeleine, değil mi, Linda?
+
+210
+00:18:31,151 --> 00:18:34,081
+Kesinlikle.
+
+211
+00:18:34,117 --> 00:18:37,621
+Linda doğru olduğunu düşünüyorsa, olur.
+
+212
+00:18:38,121 --> 00:18:41,586
+- Ama hala oda sorunu var.
+- Hangi odalar kaldı?
+
+213
+00:18:41,623 --> 00:18:44,126
+Pembe oda var.
+Lilian'ı her zaman pembe odaya koyabiliriz.
+
+214
+00:18:44,164 --> 00:18:46,091
+- Susan'ı da yeşil odaya koyabiliriz.
+- Evet.
+
+215
+00:18:46,127 --> 00:18:51,131
+- Monica'yı nereye koyacağız?
+- Evet, Monica'yı ne yapacağız?
+
+216
+00:18:51,632 --> 00:18:54,634
+Senin bir cevabın var mı, Linda?
+
+217
+00:18:54,670 --> 00:18:58,136
+Mavi oda?
+
+218
+00:18:58,637 --> 00:19:00,640
+Linda, haklısın.
+
+219
+00:19:00,676 --> 00:19:02,140
+Haklı.
+
+220
+00:19:02,641 --> 00:19:07,145
+Linda, kesinlikle harikasın.
+
+221
+00:19:10,147 --> 00:19:13,113
+Gördün, değil mi?
+Tümüne doğru cevap verdim.
+
+222
+00:19:13,149 --> 00:19:16,652
+Harika değil miydi? Aktris olabilirdim.
+Sen ne düşünüyorsun?
+
+223
+00:19:16,688 --> 00:19:20,154
+- Ne mi düşünüyorum?
+- Bir aktris olabileceğimi.
+
+224
+00:19:20,192 --> 00:19:22,621
+Oh, kesinlikle bir aktris olabilirdin.
+
+225
+00:19:22,658 --> 00:19:25,159
+Joyce'un izleyip izlemediğini merak ediyorum.
+Umarım izlemiştir.
+
+226
+00:19:25,659 --> 00:19:28,162
+Yarın kapısını çalıp
+ne düşündüğünü sormalıyım.
+
+227
+00:19:28,663 --> 00:19:32,665
+- Bölüme nasıl katıldın?
+- Aile beni aradı. Beni!
+
+228
+00:19:32,702 --> 00:19:35,131
+Ben de bu geceki oyunda olduğumu söyledim.
+
+229
+00:19:35,167 --> 00:19:40,171
+Linda, tüm ülkedeki 200.000 Linda'yı da
+aramış olmalılar.
+
+230
+00:19:40,208 --> 00:19:42,172
+Bu doğru değil.
+
+231
+00:19:44,174 --> 00:19:48,177
+Demek istediğim, bu doğruysa bana söylemek
+zorunda değildin. Bu çok önemliydi.
+
+232
+00:20:49,895 --> 00:20:52,898
+Bu yüzden terfi edeceksin, Montag.
+İyi şanslar.
+
+233
+00:20:52,934 --> 00:20:54,900
+Teşekkür ederim.
+
+234
+00:20:59,403 --> 00:21:02,906
+Tamam, nedir bu duyduğumuz, Montag?
+Terfi, ha?
+
+235
+00:21:02,942 --> 00:21:04,908
+Öyle görünüyor.
+
+236
+00:21:13,413 --> 00:21:16,380
+Nasıl hissediyorsun? Mutlu mu?
+
+237
+00:21:16,416 --> 00:21:18,419
+Karım da bu fikirden hoşlanır, umarım.
+
+238
+00:21:18,454 --> 00:21:21,922
+Dikkat!
+
+239
+00:21:40,935 --> 00:21:43,439
+Dikkat!
+
+240
+00:21:48,944 --> 00:21:51,945
+Bugünlük bu kadar.
+Masalarınıza dönün.
+
+241
+00:21:58,950 --> 00:22:04,455
+Bu da ne? Sizi yanyana otururken
+görmek istemediğimi söyledim.
+
+242
+00:22:04,493 --> 00:22:07,725
+Yeterince açık anlatamadım mı?
+Evet, sen!
+
+243
+00:22:07,763 --> 00:22:10,962
+Ne dediğimi biliyorsun.
+Gel ve buraya otur.
+
+244
+00:22:21,971 --> 00:22:25,436
+Dünkü dersi inceleyelim.
+
+245
+00:22:25,472 --> 00:22:29,977
+Dün, ev yapımında kitapların
+nasıl saklanacağını görmüştük.
+
+246
+00:22:30,476 --> 00:22:32,478
+Buna ender rastlanır,
+çünkü pahalıdır.
+
+247
+00:22:32,515 --> 00:22:34,444
+Taban ve tavan için.
+
+248
+00:22:34,480 --> 00:22:37,446
+Ayrıca eşyaların içine
+gizlemeyi de görmüştük.
+
+249
+00:22:37,482 --> 00:22:43,486
+Stajyer itfaiyeciler Stoneman ve Black
+derhal yüzbaşının ofisine.
+
+250
+00:22:43,523 --> 00:22:45,490
+Tekrarlıyorum,
+stajyer itfaiyeciler Stoneman ve Black...
+
+251
+00:22:45,526 --> 00:22:48,490
+...derhal yüzbaşının ofisine.
+
+252
+00:22:51,995 --> 00:22:55,462
+Eşyaların içine saklamayı tartışıyorduk.
+
+253
+00:22:55,497 --> 00:23:00,001
+En yaygın yöntem buzdolabı
+ve televizyonun içine saklamaktır.
+
+254
+00:23:00,036 --> 00:23:04,504
+Ayrıca kitaplar küçük parçalar halinde
+her gün kullanılan...
+
+255
+00:23:04,541 --> 00:23:07,007
+...objelere de saklanabilir.
+
+256
+00:23:10,010 --> 00:23:13,477
+Bir kitap ararken bakılacak
+en yaygın yerler...
+
+257
+00:23:13,512 --> 00:23:17,015
+...köşegen objelerdir.
+Sigara kutusu veya çikolata kutusu gibi...
+
+258
+00:23:17,051 --> 00:23:18,980
+...ya da benzer şekildeki
+diğer objelerdir.
+
+259
+00:23:19,017 --> 00:23:22,518
+Silindirik bir objenin de bu iş için
+nasıl kullanıldığını gösterdim.
+
+260
+00:23:30,025 --> 00:23:33,528
+Montag, yüzbaşının ofisine.
+
+261
+00:23:34,028 --> 00:23:37,031
+Sen. Bana bir deste kitap ver.
+
+262
+00:23:37,532 --> 00:23:40,998
+Gittiğimde, her stajyere bir kitap ver.
+
+263
+00:23:41,035 --> 00:23:45,537
+Her biriniz kitabınızı
+sınıfta bir yere saklayacaksınız.
+
+264
+00:23:45,573 --> 00:23:48,003
+Döndüğümde size nasıl aranacağını
+göstereceğim.
+
+265
+00:23:48,040 --> 00:23:51,543
+Bulmak için, öncelikle
+nasıl saklanacağını öğrenmelisiniz.
+
+266
+00:24:02,052 --> 00:24:04,303
+Ne diyebilirim?
+Kaza eseri tanıştık.
+
+267
+00:24:04,341 --> 00:24:06,697
+- Bu iyi değil.
+- Ne demek istiyorsun?
+
+268
+00:24:06,733 --> 00:24:09,058
+- Bunu planladık mı?
+- Bu senin fikrindi.
+
+269
+00:24:09,557 --> 00:24:11,058
+- Böyle düşünen sensin.
+- Kapa çeneni!
+
+270
+00:24:11,558 --> 00:24:14,060
+Ona aynı hikayeyi anlatmamış olsaydık.
+Dinle...
+
+271
+00:24:14,097 --> 00:24:17,564
+Bunu kulağıma söyle.
+
+272
+00:24:23,070 --> 00:24:27,073
+- Montag, bu beş dakika kadar sürer.
+- Evet, efendim.
+
+273
+00:24:27,109 --> 00:24:29,536
+Saat kaç?
+
+274
+00:24:29,573 --> 00:24:31,574
+10:00, efendim.
+
+275
+00:24:54,594 --> 00:24:59,098
+Çıkın dışarı!
+Bu son sefer!
+
+276
+00:25:00,598 --> 00:25:03,102
+Defolun!
+
+277
+00:25:16,612 --> 00:25:19,614
+- Jimanastik gibi, Montag.
+- Evet, efendim.
+
+278
+00:25:20,114 --> 00:25:23,118
+- Peki ya hokey? Hokey sever misin?
+- Evet, severim, efendim.
+
+279
+00:25:23,153 --> 00:25:26,119
+- Ya golf?
+- Golf. Çok severim.
+
+280
+00:25:26,619 --> 00:25:29,124
+- Hmm? Ya futbol?
+- Harika, efendim.
+
+281
+00:25:29,159 --> 00:25:32,088
+Bilardo? Basketbol?
+
+282
+00:25:32,124 --> 00:25:34,590
+Hepsi de çok iyi sporlar, efendim.
+
+283
+00:25:34,628 --> 00:25:38,630
+Öyleyse dozajı arttır.
+Herkese daha fazla spor, ha?
+
+284
+00:25:39,131 --> 00:25:44,098
+Ekip ruhu güçlensin.
+Eğlenceyi organize et. Hmm?
+
+285
+00:25:44,134 --> 00:25:48,138
+Sadece onları meşgul et ve mutlu
+olmalarını sağla. Mesele bu.
+
+286
+00:25:48,174 --> 00:25:51,142
+Hmm?
+Haklı mıyım?
+
+287
+00:25:51,641 --> 00:25:53,642
+Kesinlikle, efendim.
+
+288
+00:25:58,646 --> 00:26:03,149
+Tamam, terfin hakkında konuşalım mı?
+
+289
+00:26:03,187 --> 00:26:07,171
+Karına karşı sorumlulukların var mı?
+
+290
+00:26:07,207 --> 00:26:11,120
+- Evet, efendim.
+- Peki tepkisi ne oldu?
+
+291
+00:26:11,155 --> 00:26:15,911
+İkinci bir duvar ekranı
+yaptırabileceğimizi söyledi.
+
+292
+00:26:15,947 --> 00:26:20,628
+Oh, demek sadece duvar düşünüyorsunuz.
+Anlıyorum.
+
+293
+00:26:20,665 --> 00:26:24,167
+Bu tür terfiler evli erkekler için
+daha önemli, değil mi?
+
+294
+00:26:24,204 --> 00:26:26,670
+Öyle sanırım, efendim.
+
+295
+00:26:30,674 --> 00:26:33,675
+Montag... Sanırım çocuğunuz yok.
+
+296
+00:26:33,711 --> 00:26:36,195
+Hayır, efendim.
+Çocuğumuz yok.
+
+297
+00:26:36,232 --> 00:26:38,642
+Öyleyse yetki verilecektir.
+
+298
+00:26:38,680 --> 00:26:42,183
+Olmaması için bir neden göremiyorum.
+
+299
+00:26:42,219 --> 00:26:44,147
+Anlıyorsun, elbette.
+
+300
+00:26:44,183 --> 00:26:48,688
+Yeni değişiklikle beraber
+daha sıkı çalışma bekliyoruz.
+
+301
+00:26:48,724 --> 00:26:50,651
+Çok sıkı, gerçekten.
+
+302
+00:26:50,688 --> 00:26:53,692
+Yeni gönüllü taslağını hazırlayana kadar.
+
+303
+00:26:54,192 --> 00:26:56,694
+Evet, efendim.
+Bunun hakkında konuşulduğunu duydum.
+
+304
+00:26:56,730 --> 00:27:00,160
+Ne kadar zamandır bizimlesin?
+
+305
+00:27:00,196 --> 00:27:04,163
+- Altı yıldır, efendim.
+- Evet, altı yıl.
+
+306
+00:27:04,201 --> 00:27:07,952
+Hayır, hayır. Beş yıldır, efendim.
+Beş yıldır.
+
+307
+00:27:07,988 --> 00:27:11,706
+Montag'ın takdir ettiğim
+bir niteliği var.
+
+308
+00:27:11,742 --> 00:27:14,208
+Çok küçük söylüyor.
+
+309
+00:27:15,710 --> 00:27:18,211
+Madalyonumu görmüş müydün?
+
+310
+00:27:18,248 --> 00:27:20,677
+Dikkate değer bir benzerlik.
+
+311
+00:27:20,714 --> 00:27:24,216
+Bir gün sana da bir tane
+vermemi hatırlatmalısın.
+
+312
+00:27:24,717 --> 00:27:26,969
+Şimdi, terfine dönelim.
+
+313
+00:27:27,006 --> 00:27:29,219
+Dosyanı inceliyordum.
+
+314
+00:27:29,721 --> 00:27:32,723
+Sadece 6 tane arkadan görüntün var.
+Biz 12 istiyoruz, biliyorsun.
+
+315
+00:27:32,760 --> 00:27:34,723
+2 tane 6'lı set.
+
+316
+00:27:35,224 --> 00:27:37,728
+Hatırla bunu, Montag.
+
+317
+00:28:00,246 --> 00:28:02,247
+Linda?
+
+318
+00:28:05,751 --> 00:28:07,752
+Linda!
+
+319
+00:28:43,781 --> 00:28:45,745
+Hastane dinliyor.
+
+320
+00:28:45,783 --> 00:28:48,786
+- Evet, karımla ilgili. O...
+- İsim ve adres.
+
+321
+00:28:48,821 --> 00:28:52,306
+Uh... Montag. Blok 813.
+
+322
+00:28:52,341 --> 00:28:55,792
+-813?
+- Uh, bir dakika.
+
+323
+00:29:04,798 --> 00:29:06,764
+Alo? İşten geldim. Evet.
+
+324
+00:29:06,800 --> 00:29:09,802
+- Ve onu yerde baygın buldum.
+- Hap alır mı?
+
+325
+00:29:09,838 --> 00:29:11,767
+- Elbette! Dün o...
+- Bir dakika.
+
+326
+00:29:11,804 --> 00:29:14,306
+- Sizi zehirlenme bölümüne bağlayacağım.
+- Evet.
+
+327
+00:29:14,343 --> 00:29:17,308
+- Zehirlenme dinliyor.
+- Karımla ilgili. O...
+
+328
+00:29:17,344 --> 00:29:20,810
+- İsim ve adres.
+Uh, Montag. Blok 813.
+
+329
+00:29:20,845 --> 00:29:24,815
+- Ne tür haplar?
+- Oh, bir dakika.
+
+330
+00:29:29,318 --> 00:29:31,783
+- Alo?
+- Evet?
+
+331
+00:29:31,819 --> 00:29:35,323
+Kırmızı.
+Kırmızı 2 numara.
+
+332
+00:29:35,360 --> 00:29:38,789
+Oh, o bir uyarıcı.
+Zararsız.
+
+333
+00:29:38,825 --> 00:29:41,328
+Muhtemelen yanlış ilaçlardan almış.
+
+334
+00:29:41,366 --> 00:29:43,329
+Oh, bir dakika.
+
+335
+00:29:50,335 --> 00:29:52,837
+- Alo?
+- Evet, dinliyorum.
+
+336
+00:29:52,873 --> 00:29:55,303
+Oh, evet. Altın sekiz numara.
+
+337
+00:29:55,339 --> 00:29:59,092
+Tamam. Onunla kalın.
+Ambulans yolda.
+
+338
+00:29:59,129 --> 00:30:02,847
+- Dört dakika.
+- Bu arada ne yapabilirim?
+
+339
+00:30:02,882 --> 00:30:04,847
+Hiçbir şey.
+
+340
+00:30:11,352 --> 00:30:13,776
+Doktor nerede?
+
+341
+00:30:13,812 --> 00:30:16,277
+- Ne doktoru?
+- Karıma bakacak olan doktor.
+
+342
+00:30:16,316 --> 00:30:19,818
+Bu işlerde doktor olmaz. Ayak işlerini
+biz yaparız. O ve ben.
+
+343
+00:30:19,854 --> 00:30:23,088
+- Hayır, burası, lütfen.
+- Doğru, biz. Kimi bekliyordun?
+
+344
+00:30:23,125 --> 00:30:26,324
+Bu gibi durumlar...
+Günde onun gibi 50 kişiyle uğraşıyoruz.
+
+345
+00:30:26,361 --> 00:30:29,825
+- Doğru. Bu geceki sonuncu kişi değil.
+- Hayır, efendim.
+
+346
+00:30:29,862 --> 00:30:34,793
+Endişelenmeyin, efendim.
+Kanını değiştireceğiz.
+
+347
+00:30:34,829 --> 00:30:37,832
+20 dakika içinde yeni doğmuş gibi olacak.
+Sadece sakin olun.
+
+348
+00:30:37,869 --> 00:30:39,797
+Bu hoş görünmez.
+
+349
+00:30:39,834 --> 00:30:42,836
+Sağlam bir mideye ihtiyacınız var.
+Dışarıda beklemeniz daha iyi olur.
+
+350
+00:30:42,874 --> 00:30:47,842
+Sadece bizi burada bırakın.
+Düzelince sizi çağırırız.
+
+351
+00:30:47,878 --> 00:30:50,841
+Bu regülatör eskisi kadar iyi değil.
+
+352
+00:30:52,843 --> 00:30:55,847
+Şunu da getir.
+
+353
+00:30:56,847 --> 00:30:59,350
+Önce stoğu boşalt.
+
+354
+00:31:01,852 --> 00:31:06,356
+Boşver bunları.
+Elbiseyi sandalyeye koy.
+
+355
+00:31:15,863 --> 00:31:18,364
+Tamam, efendim.
+Şimdi girebilirsiniz.
+
+356
+00:31:24,370 --> 00:31:27,337
+Papatya kadar taze, altın kadar iyi.
+
+357
+00:31:27,374 --> 00:31:29,874
+- Hala baygın.
+- Bunu söylemedim, efendim.
+
+358
+00:31:29,911 --> 00:31:32,645
+Yanılıyorsunuz. O uyuyor.
+
+359
+00:31:32,681 --> 00:31:35,343
+Onu boşverin. Uyuyun.
+
+360
+00:31:35,380 --> 00:31:37,381
+Yarından itibaren bunların tümü unutulacak.
+
+361
+00:31:37,881 --> 00:31:39,846
+Yarından itibaren tamamıyla düzelecek mi?
+
+362
+00:31:39,883 --> 00:31:42,884
+Daha iyi olur.
+Söylediklerimi unutmayın. Zirvede olacak.
+
+363
+00:31:42,921 --> 00:31:45,888
+İştahı da yerine gelecektir.
+
+364
+00:31:46,388 --> 00:31:49,391
+Doğru. Açlıktan çıldıracaktır.
+Bir şeyler bulun.
+
+365
+00:32:17,414 --> 00:32:19,416
+Çok açım.
+
+366
+00:32:19,915 --> 00:32:21,916
+Nasıl hissediyorsun?
+
+367
+00:32:22,416 --> 00:32:24,382
+Aç. Gerçekten aç.
+
+368
+00:32:24,418 --> 00:32:27,421
+- Açlıktan ölüyorum. Bir atı bile yiyebilirim.
+- Dün geceyi hatırlamıyor musun?
+
+369
+00:32:27,457 --> 00:32:29,942
+- Evet, ne uykuydu. Kütük gibi uyumuşum.
+- Dinle...
+
+370
+00:32:29,977 --> 00:32:32,426
+- Dün akşam eve geldiğimde sen...
+- Kesinlikle çok açım.
+
+371
+00:32:32,925 --> 00:32:34,928
+Bırak da konuşayım, Linda.
+
+372
+00:32:35,428 --> 00:32:37,893
+Oh... Elbette, sevgilim.
+
+373
+00:32:37,930 --> 00:32:40,932
+Eğer seni mutlu edecekse konuş.
+
+374
+00:32:40,970 --> 00:32:43,952
+Devam et.
+Dün gece ne oldu?
+
+375
+00:32:43,987 --> 00:32:46,937
+Hiçbir şey.
+Hatırlayamıyorum.
+
+376
+00:32:46,974 --> 00:32:49,439
+Artık farketmez.
+
+377
+00:32:50,940 --> 00:32:52,905
+Bak.
+
+378
+00:32:52,943 --> 00:32:56,445
+Kutlamak için sana bir hediye aldım...
+
+379
+00:32:56,480 --> 00:32:58,447
+Oh, ne olduğunu unuttum.
+Boşver.
+
+380
+00:32:58,483 --> 00:33:01,914
+Beğendin mi?
+Hoş, değil mi?
+
+381
+00:33:01,948 --> 00:33:04,452
+- Beğendin mi?
+- Evet, hem de çok.
+
+382
+00:33:04,488 --> 00:33:06,970
+Çok zekice.
+Bu en sonuncusu.
+
+383
+00:33:07,007 --> 00:33:09,457
+Şimdi herkes bunları kullanıyor.
+
+384
+00:33:09,492 --> 00:33:11,956
+Eskisini atabilir miyim?
+
+385
+00:33:24,468 --> 00:33:26,971
+Linda
+
+386
+00:33:27,970 --> 00:33:30,471
+Linda.
+
+387
+00:33:38,979 --> 00:33:41,481
+Sana söylemem gereken bir şey var.
+
+388
+00:33:41,982 --> 00:33:43,984
+Dinliyor musun, Linda?
+
+389
+00:33:47,987 --> 00:33:49,989
+Ne yapıyorsun?
+
+390
+00:33:54,493 --> 00:33:56,494
+Linda?
+
+391
+00:34:00,498 --> 00:34:02,499
+Hey!
+
+392
+00:34:55,792 --> 00:34:58,295
+Yaktığın kitapları hiç okudun mu?
+
+393
+00:34:58,330 --> 00:35:01,815
+Hey, sen. Buraya gel.
+Buraya gel.
+
+394
+00:35:01,851 --> 00:35:05,300
+Buraya. Tüm bunlar nedir?
+Nedir ha?
+
+395
+00:35:05,799 --> 00:35:07,766
+Hey!
+
+396
+00:35:07,803 --> 00:35:10,804
+Hadi. Hadi. Hadi.
+
+397
+00:35:12,805 --> 00:35:15,272
+Tamam. Tut onu.
+
+398
+00:35:15,308 --> 00:35:17,774
+Ancak bazı çocuklar
+hala berberleri boykot ediyor.
+
+399
+00:35:17,810 --> 00:35:22,313
+Tüm bunları bilen ve bu konuda çalışan
+bir takım var karşınızda.
+
+400
+00:35:22,813 --> 00:35:26,317
+Tüm bunlar kanun uygulamasının
+eğelenceli olabileceğini gösteriyor.
+
+401
+00:36:18,359 --> 00:36:20,325
+Nasıl olur da kapı çalışmaz?
+
+402
+00:36:20,361 --> 00:36:22,863
+Tam zamanında geldin.
+Yemek neredeyse hazır.
+
+403
+00:36:45,881 --> 00:36:48,885
+- Montag, ne yapıyorsun?
+- Geliyorum.
+
+404
+00:38:09,949 --> 00:38:14,954
+"David Copperfield'ın Kişisel tarihi..."
+
+405
+00:38:14,991 --> 00:38:18,457
+"Yazan Charles Dickens..."
+
+406
+00:38:18,958 --> 00:38:23,925
+"Phiz tarafından çizilmiş 40 resim."
+
+407
+00:38:23,961 --> 00:38:29,966
+"Londra, Chapman ve Hall Şireketi
+ve Humprey Milford."
+
+408
+00:38:30,004 --> 00:38:33,969
+"New York,
+Oxford Üniversitesi Yayınları"
+
+409
+00:38:34,006 --> 00:38:38,241
+"Amerikan Bölümü"
+
+410
+00:38:38,277 --> 00:38:42,477
+"Batı 35
+32. Cadde."
+
+411
+00:38:46,980 --> 00:38:49,981
+"David Copperfield"
+
+412
+00:38:50,019 --> 00:38:52,504
+"Bölüm Bir"
+
+413
+00:38:52,540 --> 00:38:54,949
+"Doğdum."
+
+414
+00:38:54,987 --> 00:39:00,955
+"Hayatımı kahraman olarak mı geçireceğim..."
+
+415
+00:39:00,992 --> 00:39:06,496
+"...yoksa herkes gibi
+bu istasyonda öylesine biri miyim?"
+
+416
+00:39:06,531 --> 00:39:11,016
+"Bunu, bu sayfalar göstermeli."
+
+417
+00:39:11,054 --> 00:39:15,467
+"Hayatımın başlangıcı olarak..."
+
+418
+00:39:15,504 --> 00:39:17,969
+"...doğduğumdan beri kaydediyorum..."
+
+419
+00:39:18,005 --> 00:39:22,009
+"...(bilgilendirildiğim ve inanadığım gibi)..."
+
+420
+00:39:22,045 --> 00:39:26,531
+"Günlerden Cuma.
+Saat gece 12."
+
+421
+00:39:26,567 --> 00:39:30,979
+"Saat 12'yi vurmaya başladı..."
+
+422
+00:39:31,016 --> 00:39:36,020
+"...ve ben de aynı zamanda ağlamaya başladım."
+
+423
+00:39:36,057 --> 00:39:38,522
+Aynı zamanda.
+
+424
+00:40:06,045 --> 00:40:08,047
+Bir dakika.
+
+425
+00:40:10,048 --> 00:40:12,050
+Devam et.
+
+426
+00:40:15,552 --> 00:40:17,554
+Hadi.
+
+427
+00:40:32,066 --> 00:40:34,068
+Aha.
+
+428
+00:40:42,074 --> 00:40:46,077
+Ah-ah.
+
+429
+00:42:39,252 --> 00:42:43,720
+- Her şey yolunda mı?
+- Evet, her şey yolunda.
+
+430
+00:42:43,756 --> 00:42:47,260
+Herkesin söylediği de bu.
+Bu yüzden öyle olmak zorunda.
+
+431
+00:42:47,296 --> 00:42:49,761
+Kesinlikle iyi gibi görünmüyor.
+Ne var?
+
+432
+00:42:49,798 --> 00:42:52,030
+Oh, her şey.
+
+433
+00:42:52,066 --> 00:42:54,228
+Bazen çok...
+
+434
+00:42:54,264 --> 00:42:58,018
+Bazen daha fazla dayanamıyorum.
+Sadece...
+
+435
+00:42:58,054 --> 00:43:01,734
+Pekala.
+Daha sessiz bir yere gidelim.
+
+436
+00:43:01,770 --> 00:43:05,274
+- Geç kalmaz mısın?
+- Hayır, biraz vaktim var. Şuraya gidelim...
+
+437
+00:43:29,795 --> 00:43:32,297
+Seni önceki gün telefon etmek için
+çıktığımda görmüştüm.
+
+438
+00:43:32,333 --> 00:43:34,762
+Yangın merdivenindeydim.
+
+439
+00:43:34,798 --> 00:43:38,802
+Bilirsin, bu komik.
+Aklıma bir şey geldi.
+
+440
+00:43:38,837 --> 00:43:41,767
+Bir kız vardı...
+
+441
+00:43:41,803 --> 00:43:44,055
+...bir askeri bekleyen...
+
+442
+00:43:44,092 --> 00:43:46,271
+...barakanın kapısında.
+
+443
+00:43:46,307 --> 00:43:50,812
+- Ne oldu?
+- Analisti hatırladın mı? Çok endişelenmiştim.
+
+444
+00:43:50,848 --> 00:43:56,316
+- Hı-hı
+- Endişelenmekte haklıymışım. Kovuldum.
+
+445
+00:43:56,353 --> 00:43:58,818
+Neden?
+Sebep olarak ne söylediler?
+
+446
+00:43:59,317 --> 00:44:02,821
+Hiçbir şey.
+Sadece resmi bir arama.
+
+447
+00:44:02,857 --> 00:44:05,340
+Artık hizmetim gerekmiyormuş.
+
+448
+00:44:05,376 --> 00:44:07,825
+Artık asla okula gidemeyeceğim.
+
+449
+00:44:08,325 --> 00:44:11,828
+Ama bir neden göstermeliler.
+Nedenini sormalısın. Okula git ve sor.
+
+450
+00:44:11,865 --> 00:44:13,793
+Bunu yapamam.
+
+451
+00:44:13,831 --> 00:44:17,333
+Heyneyse. Kimbilir çocuklara
+benim hakkımda ne söylemişlerdir.
+
+452
+00:44:17,834 --> 00:44:23,338
+Tuhaf. Analistin yaptıkların hakkında
+söylediklerini merak ettim...
+
+453
+00:44:23,838 --> 00:44:26,803
+Bir fikrin yok mu?
+Yaptığın ya da söylediğin bir şey?
+
+454
+00:44:26,841 --> 00:44:31,344
+Personelle aram asla iyi olmamıştır.
+Beni tasvip etmezlerdi.
+
+455
+00:44:31,381 --> 00:44:34,810
+Giriş kartını asla basmazdım ve...
+
+456
+00:44:34,848 --> 00:44:37,348
+Sınıfımda eğlenirdik
+ve onlar bundan hiç hoşlanmazdı.
+
+457
+00:44:37,386 --> 00:44:41,871
+Yer değiştirdiğim
+başka bir öğretmen vardı.
+
+458
+00:44:41,907 --> 00:44:46,321
+Aynı şey ona da oldu.
+Onu da sevmezlerdi.
+
+459
+00:44:46,357 --> 00:44:50,862
+- Onun da başı dertte.
+- O zaman sorun analist değil.
+
+460
+00:44:51,359 --> 00:44:55,362
+Senden kurtulmakla ilgili bir şey.
+Çünkü sen farklısın.
+
+461
+00:44:56,866 --> 00:44:59,832
+Şuradaki adama bak.
+
+462
+00:44:59,867 --> 00:45:03,371
+- Ne yapıyor?
+- O haber kutusu.
+
+463
+00:45:03,872 --> 00:45:07,838
+- Kafasını toparlayamıyor.
+- Ne bulmak istiyor?
+
+464
+00:45:07,874 --> 00:45:10,375
+Bir şey bulmak istemiyor.
+Kimde kitap olduğunu biliyor.
+
+465
+00:45:10,877 --> 00:45:13,377
+O kişinin numarasını ve resmini taşıyor...
+
+466
+00:45:13,879 --> 00:45:15,844
+...ve gidip kutuya atacak.
+
+467
+00:45:15,880 --> 00:45:19,383
+- Ama o bir muhbir!
+- Hayır, o bir haberci. Baksana.
+
+468
+00:45:19,885 --> 00:45:22,386
+Tıpkı bir kadının çevresinde dolanır gibi.
+
+469
+00:45:26,891 --> 00:45:29,892
+- Ağzına bir şey koyuyor.
+- Bir uyarıcı...
+
+470
+00:45:30,393 --> 00:45:32,393
+...sinirlerini harekete geçirecek.
+
+471
+00:45:32,894 --> 00:45:34,395
+Kimsenin kendisini görmediğinden
+emin olmak istiyor.
+
+472
+00:45:34,896 --> 00:45:37,148
+Ona baksana.
+
+473
+00:45:37,183 --> 00:45:39,363
+Uzaklaşıyor.
+
+474
+00:45:39,399 --> 00:45:41,366
+Gördün mü? Bunu yapamıyor.
+
+475
+00:45:41,401 --> 00:45:44,404
+Merak etme. Geri dönecek.
+İşte geliyor.
+
+476
+00:45:44,440 --> 00:45:47,908
+İyi Tanrım. Aklını topla.
+
+477
+00:45:48,407 --> 00:45:51,657
+- İşte. Ne rahatlama.
+- Gürültücü komşusundan kurtulmaya çalışıyor...
+
+478
+00:45:51,695 --> 00:45:54,912
+...ya da daha iyi bir işi olan
+üvey kardeşinden. Hatta annesinden.
+
+479
+00:45:55,412 --> 00:45:57,878
+Neden olmasın?
+İş zamanı.
+
+480
+00:45:57,914 --> 00:46:01,417
+Lütfen, okula dön ve bulmaya çalış.
+
+481
+00:46:01,454 --> 00:46:03,418
+Hayır, bunu yapamam.
+
+482
+00:46:03,921 --> 00:46:07,172
+Oraya dönmek için bir mazeret bulmalısın.
+
+483
+00:46:07,209 --> 00:46:10,426
+Sanırım gidip dolabımı boşaltabilirim.
+
+484
+00:46:10,925 --> 00:46:14,428
+Tamam. Acele etmeliyim.
+İyi şanslar.
+
+485
+00:46:14,464 --> 00:46:18,431
+Gitmiyorum.
+Benimle gelmelisin.
+
+486
+00:46:18,468 --> 00:46:20,933
+Yapamam.
+İşe gitmeliyim.
+
+487
+00:46:20,970 --> 00:46:23,204
+Ben hallederim.
+
+488
+00:46:23,239 --> 00:46:25,436
+Hadi. Beni bırak.
+
+489
+00:46:33,945 --> 00:46:36,445
+Rodier İtfaiye Binası.
+
+490
+00:46:40,448 --> 00:46:42,450
+Dahili bir, bayan.
+
+491
+00:46:52,960 --> 00:46:54,461
+Rodier İtfaiye Binası dinliyor.
+
+492
+00:46:54,961 --> 00:46:58,463
+- Şeyle konuşabilir miyim?
+- Kim arıyor?
+
+493
+00:47:00,464 --> 00:47:03,968
+- Montag adına aramıştım.
+- Evet?
+
+494
+00:47:04,468 --> 00:47:08,972
+- Yüzbaşıyla konuşabilir miyim?
+- Bir dakika.
+
+495
+00:47:11,976 --> 00:47:15,979
+- Yüzbaşı dinliyor.
+- Ben Linda Montag.
+
+496
+00:47:16,014 --> 00:47:17,981
+- Montag'ın karısı mı?
+- Evet.
+
+497
+00:47:18,480 --> 00:47:20,481
+- Sizin için ne yapabilirim?
+- Kocam size söylememi istedi...
+
+498
+00:47:20,518 --> 00:47:23,449
+...çok hasta ve yataktan kalkamıyor.
+
+499
+00:47:23,484 --> 00:47:26,986
+- Umarım ciddi değildir.
+- Hayır, akşama iyi olur.
+
+500
+00:47:27,487 --> 00:47:29,991
+- Pekala, bayan. Bildirdiğinin için teşekkür ederim.
+- Teşekkür ederim.
+
+501
+00:47:35,494 --> 00:47:38,996
+Montag'ın karısı.
+İyi değilmiş. Yatacakmış.
+
+502
+00:47:39,032 --> 00:47:40,999
+Montag?
+
+503
+00:47:43,000 --> 00:47:47,004
+Öyle mi?
+Anlıyorum.
+
+504
+00:47:47,504 --> 00:47:50,506
+Pekala, Fabian.
+Bu şimdi yapılacak.
+
+505
+00:47:51,008 --> 00:47:53,008
+Toplantıya kadar.
+
+506
+00:48:01,015 --> 00:48:03,518
+Tamam.
+
+507
+00:48:46,051 --> 00:48:47,554
+Bu Robert.
+
+508
+00:48:55,559 --> 00:48:58,561
+- Üniformamdan dolayı olmalı.
+- Evet, ondan korkmuştur!
+
+509
+00:48:58,598 --> 00:49:01,563
+- Üniforman olmalı.
+- Devam et. Ben burada bekleyeceğim
+
+510
+00:49:01,601 --> 00:49:04,067
+Tamam.
+
+511
+00:50:29,135 --> 00:50:31,100
+Terfi edeceğim.
+
+512
+00:50:31,137 --> 00:50:33,101
+O zaman beni dinlerler.
+
+513
+00:50:33,138 --> 00:50:37,141
+Gidip müdürle görüşeceğim.
+Gel.
+
+514
+00:50:39,644 --> 00:50:42,646
+- Neden?
+- Ne?
+
+515
+00:50:42,682 --> 00:50:45,648
+Nasıl olacaktı?
+
+516
+00:50:47,649 --> 00:50:50,616
+Bunu ne başlattı?
+
+517
+00:50:50,653 --> 00:50:53,654
+Senin yapmak istediğin--
+
+518
+00:50:56,659 --> 00:51:02,164
+Senin gibi birisi
+nasıl olur da böyle bir iş yapar?
+
+519
+00:51:02,662 --> 00:51:06,165
+Herkesin bunu söylediğini biliyorum.
+Ama sen!
+
+520
+00:51:06,201 --> 00:51:08,631
+Sen onlar gibi değilsin.
+
+521
+00:51:08,667 --> 00:51:12,170
+Sana bir şey söylediğimde,
+yüzüme bak.
+
+522
+00:51:12,671 --> 00:51:16,174
+Neden bu işi seçtin?
+
+523
+00:51:16,672 --> 00:51:20,428
+Senin için bir şey farketmez
+gibi görünüyor.
+
+524
+00:51:20,465 --> 00:51:24,145
+Geçen gün bana ne sorduğunu hatırlıyor musun?
+
+525
+00:51:24,182 --> 00:51:28,684
+Yaktığın kitapları hiç okudun mu,
+diye sormuştun. Hatırladın mı?
+
+526
+00:51:28,720 --> 00:51:31,519
+Dün gece bir tanesini okudum.
+
+527
+00:52:04,547 --> 00:52:08,549
+"Çünkü kendimden utandım."
+
+528
+00:52:15,055 --> 00:52:19,558
+Kendimden utandım.
+
+529
+00:52:21,561 --> 00:52:26,565
+"11:00'i biraz geçiyordu."
+
+530
+00:52:45,080 --> 00:52:49,083
+- Ne yapıyorsun, Linda?
+- Bu şeyleri evde buldum.
+
+531
+00:52:49,120 --> 00:52:52,048
+Bu şeyleri istemiyorum.
+Beni kokutuyorlar.
+
+532
+00:52:52,086 --> 00:52:56,088
+Tüm hayatını duvardaki o "Aile"
+karşısında geçirdin.
+
+533
+00:52:56,126 --> 00:52:58,590
+Bu kitaplar da benim ailem.
+
+534
+00:53:03,094 --> 00:53:06,326
+İlk kez ne zaman karşılaştık?
+Ve nerede?
+
+535
+00:53:06,362 --> 00:53:09,557
+- Ne?
+- İlk olarak nerede karşılaştık?
+
+536
+00:53:09,595 --> 00:53:12,079
+Bilmiyorum.
+
+537
+00:53:12,114 --> 00:53:14,562
+Bir düşüneyim.
+
+538
+00:53:16,565 --> 00:53:18,529
+Hayır, gerçekten hatırlayamıyorum.
+
+539
+00:53:18,566 --> 00:53:22,568
+Oh, bu oldukça üzücü, değil mi?
+Bence öyle.
+
+540
+00:53:22,605 --> 00:53:26,076
+Bence çok üzücü.
+
+541
+00:53:26,111 --> 00:53:29,079
+Her kitabın ardında bir adam var.
+
+542
+00:53:29,116 --> 00:53:32,117
+Beni ilgilendiren bu.
+Bu yüzden onları bırak ve yatağa dön.
+
+543
+00:53:35,120 --> 00:53:38,122
+- Uyuyamıyorum.
+- Haplarını aldın, değil mi?
+
+544
+00:53:41,126 --> 00:53:43,550
+"Gergedan:"
+
+545
+00:53:43,584 --> 00:53:47,589
+"Memelilerin en iri, en güçlü..."
+
+546
+00:53:47,624 --> 00:53:53,593
+"...kalın derili..."
+
+547
+00:53:53,630 --> 00:53:55,884
+"...türü..."
+
+548
+00:53:55,921 --> 00:53:58,139
+"Gergedan."
+
+549
+00:54:11,149 --> 00:54:13,575
+Pakala, bakın kim burada?
+Buna ne dersin
+
+550
+00:54:13,610 --> 00:54:16,613
+- Hasta olduğun için izinli olduğunu sanıyordum.
+- İzinli mi?
+
+551
+00:54:16,649 --> 00:54:19,615
+- Bu fikre nereden kapıldın?
+- Hatırlamıyorum. Yanılmış olmalıyım.
+
+552
+00:55:05,861 --> 00:55:07,862
+Acele edin.
+
+553
+00:55:14,868 --> 00:55:17,870
+Montag, kaskını unuttun.
+
+554
+00:55:32,884 --> 00:55:36,386
+Nedir bu, Montag?
+Direkle aranda bir sorun mu var?
+
+555
+00:55:46,894 --> 00:55:48,859
+Oh, anne, bak!
+
+556
+00:55:48,897 --> 00:55:52,900
+İtfaiyeciler.
+Ateş yakmaya gidiyorlar.
+
+557
+00:57:04,956 --> 00:57:08,424
+"Adamı oyna, Efendi Ridley."
+
+558
+00:57:08,461 --> 00:57:12,465
+"Gün ışığını bir mum gibi kullanmalıyız.
+Tanrı'nın izniyle..."
+
+559
+00:57:12,501 --> 00:57:15,929
+"...bunu yapacağız."
+
+560
+00:57:15,967 --> 00:57:18,933
+Polis işini iyi yapamamış.
+Bu kadın da kim?
+
+561
+00:57:18,969 --> 00:57:22,471
+- Burada ne yapıyor?
+- Değerli bir şeyler arıyor herhalde.
+
+562
+00:57:22,509 --> 00:57:25,976
+Polis sabah aileyi tutukladı, efendim.
+Dışarıda olmalıydı.
+
+563
+00:57:26,012 --> 00:57:28,475
+- Kitaplar nerede?
+- Bunu bilmeseydin, burada olmazdın.
+
+564
+00:57:28,512 --> 00:57:31,980
+Yukarı.
+Montag, sen burada kal.
+
+565
+00:57:37,484 --> 00:57:42,488
+Hey! Siz ikniz. Şuraya.
+
+566
+00:57:42,525 --> 00:57:46,491
+İçeri. Devam edin.
+
+567
+00:57:51,494 --> 00:57:54,497
+Aşağı. Hepsini oraya atın.
+
+568
+00:57:56,499 --> 00:57:59,502
+Kırıp açın.
+İşte böyle.
+
+569
+00:58:05,007 --> 00:58:06,507
+Bu taraftan! Hadi!
+
+570
+00:58:07,008 --> 00:58:09,011
+Aşağı! Hepsini oraya atın!
+
+571
+00:58:11,012 --> 00:58:14,014
+Tüm kitaplar! Hepsi!
+Bu taraftan! Hadi!
+
+572
+00:58:35,530 --> 00:58:40,034
+"Bir zamanlar yaşlı ve fakir
+bir oduncu varmış..."
+
+573
+00:58:40,071 --> 00:58:43,001
+Kitaplarımı alamazlar.
+Onları götüremezler.
+
+574
+00:58:43,038 --> 00:58:47,541
+- Montag, sanırım bunu görmelisin.
+- Evet, efendim.
+
+575
+00:58:48,542 --> 00:58:51,044
+Hadi! Çabuk ol!
+
+576
+00:58:51,079 --> 00:58:53,547
+Gerçekten gözalıcı.
+
+577
+00:58:56,047 --> 00:59:00,051
+Ah, Montag.
+Biliyordum, biliyordum.
+
+578
+00:59:00,551 --> 00:59:03,805
+Elbette, tüm bunlar...
+Gizli bir kütüphanenin...
+
+579
+00:59:03,840 --> 00:59:07,057
+...varlığı biliniyordu.
+Ama daha yükseklerde...
+
+580
+00:59:07,094 --> 00:59:09,521
+...olduğu sanılıyordu.
+
+581
+00:59:09,559 --> 00:59:13,063
+Sadece bir kez bu kadar kitabı
+bir ararada görmüştüm.
+
+582
+00:59:13,097 --> 00:59:17,084
+O zaman sıradan bir itfaiyeciydim.
+
+583
+00:59:17,120 --> 00:59:21,068
+Ateş püskürtücü henüz kullanılmıyordu.
+
+584
+00:59:22,569 --> 00:59:25,071
+Hepsi bizim, Montag.
+
+585
+00:59:28,074 --> 00:59:30,039
+Beni dinle, Montag.
+
+586
+00:59:30,076 --> 00:59:32,541
+Her itfaiyeci hayatında en azından bir kez...
+
+587
+00:59:32,577 --> 00:59:35,081
+...tüm bu kitapların ne hakkında olduğunu
+bilmek ister.
+
+588
+00:59:35,115 --> 00:59:38,547
+Bilmek için can atar.
+Öyle değil mi?
+
+589
+00:59:38,584 --> 00:59:42,585
+Sözüme güven, Montag.
+Orada hiçbir şey yok.
+
+590
+00:59:42,622 --> 00:59:45,088
+Kitapların söyleyecek hiçbir şeyi yok!
+
+591
+00:59:48,590 --> 00:59:50,557
+Bak, bunlar roman.
+
+592
+00:59:50,593 --> 00:59:54,596
+Asla varolmamış insanlar hakkında.
+
+593
+00:59:55,097 --> 00:59:58,600
+İnsanlar bunları okuyor.
+Bu, onları gerçek hayatlarında mutsuz yapıyor.
+
+594
+00:59:59,100 --> 01:00:02,603
+Hayatlarını başka şekilde yaşamak istiyorlar.
+Asla olmayacak bir şekilde.
+
+595
+01:00:06,606 --> 01:00:08,570
+Ne oluyor?
+
+596
+01:00:08,608 --> 01:00:11,859
+Bu ev kullanılamaz.
+Kitaplarla birlikte yakacaklarını söylüyorlar.
+
+597
+01:00:11,897 --> 01:00:15,112
+Ev yakmak başka bir şey, kitap yakmak
+başka bir şeydir, değil mi?
+
+598
+01:00:15,149 --> 01:00:18,080
+Hepsini birlikte yakmak iyi değil.
+
+599
+01:00:18,116 --> 01:00:23,119
+Hadi, Montag.
+Tüm bu felsefe. Saçmalık.
+
+600
+01:00:23,156 --> 01:00:25,122
+Romanlardan bile daha kötü.
+
+601
+01:00:25,621 --> 01:00:28,623
+Düşünürler ve filozoflar,
+hepsi de aynı şeyi söylüyor:
+
+602
+01:00:28,658 --> 01:00:32,627
+"Sadece ben haklıyım.
+Diğerleri aptal."
+
+603
+01:00:34,127 --> 01:00:38,632
+Bir yüzyıl, sana insan kaderinin
+önceden belirlendiğini söylüyor.
+
+604
+01:00:38,668 --> 01:00:42,636
+Bir sonrakinde, seçme özgürlüğünün
+olduğunu söylüyorlar.
+
+605
+01:00:42,671 --> 01:00:45,101
+Bu sadece bir moda.
+Felsefe.
+
+606
+01:00:45,137 --> 01:00:50,141
+Tıpkı bu sene kısa elbiseler,
+gelecek sene uzun elbiseler gibi.
+
+607
+01:00:50,177 --> 01:00:55,645
+Bak. Ölüler hakkında hikayeler.
+Bunlara biyografi deniyor.
+
+608
+01:00:55,682 --> 01:00:57,648
+Ve otobiyografi.
+
+609
+01:01:00,149 --> 01:01:02,652
+Hayatım. Günlüğüm. Anılarım.
+
+610
+01:01:02,689 --> 01:01:05,117
+Özel Anılarım.
+
+611
+01:01:05,153 --> 01:01:10,122
+Elbette, yazamaya başladıkları zaman
+biraz zorlanıyorlar.
+
+612
+01:01:10,158 --> 01:01:13,659
+İkinci ya da üçüncü kitaptan sonra tek
+istedikleri kendi egolarını tatmin etmek.
+
+613
+01:01:13,695 --> 01:01:16,663
+Kalabalığın önünde durmak,
+farklı olmak.
+
+614
+01:01:16,699 --> 01:01:19,629
+Diğerlerine tepeden bakmak.
+
+615
+01:01:19,666 --> 01:01:24,632
+Ah, Kritik Ödülü.
+Bu iyilerdendir.
+
+616
+01:01:24,669 --> 01:01:30,174
+Elbette, kendi kritiği vardı.
+Şanslı herif.
+
+617
+01:01:30,674 --> 01:01:33,141
+Söylesene, Montag. Tahminen...
+
+618
+01:01:33,176 --> 01:01:36,680
+...bu ülkede yılda ortalama
+kaç ödül veriliyordu sence?
+
+619
+01:01:37,179 --> 01:01:42,647
+5, 10, 40? Hmm?
+1200'den az değil.
+
+620
+01:01:42,685 --> 01:01:47,652
+Kağıda kalemini sürmüş herkes
+bir gün ödülünü alacaktır.
+
+621
+01:01:47,690 --> 01:01:52,692
+Ah, Robinson Crusoe. Zenciler Cuma'dan dolayı
+o romandan pek hoşlanmadılar.
+
+622
+01:01:54,696 --> 01:01:58,196
+Ve Nietzsche. Ah, Nietzsche.
+Yahudiler Nietzsche'den hoşlanmaz.
+
+623
+01:01:58,697 --> 01:02:00,662
+İşte, akciğer kanseriyle ilgili bir kitap.
+
+624
+01:02:00,699 --> 01:02:05,202
+Tüm sigara tiryakileri panikliyor.
+Bunları yakarak insanları rahatlatıyoruz.
+
+625
+01:02:07,704 --> 01:02:12,709
+İşte bu çok etkileyici olmalı.
+Aristokrasi'nin Etiği.
+
+626
+01:02:13,209 --> 01:02:17,714
+Bunu okuyan herkes kimsenin sahip olmadığını
+kesip atmış oluyor.
+
+627
+01:02:17,749 --> 01:02:21,214
+Görüyorsun, bu iyi değil, Montag.
+Hepimiz benzer olmalıyız.
+
+628
+01:02:21,252 --> 01:02:25,217
+Herkesin mutlu olmasının tek yolu
+eşit olmaktır.
+
+629
+01:02:25,256 --> 01:02:30,722
+Bu yüzden, kitapları yakmalıyız, Montag.
+
+630
+01:02:30,760 --> 01:02:33,225
+- Tüm kitapları.
+- Efendim.
+
+631
+01:02:33,726 --> 01:02:37,228
+- Evet, ne var?
+- Aşağıda, yaşlı bayanla bir sorunumuz var.
+
+632
+01:02:37,264 --> 01:02:39,230
+Ayrılmıyor.
+Kitaplarını bırakmayacağını söylüyor.
+
+633
+01:02:39,268 --> 01:02:42,232
+Kitaplarını bırakmayacakmış, öyle mi?
+
+634
+01:02:47,695 --> 01:02:49,697
+Hadi, bayan.
+Evi yakacağız.
+
+635
+01:02:50,197 --> 01:02:53,663
+- Hayır.
+- Ne istiyorsunuz? Şehitlik mi?
+
+636
+01:02:53,699 --> 01:02:56,703
+- Yaşadığım gibi ölmek istiyorum.
+- Bunu orada okumuş olmalısınız.
+
+637
+01:02:57,203 --> 01:03:00,205
+Bir kez daha sormayacağım.
+Gidiyor musunuz?
+
+638
+01:03:00,241 --> 01:03:03,209
+Bu kitaplar yaşıyordu.
+Benimle konuştular.
+
+639
+01:03:03,245 --> 01:03:05,208
+Devam edin.
+
+640
+01:04:22,774 --> 01:04:26,777
+Tamam, bu kadar yeter.
+On saniyeniz var, bayan.
+
+641
+01:04:28,278 --> 01:04:30,781
+Fabian, 10'a kadar say.
+
+642
+01:04:30,817 --> 01:04:34,049
+1.
+
+643
+01:04:34,086 --> 01:04:37,936
+2. 3.
+
+644
+01:04:37,974 --> 01:04:41,381
+4. 5.
+
+645
+01:04:41,417 --> 01:04:44,604
+6. 7.
+
+646
+01:04:44,642 --> 01:04:47,758
+8.
+
+647
+01:04:47,794 --> 01:04:51,296
+-9.
+-9,15.
+
+648
+01:04:51,333 --> 01:04:54,299
+9,20.
+
+649
+01:04:54,798 --> 01:04:57,263
+-9,40.
+- Burada kalamaz.
+
+650
+01:04:57,301 --> 01:05:02,306
+- Ayrılmayı reddediyor.
+- Ayrılmaya zorlanmalı.
+
+651
+01:05:25,323 --> 01:05:27,826
+Geri çekilin! Açılın!
+
+652
+01:06:02,354 --> 01:06:04,355
+Herkes, dışarı!
+
+653
+01:06:08,359 --> 01:06:11,361
+Hadi, sen de, Montag!
+
+654
+01:06:16,865 --> 01:06:20,332
+Montag! Çık oradan!
+
+655
+01:06:20,368 --> 01:06:25,374
+Montag! Hadi, bu tafatan!
+
+656
+01:06:25,409 --> 01:06:27,373
+Montag!
+
+657
+01:06:28,875 --> 01:06:30,877
+Montag!
+
+658
+01:06:38,383 --> 01:06:42,720
+Sonuçta, arkadaşının arkadaşını
+tolore edebilirsin.
+
+659
+01:06:42,756 --> 01:06:46,187
+Her ne kadar sana
+tuhaf görünüyor olsalar da.
+
+660
+01:06:46,223 --> 01:06:49,225
+- Azınlığı küçümseme.
+- Kuzen Midge'ın yüzü kötü görünmüyor muydu?
+
+661
+01:06:49,261 --> 01:06:52,227
+- Hamile olduğu için.
+- Bu yüzden mi?
+
+662
+01:06:52,264 --> 01:06:55,693
+Bence çocuk yapmak sorumsuzluk.
+
+663
+01:06:55,729 --> 01:06:58,733
+Birileri çocuk sahibi olmalı, Jackie.
+Irkımızı ölüme terk edemezler.
+
+664
+01:06:58,769 --> 01:07:02,235
+Bebekler büyüyüp sana benzeyecekler.
+Bu eğlenceli olmalı.
+
+665
+01:07:02,272 --> 01:07:07,203
+İşte Montag.
+
+666
+01:07:07,241 --> 01:07:10,205
+Bugün anlayışlı olun.
+
+667
+01:07:10,243 --> 01:07:14,208
+Unutma:
+Sevimli olmak yeterli değildir.
+
+668
+01:07:14,245 --> 01:07:17,711
+Bunları kullanan bir eş,
+daha fazlasını bilir.
+
+669
+01:07:17,746 --> 01:07:21,252
+Bugün dene,
+fakat arkadaşlarının kocalarına dikkat et.
+
+670
+01:07:21,287 --> 01:07:23,752
+Sinek gibi çevrende olurlar.
+
+671
+01:07:40,766 --> 01:07:43,768
+Kimse koltuğunun benzersiz olduğuna
+dikkat etmeyecektir.
+
+672
+01:07:43,807 --> 01:07:46,271
+Hiç olmadığın kadar popüler olacaksın.
+
+673
+01:07:55,280 --> 01:07:57,242
+İzin verir misiniz?
+
+674
+01:07:57,279 --> 01:08:00,283
+Evet, saçlarını böyle seviyorum.
+
+675
+01:08:06,788 --> 01:08:11,255
+Hadi, Montag.
+Şimdi iyi ol.
+
+676
+01:08:11,292 --> 01:08:16,797
+Hadi gel de bizimle otur. Jackie, Doris ve
+Helen'i uzun süredir görmüyorsun.
+
+677
+01:08:17,298 --> 01:08:20,299
+- Bu çok kaba, biliyorsun.
+- Beni yalnız bırak.
+
+678
+01:08:20,334 --> 01:08:23,765
+İyi değil misin?
+
+679
+01:08:23,801 --> 01:08:26,805
+Tamam ama bu çok ayıp.
+
+680
+01:08:31,309 --> 01:08:33,774
+...yeniden sınıflandırmak.
+
+681
+01:08:33,810 --> 01:08:36,812
+İki antisosyal bugün
+hücrelerine yerleştirildi...
+
+682
+01:08:36,849 --> 01:08:38,815
+...Batı Metropolitan Bölgesi'nde.
+
+683
+01:08:38,852 --> 01:08:41,280
+Polis sapmaları yorumladı.
+
+684
+01:08:41,314 --> 01:08:44,820
+Bu arada
+"Sana İhanet Edeni Bildir" Kampanyası...
+
+685
+01:08:44,856 --> 01:08:48,286
+...bugün başarıya ulaştı.
+Yaşlı bir kadın...
+
+686
+01:08:48,321 --> 01:08:51,825
+...kitaplarından ayrılmaktansa
+onlarla yanmayı tercih etti.
+
+687
+01:08:51,861 --> 01:08:54,790
+Eğer bu bir şakaysa hiç hoş değil.
+
+688
+01:08:54,829 --> 01:08:58,331
+- Böyle düşünmek istersin, değil mi?
+- Aptal olma, Montag.
+
+689
+01:08:58,366 --> 01:09:00,297
+Böyle şeyler olmaz.
+
+690
+01:09:00,333 --> 01:09:02,798
+Demek istediğin, bunları duymak istemiyorsun.
+Ben gördüm!
+
+691
+01:09:02,836 --> 01:09:06,838
+- Kocam diyor ki...
+- Kocan mı? Nerede olduğunu bile bilmiyorsun!
+
+692
+01:09:06,874 --> 01:09:08,801
+- Montag!
+- Elbette biliyorum.
+
+693
+01:09:08,839 --> 01:09:12,342
+- O bir eğitim için çağrıldı.
+- Ya da küçük bir savaş için.
+
+694
+01:09:12,378 --> 01:09:14,343
+- Bilmiyorsun, değil mi?
+- Neden böyle diyorsun?
+
+695
+01:09:14,380 --> 01:09:16,310
+Her neredeyse, ne olmuş?
+
+696
+01:09:16,345 --> 01:09:18,848
+Tamamen bitene kadar beni arayamayacak.
+
+697
+01:09:18,884 --> 01:09:21,312
+Sadece bir ya da iki hafta.
+O iyi olacak.
+
+698
+01:09:21,348 --> 01:09:23,853
+Öyle adlandırmak istiyorsan
+savaşla ilgili durum şu...
+
+699
+01:09:23,888 --> 01:09:26,853
+...öldürülen diğer kadının kocası.
+Bu doğru.
+
+700
+01:09:26,890 --> 01:09:30,125
+Bugüne dek böyle öldürülen birini...
+
+701
+01:09:30,160 --> 01:09:33,359
+Kocası böyle ölen birini duymadım.
+
+702
+01:09:33,396 --> 01:09:36,361
+Koşup camdan atlayan, evet.
+
+703
+01:09:36,863 --> 01:09:39,362
+Bir kaç gece önce Gloria'nın kocası gibi.
+
+704
+01:09:39,865 --> 01:09:41,866
+Ama diğer şekilde asla.
+
+705
+01:09:42,367 --> 01:09:44,368
+Her neyse, hayat böyle, değil mi?
+
+706
+01:09:44,869 --> 01:09:46,834
+Sana göre öyle.
+
+707
+01:09:46,872 --> 01:09:50,121
+Zombiden başka bir şey değilsin.
+Hepiniz öylesiniz.
+
+708
+01:09:50,158 --> 01:09:53,267
+Hakkında bir şey bilmediğiniz
+kocalarınız gibi.
+
+709
+01:09:53,304 --> 01:09:56,342
+Yaşamıyorsunuz.
+Sadece zaman öldürüyorsunuz!
+
+710
+01:09:56,378 --> 01:09:58,880
+- Şey, sanırım gitme zamanı.
+- Evet, ben...
+
+711
+01:09:58,916 --> 01:10:01,399
+Teşekkürler.
+Güzel bir öğleden sonraydı.
+
+712
+01:10:01,435 --> 01:10:03,848
+- Gerçekten eğlenceli. Evet.
+- Oturun!
+
+713
+01:10:03,884 --> 01:10:06,886
+- Hadi, oturun. Sadece bir dakika sürecek.
+- O da ne?
+
+714
+01:10:06,923 --> 01:10:09,389
+- Hayatım.
+- O bir kitap mı?
+
+715
+01:10:09,425 --> 01:10:11,389
+Aynen öyle.
+Bir roman.
+
+716
+01:10:11,890 --> 01:10:13,856
+Oh, bir kitap! Yapmamalısın!
+Bu kanunlara aykırı!
+
+717
+01:10:13,892 --> 01:10:18,354
+- Sessiz olun. Oturun ve dinleyin.
+- Montag ısrar ettiğinden beri.
+
+718
+01:10:18,389 --> 01:10:21,356
+Umarım rahat oluruz.
+
+719
+01:10:24,357 --> 01:10:26,861
+"Evlilikte kötü şeyler için yemin..."
+
+720
+01:10:26,898 --> 01:10:29,325
+"...edilmesi mantıklı değildir."
+
+721
+01:10:29,363 --> 01:10:33,328
+"Dora'yı elde etmek ve beni sevmesini
+sağlamak için çok çabaladım."
+
+722
+01:10:33,366 --> 01:10:37,869
+"Bu kendimi Dora'ya adamak gibiydi.
+Onunla her şeyimi paylaşmak
+benim için en büyük mutluluktu."
+
+723
+01:10:38,369 --> 01:10:41,372
+"Bu durum her günümü bir öncekinden
+daha güzel ve mutlu kılıyordu."
+
+724
+01:10:41,408 --> 01:10:44,876
+"Ve hala da öyle.
+Hayatımda Dora olduğu sürece."
+
+725
+01:10:45,375 --> 01:10:48,343
+"Ama o yıl Dora pek iyi değildi."
+
+726
+01:10:48,379 --> 01:10:53,383
+"Ellerini tuttuğumda farkettim ki çok
+hafiflemişti. Oysa her zaman güçlüydü..."
+
+727
+01:10:53,420 --> 01:10:57,385
+"Karımın yüzündeki çocuksu gülümseme
+kadınsı bir gülümsemeyle değişti."
+
+728
+01:10:57,422 --> 01:11:01,352
+"Bu olamazdı.
+Canım Dora'm."
+
+729
+01:11:01,387 --> 01:11:04,391
+"Bir kaç gün içinde eskisi gibi
+ayağa kalkacağını düşündük."
+
+730
+01:11:04,427 --> 01:11:07,392
+"Ama bir kaç gün daha bekleyin, dediler.
+Bir kaç gün daha."
+
+731
+01:11:07,894 --> 01:11:09,896
+"Ve Dora ne yürüdü ne de koştu."
+
+732
+01:11:10,397 --> 01:11:13,398
+"Her sabah onu merdivenlerden aşağı indirdim
+ve akşamları tekrar yukarı çıkardım."
+
+733
+01:11:13,436 --> 01:11:18,402
+"Ama bazen onu kaldırdığımda kollarımın
+ne kadar kolay kalktığını farkettim."
+
+734
+01:11:18,438 --> 01:11:21,173
+"Ölü bir boşluk hissettim."
+
+735
+01:11:21,208 --> 01:11:23,907
+"Bomboş tarlalarda uyuşuk..."
+
+736
+01:11:23,943 --> 01:11:27,874
+"...gibi hissettim."
+
+737
+01:11:27,911 --> 01:11:32,379
+"Kendimi bu duygudan korumaya çalıştım."
+
+738
+01:11:32,415 --> 01:11:35,917
+"Ta ki bir gece güçlü bir biçimde
+omuzlarıma çökene dek."
+
+739
+01:11:35,953 --> 01:11:38,438
+"Ve teyzem onu ağlayarak terketti."
+
+740
+01:11:38,474 --> 01:11:40,883
+" 'Oh, hoşça kal, küçük çiçek.' "
+
+741
+01:11:40,921 --> 01:11:46,926
+"Masaya oturdum, yalnız ve
+düşünemeyecek kadar yorgun."
+
+742
+01:11:46,962 --> 01:11:49,427
+"Oh, ne ölümcül bir isimdi."
+
+743
+01:11:49,466 --> 01:11:51,394
+"Ve bir çiçek..."
+
+744
+01:11:51,429 --> 01:11:56,433
+"...en güzel zamanında nasıl solar dalında."
+
+745
+01:11:56,935 --> 01:12:01,401
+Ne olacağını biliyordum.
+Her zaman söylediğim şey.
+
+746
+01:12:01,438 --> 01:12:04,940
+Hayat romanlar gibi değildir. Romanlar ve
+gözyaşları. Romanlar ve intiharlar.
+
+747
+01:12:04,975 --> 01:12:07,908
+Romanlar hastalıklıdır.
+Bu saf zulüm, Montag.
+
+748
+01:12:07,943 --> 01:12:11,445
+Sen zalim bir adamsın.
+Tüm bu laflar, hepsi salakça.
+
+749
+01:12:11,484 --> 01:12:13,948
+Kötü sözler insanları incitiyor.
+
+750
+01:12:13,983 --> 01:12:15,914
+Bu kadar sorun yetmez mi?
+
+751
+01:12:15,949 --> 01:12:18,452
+Bu pisliklerle neden insanları rahatsız
+ediyorlar? Zavallı Doris.
+
+752
+01:12:18,489 --> 01:12:21,721
+Hoşçakal, Linda.
+İyi bir partiydi.
+
+753
+01:12:21,758 --> 01:12:24,957
+Ne utanç.
+Bu duyguları taşıyamıyorum.
+
+754
+01:12:24,995 --> 01:12:27,726
+Tüm o şeyleri unuttum.
+
+755
+01:12:27,763 --> 01:12:30,463
+Oh, üzgünüm, Doris.
+
+756
+01:12:32,962 --> 01:12:34,965
+Geri dönmeyecekler.
+Tamamen yalnız kalacağım.
+
+757
+01:12:35,466 --> 01:12:36,966
+Artık popüler olmayacağım.
+
+758
+01:12:37,468 --> 01:12:39,970
+Beni "Aile"den saymayacaklar.
+
+759
+01:12:40,006 --> 01:12:41,971
+Ve sen Doris'i ağlattın!
+
+760
+01:12:42,472 --> 01:12:44,436
+Ağladı çünkü bu doğru.
+
+761
+01:12:44,474 --> 01:12:47,476
+Şimdi ne yapacaksın?
+Yeterince zarar vermedin mi?
+
+762
+01:12:47,512 --> 01:12:50,477
+Beni rahat bırak, Linda.
+Okumam lazım. Çok fazla.
+
+763
+01:12:50,513 --> 01:12:53,980
+- Neyin var? İyi değil misin?
+- Bir şeyim yok.
+
+764
+01:12:54,017 --> 01:12:56,947
+Okumam gerek.
+
+765
+01:12:56,983 --> 01:13:00,985
+Geçmişte olanları yakalamam gerek!
+
+766
+01:15:15,637 --> 01:15:18,641
+Tamam.
+Siz dördünüz eve!
+
+767
+01:15:18,677 --> 01:15:21,642
+Çizginin dışında tut.
+
+768
+01:15:25,645 --> 01:15:28,148
+- Bu kadar. Acele et. Git.
+- Ya sen, amca?
+
+769
+01:15:28,647 --> 01:15:30,149
+Endişelenme. Devam et!
+
+770
+01:15:30,650 --> 01:15:33,114
+Tamam. Tamam.
+
+771
+01:15:33,151 --> 01:15:36,655
+- Geliyorum.
+- Aç! İçeride olduğunu biliyoruz!
+
+772
+01:15:36,691 --> 01:15:39,657
+Lütfen, bekleyin.
+Geliyorum.
+
+773
+01:15:41,658 --> 01:15:46,163
+- Hadi! Aç şunu!
+- Tamam. Geliyorum!
+
+774
+01:15:46,199 --> 01:15:49,432
+Hadi, hadi.
+
+775
+01:15:49,468 --> 01:15:52,667
+Şimdi, izle.
+
+776
+01:16:20,191 --> 01:16:23,192
+- Bu da ne?
+- Sandalyenin yerini değiştiriyorum.
+
+777
+01:16:23,228 --> 01:16:25,694
+Böylece odanın ortasını genişletiyorum.
+
+778
+01:16:25,731 --> 01:16:28,697
+Ve bu da...
+Bu da şuraya...
+
+779
+01:16:28,734 --> 01:16:31,664
+Buraya.
+
+780
+01:16:31,700 --> 01:16:35,165
+İşte.
+Perdeleri de değiştireceğim.
+
+781
+01:16:35,201 --> 01:16:37,167
+Onları hiç sevmedim.
+Yenilerini alacağım.
+
+782
+01:16:37,204 --> 01:16:39,705
+Çamaşır sepetini de değiştireceğim.
+Karar verdim de...
+
+783
+01:16:39,742 --> 01:16:43,173
+Haklısın.
+Sandalye orada daha iyi.
+
+784
+01:16:43,208 --> 01:16:47,213
+Biliyorsun, iyi değilsin.
+Bütün gece dönüp durdun.
+
+785
+01:16:47,248 --> 01:16:49,981
+Beni uyutmadın.
+Bugün evde kalmalısın.
+
+786
+01:16:50,019 --> 01:16:52,680
+Hayır, hayır, işe gideceğim.
+Gitmeliyim.
+
+787
+01:16:52,716 --> 01:16:55,718
+Çünkü oraya yarın ya da başka bir gün
+gidip gitmeyeceğimi bilmiyorum.
+
+788
+01:16:55,755 --> 01:16:58,721
+- Peki ya terfin?
+- Terfim mi?
+
+789
+01:16:58,758 --> 01:17:01,223
+Bu öncedendi.
+
+790
+01:17:01,258 --> 01:17:03,225
+Montag.
+
+791
+01:17:05,728 --> 01:17:08,980
+Bak, dün gece...
+Uykunda konuşuyordun.
+
+792
+01:17:09,015 --> 01:17:12,197
+Ne olduğunu bilmiyorum.
+Anlamadım.
+
+793
+01:17:12,232 --> 01:17:17,737
+Seni bu hale getiren ne?
+Kafanda neler oluyor?
+
+794
+01:17:17,773 --> 01:17:20,202
+Bilmiyorum ve bilmek de istemiyorum.
+
+795
+01:17:20,237 --> 01:17:24,241
+Bir tek şey istiyorum.
+Seni bu kitaplardan kurtarmak istiyorum.
+
+796
+01:17:24,279 --> 01:17:27,708
+- At onları, Montag.
+- Atacağım. Söz veriyorum.
+
+797
+01:17:27,746 --> 01:17:31,248
+- İstersen ben yaparım.
+- Hayır, ben yapacağım. Okuduktan sonra.
+
+798
+01:17:31,285 --> 01:17:34,752
+Hayır, şimdi.
+Şimdi yap, Montag.
+
+799
+01:17:34,787 --> 01:17:37,755
+Seni terk edeceğim.
+
+800
+01:17:38,254 --> 01:17:40,255
+Bunlarla yaşayamam.
+
+801
+01:17:40,292 --> 01:17:42,274
+Bir seçim yapmalısın.
+
+802
+01:17:42,310 --> 01:17:44,259
+Cevap ver, Montag.
+
+803
+01:17:44,760 --> 01:17:46,760
+Nasıl cevaplayabilirim, Linda?
+
+804
+01:17:46,796 --> 01:17:49,263
+Sadece bilmiyorum.
+
+805
+01:18:17,286 --> 01:18:21,289
+Afedersiniz. Burada amcasıyla yaşayan kızı
+tanıyor musunuz? Clarisse.
+
+806
+01:18:21,325 --> 01:18:24,810
+- Onlar için geldiler.
+- Kim?
+
+807
+01:18:24,846 --> 01:18:28,295
+- Onları götürmek için.
+- Polis mi?
+
+808
+01:18:29,795 --> 01:18:32,799
+Polis değil mi?
+İtafaiyeciler mi?
+
+809
+01:18:36,301 --> 01:18:40,806
+Onları götürmek için geldiler.
+Yaptılar, değil mi?
+
+810
+01:18:40,841 --> 01:18:43,307
+Sadece soru soracaklar.
+Sonra bırakacaklar.
+
+811
+01:18:43,343 --> 01:18:46,275
+Anlatamazsın, değil mi?
+
+812
+01:18:46,310 --> 01:18:49,811
+Onlar bizim gibi değildiler.
+Onlar özeldiler.
+
+813
+01:18:50,313 --> 01:18:52,313
+Orayı görüyor musun?
+
+814
+01:18:54,315 --> 01:18:56,281
+Ve orayı.
+
+815
+01:18:56,317 --> 01:18:59,320
+Ve orayı da.
+Görüyor musun?
+
+816
+01:18:59,357 --> 01:19:02,322
+Şimdi de onların evine bak.
+
+817
+01:19:02,359 --> 01:19:04,325
+Hiçbir şey yok.
+
+818
+01:19:13,331 --> 01:19:16,333
+Sen! Buraya gel!
+Bunun anlamı nedir?
+
+819
+01:19:16,835 --> 01:19:20,337
+- Efendim...
+- Bak! Bunları sana ne kadar anlatmam gerek?
+
+820
+01:19:20,373 --> 01:19:22,839
+Bu konuyu seninle geçen gün konuştum,
+değil mi?
+
+821
+01:19:22,875 --> 01:19:26,842
+Neden dediğimi yapmıyorsun?
+Ha? Neden?
+
+822
+01:19:26,879 --> 01:19:29,846
+Bak! Kendine bak!
+Bak!!
+
+823
+01:19:30,346 --> 01:19:32,847
+Sana demedim mi?
+Senin kafan yok mu?
+
+824
+01:19:43,355 --> 01:19:45,356
+- Yüzbaşı içeride mi?
+- Dışarı çıktı.
+
+825
+01:19:45,394 --> 01:19:47,860
+- Görmedin mi?
+- Hayır.
+
+826
+01:20:52,912 --> 01:20:54,914
+Yüzbaşı.
+
+827
+01:20:54,951 --> 01:20:56,879
+Evet?
+
+828
+01:20:56,916 --> 01:20:59,417
+Dün gece tutuklananlar, efendim.
+
+829
+01:20:59,919 --> 01:21:01,920
+Zamanı geldi.
+
+830
+01:21:03,920 --> 01:21:06,423
+- Ne zamandır bizimlesin?
+- Üç yıldır, efendim.
+
+831
+01:21:06,460 --> 01:21:08,888
+Evet, sen iyi bir adamsın.
+
+832
+01:21:08,924 --> 01:21:11,427
+Hatırlat da sana
+madalyonlarımdan birini vereyim.
+
+833
+01:21:11,465 --> 01:21:14,930
+Benzerlik dikkate değer.
+Görüyorsun.
+
+834
+01:21:14,967 --> 01:21:18,433
+Ben, uh...
+Siz, uh...
+
+835
+01:21:18,934 --> 01:21:21,435
+Bir tane almıştım, efendim.
+
+836
+01:22:15,479 --> 01:22:19,447
+Demek sendin, öyle mi?
+İçeri nasıl girdin?
+
+837
+01:22:19,482 --> 01:22:23,485
+Dün gece yapılan bir tutuklamayla ilgili
+bilgiye ihtiyacım vardı.
+
+838
+01:22:23,521 --> 01:22:26,453
+Bazı bilgileri görmek istiyorum.
+
+839
+01:22:26,488 --> 01:22:28,489
+Montag şimdi de bunlarla mı uğraşıyor?
+
+840
+01:22:28,990 --> 01:22:30,956
+Hayır, efendim.
+Pek değil.
+
+841
+01:22:30,993 --> 01:22:33,493
+Dün gece, dedin.
+Ama kimlikler orada yok.
+
+842
+01:22:33,994 --> 01:22:36,497
+Henüz değil.
+Elime yeni geçti.
+
+843
+01:22:38,497 --> 01:22:40,499
+Şimdi görelim.
+
+844
+01:22:42,501 --> 01:22:45,504
+Bu grubun arasındaysa tabii.
+
+845
+01:22:47,006 --> 01:22:50,008
+- İşte bu.
+- Anlıyorum.
+
+846
+01:22:52,010 --> 01:22:54,510
+Ona göre biraz genç.
+
+847
+01:22:54,549 --> 01:22:56,976
+O kızın amcası.
+
+848
+01:22:57,013 --> 01:23:00,515
+- Arkadaşların mı?
+- Hayır, efendim. Uzaktan tanıyorum.
+
+849
+01:23:00,553 --> 01:23:02,481
+Yakında yaşıyorlar.
+
+850
+01:23:02,517 --> 01:23:06,521
+- Ve sen de evlerinden hoşlanıyordun?
+- Evet, efendim.
+
+851
+01:23:07,021 --> 01:23:08,987
+Eve resmen el kondu.
+
+852
+01:23:09,024 --> 01:23:12,026
+Ama yeğenleri de yakalanmadan
+oraya taşınamazsın.
+
+853
+01:23:12,062 --> 01:23:15,030
+Oh, o...
+Öyleyse o hala dışarıda?
+
+854
+01:23:15,529 --> 01:23:17,492
+Şimdilik, evet.
+
+855
+01:23:17,529 --> 01:23:21,533
+Kimliğine baksana.
+Henüz damgalanmadı.
+
+856
+01:23:21,569 --> 01:23:24,053
+Bir ya da iki gün sürer.
+
+857
+01:23:24,089 --> 01:23:26,537
+Senin evin yapacağız, hmm?
+
+858
+01:23:26,573 --> 01:23:29,039
+İçeri nasıl girdin?
+
+859
+01:23:30,040 --> 01:23:34,044
+Şimdi, tüm bunların anlamı ne?
+
+860
+01:23:34,080 --> 01:23:38,048
+Hmm?
+Hala güvenilmez mi?
+
+861
+01:23:38,084 --> 01:23:40,010
+İçeri girmemeliydin.
+
+862
+01:23:40,047 --> 01:23:42,049
+Kendine bak.
+Ölü gibisin.
+
+863
+01:23:42,551 --> 01:23:45,053
+Biraz temiz hava.
+Tek ihtiyacın olan bu.
+
+864
+01:23:45,088 --> 01:23:48,519
+Temiz hava seni kendine getirir.
+
+865
+01:23:48,555 --> 01:23:54,060
+Bu arada, şu yeğeni görecek olursan...
+
+866
+01:23:54,096 --> 01:23:56,561
+...bize haber ver.
+
+867
+01:23:57,062 --> 01:23:59,065
+Bu, ev işini kolaylaştırır.
+
+868
+01:23:59,100 --> 01:24:01,066
+Elbette, efendim.
+
+869
+01:25:46,985 --> 01:25:49,487
+- Clarisse, seninle konuşmalıyım.
+- Burada olmaz.
+
+870
+01:25:49,524 --> 01:25:52,491
+- Ne oldu?
+- Amcam yakalandı.
+
+871
+01:25:52,526 --> 01:25:54,454
+Ben kaçtım.
+
+872
+01:25:54,492 --> 01:25:56,956
+Peki ama ne oldu?
+
+873
+01:25:56,992 --> 01:25:59,995
+Dün gece geldiler.
+Hepimiz uyuyorduk. Hadi.
+
+874
+01:26:00,033 --> 01:26:03,999
+Bak, eve gitmem lazım.
+Bu çok önemli.
+
+875
+01:26:07,502 --> 01:26:09,504
+Amcam beni uyandırdı ve kaçmamı söyledi.
+
+876
+01:26:10,004 --> 01:26:12,970
+Ben de çatıya çıkıp kaçtım.
+
+877
+01:26:13,006 --> 01:26:14,973
+Burası geleceğin son yer olmalı.
+
+878
+01:26:15,007 --> 01:26:18,010
+Biliyorum ama bulmam gereken bir şey var.
+
+879
+01:26:18,046 --> 01:26:21,012
+Lütfen benimle kal.
+Korkuyorum.
+
+880
+01:26:21,049 --> 01:26:24,014
+Tamam.
+Seninle kalacağım.
+
+881
+01:26:38,027 --> 01:26:40,529
+- Buralarda bir yerde olmalı.
+- Nedir o?
+
+882
+01:26:40,565 --> 01:26:43,494
+Bir şey.
+Bulmam gereken bir şey.
+
+883
+01:26:43,531 --> 01:26:45,997
+- Bulmam ve yok etmem gereken.
+- Bakayım.
+
+884
+01:26:46,032 --> 01:26:50,037
+- Bakmaya nereden başlayacağını bilmiyorsun.
+- Bu benim işim.
+
+885
+01:26:50,537 --> 01:26:53,539
+- Ne kadar büyük?
+- Bu kadar falan.
+
+886
+01:26:54,040 --> 01:26:56,042
+- Kağıtlar.
+- Oh.
+
+887
+01:26:57,542 --> 01:27:00,008
+İşe yaramıyor.
+
+888
+01:27:00,045 --> 01:27:04,510
+- Bulacağız. Endişelenme.
+- Bir adres listesiydi.
+
+889
+01:27:04,546 --> 01:27:08,550
+Amcamın arkadaşları.
+Kim oldukları ve nerede saklandıkları.
+
+890
+01:27:10,052 --> 01:27:12,055
+Onu bulacağız.
+
+891
+01:27:18,559 --> 01:27:20,562
+Ne yapıyorsun?
+
+892
+01:27:33,572 --> 01:27:36,073
+- Bunu yok etmeliyiz.
+- Hı-hı.
+
+893
+01:28:00,594 --> 01:28:04,061
+Sana hep söylemek istedim...
+
+894
+01:28:04,096 --> 01:28:09,101
+...trende karşılaşmamız tesadüf değildi.
+
+895
+01:28:09,138 --> 01:28:12,101
+Seni fark ettim ve takip ettim.
+
+896
+01:28:13,104 --> 01:28:16,105
+Bize yardım edebileceğini düşündüm.
+
+897
+01:28:16,606 --> 01:28:19,610
+Bunu o yaşlı kadın
+kendini öldürdüğünde anladım.
+
+898
+01:28:19,645 --> 01:28:23,631
+- Aranızda bir bağ olduğunu fark ettim.
+- Evet.
+
+899
+01:28:23,667 --> 01:28:27,616
+- Korktu, konuşmak ve uzaklaşmak istedi.
+- Evet.
+
+900
+01:28:27,651 --> 01:28:29,619
+Ve ben...
+
+901
+01:28:30,118 --> 01:28:32,618
+Bu sabah başımı biraz belaya soktum.
+
+902
+01:28:32,655 --> 01:28:35,086
+Aptal, küçük bir kız gibi.
+
+903
+01:28:35,122 --> 01:28:40,590
+Daha fazla itfaiyeci olamam.
+Oradaki ne?
+
+904
+01:28:40,628 --> 01:28:45,094
+Şu mu? Bir sallanan sandalye.
+İnsanlar ona oturur...
+
+905
+01:28:45,130 --> 01:28:48,634
+...sıcak akşamlarda, evlerinin dışında.
+Öne ve arkaya sallanırlar.
+
+906
+01:28:49,133 --> 01:28:53,137
+- Gerçekten mi?
+- Geçen herkesle konuşur.
+
+907
+01:28:53,174 --> 01:28:57,139
+Sadece konuşur.
+Buradan uzaklaşmalıyız.
+
+908
+01:28:58,141 --> 01:29:00,606
+Bir yer biliyorum.
+
+909
+01:29:00,642 --> 01:29:05,647
+Amcam bana gerektiğinde ne yapılacağını
+söyledi... Keşke o da olsaydı.
+
+910
+01:29:06,147 --> 01:29:10,115
+Tren yoluna gitmek için
+nehri tersine doğru izle.
+
+911
+01:29:10,150 --> 01:29:13,654
+Sonra devam et, devam et.
+Kitap insanların yaşadığı yere kadar.
+
+912
+01:29:13,690 --> 01:29:17,657
+- İyi insanlar mı?
+- Hayır, kitap. Kitap insanlar.
+
+913
+01:29:18,155 --> 01:29:20,623
+- Onları duymadın mı?
+- Hayır.
+
+914
+01:29:20,658 --> 01:29:25,663
+Kaybolan insanlar.
+Kimi tutuklandı, kimi kaçtı.
+
+915
+01:29:26,162 --> 01:29:30,666
+Bir kısmı bırakıldı. Kimi yakalanmayı
+beklemedi. Sadece kendilerini sakladılar.
+
+916
+01:29:30,702 --> 01:29:35,134
+Ormanlarda, tepelerde yaşıyorlar.
+Küçük gruplar halindeler.
+
+917
+01:29:35,171 --> 01:29:40,173
+Kanun onlara dokunamıyor. Yasak bir şeyleri yok
+ve huzur içinde yaşıyorlar.
+
+918
+01:29:40,211 --> 01:29:42,695
+Eğer şehre gelirlerse, uzun süre kalamazlar.
+
+919
+01:29:42,731 --> 01:29:45,955
+Ama onlara niye kitap insanlar diyorsun...
+
+920
+01:29:45,994 --> 01:29:49,339
+...eğer kanuna karşı bir şey yapmıyorlarsa?
+
+921
+01:29:49,375 --> 01:29:52,684
+Onlar kitap.
+Her biri. Erkekler ve kadınlar.
+
+922
+01:29:53,185 --> 01:29:58,654
+Her biri hafızasını kullanarak
+bir kitap haline gelmiş.
+
+923
+01:29:58,690 --> 01:30:03,693
+Elbette, şimdi ya da sonra birileri
+durdurulacak ve yakalanacak.
+
+924
+01:30:03,730 --> 01:30:06,195
+Bu nedenle çok dikkatliler.
+
+925
+01:30:06,696 --> 01:30:12,201
+Çünkü onların taşıdıkları sır
+dünyanın en gizli şeyi.
+
+926
+01:30:12,237 --> 01:30:16,169
+Onlarla, insaların bilgisi sürüyor.
+
+927
+01:30:16,204 --> 01:30:19,707
+- Benimle gelmelisin.
+- Hayır, henüz değil.
+
+928
+01:30:20,207 --> 01:30:25,210
+Benim için çok yakın.
+Hala kitap yakıyorum.
+
+929
+01:30:25,248 --> 01:30:28,677
+Evet, sonra, belki.
+
+930
+01:30:28,714 --> 01:30:31,716
+Ama hayatımdaki her şey aniden değişti.
+
+931
+01:30:31,752 --> 01:30:34,720
+Şehirde kalmalıyım.
+Bir planım var.
+
+932
+01:30:35,219 --> 01:30:38,221
+Her itfaiyecinin evine bir kitap saklayacağım
+ve sonra da ihbar edeceğim.
+
+933
+01:30:38,724 --> 01:30:41,188
+Sitem keni kendini yiyecek.
+
+934
+01:30:41,224 --> 01:30:46,730
+Yakma çılgınlığını durdurmak zorundayız.
+
+935
+01:30:46,764 --> 01:30:49,229
+Şimdi gitmeliyiz.
+
+936
+01:30:52,233 --> 01:30:54,198
+Ayrılalım.
+
+937
+01:30:54,233 --> 01:30:58,239
+Sen kitap insanlara git,
+ben de bununla başedeceğim.
+
+938
+01:30:58,275 --> 01:31:01,205
+Birbirimizi tekrar göreceğiz.
+
+939
+01:31:01,241 --> 01:31:03,743
+Hayır, görmeyeceğiz.
+Neden öyleymiş gibi davranıyoruz?
+
+940
+01:31:03,780 --> 01:31:07,246
+Haklısın. Yapamayız.
+
+941
+01:31:43,441 --> 01:31:46,445
+Tekrar iyi misin? İyi, harika.
+Hadi, acele et. Kaybedecek vaktimiz yok.
+
+942
+01:31:46,481 --> 01:31:48,446
+Üzgünüm, efendim.
+Size söylemem gerek...
+
+943
+01:31:48,484 --> 01:31:51,413
+Daha fazla kalamam, efendim.
+
+944
+01:31:51,449 --> 01:31:55,952
+Kalamaz mısın? Ama işleri yapmanın yolu
+bu değildir, Montag.
+
+945
+01:31:55,987 --> 01:31:59,473
+- Hem de terfi zamanı.
+- Yarın gelmeyeceğim.
+
+946
+01:31:59,509 --> 01:32:02,958
+Yarın başka bir gündür.
+Bugün emrim altındasın.
+
+947
+01:32:02,994 --> 01:32:06,461
+Montag, sana herkes gibi soruyorum.
+
+948
+01:32:06,498 --> 01:32:09,427
+Lütfen. Lütfen!
+
+949
+01:32:09,463 --> 01:32:13,968
+Diğerlerinin önünde
+bana böyle davranamazsın.
+
+950
+01:32:14,004 --> 01:32:18,470
+Bu son çağrı.
+Sonra ne istersen yapabilirsin.
+
+951
+01:32:18,507 --> 01:32:20,972
+Montag.
+
+952
+01:33:32,030 --> 01:33:34,782
+Bu benim evim.
+
+953
+01:33:34,818 --> 01:33:37,534
+Hı-hı. Bu doğru.
+
+954
+01:33:45,542 --> 01:33:48,544
+- Linda!
+- Bunu kaldıramadım.
+
+955
+01:33:49,043 --> 01:33:52,047
+Daha fazla dayanamadım.
+
+956
+01:33:57,553 --> 01:34:02,055
+Pekala, şimdi Montag ne aradığımızı biliyor.
+
+957
+01:34:02,555 --> 01:34:05,022
+Sanırım bu işi ona bırakabiliriz.
+
+958
+01:34:05,057 --> 01:34:10,562
+Nasıl bulunacağını bilmek için nasıl
+saklanacağını bilmek gerek, değil mi?
+
+959
+01:34:10,597 --> 01:34:13,565
+İşini bilen adamları severim.
+Siz, evin geri kalanını kontrol edin.
+
+960
+01:34:19,571 --> 01:34:25,074
+Her şey hazır mı, Fabian?
+Hadi, acele et.
+
+961
+01:34:32,580 --> 01:34:36,083
+Hadi, ateş silahını getir.
+
+962
+01:34:36,583 --> 01:34:40,086
+Montag'ın evi olduğuna göre
+bu şerefi ona bırakmalıyız.
+
+963
+01:34:47,092 --> 01:34:51,095
+Orada ne yapıyorsun?
+Kızgın mısın?
+
+964
+01:34:52,597 --> 01:34:57,600
+Hadi, buraya dön!
+Sadece kitaplar! Kitaplar!
+
+965
+01:34:57,637 --> 01:35:02,605
+Ne yaptığını sanıyorsun?
+Buna gerek yok!
+
+966
+01:35:04,104 --> 01:35:06,107
+Kitaplar dedim, Montag!
+
+967
+01:35:09,610 --> 01:35:11,612
+Bu güzel.
+Görmek istediğim bu.
+
+968
+01:35:12,112 --> 01:35:17,116
+Güzel neden.
+Romanlar hayat değildir.
+
+969
+01:35:17,152 --> 01:35:20,619
+Montag tüm bunlardan ne umdu?
+
+970
+01:35:21,120 --> 01:35:24,622
+Mutluluk mu?
+Zavallı bir aptal olmalısın.
+
+971
+01:35:25,123 --> 01:35:27,588
+Bu anlamsızlık insanı delirtmeye yeter.
+
+972
+01:35:27,624 --> 01:35:31,628
+Bunlardan suyun üstünde nasıl yürüyeceğini
+öğreneceğini sanıyorsun, değil mi?
+
+973
+01:35:31,664 --> 01:35:33,594
+Montag biraz düşünmeyi öğrenmeli.
+
+974
+01:35:33,630 --> 01:35:37,133
+Düşünsene, tüm bu yazılanlar mutluluğu
+nasıl garanti edebilir.
+
+975
+01:35:37,169 --> 01:35:40,635
+Şimdi bırak da yansınlar.
+
+976
+01:35:41,135 --> 01:35:45,639
+Biliyorsun ki şu an insanların
+mutluluğu için çalışıyoruz.
+
+977
+01:35:45,675 --> 01:35:47,642
+Bak, güzel değil mi?
+Sayfalar.
+
+978
+01:35:48,142 --> 01:35:53,109
+Çiçek yaprakları ya da kelebek gibi.
+Parlak ve siyah.
+
+979
+01:35:53,146 --> 01:35:59,151
+Bu büyüleyici şeyleri kim açıklayabilir?
+Bize bunu ne çizdirebilir?
+
+980
+01:35:59,189 --> 01:36:02,151
+Genç ya da yaşlı olmamız farketmez.
+
+981
+01:37:10,708 --> 01:37:14,211
+Söyleyecek bir şeyin yok mu?
+İşte ruh bu.
+
+982
+01:37:14,712 --> 01:37:18,215
+- Bu gerçek bilgelik.
+- Biri hala onda.
+
+983
+01:37:18,251 --> 01:37:21,680
+Senin neyin var?
+Bu özel kitabın mı?
+
+984
+01:37:21,717 --> 01:37:24,220
+O da diğerleriyle beraber yanacak,
+sen de tutuklusun.
+
+985
+01:37:42,735 --> 01:37:44,735
+Montag.
+
+986
+01:37:53,243 --> 01:37:56,209
+Dışarı çıkın!
+
+987
+01:37:56,245 --> 01:38:00,249
+Herkes dışarı çıksın, çabuk!
+Delirmiş!
+
+988
+01:38:04,753 --> 01:38:08,256
+Hemen şimdi! Gidin!
+
+989
+01:38:29,104 --> 01:38:33,360
+Sokaklarda koşan adama dikkat edin.
+
+990
+01:38:33,395 --> 01:38:37,614
+Tekrarlıyorum.
+Tüm vatandaşlara çağrı.
+
+991
+01:38:37,649 --> 01:38:41,114
+Cinayetten aranıyor: Montag.
+
+992
+01:38:41,151 --> 01:38:44,385
+Görevi: İtfaiyeci.
+
+993
+01:38:44,421 --> 01:38:47,583
+Suçlu yalnız ve yaya.
+
+994
+01:38:47,621 --> 01:38:50,623
+Şimdi herkes ön kapısında dursun.
+
+995
+01:38:50,660 --> 01:38:54,089
+Bakın ve dinleyin.
+
+996
+01:38:54,126 --> 01:38:57,128
+Sokaklarda koşan adama dikkat edin.
+
+997
+01:38:57,629 --> 01:39:01,631
+Tekrarlıyorum.
+Tüm vatandaşlara çağrı.
+
+998
+01:39:02,131 --> 01:39:05,134
+Cinayetten aranıyor: Montag.
+
+999
+01:39:05,171 --> 01:39:08,655
+Görevi: İtfaiyeci.
+
+1000
+01:39:08,691 --> 01:39:12,104
+Suçlu yalnız ve yaya.
+
+1001
+01:39:12,140 --> 01:39:15,142
+Şimdi herkes ön kapısında dursun.
+
+1002
+01:39:15,179 --> 01:39:18,646
+Bakın ve dinleyin.
+
+1003
+01:42:23,213 --> 01:42:25,213
+- Ben...
+- Senin kim olduğunu biliyoruz.
+
+1004
+01:42:25,251 --> 01:42:27,681
+Son dakika adamısın.
+Gel.
+
+1005
+01:42:27,717 --> 01:42:31,720
+- Gel ve tutuklanmanı gör.
+- Tutuklanmam mı?
+
+1006
+01:42:31,755 --> 01:42:34,239
+Doğru.
+Güzel kuzenimiz...
+
+1007
+01:42:34,277 --> 01:42:36,723
+...bugün özellikle eğlenceli.
+
+1008
+01:42:36,761 --> 01:42:38,727
+Göreceksin.
+
+1009
+01:42:40,727 --> 01:42:42,692
+Oh, afedersin.
+
+1010
+01:42:42,728 --> 01:42:46,731
+Ben Stendhal'ın 'Henri Brilard'ın Günlüğü'yüm.
+
+1011
+01:42:56,240 --> 01:43:01,243
+Montag hala kaçıyor ama
+zaman hızla ilerliyor.
+
+1012
+01:43:01,281 --> 01:43:03,210
+Ah, işte orada.
+
+1013
+01:43:03,246 --> 01:43:06,500
+Hava devriyesi aranan adamın peşinde.
+
+1014
+01:43:06,535 --> 01:43:09,393
+Seyircinin ilgisini uzun süre tutamazlar.
+
+1015
+01:43:09,430 --> 01:43:12,253
+Gösteri devam etmeli.
+Birini bulacaklardır.
+
+1016
+01:43:12,290 --> 01:43:17,721
+Herkes en heyecanlı yerini bekliyor.
+
+1017
+01:43:17,757 --> 01:43:21,511
+İşte orada.
+Şimdi daha net görebilirsiniz.
+
+1018
+01:43:21,546 --> 01:43:25,264
+İşte Montag.
+Tuzağın içine doğru koşuyor.
+
+1019
+01:43:26,764 --> 01:43:29,769
+Tıpkı korkmuş bir sıçan gibi.
+
+1020
+01:43:34,271 --> 01:43:38,733
+Bakın ona, kuzenler.
+
+1021
+01:44:05,255 --> 01:44:10,259
+Bitti, kuzenler.
+Montag öldü.
+
+1022
+01:44:10,759 --> 01:44:15,727
+Topluma karşı işlenen suç
+cezalandırıldı.
+
+1023
+01:44:15,763 --> 01:44:19,266
+Adamın yüzünü asla açıkça göstermezler.
+Elbette, çok uzaktaydı.
+
+1024
+01:44:19,302 --> 01:44:23,768
+Arkadaşların bile öldüğüne inanmıştır.
+
+1025
+01:44:26,272 --> 01:44:29,774
+İşte. Bu senin için.
+
+1026
+01:44:30,275 --> 01:44:31,776
+"Ay parıldıyor, somurtkan..."
+
+1027
+01:44:34,279 --> 01:44:36,782
+"Çünkü güneşi düşünüyor."
+"Çünkü güneşi düşünüyor."
+
+1028
+01:44:37,280 --> 01:44:40,783
+"Gün doğduğunda yapacak..."
+"Gün doğduğunda yapacak..."
+
+1029
+01:44:41,284 --> 01:44:43,786
+"...bir işi kalmayacak."
+"...bir işi kalmayacak."
+
+1030
+01:44:44,286 --> 01:44:48,290
+"O çok kaba, dedi."
+"O çok kaba, dedi."
+
+1031
+01:44:51,792 --> 01:44:54,044
+Plato'nun 'Cumhuriyet'iyle ilgilenir misin?
+
+1032
+01:44:54,080 --> 01:44:57,188
+- Eee...
+- Ben Plato'nun 'Cumhuriyet'iyim.
+
+1033
+01:44:57,226 --> 01:45:00,264
+- İstersen sana okurum.
+- Teşekkür ederim.
+
+1034
+01:45:00,301 --> 01:45:03,301
+İşte Emily Bronte'nin 'Wuthering Tepeleri'.
+
+1035
+01:45:03,337 --> 01:45:05,303
+Ve Byron'ın 'Corsair'i.
+
+1036
+01:45:06,804 --> 01:45:09,771
+Eskiden bir polis şefiyle evliymiş.
+
+1037
+01:45:09,807 --> 01:45:13,774
+Lewis Carrol'un 'Alis Harikalar Diyarında'sı..
+
+1038
+01:45:13,810 --> 01:45:17,813
+Aynadaki Alis bugün nerede?
+Buralarda bir yerlerde olmalı.
+
+1039
+01:45:17,850 --> 01:45:20,279
+John Bunyan'ın 'Pilgrim's Progress'.
+
+1040
+01:45:20,316 --> 01:45:22,568
+Kitaplarını yemiş, o yüzden yakamamışlar.
+
+1041
+01:45:22,605 --> 01:45:24,783
+'Godot'yu Beklerken', Samuel Beckett.
+
+1042
+01:45:24,818 --> 01:45:28,322
+Bize doğru gelen sarışını görüyor musun?
+Yüzünün kızarmasını seyret.
+
+1043
+01:45:28,359 --> 01:45:31,825
+Ben Jean-Paul Sarte'tan 'Yahudi Sorusu'.
+Tanıştığımıza memnun oldum.
+
+1044
+01:45:34,328 --> 01:45:36,828
+Ray Bradbury'nin 'Mars Yıllıkları'.
+
+1045
+01:45:39,331 --> 01:45:41,296
+- Tanıştırmama izin ver...
+- Oh, ben mi?
+
+1046
+01:45:41,333 --> 01:45:45,337
+- Charles Dickens'ın 'Pickwick Papers'ı.
+- Oh, Charles Dickens?
+
+1047
+01:45:45,372 --> 01:45:47,300
+Bir kitabını okumuştum.
+
+1048
+01:45:47,337 --> 01:45:50,340
+- 'David Copperfield'.
+- Bir 'David Copperfield'ımız var.
+
+1049
+01:45:50,377 --> 01:45:52,341
+Güneyde başka bir grupla birlikte.
+
+1050
+01:45:52,377 --> 01:45:56,809
+Ben Machievelli'nin 'Prens'i.
+
+1051
+01:45:56,845 --> 01:45:58,846
+Gördüğün gibi bir kitabı
+kapağıyla değerlendiremezsin.
+
+1052
+01:46:08,854 --> 01:46:11,357
+Ben Jane Austin'den 'Pride and Prejudice'.
+
+1053
+01:46:11,393 --> 01:46:13,859
+Ben Jane Austin'den 'Pride and Prejudice'.
+
+1054
+01:46:13,895 --> 01:46:15,823
+İkiniz de aynı kitap mısınız?
+
+1055
+01:46:15,860 --> 01:46:18,863
+- Kardeşim cilt bir.
+- Kardeşim cilt iki.
+
+1056
+01:46:18,900 --> 01:46:20,864
+Tanıştığıma memnun oldum.
+
+1057
+01:46:24,368 --> 01:46:26,333
+İlkine Pride diyoruz.
+
+1058
+01:46:26,369 --> 01:46:29,373
+Diğerine de Prejudice.
+Bundan hoşlandıklarını sanmıyorum.
+
+1059
+01:47:18,912 --> 01:47:22,914
+Burada 50 kişiyiz.
+Ama çevrede daha da fazlası var.
+
+1060
+01:47:23,416 --> 01:47:27,381
+Issız tren yollarında,
+amaçsız yollarda.
+
+1061
+01:47:27,420 --> 01:47:30,422
+Dışarıdan bakınca serseri,
+içeriden bakınca kütüphane.
+
+1062
+01:47:30,922 --> 01:47:32,887
+Bu planlanmamıştı.
+
+1063
+01:47:32,924 --> 01:47:37,428
+Burada bir adam ve orada bir adam
+bazı kitapları sevdiler.
+
+1064
+01:47:37,928 --> 01:47:39,928
+Ve kaybetmektense öğrenmeyi tercih ettiler.
+
+1065
+01:47:39,965 --> 01:47:43,394
+Ve biraraya geldik.
+
+1066
+01:47:43,432 --> 01:47:48,936
+Biz doğada ağlayan sakıncalı azınlığız.
+
+1067
+01:47:48,973 --> 01:47:50,938
+Ama her zaman böyle olmayacak.
+
+1068
+01:47:51,439 --> 01:47:55,442
+Bir gün öğrendiklerimizi okumak üzere
+teker teker çağrılacağız.
+
+1069
+01:47:55,479 --> 01:47:58,463
+Ve o zaman kitaplar tekrar basılacak.
+
+1070
+01:47:58,500 --> 01:48:01,446
+Ve sonraki çağ, karanlık çökecek.
+
+1071
+01:48:01,482 --> 01:48:05,450
+Aynı şeyler tekrar edecek.
+
+1072
+01:48:07,452 --> 01:48:09,953
+- Yanımda bir tane var.
+- Evet?
+
+1073
+01:48:14,457 --> 01:48:17,423
+Nedir bu?
+Bir bakayım.
+
+1074
+01:48:17,460 --> 01:48:21,464
+"Gizemli ve Hayali Hikayeler
+Edgar Allen Poe."
+
+1075
+01:48:24,464 --> 01:48:28,468
+- Çabuk öğren, sonra da yakalım.
+- Yakıyor musunuz?
+
+1076
+01:48:28,504 --> 01:48:31,470
+Mecburuz.
+Böylece kimse bizden alamaz.
+
+1077
+01:48:31,971 --> 01:48:33,937
+Evet, kitapları yakıyoruz.
+
+1078
+01:48:33,972 --> 01:48:38,978
+Fakat onları kimsenin bulamayacağı
+bir yerde tutuyoruz.
+
+1079
+01:48:39,014 --> 01:48:43,982
+Aslında yaktığımız sadece
+Aziz Simon'un Anıları.
+
+1080
+01:48:45,482 --> 01:48:48,949
+Görüyorsun, Montag.
+Oradaki adam uzun süre yaşamayacak.
+
+1081
+01:48:48,985 --> 01:48:52,989
+O Robert Louis Stevenson'ın 'Herminston'un
+Çiti'. Çocuk da yeğeni.
+
+1082
+01:48:53,025 --> 01:48:56,455
+Şimdi kendini ezberlemeye verdi.
+Böylece bir kitap olacak.
+
+1083
+01:48:56,492 --> 01:49:01,495
+"Sessiz olacağım, diye açıkladı Archie.
+Ben de açık sözlü olacağım."
+
+1084
+01:49:01,533 --> 01:49:06,501
+"Babamı sevmiyorum. Bazen ondan nefret
+ettiğimi hayal ediyorum."
+
+1085
+01:49:07,000 --> 01:49:11,003
+"Sessiz olacağım, diye açıkladı Archie.
+Ben de açık sözlü olacağım."
+
+1086
+01:49:11,040 --> 01:49:15,007
+"Babamı sevmiyorum. Bazen ondan nefret
+ettiğimi hayal ediyorum."
+
+1087
+01:49:15,043 --> 01:49:17,471
+"Bu benim utancım, belki de günahım."
+
+1088
+01:49:17,509 --> 01:49:21,011
+"Ama sonuçta Tanrı huzurunda
+benim hatam değil."
+
+1089
+01:49:21,047 --> 01:49:23,477
+"Bu benim utancım, belki de günahım."
+
+1090
+01:49:23,514 --> 01:49:26,516
+"Ama sonuçta Tanrı huzurunda
+benim hatam değil."
+
+1091
+01:49:26,551 --> 01:49:28,982
+"Onu nasıl sevebilirim?"
+
+1092
+01:49:29,018 --> 01:49:32,270
+"Benimle asla konuşmadı,
+gülümsemedi bile."
+
+1093
+01:49:32,305 --> 01:49:35,486
+"Bana bir kez olsun
+dokunduğunu hatırlamam."
+
+1094
+01:49:35,523 --> 01:49:39,527
+"Onu nasıl sevebilirim?
+Benimle asla konuşmadı, gülümsemedi bile."
+
+1095
+01:49:39,563 --> 01:49:41,528
+"Bana bir kez olsun
+dokunduğunu hatırlamam."
+
+1096
+01:49:41,566 --> 01:49:44,530
+"Herşeyden çok ölümden korkardı."
+
+1097
+01:49:45,033 --> 01:49:48,034
+"Ve düşündüğü gibi öldü."
+
+1098
+01:49:48,070 --> 01:49:51,000
+"Kışın ilk karı düştüğünde."
+
+1099
+01:49:51,037 --> 01:49:55,503
+"Herşeyden çok ölümden korkardı."
+
+1100
+01:49:55,538 --> 01:49:58,542
+"Ve-- "
+"Ve kışın ilk karı düştüğünde..."
+
+1101
+01:49:59,044 --> 01:50:02,045
+"Ve düşündüğü gibi öldü-- "
+"Ve düşündüğü gibi öldü-- "
+
+1102
+01:50:02,082 --> 01:50:05,047
+"Ve düşündüğü gibi öldü."
+"Ve düşündüğü gibi öldü."
+
+1103
+01:50:05,083 --> 01:50:08,051
+"Kışın ilk karı düştüğünde."
+
+1104
+01:50:18,058 --> 01:50:21,810
+"Sessiz olacağım, diye açıkladı Archie.
+Ben de açık sözlü olacağım."
+
+1105
+01:50:21,847 --> 01:50:25,564
+"Babamı sevmiyorum. Bazen ondan nefret
+ettiğimi hayal ediyorum."
+
+1106
+01:50:25,602 --> 01:50:27,530
+"Bu benim utancım, belki de günahım."
+
+1107
+01:50:27,565 --> 01:50:30,532
+"Ama sonuçta Tanrı huzurunda
+benim hatam değil."
+
+1108
+01:50:30,570 --> 01:50:34,572
+"Onu nasıl sevebilirim?
+Benimle asla konuşmadı, gülümsemedi bile."
+
+1109
+01:50:34,609 --> 01:50:38,575
+"Bana bir kez olsun
+dokunduğunu hatırlamam."
+
+1110
+01:50:41,577 --> 01:50:45,079
+"Herşeyden çok ölümden korkardı."
+
+1111
+01:50:45,116 --> 01:50:47,351
+"Ve düşündüğü gibi öldü."
+
+1112
+01:50:47,386 --> 01:50:49,583
+"Kışın ilk karı düştüğünde."
+
+1113
+01:51:16,106 --> 01:51:19,607
+"Size korku dolu bir hikaye anlatacağım."
+
+1114
+01:51:35,121 --> 01:51:38,623
+"Onu memnuniyetle saklayacağım,
+o bir tarih değil."
+
+1115
+01:51:43,128 --> 01:51:45,129
+"Şimdi anlatacak ne kadar çok..."
+
+1116
+01:51:45,166 --> 01:51:49,633
+"Bu arada Bay Pickwick..."
