@@ -1,0 +1,4353 @@
+1
+00:05:02,850 --> 00:05:07,850
+<b>PROMETHEUS</b>
+
+2
+00:05:30,965 --> 00:05:33,010
+Charlie'yi çağır.
+
+3
+00:05:43,286 --> 00:05:45,848
+Doktor Holloway!
+
+4
+00:05:47,541 --> 00:05:50,669
+Charlie!
+
+5
+00:05:57,926 --> 00:06:01,721
+- Ne var?
+- Çabuk gel!
+
+6
+00:06:30,959 --> 00:06:32,961
+Yaşını belirleyebildin mi?
+
+7
+00:06:33,044 --> 00:06:35,839
+35 bin yıl, belki de daha eski.
+
+8
+00:06:59,237 --> 00:07:02,491
+Şaka yapıyor olmalısın.
+
+9
+00:07:04,493 --> 00:07:07,537
+Aynı yıldız kümesi.
+
+10
+00:07:08,205 --> 00:07:12,542
+Diğerlerinden yaklaşık
+bin yıl kadar daha eski.
+
+11
+00:07:25,388 --> 00:07:29,100
+Bence gelip bunları
+bulmamızı istemişler.
+
+12
+00:07:48,119 --> 00:07:51,665
+<i>Bilimsel Keşif Aracı: PROMETHEUS</i>
+
+13
+00:07:51,706 --> 00:07:53,750
+<i>Mürettebat: 17 Kişi</i>
+
+14
+00:07:53,792 --> 00:07:56,586
+<i>Tarih: 21 Aralık 2093</i>
+
+15
+00:07:56,628 --> 00:08:00,173
+<i>Dünya'dan Uzaklık: 3.27 x 100¹³ Km</i>
+
+16
+00:08:00,215 --> 00:08:03,760
+<i>Hedef Gezegen: Açıklanmamış</i>
+
+17
+00:08:37,335 --> 00:08:41,214
+- Şu adama ne olmuş?
+- Ölmüş.
+
+18
+00:08:41,339 --> 00:08:45,218
+Neden ona yardım etmiyorsun?
+
+19
+00:08:45,260 --> 00:08:49,639
+Benim yardımımı istemiyorlar.
+Onların tanrısı bizimkinden farklı.
+
+20
+00:08:50,765 --> 00:08:53,567
+Adam neden ölmüş?
+
+21
+00:08:53,602 --> 00:08:57,606
+- Er ya da geç herkes ölür.
+- Annem gibi mi?
+
+22
+00:08:58,607 --> 00:09:01,193
+Annen gibi.
+
+23
+00:09:01,610 --> 00:09:04,654
+Ölünce nereye giderler?
+
+24
+00:09:04,696 --> 00:09:07,032
+Herkes başka bir şey söyler.
+
+25
+00:09:07,073 --> 00:09:11,411
+Cennet, Öbür Dünya...
+
+26
+00:09:11,453 --> 00:09:14,247
+Adı her neyse artık,
+çok güzel bir yerdir.
+
+27
+00:09:14,289 --> 00:09:17,799
+Güzel olduğunu nereden biliyorsun?
+
+28
+00:09:17,834 --> 00:09:21,838
+Çünkü buna inanmayı seçtim.
+Sen neye inanıyorsun Ellie?
+
+29
+00:09:55,580 --> 00:09:58,458
+Günaydın David.
+
+30
+00:09:58,667 --> 00:10:01,920
+Mesaj iletiliyor.
+
+31
+00:10:03,380 --> 00:10:05,674
+Yanıt yok.
+
+32
+00:10:14,766 --> 00:10:17,769
+<i>Bu artikülasyon
+Hint-Avrupa dillerinin...</i>
+
+33
+00:10:17,811 --> 00:10:21,481
+<i>...sözsüz iletişim biçimi olarak
+beyan edilmesine rağmen, bu yapı...</i>
+
+34
+00:10:21,565 --> 00:10:27,028
+<i>...5 bin yıl ya da daha eskiye dayanan
+antik dönemlere ait bir sesbirimseldir.</i>
+
+35
+00:10:27,070 --> 00:10:29,531
+<i>Şimdi de Schleicher Fable yapalım.</i>
+
+36
+00:10:29,573 --> 00:10:31,700
+<i>Benden sonra tekrarla.</i>
+
+37
+00:10:43,336 --> 00:10:45,345
+<i>Harika.</i>
+
+38
+00:10:45,380 --> 00:10:49,634
+<i>- Bay Lawrence. - Evet?
+- Kağıdınızı getirdim. - Teşekkürler.</i>
+
+39
+00:10:56,850 --> 00:11:00,228
+<i>Bunu çok sık yapma.
+Sonuçta sen de insansın.</i>
+
+40
+00:11:00,270 --> 00:11:03,356
+<i>Michael George Hartley,
+sen bir filozofsun.</i>
+
+41
+00:11:03,398 --> 00:11:06,026
+<i>Ve tam bir çatlaksın!</i>
+
+42
+00:11:08,945 --> 00:11:13,366
+<i>- Çok fena acıttı!
+- Acıtır tabii ki.</i>
+
+43
+00:11:13,408 --> 00:11:15,410
+<i>Bu işin sırrı ne peki?</i>
+
+44
+00:11:15,452 --> 00:11:19,498
+<i>William Potter, işin sırrı;
+acıttığını umursamamak.</i>
+
+45
+00:11:19,539 --> 00:11:22,959
+William Potter, işin sırrı...
+
+46
+00:11:23,043 --> 00:11:26,505
+...acıttığını umursamamak.
+
+47
+00:11:52,447 --> 00:11:59,538
+<i>Dikkat!
+Hedefe yaklaşıldı.</i>
+
+48
+00:11:59,788 --> 00:12:03,041
+<i>Dikkat!
+Hedefe yaklaşıldı.</i>
+
+49
+00:13:04,895 --> 00:13:07,481
+Bornoz.
+
+50
+00:13:17,157 --> 00:13:19,117
+Ne kadar oldu?
+
+51
+00:13:19,159 --> 00:13:22,454
+2 sene, 4 ay, 18 gün,
+36 saat, 15 dakika...
+
+52
+00:13:22,496 --> 00:13:26,374
+- Kayıp var mı?
+- Kayıp derken yani efendim?
+
+53
+00:13:26,416 --> 00:13:30,253
+- Ölen oldu mu?
+- Hayır efendim, herkes iyi.
+
+54
+00:13:31,338 --> 00:13:33,924
+Öyleyse uyandır hepsini.
+
+55
+00:13:44,518 --> 00:13:47,646
+Sakinleşmeye çalışın Dr. Shaw.
+
+56
+00:13:47,729 --> 00:13:50,405
+Benim adım David.
+
+57
+00:13:50,440 --> 00:13:53,109
+Beyniniz ve bedeniniz şok durumunda.
+
+58
+00:13:53,151 --> 00:13:57,656
+Kan dolaşımının durması yüzünden tabii.
+Bunların hepsi gayet normaldir.
+
+59
+00:13:57,697 --> 00:14:01,910
+Ellie, buradayız bebeğim.
+
+60
+00:14:07,123 --> 00:14:10,710
+<i>Bolca su için,
+bolca sıvı tüketin.</i>
+
+61
+00:14:10,794 --> 00:14:14,256
+<i>Hidrasyon kas kütleye faydalıdır.</i>
+
+62
+00:14:17,759 --> 00:14:20,846
+<i>Tüm mürettebata,
+yüksek kalorili gıdalar tüketin.</i>
+
+63
+00:14:27,686 --> 00:14:30,730
+Bu da ne böyle?
+
+64
+00:14:31,940 --> 00:14:36,361
+Yılbaşı geldi, eğlencenin sürdüğünü
+göstermek için biraz tatil yapmak lazım.
+
+65
+00:14:36,403 --> 00:14:39,364
+Görev bilgilendirmesi
+başlamak üzere Kaptan.
+
+66
+00:14:39,406 --> 00:14:41,616
+Salona insen iyi olur.
+
+67
+00:14:41,700 --> 00:14:43,869
+Daha kahvaltımı bile yapmadım.
+
+68
+00:14:43,910 --> 00:14:45,828
+Bu sandalye boş mu?
+
+69
+00:14:45,829 --> 00:14:49,666
+Ben Millburn, biyolog,
+tanıştığıma memnun oldum.
+
+70
+00:14:54,379 --> 00:14:58,133
+Üzerine alınma ama
+iki yıldır uykudaydım.
+
+71
+00:14:58,175 --> 00:15:02,220
+Buraya senin arkadaşın olmaya gelmedim.
+
+72
+00:15:02,304 --> 00:15:06,266
+Para kazanmaya geldim, anladın mı?
+
+73
+00:15:08,059 --> 00:15:10,020
+Tamam.
+
+74
+00:15:10,061 --> 00:15:13,148
+Bunun bir dünyalaştırma incelemesi
+olduğuna 100 kredisine iddiaya girerim.
+
+75
+00:15:13,231 --> 00:15:16,032
+- İnceleme olsaydı bize söylerlerdi.
+- Şirket işi sonuçta.
+
+76
+00:15:16,067 --> 00:15:20,447
+- Boşversene, bize hiçbir şey anlatmıyorlar.
+- Yüz diyorsun yani, tamamdır.
+
+77
+00:15:25,035 --> 00:15:29,206
+- Gergin görünüyorsun Ellie.
+- Heyecandan ayaklarım yere basmıyor.
+
+78
+00:15:29,247 --> 00:15:32,229
+- Seni tanırım, kesin öylesindir.
+- Günaydın.
+
+79
+00:15:32,264 --> 00:15:35,212
+Şahsen seçtiğim
+arkadaşlar için söylüyorum...
+
+80
+00:15:35,253 --> 00:15:37,214
+...tekrardan görüştüğümüze
+sevindim.
+
+81
+00:15:37,255 --> 00:15:39,174
+Diğerleri içinse, ben Meredith Vickers.
+
+82
+00:15:39,216 --> 00:15:42,385
+Benim işim kendinizinkini
+yaptığınızdan emin olmak.
+
+83
+00:15:42,469 --> 00:15:46,181
+Pekâlâ öyleyse, gösteriye başlayalım.
+
+84
+00:15:50,477 --> 00:15:54,856
+<i>Weyland Şirketi.
+Daha iyi dünyalar inşa eder.</i>
+
+85
+00:15:55,857 --> 00:15:58,652
+Merhaba arkadaşlar.
+
+86
+00:15:59,444 --> 00:16:02,447
+Benim adım Peter Weyland.
+
+87
+00:16:03,281 --> 00:16:05,408
+Ben sizin patronunuzum.
+
+88
+00:16:05,450 --> 00:16:09,746
+Bu görüntüyü 22 Haziran 2091
+yılında kaydediyorum.
+
+89
+00:16:09,788 --> 00:16:13,959
+Bunu izliyorsanız
+hedefinize ulaştınız demektir.
+
+90
+00:16:13,994 --> 00:16:16,670
+Bense uzun zaman önce
+öldüm demektir.
+
+91
+00:16:16,795 --> 00:16:19,346
+Huzur içinde yatayım.
+
+92
+00:16:19,381 --> 00:16:23,176
+Bugün aranızda
+David adında bir adam var.
+
+93
+00:16:23,218 --> 00:16:26,304
+Bana oğlum olacak kadar yakındır.
+
+94
+00:16:26,346 --> 00:16:29,432
+Ne yazık ki kendisi insan değildir.
+
+95
+00:16:29,474 --> 00:16:32,602
+Hiç yaşlanmaz ve ölmez.
+
+96
+00:16:33,019 --> 00:16:37,114
+Henüz bu muhteşem hediyeleri
+takdir edemiyor.
+
+97
+00:16:37,149 --> 00:16:41,862
+Çünkü David'in asla sahip
+olamayacağı bir şey var.
+
+98
+00:16:41,903 --> 00:16:43,995
+Bir ruh.
+
+99
+00:16:44,030 --> 00:16:48,410
+Şu soruları cevaplamak için
+tüm hayatımı harcadım.
+
+100
+00:16:48,451 --> 00:16:52,372
+Nereden geldik?
+Amacımız nedir?
+
+101
+00:16:52,407 --> 00:16:54,374
+Ölünce bize ne olur?
+
+102
+00:16:54,457 --> 00:16:56,543
+Nihayetinde beni ikna eden
+iki kişi buldum.
+
+103
+00:16:56,585 --> 00:16:58,712
+Bu soruları cevaplamanın
+eşiğindeydiler.
+
+104
+00:16:59,004 --> 00:17:03,175
+Doktor Holloway ve Shaw.
+Lütfen ayağa kalkın.
+
+105
+00:17:04,050 --> 00:17:07,429
+Sizin de anladığınız gibi
+ikisi de buradaki yetkili kişiler.
+
+106
+00:17:07,470 --> 00:17:12,184
+Titan olan Prometheus, insanlarla
+tanrıların eşit olmasını istemişti.
+
+107
+00:17:12,225 --> 00:17:16,271
+Bu yüzden Olympos’tan kovulmuştu.
+
+108
+00:17:16,688 --> 00:17:21,985
+Arkadaşlar, sonunda Prometheus'un
+dönme vakti geldi.
+
+109
+00:17:22,027 --> 00:17:25,155
+Doktorlar, lütfen.
+
+110
+00:17:27,282 --> 00:17:29,951
+Sahne sizindir.
+
+111
+00:17:36,666 --> 00:17:39,211
+Pekâlâ.
+
+112
+00:17:40,420 --> 00:17:42,631
+Daha önce bir hayaleti
+takip etmem gerekmemişti.
+
+113
+00:17:42,714 --> 00:17:46,468
+Size neden burada
+olduğunuzu göstereyim.
+
+114
+00:17:53,350 --> 00:17:58,772
+Bu görüntüler Dünya'nın dört bir yanındaki
+arkeolojik kazılardan elde edilmiştir.
+
+115
+00:17:58,814 --> 00:18:03,276
+Mısırlılar, Mayalılar, Sümerler, Babilliler.
+
+116
+00:18:03,318 --> 00:18:06,404
+Şuradaki Hawaiililerden ve sonraki de
+Mezopotamyalılardan.
+
+117
+00:18:06,446 --> 00:18:08,615
+En son keşfedilen ise buradaki.
+
+118
+00:18:08,698 --> 00:18:13,829
+İskoçya'nın Skye Adası'ndaki
+35 bin yıllık bir mağara figürü.
+
+119
+00:18:13,870 --> 00:18:18,291
+Bu antik uygarlıklar
+farklı yüzyıllarda yaşamışlar.
+
+120
+00:18:18,333 --> 00:18:22,671
+Hiçbir ortak noktaları yoktu,
+ta ki şimdiye kadar...
+
+121
+00:18:25,173 --> 00:18:28,760
+Aynı piktogram insanların
+taptığı devasa varlıkların...
+
+122
+00:18:28,802 --> 00:18:33,682
+...yıldızları işaret ettiğini
+hepsinde ayrı ayrı ortaya çıkardı.
+
+123
+00:18:33,890 --> 00:18:37,352
+Bununla eşleşen tek galaktik sistem...
+
+124
+00:18:37,435 --> 00:18:41,022
+...Dünya'dan çok uzaklardaydı
+ve bu ilkel antik uygarlıkların...
+
+125
+00:18:41,057 --> 00:18:44,651
+...haberlerinin olmasının imkânı yoktu.
+
+126
+00:18:44,693 --> 00:18:47,946
+Ama bir şey var ki...
+
+127
+00:18:47,988 --> 00:18:50,615
+...bu sistem...
+
+128
+00:18:50,657 --> 00:18:52,993
+...bir güneşe sahip.
+
+129
+00:18:53,034 --> 00:18:55,287
+Bizimkine çok benziyor.
+
+130
+00:18:55,328 --> 00:19:00,333
+Ve uzun mesafeli taramalarımızsa göre
+orada bir gezegen varmış gibi görünüyor.
+
+131
+00:19:00,917 --> 00:19:05,922
+Yaşanabilirlik imkânı sağlayabilen
+ve uydusu olan bir gezegen.
+
+132
+00:19:06,339 --> 00:19:09,718
+Ve bu sabah o gezegene geldik.
+
+133
+00:19:10,552 --> 00:19:13,555
+Yani siz iki veledin
+mağaranın tekinde...
+
+134
+00:19:13,597 --> 00:19:16,600
+...bulduğu bir haritayla
+buraya geldik öyle mi?
+
+135
+00:19:16,808 --> 00:19:19,644
+- Hayır.
+- Evet.
+
+136
+00:19:20,479 --> 00:19:25,609
+- Hayır, bir harita değil, bir davetiye.
+- Kimden?
+
+137
+00:19:25,942 --> 00:19:30,280
+- Onlara "Mühendisler" diyoruz.
+- Mühendisler mi?
+
+138
+00:19:30,322 --> 00:19:35,452
+Neyin mühendisliğini
+yaptıklarını söyler misiniz peki?
+
+139
+00:19:35,744 --> 00:19:39,331
+Bizi yapmışlar.
+
+140
+00:19:40,248 --> 00:19:43,585
+Saçmalık.
+
+141
+00:19:45,462 --> 00:19:48,256
+Bunu destekleyecek bir kanıtınız var mı?
+
+142
+00:19:48,340 --> 00:19:53,678
+Darwinizim'i 3 yüzyıl
+geriye götüreceksen bu iş...
+
+143
+00:19:54,971 --> 00:19:59,309
+- Nereden biliyorsunuz?
+- Bilmiyorum.
+
+144
+00:19:59,351 --> 00:20:03,104
+Ama buna inanmayı seçtim.
+
+145
+00:20:28,046 --> 00:20:30,423
+Doktorlar?
+
+146
+00:20:30,465 --> 00:20:35,470
+Bayan Vickers serüven başlamadan önce
+sizinle birkaç kelam etmek istiyor.
+
+147
+00:20:42,102 --> 00:20:45,021
+- Güzel mekan.
+- Aslında ayrı bir modül.
+
+148
+00:20:45,063 --> 00:20:47,816
+Kendine yeten yaşam desteği var.
+
+149
+00:20:47,858 --> 00:20:50,735
+Bayan Vickers'ın
+saldırgan bir çevrede...
+
+150
+00:20:50,777 --> 00:20:53,655
+...hayatta kalması için
+gereken hava, su, her şey.
+
+151
+00:20:53,697 --> 00:20:56,950
+Yani bir cankurtaran
+teknesinde yaşıyor.
+
+152
+00:20:56,992 --> 00:21:00,203
+Aynen öyle.
+Riski en aza indiriyorum.
+
+153
+00:21:00,245 --> 00:21:04,457
+David, doktorlarımız için
+birer içki hazırlasana.
+
+154
+00:21:04,499 --> 00:21:07,627
+Ben votka alayım.
+
+155
+00:21:07,711 --> 00:21:11,715
+Charlie bak.
+Bu bir Pauling sağlık modülü.
+
+156
+00:21:12,048 --> 00:21:15,510
+- Bunlardan sadece bir düzeni yapmışlar.
+- Bayan Shaw.
+
+157
+00:21:15,552 --> 00:21:19,222
+<i>Lütfen rahatsızlığınızı
+sözlü olarak iletiniz.</i>
+
+158
+00:21:19,264 --> 00:21:22,851
+Lütfen ona dokunmayın.
+Çok pahalı bir makinedir.
+
+159
+00:21:22,893 --> 00:21:26,646
+Cerrahi bypass yapmak için kullanılır.
+Buna neden ihtiyacınız var ki?
+
+160
+00:21:26,938 --> 00:21:30,859
+Galiba aramızdaki ilişkiyi
+tam olarak anlayamadınız.
+
+161
+00:21:30,901 --> 00:21:33,403
+Weyland bu görev için sizi
+yeterince etkileyici bulmuş...
+
+162
+00:21:33,445 --> 00:21:36,698
+...ama ben sizin küçük, pis mağaralardaki
+ilkel yaşantınızdan gelen...
+
+163
+00:21:36,740 --> 00:21:39,910
+...mühendisliğinizi
+bu iş için yetersiz buluyorum.
+
+164
+00:21:39,951 --> 00:21:44,122
+Ama diyelim ki ben hatalıyım ve
+siz aşağıda bu yaratıkları buldunuz.
+
+165
+00:21:44,164 --> 00:21:46,333
+Onlarla temas kurmayacaksınız.
+
+166
+00:21:46,374 --> 00:21:48,543
+Onlarla konuşmayacaksınız.
+
+167
+00:21:48,585 --> 00:21:52,130
+Bana rapor vermek dışında
+hiçbir şey yapmayacaksınız.
+
+168
+00:21:54,508 --> 00:21:59,262
+Bayan Vickers, bize bahsetmediğiniz
+bir planınız mı var yoksa?
+
+169
+00:21:59,346 --> 00:22:02,808
+Şirketim burayı bulup sizi buraya
+getirmek için trilyonlarca dolar harcadı.
+
+170
+00:22:02,891 --> 00:22:05,936
+Paralar sizden gelseydi
+Bay Holloway...
+
+171
+00:22:05,977 --> 00:22:09,064
+...sizin planınızı izlemekten
+mutluluk duyardık.
+
+172
+00:22:09,856 --> 00:22:11,817
+Ama yapamadınız.
+
+173
+00:22:11,858 --> 00:22:14,945
+Çünkü siz bir elemansınız.
+
+174
+00:22:15,445 --> 00:22:20,116
+Madem temas kurmamız yasak
+neden bizi buraya getirdiniz?
+
+175
+00:22:20,158 --> 00:22:23,453
+Weyland batıl inançları olan bir adamdı.
+
+176
+00:22:23,703 --> 00:22:27,415
+Gemide imanlı birileri de olsun istedi.
+
+177
+00:22:28,416 --> 00:22:31,127
+Şerefe.
+
+178
+00:22:33,129 --> 00:22:36,299
+- Yanıt yok mu yani?
+- Üzgünüm ama yok.
+
+179
+00:22:36,341 --> 00:22:39,678
+Belki de mesajı anlamadılar.
+
+180
+00:22:39,719 --> 00:22:42,973
+Derslerin nasıl gidiyor David?
+
+181
+00:22:43,014 --> 00:22:48,520
+Bir düzine antik dili kökenlerine kadar
+analiz etmek için iki yılımı harcadım.
+
+182
+00:22:48,562 --> 00:22:50,856
+Onlarla iletişim kurabileceğimden eminim.
+
+183
+00:22:50,891 --> 00:22:53,650
+Tezinizi doğrulayacağım.
+
+184
+00:22:53,733 --> 00:22:56,403
+Tezimi doğrula, çok güzel.
+
+185
+00:22:56,444 --> 00:23:00,323
+Bu yüzden buna tez diyorlar doktor.
+
+186
+00:23:02,409 --> 00:23:05,537
+- Sen ne diye sırıtıyorsun?
+- Pekâlâ Bay Ravel, Bay Chance...
+
+187
+00:23:05,579 --> 00:23:08,540
+...hadi gemiyi indirelim.
+- Anlaşıldı. - Emredersiniz.
+
+188
+00:23:10,041 --> 00:23:13,587
+- Nasıl gidiyoruz?
+- Harika.
+
+189
+00:23:13,879 --> 00:23:17,883
+- Hazırız patron.
+- Tüm personele, Kaptanınız konuşuyor.
+
+190
+00:23:17,924 --> 00:23:20,886
+- Atmosfere giriş için hazırlanın.
+- Emredersiniz Kaptan.
+
+191
+00:23:20,927 --> 00:23:24,264
+Sen de Vickers.
+
+192
+00:23:32,272 --> 00:23:34,239
+Atmosferin durumu nedir?
+
+193
+00:23:34,274 --> 00:23:39,529
+Atmosferin %71'i Azot, %21'i Oksijen
+ve Argon gazından oluşuyor.
+
+194
+00:23:39,571 --> 00:23:42,574
+- İşte tam bizim havamız.
+- Dünyamız gibi.
+
+195
+00:23:42,616 --> 00:23:45,160
+Doğrudan egzoz dumanını solumak gibi.
+
+196
+00:23:45,202 --> 00:23:50,665
+Karbondioksit %3'ün üzerinde.
+Kostümsüz çıksan iki dakika ölürsün.
+
+197
+00:23:52,667 --> 00:23:58,632
+Zirve, sol tarafta 52 bin. Everest bile
+tümsek kalır bunun yanında.
+
+198
+00:23:58,673 --> 00:24:01,051
+Pekâlâ, etrafından dolaşalım.
+
+199
+00:24:01,134 --> 00:24:04,304
+Bunu giriş noktamız olarak kullanacağız.
+
+200
+00:24:04,930 --> 00:24:07,015
+Arazi verileri geliyor.
+
+201
+00:24:07,057 --> 00:24:11,269
+Birkaç tane sert noktamız var.
+Metal olabilirler.
+
+202
+00:24:31,164 --> 00:24:35,836
+- Radyo dalgası yok, sıcaklık kaynağı yok.
+- Burada kimse yok.
+
+203
+00:24:35,877 --> 00:24:40,632
+Çölde hiçbir şey yok.
+Yokluğun kimseye faydası olmaz.
+
+204
+00:24:40,674 --> 00:24:45,428
+- Ne dedin öyle?
+- Beğendim filmden bir replik.
+
+205
+00:24:49,516 --> 00:24:54,479
+Şu kapıdan geçelim.
+Hızı 100 nota sabitle.
+
+206
+00:24:57,816 --> 00:25:01,653
+Yavaşça ve güzelce kapıdan geçiyoruz.
+
+207
+00:25:06,449 --> 00:25:09,119
+- Gemiyi sabit tutun çocuklar.
+- Orada!
+
+208
+00:25:09,161 --> 00:25:11,169
+Ne yapıyorsun?
+
+209
+00:25:11,204 --> 00:25:14,166
+Doktor Holloway, koltuğunuza oturun!
+
+210
+00:25:15,292 --> 00:25:18,260
+İşte orada.
+Tanrı çizgi halinde inşa yapmaz.
+
+211
+00:25:18,295 --> 00:25:22,299
+Sağ taraftaki vadi!
+Kaptan, bizi aşağı indirebilir misin?
+
+212
+00:25:22,340 --> 00:25:26,344
+Bunu yapamazsam bana da
+Kaptan demesinler.
+
+213
+00:25:26,345 --> 00:25:28,346
+Bay Ravel, sağ tarafa 90 derece.
+
+214
+00:25:32,934 --> 00:25:36,396
+- Sol tarafa 1 mil.
+- Sol tarafa 1 mil.
+
+215
+00:25:36,438 --> 00:25:39,107
+<i>İniş takımların açın.
+Otomatik pilotu devre dışı bırakın.</i>
+
+216
+00:25:39,149 --> 00:25:43,987
+<i>- İniş takımları açıldı.
+- Aynen böyle bebeğim.</i>
+
+217
+00:25:45,447 --> 00:25:50,285
+<i>İniş için 5, 4...</i>
+
+218
+00:25:52,496 --> 00:25:55,332
+<i>...2, sakin olun.</i>
+
+219
+00:26:12,140 --> 00:26:14,851
+<i>Jeneratör sistemleri aktif.</i>
+
+220
+00:26:15,018 --> 00:26:17,395
+<i>Sıcaklık 2.724 K.</i>
+
+221
+00:26:28,907 --> 00:26:32,452
+Kaptan, araştırma ekibine
+giyinmelerini söyler misiniz?
+
+222
+00:26:32,494 --> 00:26:35,914
+- Ve bizimle hava kilidinde buluşsunlar.
+- Havanın kararmasına 6 saat var.
+
+223
+00:26:35,956 --> 00:26:40,043
+- Yarına bıraksanız olmaz mı?
+- Hayır, olmaz. Yılbaşı geldi Kaptan.
+
+224
+00:26:40,085 --> 00:26:42,295
+Ve ben hediyemi açmak istiyorum.
+
+225
+00:26:42,337 --> 00:26:47,050
+- Sen bizimle geliyorsun.
+- Memnuniyetle.
+
+226
+00:26:53,431 --> 00:26:56,059
+<i>Rampa 5 dakika içinde açılacak.</i>
+
+227
+00:26:56,935 --> 00:27:00,063
+Hey Jackson, o ne için?
+
+228
+00:27:00,188 --> 00:27:05,569
+Keşif güvenliği için. Benim işim
+herkesin güvenliğini sağlamak.
+
+229
+00:27:06,069 --> 00:27:09,614
+Bu bilimsel bir keşif gezisi olacak.
+Silaha gerek yok.
+
+230
+00:27:09,656 --> 00:27:13,160
+Tamam öyleyse.
+Size iyi şanslar.
+
+231
+00:27:15,120 --> 00:27:18,456
+David sen neden giyindin dostum?
+
+232
+00:27:18,498 --> 00:27:22,419
+- Anlayamadım, pardon?
+- Sen nefes almıyorsun ki. Unuttun mu?
+
+233
+00:27:22,460 --> 00:27:24,504
+Yani neden giyindin ki?
+
+234
+00:27:24,546 --> 00:27:28,133
+Bu şekilde çalışmak için tasarlandım
+çünkü insanoğlu...
+
+235
+00:27:28,175 --> 00:27:31,761
+...kendi türüyle iletişim halindeyken
+daha rahat oluyorlar.
+
+236
+00:27:32,053 --> 00:27:36,391
+Ben de sizin gibi giyinmeseydim
+amacımıza ulaşamazdık.
+
+237
+00:27:36,433 --> 00:27:41,354
+- Seni çok benzer yapmışlar ha?
+- Umarım çok da benzer değilimdir.
+
+238
+00:27:51,448 --> 00:27:53,992
+<i>Rampa 15 saniye içinde açılacak.</i>
+
+239
+00:27:59,331 --> 00:28:01,124
+<i>Rampa açılıyor; 5...</i>
+
+240
+00:28:01,249 --> 00:28:05,337
+<i>...4, 3, 2, 1.</i>
+
+241
+00:28:23,313 --> 00:28:26,691
+Bu insanlık için küçük bir adım.
+
+242
+00:28:26,733 --> 00:28:29,236
+Cidden mi?
+
+243
+00:28:33,281 --> 00:28:36,952
+Buna hazır mısınız?
+Hazır olduğunuzu biliyorum!
+
+244
+00:28:46,378 --> 00:28:48,713
+Fifield, bu yapı için
+spektrograf istiyorum.
+
+245
+00:28:48,755 --> 00:28:51,132
+Doğal yollardan mı oluşmuş yoksa birilerinin
+parmağı mı dokunmuş öğrenmek istiyorum.
+
+246
+00:28:51,174 --> 00:28:56,930
+Doğal olup olmadığını söyleyemem
+ama içinin boş olduğunu söyleyebilirim.
+
+247
+00:29:20,287 --> 00:29:24,457
+<i>Prometheus, bunu görüyor musun?</i>
+
+248
+00:29:24,499 --> 00:29:27,711
+Olumlu, biz de görüyoruz.
+
+249
+00:29:34,342 --> 00:29:37,846
+- Hazır mısınız?
+- Evet. - Başlayalım.
+
+250
+00:30:10,253 --> 00:30:13,423
+- Önden buyur.
+- Önden buyur.
+
+251
+00:30:13,590 --> 00:30:17,594
+- Dikkat et.
+- Prometheus, içeri giriyoruz.
+
+252
+00:30:17,636 --> 00:30:19,596
+Anlaşıldı.
+
+253
+00:30:52,212 --> 00:30:56,550
+Geride bekle, koridor gibi bir yer.
+
+254
+00:30:56,591 --> 00:31:01,680
+Bay Fifield, yapının haritasını çıkaralım.
+Tüm iç yüzeyi istiyorum.
+
+255
+00:31:01,721 --> 00:31:04,015
+Burada bakmaya değer bir şey varsa...
+
+256
+00:31:04,099 --> 00:31:08,854
+...bu ufaklıklar onları bulacaktır.
+- Ufaklıklar mı? - Evet, benimkiler.
+
+257
+00:31:24,452 --> 00:31:27,831
+Prometheus, haritalama yapıyoruz.
+
+258
+00:31:31,209 --> 00:31:33,795
+Anlaşıldı.
+
+259
+00:31:44,848 --> 00:31:47,976
+Yok artık.
+
+260
+00:32:00,280 --> 00:32:03,783
+- Fifield, veri okunuyor mu?
+- Evet.
+
+261
+00:32:03,825 --> 00:32:07,954
+Ufaklılar bu tarafı gösteriyor.
+
+262
+00:32:25,222 --> 00:32:28,016
+Şuna bakın.
+
+263
+00:32:34,022 --> 00:32:37,234
+Charlie...
+
+264
+00:32:39,736 --> 00:32:43,448
+Tanrım, güneş ışığı suyu ısıtıyor.
+
+265
+00:32:43,490 --> 00:32:47,369
+- Nem seviyesini kontrol etsene.
+- Evet, Karbondioksit seviyesine de bak.
+
+266
+00:32:47,410 --> 00:32:52,290
+Dışarısı tümüyle zehirli
+ama içerisi tertemiz.
+
+267
+00:32:52,332 --> 00:32:54,835
+Nefes alınabilir bir ortam.
+
+268
+00:32:55,252 --> 00:32:58,213
+Ne yapıyorsun?
+Charlie aptallık etme!
+
+269
+00:32:58,255 --> 00:33:02,425
+Şüphecilik yapma. Burada
+atmosfer üreten bir şey var. David?
+
+270
+00:33:02,467 --> 00:33:06,555
+- Dr. Holloway haklı.
+- Hatta bizim havamızdan da temiz.
+
+271
+00:33:06,596 --> 00:33:09,432
+- Burayı Dünya havası gibi yapmışlar.
+- Lütfen yapma...
+
+272
+00:33:09,474 --> 00:33:12,185
+- Ellie, artık bunu giymem ben.
+- Yapma.
+
+273
+00:33:12,227 --> 00:33:16,857
+<i>- Bana şans dile bebeğim.
+- Anlaşıldı mı? Başlığı çıkarmayın!</i>
+
+274
+00:33:33,039 --> 00:33:36,418
+Manyak herif!
+
+275
+00:33:39,713 --> 00:33:43,133
+Prometheus, bu delice gösteriyi izlemeye
+devam etmek için giysi kameralarımıza bağlan.
+
+276
+00:33:43,175 --> 00:33:46,428
+Çünkü başlıklarımızı çıkartıyoruz.
+
+277
+00:33:46,470 --> 00:33:49,306
+<i>Anlaşıldı, görüntü kaynağı değişiyor.</i>
+
+278
+00:33:50,140 --> 00:33:53,143
+Hadi, öde bakalım.
+
+279
+00:33:53,185 --> 00:33:55,979
+- Ne ödeyeyim?
+- Bu da ne demek şimdi?
+
+280
+00:33:56,062 --> 00:33:58,440
+Bir şeyler aşağıda
+nefes alınabilir hava üretiyor.
+
+281
+00:33:58,482 --> 00:34:02,444
+- Yani dünyalaşıyor.
+- Hayır, asıl bahis neden geldiğimizdi.
+
+282
+00:34:02,486 --> 00:34:05,906
+Bizim moruğun Marslılarla konuşmamızı
+istediğini söyleseydin öderdim.
+
+283
+00:34:05,947 --> 00:34:08,366
+Yapma böyle, 100 kredicik.
+
+284
+00:34:08,408 --> 00:34:10,911
+Bayan Vickers için kucak dansına
+harcadın say, ne dersin?
+
+285
+00:34:12,120 --> 00:34:14,664
+Burası -12 derece.
+
+286
+00:34:14,706 --> 00:34:18,210
+Peki su neden donmuyor?
+
+287
+00:34:18,251 --> 00:34:21,588
+Belki de Marslı sidiğidir.
+
+288
+00:34:21,630 --> 00:34:24,799
+Bu senin bilimsel teorin mi?
+
+289
+00:34:24,841 --> 00:34:27,886
+Öyle mi Bay Biyolog?
+
+290
+00:34:31,848 --> 00:34:34,851
+Ne olduğunu bilmiyorum ama...
+
+291
+00:34:34,893 --> 00:34:37,896
+...temiz olduğu kesin.
+
+292
+00:34:56,498 --> 00:34:58,708
+Etkileyici.
+
+293
+00:35:17,227 --> 00:35:21,148
+- O da neydi?
+- David?
+
+294
+00:35:21,189 --> 00:35:23,733
+David?
+
+295
+00:35:26,444 --> 00:35:29,030
+David!
+
+296
+00:35:36,079 --> 00:35:38,081
+Ellie!
+
+297
+00:35:42,502 --> 00:35:47,048
+- O da neydi öyle?
+- Hiç silah getirmediğimiz için mutlu musun?
+
+298
+00:35:47,083 --> 00:35:50,677
+- Bu kimin fikriydi?
+- Devam et!
+
+299
+00:36:00,770 --> 00:36:03,565
+Nereye gitti?
+
+300
+00:36:14,868 --> 00:36:18,038
+İşte orada.
+
+301
+00:36:18,121 --> 00:36:22,751
+- Aman Tanrım, Charlie. Onları bulduk
+- "Onlar" da ne demek şimdi?
+
+302
+00:36:23,460 --> 00:36:26,213
+Bunlar onlar Ellie.
+
+303
+00:36:26,296 --> 00:36:28,924
+Buradaki bir kapıya benziyor...
+
+304
+00:36:28,965 --> 00:36:32,052
+...ve birileri bu cesedin
+başını kesmiş gibi görünüyor.
+
+305
+00:36:33,011 --> 00:36:36,097
+Vay anasını!
+
+306
+00:36:36,139 --> 00:36:39,184
+Haklılarmış.
+
+307
+00:36:41,019 --> 00:36:44,147
+Haksız olmalarını mı istemiştin?
+
+308
+00:36:46,817 --> 00:36:51,154
+David, lütfen bunları
+okuyabildiğini söyle.
+
+309
+00:36:51,196 --> 00:36:53,657
+Mümkündür.
+
+310
+00:36:54,574 --> 00:36:58,203
+Ben çıkıyorum.
+
+311
+00:36:58,245 --> 00:37:01,623
+Fifield, nereye gidiyorsun?
+
+312
+00:37:01,665 --> 00:37:04,584
+Ne?
+
+313
+00:37:04,626 --> 00:37:10,257
+Dinle, ben sadece bir jeologum.
+Taşları severim, kayalara aşığım.
+
+314
+00:37:10,298 --> 00:37:13,051
+Sizi ikinizin taşlarla
+ilgilenmediğiniz ortada!
+
+315
+00:37:13,135 --> 00:37:16,513
+Devasa cesetlerle ilgilendiğiniz görülüyor.
+
+316
+00:37:16,555 --> 00:37:22,435
+Devasa ceset arenasında çalışmak için
+zerre kadar merakım yok!
+
+317
+00:37:22,477 --> 00:37:27,566
+Sizin için de mahsuru yoksa
+gemiye dönüyorum.
+
+318
+00:37:29,568 --> 00:37:33,947
+Bana katılmak isteyen var mı?
+Kalıyor musun?
+
+319
+00:37:34,406 --> 00:37:38,535
+- Hayır, gemi iyidir.
+- Evet, gemi çok iyidir.
+
+320
+00:37:38,577 --> 00:37:42,747
+Yaratıcınızla
+tanıştığınız için tebrikler.
+
+321
+00:37:42,789 --> 00:37:44,708
+Teşekkürler.
+
+322
+00:37:44,791 --> 00:37:48,587
+Kendine gel dostum.
+
+323
+00:37:49,796 --> 00:37:52,799
+Ben asıl seni manyak zannederdim.
+
+324
+00:38:00,432 --> 00:38:03,685
+Karbon okuyucun var mı?
+
+325
+00:38:04,269 --> 00:38:07,189
+Teşekkürler.
+
+326
+00:38:12,444 --> 00:38:15,530
+Ne kadardır ölü?
+
+327
+00:38:15,989 --> 00:38:19,993
+Yaklaşık olarak 2 bin yıldır.
+
+328
+00:38:22,078 --> 00:38:24,706
+Ne yapıyorsun David?
+
+329
+00:38:24,748 --> 00:38:27,459
+Kapıyı açmaya çalışıyorum.
+
+330
+00:38:27,501 --> 00:38:30,337
+Bekle, diğer tarafında
+ne olduğunu bilmiyoruz.
+
+331
+00:38:31,129 --> 00:38:34,633
+Üzgünüm.
+
+332
+00:38:37,052 --> 00:38:40,889
+Bak Ford, kafası burada.
+
+333
+00:38:49,439 --> 00:38:52,734
+Muhteşem bir muhafaza durumu.
+
+334
+00:38:52,776 --> 00:38:56,363
+- Bunu alalım.
+- Evet.
+
+335
+00:38:58,615 --> 00:39:02,160
+İnsana çok benziyor.
+
+336
+00:39:18,009 --> 00:39:21,158
+Çok güzel bir tablo.
+
+337
+00:39:21,193 --> 00:39:24,307
+Bu bir duvar resmi.
+
+338
+00:39:34,818 --> 00:39:38,697
+- Dur, dur, dur. Sakın dokunma.
+- Pardon.
+
+339
+00:39:39,114 --> 00:39:41,992
+Lütfen hiçbir şeye dokunma.
+
+340
+00:39:42,033 --> 00:39:44,286
+Terliyor.
+
+341
+00:40:21,573 --> 00:40:24,659
+Organik.
+
+342
+00:40:29,456 --> 00:40:32,751
+Olamaz, Charlie.
+Duvar resmi değişiyor.
+
+343
+00:40:32,792 --> 00:40:36,129
+Galiba odadaki atmosferi değiştirdik.
+
+344
+00:40:36,171 --> 00:40:38,965
+<i>Charlie, duydun mu?</i>
+
+345
+00:40:39,007 --> 00:40:44,012
+Yukarıda. Ford, çabuk ol.
+Kafayı çantaya koymama yardım et.
+
+346
+00:40:53,730 --> 00:40:56,573
+- Patron?
+- Durum nedir?
+
+347
+00:40:56,608 --> 00:41:00,570
+Fırtına uyarısı alıyoruz,
+silisli toprak ve fazlasıyla...
+
+348
+00:41:00,612 --> 00:41:04,449
+<i>...statik elektrik yüklü, bu hiç iyi değil.
+- Görüyorum.</i>
+
+349
+00:41:06,868 --> 00:41:08,919
+<i>Yer ekibi, ben Janek.</i>
+
+350
+00:41:08,954 --> 00:41:11,414
+<i>Hemen geri dönmelisiniz.</i>
+
+351
+00:41:11,456 --> 00:41:13,583
+<i>Yer ekibi, anlaşıldı mı?
+200 km hızla...</i>
+
+352
+00:41:13,625 --> 00:41:17,796
+<i>...silisli toprak taşıyan bir rüzgar geliyor
+ve giysinizi yakacak kadar statik yüklü.</i>
+
+353
+00:41:17,838 --> 00:41:21,258
+Anlaşıldı Kaptan ama
+biraz daha zamana ihtiyacımız var.
+
+354
+00:41:21,299 --> 00:41:24,136
+15 dakika içinde
+dış kapıya yaklaşıyorum.
+
+355
+00:41:24,177 --> 00:41:27,264
+<i>Samimiyetle umuyorum ki
+yetişebilirsiniz.</i>
+
+356
+00:41:28,765 --> 00:41:33,770
+Charlie, David, hemen gitmeliyiz!
+
+357
+00:41:34,646 --> 00:41:38,608
+Başka bir mezar daha.
+
+358
+00:41:40,902 --> 00:41:43,572
+David?
+
+359
+00:41:46,867 --> 00:41:48,869
+Gidelim!
+
+360
+00:41:53,915 --> 00:41:57,252
+David, gidiyoruz!
+
+361
+00:42:06,094 --> 00:42:09,097
+Hadisene! Kahretsin.
+Kalkışa başladılar bile.
+
+362
+00:42:09,139 --> 00:42:11,516
+Hadi gidelim!
+
+363
+00:42:11,558 --> 00:42:15,020
+<i>Prometheus'tan yer ekibine,
+vaktiniz tükeniyor.</i>
+
+364
+00:42:15,061 --> 00:42:17,481
+Hadi gidelim!
+
+365
+00:42:31,995 --> 00:42:34,664
+Daha hızlı sür!
+
+366
+00:42:57,187 --> 00:42:59,523
+Charlie, kafa düştü!
+
+367
+00:42:59,606 --> 00:43:02,526
+Ellie dur!
+Ne yapıyorsun?
+
+368
+00:43:10,325 --> 00:43:12,494
+Ha siktir!
+
+369
+00:43:12,536 --> 00:43:14,621
+Ellie dayan!
+
+370
+00:43:15,038 --> 00:43:17,624
+- Kahretsin!
+- Kapat kapıyı!
+
+371
+00:44:22,814 --> 00:44:25,192
+Yakaladım!
+
+372
+00:44:30,822 --> 00:44:32,908
+<i>Kirlilik Seviyesi: 3</i>
+
+373
+00:44:32,949 --> 00:44:34,951
+Ne yaptın öyle Ellie?
+
+374
+00:44:34,993 --> 00:44:37,120
+Tüm görevi tehlikeye atabilirdin!
+
+375
+00:44:37,162 --> 00:44:39,247
+Hatta kendini öldürtebilirdin bile!
+
+376
+00:44:39,289 --> 00:44:44,002
+- İyi misiniz?
+- Evet, teşekkürler David.
+
+377
+00:44:44,044 --> 00:44:46,004
+Rica ederim.
+
+378
+00:44:46,087 --> 00:44:50,342
+Pekâlâ doktorlar, geri döndüğünüze sevindim.
+Millburn ve Fifield neredeler?
+
+379
+00:44:50,377 --> 00:44:53,470
+<i>Daha geri dönmediler mi?</i>
+
+380
+00:44:53,512 --> 00:44:56,014
+- Benim yerime fırçala şunları.
+- Tamamdır.
+
+381
+00:44:57,891 --> 00:45:03,355
+- Daha önce de buradaydık Fifield.
+- Hepsi bana aynı görünüyor.
+
+382
+00:45:03,438 --> 00:45:06,566
+<i>Beyler, Kaptanınız konuşuyor.
+Beni dinleyin.</i>
+
+383
+00:45:06,650 --> 00:45:09,694
+Statik elektrikle
+rüzgar hızına bakınca...
+
+384
+00:45:09,736 --> 00:45:12,572
+...gelip sizi almamız için
+güvenli bir yol görünmüyor.
+
+385
+00:45:12,614 --> 00:45:17,035
+<i>Sıcaklık hızlıca düşüyor.
+Isınızı korumak için başlıklarınızı takın.</i>
+
+386
+00:45:17,077 --> 00:45:20,205
+Fırtına geçene kadar.
+
+387
+00:45:20,247 --> 00:45:24,292
+Kaptan, o bilim adamıyla fanatik
+kız arkadaşına bir mesaj iletebilir misin?
+
+388
+00:45:24,334 --> 00:45:28,338
+<i>- Bana ne ödeyeceklerini biliyor musun?
+- Hayır. Sanırım durumu anladık.</i>
+
+389
+00:45:28,380 --> 00:45:31,633
+<i>Söyle onlara gidip kendilerini
+parmaklasınlar.</i>
+
+390
+00:45:31,675 --> 00:45:33,885
+<i>- Anlaşıldı mı?
+- Anlaşıldı!</i>
+
+391
+00:45:33,969 --> 00:45:38,640
+Pekâlâ beyler, kendinizi koruyun.
+Sabah gelip sizi alırız.
+
+392
+00:45:56,491 --> 00:46:01,872
+- Numune steril, bulaşıcı bir şey yok.
+- David.
+
+393
+00:46:03,665 --> 00:46:06,960
+Hepsi ölmüş mü yani?
+
+394
+00:46:07,002 --> 00:46:11,423
+- Ne? Kim?
+- Mühendisleriniz.
+
+395
+00:46:11,465 --> 00:46:16,595
+- Hepsi öldü, değil mi?
+- Bilmiyorum, buraya daha yeni geldik.
+
+396
+00:46:16,636 --> 00:46:18,763
+Taramama.
+
+397
+00:46:19,764 --> 00:46:24,060
+- Öldülerse bile umurunda mı?
+- Weyland umursuyordu.
+
+398
+00:46:24,144 --> 00:46:27,856
+Dr. Shaw, şuna bakın.
+
+399
+00:46:30,859 --> 00:46:35,947
+- Bu bir dış kabuk değil.
+- Hayır. - Bence bu bir başlık.
+
+400
+00:46:35,989 --> 00:46:40,619
+Bakalım kaldırabiliyor muyuz.
+Şunu biraz zorlayıp açabilmeliyiz.
+
+401
+00:46:40,660 --> 00:46:44,789
+Bizim için fazla ağır.
+David!
+
+402
+00:46:50,086 --> 00:46:54,007
+- Dikkat et.
+- Ediyorum.
+
+403
+00:47:07,395 --> 00:47:12,108
+- Kafasındaki şey ne?
+- Neo hücrelerine benziyor.
+
+404
+00:47:12,150 --> 00:47:15,695
+- Bir durumdalar...
+- Dönüşüm. - evet.
+
+405
+00:47:15,737 --> 00:47:17,614
+Neye dönüşüyorlar?
+
+406
+00:47:17,697 --> 00:47:20,158
+Locus Coeruleus'a akım verelim.
+
+407
+00:47:20,200 --> 00:47:24,329
+Sanırım sinir sistemini kandırıp
+yaşadığını zannettirebiliriz.
+
+408
+00:47:24,579 --> 00:47:28,625
+- 30 amper.
+- Tamam. - Fazlası değil.
+
+409
+00:47:29,042 --> 00:47:33,255
+- Bana bir kesik aç.
+- Tamam.
+
+410
+00:47:38,260 --> 00:47:41,388
+40 yapalım.
+
+411
+00:47:41,888 --> 00:47:44,266
+Tamamdır, 40 oldu.
+
+412
+00:47:44,307 --> 00:47:47,185
+Gördün mü?
+
+413
+00:47:47,811 --> 00:47:50,814
+10 daha artır.
+
+414
+00:47:50,856 --> 00:47:53,775
+10 daha arttı.
+
+415
+00:47:55,318 --> 00:47:59,364
+- Fazla geldi. 10 azalt.
+- 10 azaldı.
+
+416
+00:47:59,406 --> 00:48:03,368
+- 20 daha düşür.
+- Deniyorum. - Ford, düşür.
+
+417
+00:48:04,578 --> 00:48:07,706
+Ford, durdur şunu!
+
+418
+00:48:07,747 --> 00:48:11,877
+- David, içeri al hemen şunu!
+- İçeri alın hemen şunu!
+
+419
+00:48:33,440 --> 00:48:36,067
+Sonuçta fani.
+
+420
+00:48:42,449 --> 00:48:44,784
+Ford, numune al.
+
+421
+00:48:44,826 --> 00:48:47,120
+İnceleyelim.
+
+422
+00:48:50,999 --> 00:48:54,002
+Hayır efendim, icabına bakarım.
+
+423
+00:48:54,044 --> 00:48:57,464
+Evet efendim, anladım.
+Özür dilerim.
+
+424
+00:48:57,506 --> 00:49:01,676
+Ne yazık ki daha çok yeni.
+
+425
+00:49:04,179 --> 00:49:07,098
+Elbette efendim.
+
+426
+00:49:34,042 --> 00:49:37,045
+Bayan Vickers?
+
+427
+00:49:39,673 --> 00:49:44,469
+- Ne dedi David?
+- Size söylememi istediğini sanmıyorum.
+
+428
+00:49:51,268 --> 00:49:56,273
+- Ne dedi David?
+- Üzgünüm ama gizli bilgi.
+
+429
+00:49:56,314 --> 00:49:59,568
+Tanrı şahidim olsun ki...
+
+430
+00:49:59,609 --> 00:50:03,029
+...can damarı kablonu bulup keserim.
+
+431
+00:50:03,071 --> 00:50:06,366
+Ne dedi?
+
+432
+00:50:06,825 --> 00:50:12,664
+Dedi ki "Daha sıkı çalış."
+
+433
+00:50:12,914 --> 00:50:17,752
+Çay içer misiniz efendim?
+
+434
+00:50:31,975 --> 00:50:37,564
+- Genetik görünüş. - Tamamdır.
+- DNA'sına bakalım şunun.
+
+435
+00:50:46,031 --> 00:50:48,909
+Dizilimi izole et.
+
+436
+00:50:50,410 --> 00:50:54,331
+Gen numunesiyle karşılaştır.
+
+437
+00:50:54,414 --> 00:50:58,668
+<i>- Örtüşüyor.
+- İşlem yapılıyor.</i>
+
+438
+00:50:59,169 --> 00:51:01,755
+<i>İşlem yapılıyor.</i>
+
+439
+00:51:02,339 --> 00:51:05,717
+<i>DNA uyumlu.</i>
+
+440
+00:51:06,009 --> 00:51:09,012
+Aman Tanrım.
+
+441
+00:51:27,739 --> 00:51:31,660
+Bu biziz, her şeyimiz var.
+
+442
+00:51:34,579 --> 00:51:37,290
+Onları öldüren nedir?
+
+443
+00:51:54,182 --> 00:51:58,061
+Büyük hadiseler küçük olaylarla başlar.
+
+444
+00:52:06,278 --> 00:52:10,740
+Bölüyor muyum?
+İçkiniz bitmiştir diye düşündüm.
+
+445
+00:52:14,744 --> 00:52:19,166
+- Kendine bir bardak al dostum.
+- Sağolun ama ben ziyan ederim.
+
+446
+00:52:19,249 --> 00:52:23,545
+Doğru ya gerçek bir insan olmadığını
+az kalsın unutuyordum.
+
+447
+00:52:25,464 --> 00:52:30,093
+Tüm mühendislerinizin
+öldüğüne üzüldüm Dr. Holloway.
+
+448
+00:52:33,597 --> 00:52:37,392
+Buraya gelmekle vaktimizi ziyan ettiğimizi
+düşünüyorsun, değil mi?
+
+449
+00:52:37,434 --> 00:52:41,813
+Sorunuzun cevabı, buraya gelmekle
+ne başarmayı amaçladığınıza göre değişir.
+
+450
+00:52:41,848 --> 00:52:43,447
+Başarmayı ümit ettiğimiz şey...
+
+451
+00:52:43,482 --> 00:52:46,818
+...yaratıcılarımızla tanışmak
+ve bazı cevaplar almaktı.
+
+452
+00:52:46,853 --> 00:52:51,615
+Öncelikle, bizi neden yarattıkları.
+
+453
+00:52:52,824 --> 00:52:56,703
+Peki sizinkiler beni neden yarattı?
+
+454
+00:52:56,745 --> 00:52:59,706
+Yapabileceğimiz için yaptık.
+
+455
+00:53:00,624 --> 00:53:03,168
+Siz kendi yaratıcılarınızdan
+aynı cevabı alsanız...
+
+456
+00:53:03,210 --> 00:53:06,880
+...sizin için nasıl bir hayal kırıklığı
+olacağını düşünebiliyor musunuz?
+
+457
+00:53:10,884 --> 00:53:15,138
+Sanırım senin hayal kırıklığı
+yaşamaman iyi bir şey.
+
+458
+00:53:15,180 --> 00:53:19,392
+Evet. Gerçekten harika.
+Bir şey sorabilir miyim?
+
+459
+00:53:19,851 --> 00:53:22,979
+- Sor lütfen.
+- Cevaplarınızı almak için...
+
+460
+00:53:23,021 --> 00:53:28,026
+...amacınıza ulaşmak için
+daha ne kadar ileri giderdiniz?
+
+461
+00:53:28,401 --> 00:53:33,031
+- Ne yapmaya razı gelirdiniz?
+- Ne var ne yoksa.
+
+462
+00:53:33,073 --> 00:53:35,367
+Sanırım işte buna içilir.
+
+463
+00:53:46,545 --> 00:53:49,923
+Şerefe dostum.
+
+464
+00:53:52,759 --> 00:53:55,262
+Sağlığınıza.
+
+465
+00:53:59,057 --> 00:54:02,602
+Bunlar o şeyler.
+
+466
+00:54:03,895 --> 00:54:06,815
+Gerçekler mi?
+
+467
+00:54:06,857 --> 00:54:09,317
+Tabii ki gerçekler.
+
+468
+00:54:09,359 --> 00:54:12,654
+Yüce Tanrım, şu yığına bak.
+
+469
+00:54:12,696 --> 00:54:15,949
+Bak ne kadar çoklar.
+
+470
+00:54:16,950 --> 00:54:20,453
+Bir şeyden kaçıyorlarmış galiba.
+
+471
+00:54:20,495 --> 00:54:22,664
+Sakın dokunma, tamam mı?
+
+472
+00:54:22,706 --> 00:54:27,210
+Bu şeyler içeriden
+dışarıya açılmış gibiler.
+
+473
+00:54:27,252 --> 00:54:30,797
+Sanki içeriden patlamışlar.
+
+474
+00:54:30,839 --> 00:54:34,426
+Katliam yeri tablosu gibi.
+
+475
+00:54:53,820 --> 00:54:58,450
+Onları öldüren her neyse, üzerinden
+çok zaman geçmiş, değil mi?
+
+476
+00:54:59,493 --> 00:55:03,788
+- Pozisyonunuz nedir?
+- Prometheus, ben Millburn.
+
+477
+00:55:03,830 --> 00:55:07,834
+Konumumuz 7401477, neden sordun?
+
+478
+00:55:07,835 --> 00:55:09,836
+Az önce bir sinyal aldım.
+
+479
+00:55:09,878 --> 00:55:14,257
+- Sizin bir tık batınızda.
+- Ne sinyali aldın?
+
+480
+00:55:15,258 --> 00:55:19,262
+O probun okuduğu sinyal
+her neyse, o şey ölü değil.
+
+481
+00:55:19,304 --> 00:55:22,098
+Yaşam formu sinyali okuyor.
+
+482
+00:55:22,182 --> 00:55:26,603
+- Yaşam formu da ne demek?
+- Hareket ediyor mu?
+
+483
+00:55:26,645 --> 00:55:30,190
+Hayır, hiç sanmıyorum.
+
+484
+00:55:30,232 --> 00:55:33,693
+Kaptan, bizim burada gördüğümüzü
+senin orada görmediğin çok belli...
+
+485
+00:55:33,735 --> 00:55:37,113
+<i>...ama gördüysen kahrolası
+sinyalden falan bahsetmezdin değil mi?</i>
+
+486
+00:55:37,155 --> 00:55:41,159
+Hayır beyler, fırtına vurduğundan beri
+rastgele sinyaller alıyoruz.
+
+487
+00:55:41,576 --> 00:55:45,080
+<i>Burada olmamız hiç iyi değil Kaptan!</i>
+
+488
+00:55:45,580 --> 00:55:49,292
+<i>Hareket ediyor mu?
+Bu şeyler hareket ediyor mu?</i>
+
+489
+00:55:51,878 --> 00:55:55,674
+Hayır, aslında biraz önce
+yok olup gittiler.
+
+490
+00:55:55,715 --> 00:55:59,511
+<i>- Bir hata olmalı.
+- Hata da ne demek şimdi?</i>
+
+491
+00:55:59,553 --> 00:56:03,390
+Pekâlâ beyler, iyi uykular.
+
+492
+00:56:03,431 --> 00:56:07,894
+- Birbirinizi rahatsız etmeyin.
+- Kaptan, hata da ne demek şimdi?
+
+493
+00:56:07,936 --> 00:56:10,856
+Millburn bekle!
+
+494
+00:56:10,897 --> 00:56:16,403
+<i>Bir tık batımızda olduğunu söyledi.</i>
+
+495
+00:56:18,405 --> 00:56:21,575
+- Gidip bakmak istemeyiz değil mi?
+- Hayatta olmaz.
+
+496
+00:56:21,616 --> 00:56:25,662
+- Nereye gidiyoruz?
+- Doğuya.
+
+497
+00:56:25,704 --> 00:56:31,793
+- Doğuya tabii ya. - Hata dedi adam.
+Hatalı yaşam formu. Ne biçim saçmalık bu!
+
+498
+00:56:31,835 --> 00:56:35,714
+Bu holografik kayıttaki
+nesnenin davranışına dayanarak...
+
+499
+00:56:35,749 --> 00:56:39,593
+...hâlâ kafanın neden yandığını
+belirlemeye çalışıyoruz.
+
+500
+00:56:39,634 --> 00:56:44,347
+Merakıma yenik düşüyorum ama
+acaba burada bir salgın mı çıkmış?
+
+501
+00:56:48,810 --> 00:56:53,482
+- Merhaba hanımefendi.
+- Sana önemli bir şey söyleyeceğim.
+
+502
+00:56:53,523 --> 00:56:57,569
+- O ne öyle?
+- Bu bir gül.
+
+503
+00:56:57,611 --> 00:57:00,864
+Şampanyayla dondurdum.
+Aradığımız şeyi bulduğumuzda...
+
+504
+00:57:00,906 --> 00:57:03,575
+...bunu sana verecektim.
+
+505
+00:57:03,617 --> 00:57:07,329
+Aradığımız şeyi bulduk.
+Buradalarmış, bu...
+
+506
+00:57:07,370 --> 00:57:10,415
+İnsanlık tarihinin...
+
+507
+00:57:10,457 --> 00:57:13,418
+...en önemli keşfi.
+
+508
+00:57:13,627 --> 00:57:16,505
+Bunu bilirim, bunu söylerim.
+
+509
+00:57:16,922 --> 00:57:20,133
+İnanılmaz, gerçekten öyle ama...
+
+510
+00:57:20,175 --> 00:57:23,303
+...onlarla konuşmak isterdim.
+
+511
+00:57:23,345 --> 00:57:27,390
+Neden gittiklerini
+öğrenmek istemiyor musun?
+
+512
+00:57:27,432 --> 00:57:31,144
+Neden bizi terk ettiklerini?
+Sorularıma cevap istiyorum bebeğim.
+
+513
+00:57:31,179 --> 00:57:36,566
+Haklıydık Charlie.
+Elimde kanıtım var.
+
+514
+00:57:37,359 --> 00:57:39,444
+Bak.
+
+515
+00:57:44,282 --> 00:57:47,536
+Genetik materyalleri bizimkinden eski.
+
+516
+00:57:47,577 --> 00:57:53,083
+- Onlar bizim atalarımız.
+- Şaka mı yapıyorsun? - Hayır.
+
+517
+00:57:55,168 --> 00:57:58,088
+Pekâlâ.
+
+518
+00:57:59,881 --> 00:58:03,552
+Sanırım babanın haç kolyesini
+atabilirsin artık.
+
+519
+00:58:03,593 --> 00:58:06,812
+Neden öyle bir şey yapayım ki?
+
+520
+00:58:06,847 --> 00:58:11,101
+- Çünkü bizi onlar yarattılar.
+- Peki onları kim yarattı?
+
+521
+00:58:11,143 --> 00:58:15,397
+Aynen öyle, asla öğrenemeyeceğiz.
+Ama bildiğimiz bir şey var.
+
+522
+00:58:15,432 --> 00:58:19,442
+Yaşam yaratmakta özel bir durum yok.
+
+523
+00:58:19,484 --> 00:58:22,612
+Bunu herkes yapabilir.
+Tüm ihtiyacın olan...
+
+524
+00:58:22,654 --> 00:58:25,740
+...bir DNA zinciri ve
+yarım beyin, değil mi?
+
+525
+00:58:26,616 --> 00:58:28,660
+Yapamam.
+
+526
+00:58:28,702 --> 00:58:32,789
+Ben yaşam yaratamam.
+
+527
+00:58:33,874 --> 00:58:37,836
+Benim hakkımda ne diyor?
+
+528
+00:58:37,878 --> 00:58:42,549
+Ellie, öyle değil, senin hakkında
+konuşmuyordum...
+
+529
+00:58:42,591 --> 00:58:46,344
+- Çocuklar mı?
+- Biz.
+
+530
+00:58:54,686 --> 00:59:00,609
+Elizabeth Shaw, sen hayatımda
+tanıdığım en özel insansın.
+
+531
+00:59:00,650 --> 00:59:03,695
+Ve seni seviyorum.
+
+532
+00:59:48,073 --> 00:59:51,117
+Hayır.
+
+533
+00:59:52,661 --> 00:59:55,664
+Bu iş daha ne kadar sürecek?
+
+534
+00:59:56,331 --> 01:00:01,086
+Bilmiyorum, ben sadece Kaptanım.
+
+535
+01:00:08,844 --> 01:00:11,263
+Bu arada, bu şey ölen bir
+kedi gibi ciyaklıor.
+
+536
+01:00:11,304 --> 01:00:13,348
+Bu şeyin bir zamanlar...
+
+537
+01:00:13,390 --> 01:00:17,602
+...Stephen Stills'e
+ait olduğunu biliyorum.
+
+538
+01:00:18,562 --> 01:00:21,273
+Bunu bilmem gerekiyor muydu?
+
+539
+01:00:25,068 --> 01:00:27,410
+Aslında...
+
+540
+01:00:27,445 --> 01:00:30,740
+...benimle yatmak istiyorsan
+buraya gelip de...
+
+541
+01:00:30,782 --> 01:00:34,119
+...piramit tarayıcıyla ilgileniyormuş gibi
+davranmana hiç gerek yok.
+
+542
+01:00:34,154 --> 01:00:37,747
+Gelip bana "Yatmak istiyorum." desen
+yeter de artar bile.
+
+543
+01:00:37,831 --> 01:00:40,834
+Söyleyebilirim tabii ki.
+
+544
+01:00:40,876 --> 01:00:45,589
+Ama sonra, biriyle yatmak istiyorsam
+Dünya'daki bütün erkeklerden...
+
+545
+01:00:45,630 --> 01:00:50,260
+...yarım milyar mil uzağa gitmemin
+hiçbir mantığı kalmazdı, değil mi?
+
+546
+01:00:50,886 --> 01:00:54,806
+Hey Vickers!
+
+547
+01:00:55,515 --> 01:00:58,518
+Merak ediyordum da...
+
+548
+01:01:02,022 --> 01:01:05,233
+Sen robot musun?
+
+549
+01:01:11,156 --> 01:01:16,036
+10 dakika sonra odama gel.
+
+550
+01:01:33,720 --> 01:01:38,225
+Bu siyah şey de ne böyle?
+
+551
+01:01:41,561 --> 01:01:44,439
+Gazpacho.
+
+552
+01:01:45,232 --> 01:01:49,277
+Tütün mü var?
+Solunum cihazında tütün mü var?
+
+553
+01:01:49,319 --> 01:01:52,572
+Aynen öyle.
+
+554
+01:01:55,367 --> 01:01:57,869
+Tütün.
+
+555
+01:01:57,911 --> 01:02:00,831
+Tüm bilim adamları adına
+konuşuyorum ki...
+
+556
+01:02:00,872 --> 01:02:03,834
+...sana güvenip aramıza aldığımız için
+cidden utanıyorum Fifield.
+
+557
+01:02:07,504 --> 01:02:10,590
+- Millburn? - Evet?
+- Şunu gördün mü?
+
+558
+01:02:10,632 --> 01:02:13,677
+Sence bu neymiş?
+Tanrı gibi bir şey mi?
+
+559
+01:02:13,718 --> 01:02:16,888
+Taptıkları bir put falan mı?
+
+560
+01:02:16,972 --> 01:02:21,601
+- O da neydi öyle?
+- Tamama, sakin ol.
+
+561
+01:02:21,643 --> 01:02:25,605
+Sakinleş, sorun yok.
+Bununla baş edebilirim.
+
+562
+01:02:25,647 --> 01:02:29,109
+Selam bebeğim.
+
+563
+01:02:29,151 --> 01:02:34,072
+Prometheus cevap ver.
+Uzun, ince bir sürüngen gördük.
+
+564
+01:02:34,114 --> 01:02:38,952
+Yaklaşık 1 metre uzunluğunda.
+Saydam bir derisi var.
+
+565
+01:02:39,035 --> 01:02:41,746
+Çok güzel.
+
+566
+01:02:45,917 --> 01:02:50,714
+- Prometheus, 2 tane oldular!
+- Şu haline bak bebeğim.
+
+567
+01:02:50,755 --> 01:02:53,175
+Tanrım, şunun boyuna bak!
+Bu ne böyle?
+
+568
+01:02:53,216 --> 01:02:55,510
+- Sakinleşmen lazım, tamam mı?
+- Neyin sakinleşmesi bu?
+
+569
+01:02:55,552 --> 01:02:58,180
+Sakinleşmen lazım, çok güzel bir kız bu.
+
+570
+01:02:58,221 --> 01:03:00,807
+Kız mı? Dişi olduğunu
+nereden çıkardın?
+
+571
+01:03:00,849 --> 01:03:03,393
+Baksana, tam bir hanımefendi.
+
+572
+01:03:09,900 --> 01:03:15,113
+Hipnotize olmuş gibi.
+Gel buraya.
+
+573
+01:03:15,155 --> 01:03:18,742
+Sorun yok!
+
+574
+01:03:18,783 --> 01:03:22,454
+Bebeğim.
+
+575
+01:03:23,330 --> 01:03:26,458
+Sen güçlüsün!
+Yardım etsene!
+
+576
+01:03:26,493 --> 01:03:29,419
+Al şunu benden!
+
+577
+01:03:30,754 --> 01:03:33,965
+Dokunmam ben ona!
+
+578
+01:03:35,342 --> 01:03:37,844
+- Daha da sıkıyor!
+- Ona dokunmak istemiyorum!
+
+579
+01:03:37,886 --> 01:03:40,514
+Dokun şuna be adam!
+Tanrı aşkına...
+
+580
+01:03:40,555 --> 01:03:44,267
+Tanrım! Durumu kötüleştiriyorsun!
+Daha da sıkıyor!
+
+581
+01:03:44,810 --> 01:03:47,646
+Kolumu kırıyor!
+
+582
+01:03:49,439 --> 01:03:53,401
+Kes şunu! Kes şunu!
+
+583
+01:03:59,032 --> 01:04:02,577
+Aman Tanrım!
+
+584
+01:04:02,661 --> 01:04:05,330
+Giysimin içine girdi!
+
+585
+01:05:05,056 --> 01:05:07,893
+Shaw, uyanık mısın?
+
+586
+01:05:07,934 --> 01:05:10,729
+Evet, ne vardı?
+
+587
+01:05:10,812 --> 01:05:13,440
+<i>Fırtına dinmiş ama Millburn
+ve Fifield'e ulaşamıyorum.</i>
+
+588
+01:05:13,523 --> 01:05:16,276
+<i>Onları aldırmak için aşağı
+birkaç adam gönderiyorum.</i>
+
+589
+01:05:16,318 --> 01:05:19,696
+Pekâlâ, nerede olduklarını biliyor muyuz?
+
+590
+01:05:19,738 --> 01:05:24,034
+Son telsiz bağlantısında ceset kafasını
+bulduğunuz yerin hemen dışındaydılar.
+
+591
+01:05:24,069 --> 01:05:26,912
+<i>Tamamdır, geliyoruz.</i>
+
+592
+01:05:26,953 --> 01:05:29,998
+Chance, benimle geliyorsun hadi.
+
+593
+01:05:30,081 --> 01:05:32,000
+Tamamdır patron.
+
+594
+01:05:32,918 --> 01:05:35,003
+Ravel, hatayı giderdin mi?
+
+595
+01:05:35,086 --> 01:05:37,506
+<i>Hayır Kaptan, donanımsal bir sorun olmalı.</i>
+
+596
+01:05:37,547 --> 01:05:39,758
+- Ne hatası bu Kaptan?
+- Problardan biri...
+
+597
+01:05:39,800 --> 01:05:41,968
+...her saat başı veya
+birkaç saniyeliğine...
+
+598
+01:05:42,010 --> 01:05:46,097
+...yaşam formu sinyali
+alıyor sonra kayboluyordu.
+
+599
+01:05:46,139 --> 01:05:48,266
+İsterseniz probu bulup onarabilirim.
+
+600
+01:05:48,308 --> 01:05:50,935
+Kafana göre takıl.
+
+601
+01:05:50,970 --> 01:05:53,563
+Dikkat edin doktor.
+
+602
+01:06:14,000 --> 01:06:17,546
+Fifield?
+
+603
+01:06:18,547 --> 01:06:21,967
+Millburn?
+
+604
+01:06:23,885 --> 01:06:27,055
+Aşağı gelin.
+
+605
+01:06:46,408 --> 01:06:49,661
+<i>David, yalnız mısın?</i>
+
+606
+01:06:49,703 --> 01:06:53,748
+- Evet Bayan Vickers.
+- Odama yayın yap.
+
+607
+01:06:53,790 --> 01:06:56,251
+Anlaşıldı.
+
+608
+01:08:37,894 --> 01:08:40,939
+Seni adi herif.
+
+609
+01:08:41,857 --> 01:08:44,151
+Bağlantımı kesti.
+
+610
+01:09:04,671 --> 01:09:07,132
+Bu ne böyle?
+
+611
+01:09:09,634 --> 01:09:11,595
+- Charlie?
+- Ayağım kaydı.
+
+612
+01:09:11,636 --> 01:09:14,514
+- Aman Tanrım, hastasın sen.
+- Yok bir şeyim bebeğim. Devam et.
+
+613
+01:09:14,556 --> 01:09:19,728
+Fifield? Millburn?
+
+614
+01:09:24,316 --> 01:09:28,028
+Hey Chance, yerinde olsam
+ona elimi sürmezdim.
+
+615
+01:09:30,113 --> 01:09:33,074
+- Doktor Shaw?
+- Evet?
+
+616
+01:09:33,116 --> 01:09:36,745
+Bu vazolardan neyin sızdığı hakkında
+herhangi bir bilginiz var mı?
+
+617
+01:09:36,786 --> 01:09:41,166
+Yok, buraya son geldiğimizde
+bunlar bu halde değillerdi.
+
+618
+01:09:44,461 --> 01:09:47,214
+- Kaptan!
+- Ne var?
+
+619
+01:09:47,255 --> 01:09:50,509
+- Kim bu? Hangisi?
+- Millburn.
+
+620
+01:09:50,550 --> 01:09:53,929
+- Ellie, sakın ona dokunma.
+- Ellie tatlım?
+
+621
+01:09:53,970 --> 01:09:56,389
+Charlie sorun ne?
+
+622
+01:09:56,431 --> 01:09:58,558
+Bana bakmanı istiyorum.
+
+623
+01:09:58,600 --> 01:10:01,228
+Enfeksiyon nedir bilirsin.
+Ne gördüğünü söyle.
+
+624
+01:10:01,269 --> 01:10:04,940
+- Durumun iyi görünmüyor bebeğim.
+- Ellie, bana ne gördüğünü söyle.
+
+625
+01:10:09,277 --> 01:10:12,239
+- Aman Tanrım.
+- Ford buraya gel.
+
+626
+01:10:13,156 --> 01:10:17,244
+- Janek! Hemen buradan gitmeliyiz.
+- Ne görüyorsun bebeğim?
+
+627
+01:10:17,285 --> 01:10:21,373
+- Tatlım ne gördüğünü söyle.
+- Holloway hasta, durumu kötü!
+
+628
+01:10:21,456 --> 01:10:24,584
+Yemek borusunda
+bir hareketlenme görüyorum.
+
+629
+01:10:27,546 --> 01:10:31,216
+- Ben iyiyim!
+- Janek, buraya gelip yardım et!
+
+630
+01:10:31,716 --> 01:10:34,427
+Ford, buraya gel!
+Orada neler oluyor?
+
+631
+01:10:34,719 --> 01:10:37,389
+- Yardım et bana!
+- Ben iyiyim.
+
+632
+01:10:37,472 --> 01:10:40,183
+Tuttum seni.
+Seni buradan çıkaracağım.
+
+633
+01:10:40,225 --> 01:10:42,936
+- Prometheus, cevap ver!
+- Ben iyiyim.
+
+634
+01:10:43,436 --> 01:10:45,522
+<i>Ayağa kaldır onu!</i>
+
+635
+01:10:45,564 --> 01:10:48,733
+<i>Prometheus, cevap ver!
+Orada kimse yok mu?</i>
+
+636
+01:10:48,775 --> 01:10:53,196
+- Vickers konuşuyor.
+- Hava kilidine sıhhiye ekibi istiyorum.
+
+637
+01:10:53,238 --> 01:10:56,783
+Karantina odası hazırlansın.
+Holloway hasta.
+
+638
+01:10:56,825 --> 01:11:00,203
+- Neyden hastalandı?
+- Dediğimi yap sen!
+
+639
+01:11:02,497 --> 01:11:04,256
+Giyinmeye gidiyorum.
+
+640
+01:11:04,291 --> 01:11:06,626
+<i>- Charlie, konuş benimle!
+- Devam et!</i>
+
+641
+01:11:06,710 --> 01:11:09,004
+<i>- Oradaki neydi?
+- Hadi gidelim millet!</i>
+
+642
+01:11:10,755 --> 01:11:12,883
+<i>Gidelim buradan!</i>
+
+643
+01:11:13,091 --> 01:11:14,843
+<i>Ellie!</i>
+
+644
+01:15:10,745 --> 01:15:12,998
+- Hiç iyi görünmüyor.
+- Orada bir şey yakaladı mı?
+
+645
+01:15:13,081 --> 01:15:15,292
+Başlıklarımızı çıkarttık...
+
+646
+01:15:15,333 --> 01:15:19,629
+Bilmiyorum. Prometheus, ben Janek
+arka kapının açık olduğundan emin olun.
+
+647
+01:15:19,671 --> 01:15:21,631
+- Emredersiniz Kaptan.
+- Charlie...
+
+648
+01:15:22,340 --> 01:15:24,718
+Çok özür dilerim.
+
+649
+01:15:26,344 --> 01:15:28,972
+Lütfen!
+
+650
+01:15:32,642 --> 01:15:35,770
+Vickers, neden o kapı açılmadı?
+
+651
+01:15:35,812 --> 01:15:39,983
+Vickers, bu bir emirdir!
+Aç şu kahrolası kapıyı!
+
+652
+01:15:40,025 --> 01:15:44,863
+- Bana bak. Artık çok geç, hastalandım.
+- Hayır, değil!
+
+653
+01:15:45,155 --> 01:15:48,074
+- Ford, yardım et!
+- Hava kilidi ekibi, ben Janek...
+
+654
+01:15:48,116 --> 01:15:51,849
+...hemen açın şu arka kapıyı!
+- Kapıyı tutun!
+
+655
+01:15:51,884 --> 01:15:55,582
+Duyuyor musunuz?
+Açın şu kapıyı, bu bir emidir!
+
+656
+01:15:55,624 --> 01:15:58,877
+Açın kapıyı!
+
+657
+01:16:03,840 --> 01:16:06,760
+- Ne oluyor böyle?
+- O adam bu gemiye binemez.
+
+658
+01:16:06,802 --> 01:16:09,429
+- Vickers, adam hasta!
+- Görebiliyorum.
+
+659
+01:16:09,471 --> 01:16:12,015
+Zaten bu yüzden
+benim gemime binemez.
+
+660
+01:16:12,766 --> 01:16:16,353
+Sakın onu öldürme!
+
+661
+01:16:17,187 --> 01:16:20,565
+Lütfen, ona yardım edebiliriz!
+
+662
+01:16:20,607 --> 01:16:23,652
+Kendin yardım et! Holloway
+dışındaki herkes hemen gemiye!
+
+663
+01:16:23,693 --> 01:16:26,112
+- Onu bırakamam!
+- Kal öyleyse!
+
+664
+01:16:26,154 --> 01:16:29,324
+Durun biraz. Onu sağlık
+modülüne yatırabiliriz.
+
+665
+01:16:29,366 --> 01:16:33,370
+- Lütfen bunu yapma!
+- Sorun değil Ellie. - Vickers!
+
+666
+01:16:33,411 --> 01:16:37,415
+- Ne yapıyorsun?
+- Seni seviyorum bebeğim. - Hayır!
+
+667
+01:16:37,457 --> 01:16:41,461
+- Sana geri git diyorum!
+- Yap hadi! - Geri git!
+
+668
+01:16:41,962 --> 01:16:44,214
+Yap hadi!
+
+669
+01:17:17,497 --> 01:17:20,500
+Başın sağolsun.
+
+670
+01:17:20,876 --> 01:17:25,130
+Bunu alacağım, kirlenmiş olabilir.
+
+671
+01:17:25,547 --> 01:17:30,343
+Bir bulaşma varsa,
+hepimiz buna maruz kaldık.
+
+672
+01:17:31,178 --> 01:17:35,932
+Piramite giren herkes üzerinde
+kan testi yapmalıyız.
+
+673
+01:17:35,974 --> 01:17:39,144
+Elbette.
+
+674
+01:17:46,234 --> 01:17:50,697
+Bunun ne kadar uygunsuz
+olduğunu anlıyorum.
+
+675
+01:17:50,780 --> 01:17:53,283
+Bulunduğumuz şartlara bakarak.
+
+676
+01:17:53,325 --> 01:17:58,038
+Ama emredildiği gibi
+karantina bölümü...
+
+677
+01:17:58,079 --> 01:18:01,500
+...benim sorumluluğum altında.
+
+678
+01:18:01,541 --> 01:18:06,922
+Dr. Holloway'le yakın zamanda
+bir ilişki içinde oldunuz mu?
+
+679
+01:18:06,963 --> 01:18:10,509
+İkiniz burada oldukça yakındınız.
+
+680
+01:18:10,550 --> 01:18:14,179
+Mümkün olduğunca şey
+bilmek istiyorum.
+
+681
+01:18:14,763 --> 01:18:18,058
+Benim, benim...
+
+682
+01:18:20,018 --> 01:18:22,562
+Hamilesiniz.
+
+683
+01:18:23,688 --> 01:18:26,024
+Ne?
+
+684
+01:18:26,107 --> 01:18:31,029
+- 3 aylık olduğu görünüyor.
+- Bu imkânsız!
+
+685
+01:18:31,071 --> 01:18:33,198
+Hamile olamam!
+
+686
+01:18:33,240 --> 01:18:37,577
+Dr. Holloway ile
+ilişkiye girdiniz mi?
+
+687
+01:18:37,619 --> 01:18:42,124
+Evet ama 10 saat önceydi.
+
+688
+01:18:42,374 --> 01:18:46,134
+Üç aylık hamile olmamın imkânı yok.
+
+689
+01:18:46,169 --> 01:18:50,716
+Fakat doktor, sizinki
+sıradan bir fetüs değil.
+
+690
+01:18:53,635 --> 01:18:57,430
+- Görmek istiyorum.
+- Bence iyi bir fikir değil.
+
+691
+01:18:58,515 --> 01:19:01,560
+David, onu görmek istiyorum.
+
+692
+01:19:01,601 --> 01:19:04,563
+Doktor...
+
+693
+01:19:05,063 --> 01:19:07,732
+Onu görmek istiyorum.
+
+694
+01:19:07,774 --> 01:19:10,694
+- İçimden çıkarmak istiyorum.
+- Korkarım ki...
+
+695
+01:19:10,735 --> 01:19:13,572
+...böyle bir operasyonu yapacak
+personelimiz yok.
+
+696
+01:19:13,613 --> 01:19:16,074
+- En iyi seçeneğimiz...
+- Onu çıkarmak istiyorum.
+
+697
+01:19:16,116 --> 01:19:19,661
+Dünya'ya dönene kadar sizi
+dondurucuya geri yatırabiliriz.
+
+698
+01:19:19,703 --> 01:19:24,124
+David, çıkar onu içimden.
+Lütfen onu içimden çıkar!
+
+699
+01:19:28,003 --> 01:19:30,735
+Çok acı verici olmalı.
+
+700
+01:19:30,770 --> 01:19:33,467
+Size bir ilaç vereyim.
+
+701
+01:19:36,595 --> 01:19:38,889
+Oldu işte.
+
+702
+01:19:44,644 --> 01:19:47,668
+Birazdan birileri gelecek ve...
+
+703
+01:19:47,669 --> 01:19:50,692
+...sizi dondurucuya götürecek.
+
+704
+01:19:54,237 --> 01:19:58,658
+- Tanrı'nız sizi tek etmiş gibi
+hissediyor olmalısınız. - Ne?
+
+705
+01:19:58,693 --> 01:20:01,783
+Dr. Holloway'i kaybetmek,
+hem de babanızı...
+
+706
+01:20:01,818 --> 01:20:04,873
+...benzer bir durumda
+kaybetmenizin ardından.
+
+707
+01:20:04,915 --> 01:20:07,793
+Onu öldüren şey neydi?
+
+708
+01:20:07,834 --> 01:20:11,254
+Ebola mı?
+
+709
+01:20:14,758 --> 01:20:17,677
+Bunu nereden biliyorsun?
+
+710
+01:20:17,712 --> 01:20:20,597
+Rüyalarınızı izledim.
+
+711
+01:20:41,660 --> 01:20:44,079
+Dr. Shaw?
+
+712
+01:20:44,371 --> 01:20:47,290
+Buraya size kirlilik önleyici
+kıyafeti giydirmeye geldik.
+
+713
+01:20:47,332 --> 01:20:51,294
+Sizi dondurucuya götürüp
+modülünüze yatıracağız.
+
+714
+01:20:51,329 --> 01:20:53,588
+Dr. Shaw?
+
+715
+01:20:53,630 --> 01:20:56,800
+Tamamen uyuşmuş, hazırlayın onu.
+
+716
+01:21:26,121 --> 01:21:28,206
+<i>Acil durum prosedürü başlatıldı.</i>
+
+717
+01:21:28,248 --> 01:21:30,834
+<i>Lütfen rahatsızlığınızı
+sözlü olarak iletiniz.</i>
+
+718
+01:21:30,876 --> 01:21:33,378
+Sezaryene ihtiyacım var!
+
+719
+01:21:33,420 --> 01:21:36,590
+<i>Hata, bu sağlık modülü sadece
+erkek hastalar için düzenlenmiştir.</i>
+
+720
+01:21:36,631 --> 01:21:38,925
+<i>Talep ettiğiniz operasyonu yapamaz.</i>
+
+721
+01:21:38,967 --> 01:21:42,262
+<i>Lütfen tıbbi yardım alınız.</i>
+
+722
+01:21:43,513 --> 01:21:47,225
+Cerrahi, karın bölgesi...
+
+723
+01:21:47,267 --> 01:21:51,563
+Yaralı bölge kesimi,
+vücudun ön kısmı...
+
+724
+01:21:51,605 --> 01:21:54,149
+Başlat.
+
+725
+01:21:55,233 --> 01:21:58,737
+<i>Cerrahi operasyon başlıyor.</i>
+
+726
+01:22:38,860 --> 01:22:41,905
+<i>Teşhis yapılıyor.</i>
+
+727
+01:22:42,906 --> 01:22:45,659
+Hadi artık!
+
+728
+01:22:46,284 --> 01:22:49,287
+Çıkar şunu içimden!
+Hadi artık!
+
+729
+01:22:49,329 --> 01:22:51,373
+Lütfen!
+
+730
+01:22:52,958 --> 01:22:55,460
+Tanrım!
+
+731
+01:22:56,962 --> 01:23:00,173
+<i>Anestezi başlıyor.</i>
+
+732
+01:23:06,930 --> 01:23:10,517
+<i>Cerrahi müdahale başlıyor.</i>
+
+733
+01:24:16,041 --> 01:24:18,794
+Tanrım!
+Aman Tanrım!
+
+734
+01:24:34,267 --> 01:24:37,270
+Hadi artık!
+
+735
+01:25:02,504 --> 01:25:05,841
+- Köprüden hangara, Kaptan konuşuyor.
+- Evet Kaptan?
+
+736
+01:25:05,882 --> 01:25:09,636
+Benim gördüğümü görebiliyor musun?
+Fifield'ın monitörü birden açıldı.
+
+737
+01:25:09,678 --> 01:25:11,888
+Ne?
+Nerede?
+
+738
+01:25:11,930 --> 01:25:15,767
+Baktığım alana göre göre
+geminin tam sağında.
+
+739
+01:25:15,809 --> 01:25:20,147
+- Barnes kapıyı aç!
+- Fifield, beni duyabiliyor musun?
+
+740
+01:25:20,182 --> 01:25:22,232
+Fifield?
+
+741
+01:25:32,868 --> 01:25:35,537
+Dur biraz...
+
+742
+01:25:43,170 --> 01:25:46,923
+Hey Wallace, şuna bak bakalım.
+
+743
+01:25:51,094 --> 01:25:53,096
+Fifield?
+
+744
+01:25:55,015 --> 01:25:58,226
+Ne oluyor orada öyle?
+
+745
+01:26:10,947 --> 01:26:15,368
+Oraya geliyorum!
+Chance, giyin gidiyoruz!
+
+746
+01:26:29,966 --> 01:26:32,636
+Çıkar onu dışarı!
+
+747
+01:26:38,892 --> 01:26:41,311
+- Chance hazır mısın?
+- Evet.
+
+748
+01:28:04,978 --> 01:28:07,355
+Uykudaydın...
+
+749
+01:28:07,439 --> 01:28:11,526
+Tüm bu zaman boyunca
+gemideydin, neden?
+
+750
+01:28:12,819 --> 01:28:16,198
+Zaten birkaç günlük ömrüm kaldı.
+
+751
+01:28:16,281 --> 01:28:20,744
+Vaat ettiğiniz şeyi verdiğinize emin olmadan
+kalan günlerimi ziyan etmek istemiyorum.
+
+752
+01:28:20,786 --> 01:28:25,540
+- Yaratıcımla tanışmak.
+- Buyurun efendim, pürü pak.
+
+753
+01:28:25,582 --> 01:28:28,710
+Hepsinin öldüğünü söylemedin mi?
+
+754
+01:28:28,745 --> 01:28:31,838
+Ama hepsi ölmedi ki Dr. Shaw.
+
+755
+01:28:31,880 --> 01:28:36,760
+İçlerinden biri hâlâ hayatta.
+Şu an onu görmeye gidiyoruz.
+
+756
+01:28:36,802 --> 01:28:40,931
+- Ne?
+- Çevir beni.
+
+757
+01:28:41,014 --> 01:28:45,143
+Beni ikna etmiştin...
+
+758
+01:28:46,144 --> 01:28:49,815
+Bizi bunlar yaptıysa...
+
+759
+01:28:49,856 --> 01:28:53,026
+Öyleyse bizi kurtarabilirlerdi de.
+
+760
+01:28:53,068 --> 01:28:55,737
+Bastonum.
+
+761
+01:28:58,615 --> 01:29:04,079
+- Beni kurtaracak.
+- Seni neyden kurtaracak?
+
+762
+01:29:04,121 --> 01:29:07,666
+Ölümden tabii ki.
+Ayağa kaldırın.
+
+763
+01:29:16,800 --> 01:29:19,319
+Anlamıyorsun, bilmiyorsun.
+
+764
+01:29:19,320 --> 01:29:22,848
+Bu gezegen düşündüğümüz gibi değilmiş.
+
+765
+01:29:22,883 --> 01:29:25,142
+Onlar, olduklarını zannettiğimiz
+kişiler değillermiş.
+
+766
+01:29:25,177 --> 01:29:28,520
+Yanılmışım, çok fena yanılmışız.
+
+767
+01:29:28,562 --> 01:29:33,692
+Charlie, Dr. Holloway öldü.
+
+768
+01:29:33,942 --> 01:29:36,111
+Buradan gitmeliyiz.
+
+769
+01:29:36,194 --> 01:29:40,615
+Peki Charlie olsa ne yapardı, şimdi?
+
+770
+01:29:41,491 --> 01:29:45,996
+İnsanoğlunun sorduğu
+en anlamlı soruyu...
+
+771
+01:29:46,037 --> 01:29:50,500
+...cevaplamaya çok yakınız.
+
+772
+01:29:50,542 --> 01:29:55,338
+Onların ne olduğunu
+öğrenmeden nasıl gidebiliriz?
+
+773
+01:30:01,303 --> 01:30:05,557
+Yoksa inancını mı kaybettin Shaw?
+
+774
+01:30:37,881 --> 01:30:40,842
+Tamam...
+
+775
+01:31:01,071 --> 01:31:03,365
+İçeri gel.
+
+776
+01:31:09,663 --> 01:31:14,501
+Nereye gidiyorsun doktor?
+Burasının ne olduğunu biliyor musun?
+
+777
+01:31:14,543 --> 01:31:19,214
+Şu mühendisler var ya,
+burası onların gezegeni değil.
+
+778
+01:31:19,256 --> 01:31:22,676
+Burası bir tesis belki de ordularıdır.
+
+779
+01:31:22,717 --> 01:31:25,644
+Onu buraya hiçliğin ortasına
+kurmuşlar çünkü...
+
+780
+01:31:25,679 --> 01:31:29,432
+...yanı başlarında kitle imha silahı
+yapacak kadar aptal değiller.
+
+781
+01:31:29,474 --> 01:31:32,936
+O vazoların içindeki şeyler işte.
+
+782
+01:31:32,978 --> 01:31:36,398
+Burada yapmışlar, dışarı çıkmışlar...
+
+783
+01:31:36,439 --> 01:31:39,734
+...ve kendilerine karşı dönmüş, son!
+
+784
+01:31:40,944 --> 01:31:43,780
+Eve gitme vaktimiz geldi.
+
+785
+01:31:43,822 --> 01:31:46,658
+Onlardan biri hâlâ hayatta.
+
+786
+01:31:50,036 --> 01:31:53,540
+Ne diyeceklerini
+merak etmiyor musun?
+
+787
+01:31:55,917 --> 01:31:58,879
+Umurumda değil.
+
+788
+01:31:59,629 --> 01:32:03,717
+Doğru, tek umursadığın
+bu gemiyi uçurmak.
+
+789
+01:32:03,758 --> 01:32:06,601
+Aynen öyle.
+
+790
+01:32:06,636 --> 01:32:10,557
+Umursadığın bir şeyler olmalı Kaptan.
+
+791
+01:32:11,016 --> 01:32:15,187
+Öyle değilse, neden buradasın?
+
+792
+01:32:16,771 --> 01:32:19,983
+Şuna ne dersin.
+
+793
+01:32:20,275 --> 01:32:23,862
+Aşağıda ne olursa olsun...
+
+794
+01:32:23,945 --> 01:32:29,201
+...o pisliklerden hiçbirini bu gemiyle
+birlikte eve götürmem, buna izin vermem.
+
+795
+01:32:29,236 --> 01:32:33,371
+Ve bunun için ne gerekiyorsa yaparım.
+
+796
+01:32:34,414 --> 01:32:37,918
+Elinden geleni yap Kaptan.
+
+797
+01:32:51,515 --> 01:32:55,811
+- Her şeye rağmen gelmişsin.
+- Gelmemi istediğini düşündüm.
+
+798
+01:32:55,852 --> 01:32:58,355
+Buraya gelmekte beni durdurmak için
+şiddetli girişimlerin vardı...
+
+799
+01:32:58,438 --> 01:33:00,816
+...seni gördüğüme şaşırdım.
+
+800
+01:33:00,857 --> 01:33:05,195
+- David bizi yalnız bırak.
+- Emredersiniz efendim.
+
+801
+01:33:15,747 --> 01:33:19,960
+Gerçekten aşağı inersen ölürsün.
+
+802
+01:33:21,253 --> 01:33:25,674
+Olaya bakışın çok olumsuz.
+
+803
+01:33:25,715 --> 01:33:28,468
+İşte tam bu yüzden evde kalmalıydın.
+
+804
+01:33:28,510 --> 01:33:31,680
+Cidden yıllarca
+toplantı odasında oturup...
+
+805
+01:33:31,721 --> 01:33:37,102
+...sen uzayın ortasında Tanrı'nın cezası
+bir kaya parçasında mucize ararken...
+
+806
+01:33:37,144 --> 01:33:42,107
+...kimin sorumlu olacağını
+tartıştığımı mı düşündün?
+
+807
+01:33:43,483 --> 01:33:49,030
+Bir kral hükmeder ve
+zamanı gelince ölür.
+
+808
+01:33:49,072 --> 01:33:51,241
+Kaçınılmaz sondur.
+
+809
+01:33:52,742 --> 01:33:57,498
+Doğanın kanunu böyle.
+
+810
+01:34:09,759 --> 01:34:12,637
+Başka diyeceğin var mı?
+
+811
+01:34:12,679 --> 01:34:15,703
+Yok.
+
+812
+01:34:15,738 --> 01:34:18,727
+Baba.
+
+813
+01:34:18,768 --> 01:34:21,771
+Bu kadar.
+
+814
+01:34:32,824 --> 01:34:35,952
+İçinde olduğunu düşünmemiştim.
+
+815
+01:34:35,994 --> 01:34:39,080
+Üzgünüm, yanlış kelime seçimleri.
+
+816
+01:34:39,623 --> 01:34:44,336
+Sıra dışı hayatta kalma
+içgüdülerin var Elizabeth.
+
+817
+01:34:48,256 --> 01:34:52,219
+Weyland senin programınla
+ilgilenmediği zaman ne olacak?
+
+818
+01:34:52,260 --> 01:34:56,181
+- Özgür kalacağımı varsayıyorum.
+- Bunu istiyor musun?
+
+819
+01:34:56,223 --> 01:35:00,060
+İstemek mi?
+Aşina olduğum bir konsept değil.
+
+820
+01:35:00,101 --> 01:35:02,646
+Üzücü bir durum.
+
+821
+01:35:02,687 --> 01:35:06,566
+Herkes kendi ailesinin
+ölmesini istemez mi?
+
+822
+01:35:06,608 --> 01:35:08,944
+Ben istemedim.
+
+823
+01:35:08,985 --> 01:35:13,824
+Dr. Shaw, bize katıldığınıza sevindim.
+
+824
+01:35:27,504 --> 01:35:31,883
+- İsterseniz başlığınızı çıkarabilirsiniz.
+- Neden?
+
+825
+01:35:31,925 --> 01:35:36,138
+- Nefes alınabilir havası var.
+- Emin misin? - Olumlu.
+
+826
+01:35:36,179 --> 01:35:40,433
+Bekle, Holloway'ın nasıl
+hastalandığını hâlâ bilmiyoruz.
+
+827
+01:35:40,475 --> 01:35:43,311
+- Havadan da olabilir...
+- Değil.
+
+828
+01:35:43,353 --> 01:35:48,567
+- Nereden biliyorsun?
+- Kokusu iyi geldi bana.
+
+829
+01:35:48,900 --> 01:35:51,820
+- Gidelim mi?
+- Lütfen.
+
+830
+01:35:55,991 --> 01:35:59,744
+- Köprü tam üstümüzde.
+- Bu da ne böyle?
+
+831
+01:36:00,203 --> 01:36:02,914
+Yük ambarı.
+
+832
+01:36:11,047 --> 01:36:15,010
+<i>Janek, bunu görüyor musun?</i>
+
+833
+01:36:15,051 --> 01:36:18,638
+<i>- Kaç tane var Shaw?
+- Binlerce.</i>
+
+834
+01:36:18,680 --> 01:36:20,932
+Yüce Tanrım!
+
+835
+01:36:24,227 --> 01:36:27,689
+Ravel, şemayı ver bana.
+
+836
+01:36:27,731 --> 01:36:31,151
+Masanın üzerine koy.
+
+837
+01:36:32,652 --> 01:36:36,740
+Kubbeyi kaldır, bölgeyi izole et,
+görüntüyü ver.
+
+838
+01:36:36,782 --> 01:36:39,785
+Görüntü veriliyor Kaptan.
+
+839
+01:36:41,787 --> 01:36:44,831
+Büyüt.
+
+840
+01:36:45,123 --> 01:36:47,751
+Döndür.
+
+841
+01:36:50,545 --> 01:36:53,298
+Bu bir gemi.
+
+842
+01:36:53,340 --> 01:36:56,051
+Yüce Tanrım.
+
+843
+01:36:56,551 --> 01:36:59,679
+Kahrolası bir gemi.
+
+844
+01:37:01,765 --> 01:37:05,477
+Şüphesiz ki üstün bir ırk.
+
+845
+01:37:06,853 --> 01:37:12,442
+Hiper uyku odaları
+çok etkileyici.
+
+846
+01:37:21,201 --> 01:37:23,662
+Bir yere mi gidiyorlarmış?
+
+847
+01:37:23,703 --> 01:37:26,915
+Genel hatlarıyla bir çalışma yaptım.
+
+848
+01:37:26,957 --> 01:37:30,127
+Gitmeye hazırlandıkları anlaşılıyor.
+
+849
+01:37:30,585 --> 01:37:33,338
+Bu şeyler ayrılmadan önce.
+
+850
+01:37:33,380 --> 01:37:36,466
+Nereye gitmeye?
+
+851
+01:37:36,508 --> 01:37:39,333
+- Dünya'ya.
+- Neden?
+
+852
+01:37:39,433 --> 01:37:44,859
+Bazen yenisini yaratmak için
+önce eskisini yok etmelisin.
+
+853
+01:37:46,685 --> 01:37:51,064
+<i>- Nerede o David?
+- Bu taraftan efendim.</i>
+
+854
+01:37:56,695 --> 01:37:59,614
+Onun hayatta olduğuna emin misin?
+
+855
+01:37:59,656 --> 01:38:02,367
+Kesinlikle.
+
+856
+01:38:05,537 --> 01:38:09,916
+<i>- Onunla konuşabilir misin?
+- Konuşabilirim.</i>
+
+857
+01:38:45,160 --> 01:38:48,121
+Ben hazırım!
+
+858
+01:38:48,163 --> 01:38:51,124
+Konuş onunla David.
+
+859
+01:38:51,166 --> 01:38:54,795
+- Soru sormaya geldiğimizi söyle.
+- Nereden geldiklerini sor.
+
+860
+01:38:54,836 --> 01:38:57,756
+- Ne yapıyorsun?
+- Kargosunda ne olduğunu sor.
+
+861
+01:38:57,798 --> 01:39:00,300
+- İçindeki şey onun halkını öldürdü.
+- Shaw, yeter.
+
+862
+01:39:00,342 --> 01:39:05,305
+Buraya geldiniz ve
+bu bizim içindi, neden?
+
+863
+01:39:05,347 --> 01:39:08,767
+Shaw yeter!
+Tanrı aşkına sustur şunu!
+
+864
+01:39:09,476 --> 01:39:11,937
+Neden olduğunu, neyi yanlış
+yaptığımızı bilmek istiyorum!
+
+865
+01:39:11,978 --> 01:39:15,482
+- Neden bizden nefret ediyorsunuz?
+- Bu şekilde bir sonuç alamayız!
+
+866
+01:39:15,524 --> 01:39:17,984
+<i>David devam et,
+neden geldiğimizi anlat.</i>
+
+867
+01:39:37,629 --> 01:39:39,798
+Hayır!
+
+868
+01:40:05,240 --> 01:40:10,203
+Hiçbir şey yok...
+
+869
+01:40:13,999 --> 01:40:16,668
+Biliyorum.
+
+870
+01:40:16,710 --> 01:40:21,131
+İyi yolculuklar Bay Weyland.
+
+871
+01:40:25,969 --> 01:40:29,014
+Eve gitme vakti.
+
+872
+01:40:41,026 --> 01:40:45,155
+Bay Chance, bizi eve götür.
+
+873
+01:42:05,026 --> 01:42:09,322
+- Hey Kaptan...
+- O da neydi öyle?
+
+874
+01:42:52,073 --> 01:42:55,035
+Prometheus, cevap ver!
+
+875
+01:42:55,076 --> 01:42:59,247
+<i>- Shaw, sen misin? Duyuyor musun?
+- Janek, beni dinle!</i>
+
+876
+01:42:59,289 --> 01:43:03,502
+- Gemi kalkış yapıyor! - Ne?
+- Neden bahsediyor bu?
+
+877
+01:43:03,543 --> 01:43:06,671
+Gitmesine izin veremezsin!
+Onu durdurmalısın!
+
+878
+01:43:06,713 --> 01:43:09,633
+Hiçbir şeyi durdurmuyoruz Shaw!
+Eve dönüyoruz.
+
+879
+01:43:09,758 --> 01:43:14,888
+Janek, şimdi bunu durdurmazsan,
+dönecek bir evimiz kalmayacak.
+
+880
+01:43:14,971 --> 01:43:18,600
+Ölüm taşıyor ve Dünya'ya gidiyor!
+
+881
+01:43:18,642 --> 01:43:23,355
+- Shaw, bu bir savaş gemisi değil.
+- Biliyorum, biliyorum.
+
+882
+01:43:24,272 --> 01:43:28,235
+- Ama bunu yapmalısın.
+- Kaptan gidelim!
+
+883
+01:43:28,276 --> 01:43:31,780
+Janek lütfen bana inan, lütfen.
+
+884
+01:43:46,169 --> 01:43:48,755
+Sana gemiyi havalandır dedim.
+
+885
+01:43:48,797 --> 01:43:52,884
+- Bay Ravel, iyon iticilerini ısıtın.
+- Neden bahsediyorsun sen?
+
+886
+01:43:52,919 --> 01:43:54,719
+Efendim, iç atmosferde
+iyonları yakmak...
+
+887
+01:43:54,761 --> 01:43:57,973
+Bizi bir mermiye dönüştürür.
+Ben de zaten tam bunu istiyorum.
+
+888
+01:43:58,014 --> 01:44:01,143
+Ne yapıyorsun? Janek, bu benim gemim.
+Bizi eve götür dedim sana!
+
+889
+01:44:01,184 --> 01:44:03,270
+Vickers, yaşam destek
+modülünü yüzeye bırakıyorum.
+
+890
+01:44:03,311 --> 01:44:05,313
+Bu sana iki yıllık bir yaşam sağlar.
+
+891
+01:44:05,355 --> 01:44:08,191
+Gidiyor musun yoksa
+benimle mi kalıyorsun?
+
+892
+01:44:08,233 --> 01:44:10,992
+Kaçış poduna binmek için
+40 saniyen var.
+
+893
+01:44:11,027 --> 01:44:15,574
+- Delisin sen!
+- Beyler, bunu kendim halledebilirim.
+
+894
+01:44:15,615 --> 01:44:18,118
+Bayan Vickers'a katılmakta serbestsiniz.
+
+895
+01:44:18,160 --> 01:44:21,079
+Tüm saygımla konuşuyorum Kaptan,
+siz bir gemi pilotusunuz...
+
+896
+01:44:21,121 --> 01:44:24,040
+...ve mümkün olan tüm yardıma
+ihtiyacınız olacak.
+
+897
+01:44:43,643 --> 01:44:47,022
+Bunun bahsi kapattığını sanıyorsan...
+
+898
+01:44:47,063 --> 01:44:49,816
+...yanlıyorsun.
+
+899
+01:44:49,858 --> 01:44:52,611
+Ödemeni diğer tarafta yaparsın.
+
+900
+01:44:52,652 --> 01:44:56,990
+Bizi olabildiğince yaklaştırın.
+Sadece tek bir şansımız var.
+
+901
+01:45:09,586 --> 01:45:12,756
+Can kurtaran modülü ayrıldı.
+
+902
+01:45:15,675 --> 01:45:18,720
+Tahliye için 20 saniye.
+
+903
+01:45:25,769 --> 01:45:29,064
+- Geri sayım başlatıldı.
+- İyon iticileri devrede.
+
+904
+01:45:30,941 --> 01:45:33,110
+Hadi!
+
+905
+01:45:45,205 --> 01:45:47,457
+Pekâlâ beyler, yapalım şu işi!
+
+906
+01:45:50,919 --> 01:45:55,257
+- Çarpışma tehlikesi!
+- İşte budur!
+
+907
+01:47:16,379 --> 01:47:18,799
+Hayır!
+
+908
+01:47:37,317 --> 01:47:39,402
+Tanrım...
+
+909
+01:47:54,543 --> 01:47:58,672
+<i>Dikkat, 2 dakikalık oksijeniniz kaldı.</i>
+
+910
+01:48:46,761 --> 01:48:51,391
+<i>Dikkat, 30 saniyelik oksijeniniz kaldı.</i>
+
+911
+01:49:04,321 --> 01:49:06,823
+<i>Hava kilidi kapandı.</i>
+
+912
+01:49:06,865 --> 01:49:10,410
+<i>Oksijen seviyesi dengeleniyor.</i>
+
+913
+01:50:27,487 --> 01:50:30,031
+<i>Elizabeth, orada mısın?</i>
+
+914
+01:50:30,073 --> 01:50:32,534
+<i>Ben David.</i>
+
+915
+01:50:32,576 --> 01:50:34,870
+Evet, buradayım.
+
+916
+01:50:35,287 --> 01:50:38,039
+Hemen dışarı çıkmalısın.
+
+917
+01:50:38,081 --> 01:50:40,876
+<i>- Senin için geliyor.
+- Kim geliyor?</i>
+
+918
+01:50:40,917 --> 01:50:43,462
+<i>Hava kilidi açıldı!</i>
+
+919
+01:50:51,344 --> 01:50:54,431
+Geber!
+
+920
+01:52:17,806 --> 01:52:21,309
+Çok üzgünüm...
+
+921
+01:52:21,351 --> 01:52:23,645
+Tanrım...
+
+922
+01:52:23,687 --> 01:52:29,192
+Çok üzgünüm, çok üzgünüm Charlie.
+Bunu yapamam.
+
+923
+01:52:29,234 --> 01:52:33,697
+Artık bunu yapamam.
+
+924
+01:52:35,323 --> 01:52:40,996
+<i>Elizabeth, orada mısın?</i>
+
+925
+01:52:44,791 --> 01:52:49,337
+<i>Dr. Shaw, beni duyabiliyor musunuz?</i>
+
+926
+01:52:49,504 --> 01:52:51,631
+Evet.
+
+927
+01:52:52,257 --> 01:52:55,343
+<i>Evet seni duyabiliyorum.</i>
+
+928
+01:52:55,385 --> 01:52:58,472
+Öldüğünden korkmuştum.
+
+929
+01:52:58,555 --> 01:53:02,399
+Korkunun ne olduğunu bilemezsin sen.
+
+930
+01:53:02,434 --> 01:53:06,480
+Bazı farklılıklarımız
+olduğunun farkındayım.
+
+931
+01:53:06,521 --> 01:53:10,776
+Ama lütfen, yardımınızı istiyorum.
+
+932
+01:53:10,817 --> 01:53:15,071
+<i>Sana neden yardım edeyim ki?</i>
+
+933
+01:53:15,572 --> 01:53:20,285
+Çünkü ben olmadan
+buradan asla kurtulamazsınız.
+
+934
+01:53:20,327 --> 01:53:23,872
+İkimiz de buradan kurtulamayız.
+
+935
+01:53:23,914 --> 01:53:27,375
+Tek gemi o değildi.
+
+936
+01:53:27,876 --> 01:53:30,629
+<i>Daha birçoğu var.</i>
+
+937
+01:53:31,296 --> 01:53:34,341
+Onları uçurabilirim.
+
+938
+01:53:41,807 --> 01:53:44,476
+Dr. Shaw?
+
+939
+01:53:55,904 --> 01:53:58,615
+Dr. Shaw!
+
+940
+01:53:58,657 --> 01:54:01,326
+Buraya!
+
+941
+01:54:05,664 --> 01:54:07,958
+Haç kolyem nerede?
+
+942
+01:54:07,999 --> 01:54:11,128
+Kemerimdeki torbacıkta.
+
+943
+01:54:28,770 --> 01:54:32,899
+Her şeye rağmen
+inanıyorsunuz, değil mi?
+
+944
+01:54:33,608 --> 01:54:37,154
+Navigasyonu anlayabileceğini söylemiştin.
+
+945
+01:54:37,195 --> 01:54:40,240
+Haritalarını kullan.
+
+946
+01:54:40,323 --> 01:54:42,325
+Elbette.
+
+947
+01:54:42,367 --> 01:54:44,828
+Diğer gemilerden birine ulaştığımızda...
+
+948
+01:54:44,870 --> 01:54:48,457
+...Dünya'ya giden bir yol bulduğumuzda
+nispeten doğruca eve gidebiliriz.
+
+949
+01:54:48,540 --> 01:54:52,836
+Geldiğimiz yere dönmek istemiyorum.
+
+950
+01:54:53,378 --> 01:54:57,048
+Onların geldiği yere gitmek istiyorum.
+
+951
+01:54:57,674 --> 01:55:00,969
+Bunu yapabilir misin David?
+
+952
+01:55:03,763 --> 01:55:07,476
+Evet, sanırım yapabilirim.
+
+953
+01:55:16,443 --> 01:55:20,155
+Oraya giderek neyi başarmayı
+amaçladığınızı sorabilir miyim?
+
+954
+01:55:20,197 --> 01:55:24,451
+Bizi onlar yarattı, sonra da
+bizi öldürmeye çalıştılar.
+
+955
+01:55:24,493 --> 01:55:27,829
+Fikirlerini değiştirdiler.
+
+956
+01:55:27,864 --> 01:55:31,166
+Nedenini bilmeyi hak ediyorum.
+
+957
+01:55:31,583 --> 01:55:34,503
+Cevap ilgisiz ama.
+
+958
+01:55:34,544 --> 01:55:37,547
+Neden fikirlerini değiştirdikleri
+önemli mi?
+
+959
+01:55:37,631 --> 01:55:41,635
+Evet, önemli.
+
+960
+01:55:42,803 --> 01:55:46,890
+- Anlamıyorum.
+- Pekâlâ...
+
+961
+01:55:48,517 --> 01:55:51,686
+Galiba bu benim insan
+olmamdan kaynaklanıyor.
+
+962
+01:55:51,728 --> 01:55:55,816
+Ama sen bir robotsun.
+
+963
+01:56:03,240 --> 01:56:06,493
+- Üzgünüm.
+- Gayet makul.
+
+964
+01:56:20,674 --> 01:56:23,593
+<i>Prometheus'tan son rapor.</i>
+
+965
+01:56:23,677 --> 01:56:27,055
+<i>Gemi yok oldu ve tüm tayfa öldü.</i>
+
+966
+01:56:27,097 --> 01:56:29,808
+<i>Bu mesajı alıyorsanız...</i>
+
+967
+01:56:29,850 --> 01:56:32,602
+<i>...başlangıç noktasına
+gelmeye kalkışmayın.</i>
+
+968
+01:56:32,644 --> 01:56:35,070
+<i>Burada sadece ölüm var...</i>
+
+969
+01:56:35,105 --> 01:56:37,607
+<i>...ve bunu arkamda bırakıyorum.</i>
+
+970
+01:56:37,649 --> 01:56:40,068
+<i>Yeni yılın ilk günü.</i>
+
+971
+01:56:40,069 --> 01:56:43,697
+<i>Tanrı'mızın yeni bir yılı, 2094.</i>
+
+972
+01:56:43,738 --> 01:56:46,748
+<i>Benim adım Elizabeth Shaw.</i>
+
+973
+01:56:46,783 --> 01:56:49,995
+<i>Prometheus'un son hayatta kalanıyım.</i>
+
+974
+01:56:50,078 --> 01:56:53,790
+<i>Ve hâlâ arayıştayım.</i>
