@@ -1,0 +1,5514 @@
+0
+00:00:07,370 --> 00:00:10,368
+NASA Kennedy Uzay Merkezi
+28 Ocak 1986
+
+1
+00:00:13,370 --> 00:00:15,668
+<i>Bu gece fırlatma rampası 39B 
+üstündeki uzay mekiği Challenger</i>
+
+2
+00:00:15,951 --> 00:00:17,492
+<i>devasa bir uzay aracı görünümünde...</i>
+
+2
+00:00:17,970 --> 00:00:19,368
+Bu gerçek bir hikayedir.
+
+3
+00:00:19,865 --> 00:00:21,983
+<i>New Hampshire okulu öğretmeni 
+Christa McAuliffe'da dahil,</i>
+
+4
+00:00:22,248 --> 00:00:24,067
+<i>yedi kişilik ekibiyle Uzay Mekiği 
+Challenger'in</i>
+
+5
+00:00:24,568 --> 00:00:26,549
+<i>fırlatma işlemi ile ilgili geri 
+sayımı devam ediyor.</i>
+
+6
+00:00:26,450 --> 00:00:27,547
+
+7
+00:00:28,048 --> 00:00:30,126
+<i>NASA yer ekipleri gemiyi
+hazırlarken...</i> 
+
+8
+00:00:30,327 --> 00:00:32,609
+<i>...yetkililer uçuşun gerçekleşeceğine
+inanmaktalar...</i>
+
+8
+00:00:33,127 --> 00:00:36,909
+Feynman ve Leighton'un "Başkalarının
+düşüncelerini ne kadar önemsersiniz?"  
+kitabından esinlenmiştir.
+
+9
+00:00:37,529 --> 00:00:39,889
+<i>...Challenger L51 görevi iptal
+edilmişti...</i>
+
+10
+00:00:39,990 --> 00:00:43,448
+<i>...51L ise göreve hazır durumda.</i>
+
+11
+00:00:43,449 --> 00:00:45,757
+<i> Saat 07:00'de Challenger ekibi
+uçuş öncesi</i>
+
+12
+00:00:45,908 --> 00:00:48,309
+<i>geleneksel kahvaltı 
+için buluştu...</i>
+
+12
+00:00:48,908 --> 00:00:52,409
+Bazı görüntüler dramatik
+amaçlarla konmuştur.
+
+13
+00:01:02,568 --> 00:01:07,527
+<i>Fakültemizin bayanlar ve bayları,
+öğrenciler, sessizlik, lütfen.</i>
+
+14
+00:01:07,528 --> 00:01:11,807
+<i>Hoşgeldiniz saygıdeğer konuk 
+konuşmacımız,</i> 
+
+15
+00:01:11,908 --> 00:01:14,368
+<i>Einstein Ödülü sahibi,</i>
+
+16
+00:01:14,469 --> 00:01:18,208
+<i>tüm zamanların en önemli on
+fizikçisinden biri,</i>
+
+17
+00:01:18,309 --> 00:01:23,883
+Fizik dalında Nobel Ödülü sahibi, 
+Dr Richard Feynman<i>  
+
+18
+00:01:39,768 --> 00:01:41,926
+Bütün bu güzel sözleri söylemek
+için onu kandırarak, 
+
+19
+00:01:42,027 --> 00:01:43,528
+hapisten kaçabildim. 
+
+20
+00:01:47,608 --> 00:01:51,047
+Enerji, durağandan harekete 
+
+21
+00:01:51,148 --> 00:01:52,489
+size şunu verir...
+
+22
+00:01:53,589 --> 00:01:55,127
+Bunu görüyor musunuz?
+
+23
+00:01:55,228 --> 00:01:57,288
+Hayır, bunu şimdi yazmayın...
+
+24
+00:02:02,168 --> 00:02:04,968
+...ne anlama geldiğini görene dek.
+
+25
+00:02:13,208 --> 00:02:15,727
+Bu size zarar vermeyecek.
+
+26
+00:02:15,728 --> 00:02:17,128
+Belki bana verebilir.
+
+27
+00:02:33,488 --> 00:02:35,928
+Neden denklemi yazmanızı istemedim?
+
+28
+00:02:38,688 --> 00:02:39,846
+Onu yazacaktınız
+
+29
+00:02:39,847 --> 00:02:42,128
+ve akıllı olduğunuzu 
+düşünecektiniz, değil mi?
+
+30
+00:02:43,848 --> 00:02:45,368
+Ama şimdi bunu anlıyorsunuz.
+
+31
+00:02:46,448 --> 00:02:48,567
+- Anne! Çabuk ol! 
+- Geliyorum.
+
+32
+00:02:48,668 --> 00:02:51,206
+<i>...yaklaşık üç dakika, bunu 
+yapabileceklerini düşünüyorlar.</i>
+
+33
+00:02:51,307 --> 00:02:53,565
+<i>Buzlar temizlendi, sayım sürüyor,</i>
+
+34
+00:02:53,666 --> 00:02:56,325
+<i>Challenger birazdan uzaklara gidiyor 
+olacak.</i>
+
+35
+00:02:56,426 --> 00:02:58,125
+<i>Kennedy Uzay Merkezine uzanalım,</i>
+
+36
+00:02:58,226 --> 00:03:00,205
+<i>onlar geri sayıma devam ederken</i> 
+
+37
+00:03:00,306 --> 00:03:02,325
+<i>rampada bekleyen Challenger'e 
+bir bakalım.</i> 
+
+38
+00:03:02,426 --> 00:03:05,205
+<i>Challenger'ın fırlatılma işlemi
+25.uzay mekiği görevi olacak.</i>
+
+39
+00:03:05,306 --> 00:03:08,325
+<i>Yaklaşık 40 milyon $ toplam
+maliyetle...</i> 
+
+40
+00:03:08,426 --> 00:03:10,525
+- Dale, kahve ister misin?
+- Şimdi değil, Larry.
+
+41
+00:03:10,626 --> 00:03:13,088
+<i>...30.000 kişinin bu işte görevli
+olduğu tahmin ediliyor.</i>
+
+42
+00:03:17,888 --> 00:03:20,806
+<i>Uzayın ilk öğretmeni, Christa McAuliffe
+gidiyor.</i> 
+
+43
+00:03:20,907 --> 00:03:24,325
+<i>Görevi süresince Amerika genelinde
+okullarda, McAuliffe...</i>
+
+44
+00:03:24,426 --> 00:03:26,005
+<i>...çocuklara canlı iletilecek...</i>
+
+45
+00:03:26,106 --> 00:03:27,685
+<i>...bilimsel deneyleri yönetecek.</i>
+
+46
+00:03:27,786 --> 00:03:30,165
+<i>New Hampshire'lı öğretmen 
+Challenger'ı en büyük</i> 
+
+47
+00:03:30,266 --> 00:03:31,847
+<i>alan gezisi olarak tanımlıyor.</i>
+
+48
+00:03:31,948 --> 00:03:33,206
+Bilim nedir?
+
+49
+00:03:33,307 --> 00:03:37,583
+Bilim, bazı şeylerin bilinmesini...
+
+50
+00:03:37,794 --> 00:03:40,944
+...bize öğreten bir yoldur.
+
+51
+00:03:44,287 --> 00:03:47,726
+Herhangi bir şey mümkün olduğunca
+bilinebilir.
+
+52
+00:03:47,827 --> 00:03:50,047
+Zira hiçbir şey kesinlikle bilinemez.
+
+53
+00:03:51,606 --> 00:03:54,446
+Kuşku ve belirsizliği yönetmenin...
+
+54
+00:03:54,547 --> 00:03:55,727
+...yolu bu şekildedir.
+
+55
+00:03:57,647 --> 00:04:02,126
+<i>On, dokuz, sekiz, yedi, altı...</i>
+
+56
+00:04:02,227 --> 00:04:03,687
+<i>...ana motorumuz çalıştı.</i>
+
+57
+00:04:03,788 --> 00:04:07,686
+<i>Dört, üç, iki, bir...</i>
+
+58
+00:04:07,787 --> 00:04:11,686
+<i>25.uzay mekiği havalandı,</i> 
+
+59
+00:04:11,787 --> 00:04:14,006
+<i>uçuş kulesinden çıktı.</i>
+
+60
+00:04:14,107 --> 00:04:15,207
+Ole!
+
+61
+00:04:24,966 --> 00:04:27,445
+<i>Challenger, manevra yap,</i>
+
+62
+00:04:27,546 --> 00:04:30,205
+<i>Challenger, hızını düşür.</i>
+
+63
+00:04:30,306 --> 00:04:34,827
+Bilim bize kanıt kurallarının ne
+olduğunu öğretir.
+
+64
+00:04:36,247 --> 00:04:38,847
+Bizse kendimizi riske atarak bunu 
+her zaman karıştırırız.
+
+65
+00:04:43,327 --> 00:04:45,247
+<i>Bir dakika, 15 saniye.</i>
+
+66
+00:04:50,806 --> 00:04:54,206
+<i>Bilgi edindikçe daha fazla rapor
+vereceğiz.</i>
+
+67
+00:04:57,886 --> 00:04:59,966
+<i>Kurtarma ekipleri ile takip 
+ediyoruz.</i>
+
+68
+00:05:03,846 --> 00:05:06,046
+<i>Gerçekten önemli bir arıza.</i>
+
+69
+00:05:08,726 --> 00:05:09,966
+<i>Hiçbir bağlantımız yok.</i>
+
+70
+00:05:27,606 --> 00:05:30,804
+<i>Uzay ajansı NASA, bu sabah Florida'da
+kalkış esnasında</i>
+
+71
+00:05:30,905 --> 00:05:33,004
+<i>patlayan Challenger mekiğindeki</i>
+
+72
+00:05:33,105 --> 00:05:35,804
+<i>öğretmen ve diğer altı astronotun</i>
+
+73
+00:05:35,905 --> 00:05:37,524
+<i>ölümlerini henüz doğrulamadı.</i>
+
+74
+00:05:37,625 --> 00:05:40,964
+<i>Ama herhangi bir kurtulan olduğu
+düşünülmüyor.</i>
+
+75
+00:05:41,065 --> 00:05:44,484
+<i>NASA şimdi bir basın toplantısı 
+yürütüyor.</i>
+
+76
+00:05:44,585 --> 00:05:46,644
+<i>Challenger bir ateş topu şeklinde
+patladı</i>
+
+77
+00:05:46,745 --> 00:05:49,365
+<i>ve parçaları Atlantik Okyanusuna
+düştü...</i>
+
+78
+00:05:49,466 --> 00:05:53,925
+<i>Uzay mekiğinde 25.fırlatılma işlemine
+dek hiç can kaybı olmamıştı.</i> 
+
+79
+00:05:54,026 --> 00:05:56,564
+<i>Bugün, bu rekor alevler içinde
+sona erdi.</i>
+
+80
+00:05:56,765 --> 00:05:59,744
+<i>Bu gece mağdurlar için yapılan 
+aramalardan sonuç alınmadı.</i>
+
+81
+00:05:59,945 --> 00:06:02,284
+<i>Cevapların araştırılması yeni başlıyor.</i>
+
+82
+00:06:02,385 --> 00:06:04,724
+<i>Bruce Hall, ateş topuna dönüşerek
+ulusal trajediye neden olan</i>
+
+83
+00:06:04,925 --> 00:06:07,806
+<i>uzay gemisi hakkındaki haberlerimize 
+başlıyor.</i>
+
+84
+00:06:07,907 --> 00:06:09,125
+<i>Fırlatma hazır.</i>
+
+85
+00:06:09,226 --> 00:06:10,965
+<i>Kalkış.</i> 
+
+86
+00:06:11,066 --> 00:06:13,604
+<i>İlk ABD'li öğretmen astronot için</i>
+
+87
+00:06:13,705 --> 00:06:15,806
+<i>genç öğrencilerin coşkuları.</i>.
+
+88
+00:06:16,107 --> 00:06:18,684
+<i>Dakikalar sonra, büyük bir patlama.</i>
+
+89
+00:06:18,885 --> 00:06:21,164
+<i>Ve coşkuların sonu.</i>
+
+90
+00:06:21,365 --> 00:06:23,545
+Üzgünüm, bunları izleyemeyeceğim.
+
+91
+00:06:27,965 --> 00:06:30,363
+<i>Yüksek umutlarla dolu yedi Amerikalı...</i>
+
+92
+00:06:30,464 --> 00:06:33,406
+<i>...Bir milyar $ değerinde yüksek 
+teknoloji...</i>
+
+93
+00:06:33,507 --> 00:06:36,125
+<i>...saniyeler içinde yok oldu...</i>
+
+94
+00:06:36,226 --> 00:06:39,266
+<i>...ABD Uzay Programında bugüne dek
+yaşanan en kötü felaket.</i>
+----------------
+95
+00:06:51,165 --> 00:06:53,524
+Merhaba. Bekle, bekle. Hayır ..
+
+96
+00:06:53,625 --> 00:06:54,965
+Bekle!
+
+97
+00:06:59,605 --> 00:07:01,965
+Feynman'ın bahçesi.
+
+98
+00:07:04,065 --> 00:07:05,845
+Üzgünüm, kimsin? Bekle, bekle.
+
+99
+00:07:09,445 --> 00:07:10,565
+Kimsin?
+
+100
+00:07:11,685 --> 00:07:12,966
+Bill.Hangi Bill?
+
+101
+00:07:14,325 --> 00:07:15,605
+Bill Graham?
+
+102
+00:07:17,005 --> 00:07:19,844
+Benim 15.000 eski öğrencim var.
+
+103
+00:07:19,945 --> 00:07:22,285
+Dinle dostum, ev telefonumu nasıl
+buldun?
+
+104
+00:07:24,765 --> 00:07:26,205
+Ne başkanı?
+
+105
+00:07:28,525 --> 00:07:29,765
+NASA?
+
+106
+00:07:49,724 --> 00:07:51,803
+Sonuçlarını hala almadın mı?
+
+107
+00:07:51,904 --> 00:07:53,165
+Hayır.
+
+108
+00:07:58,005 --> 00:07:59,283
+Canını sıkan ne?
+
+109
+00:07:59,384 --> 00:08:01,165
+Bu sabah bir telefon görüşmem oldu.
+
+110
+00:08:04,205 --> 00:08:05,885
+Beni Washington'a çağırıyorlar. 
+
+111
+00:08:05,986 --> 00:08:10,284
+Başkanlık düzeyinde bir soruşturmaya
+katılmamı istiyorlar.
+
+112
+00:08:10,385 --> 00:08:12,124
+Ne?
+
+113
+00:08:12,225 --> 00:08:14,683
+Mekiğin neden patladığını bulmak
+istiyorlar.
+
+114
+00:08:14,784 --> 00:08:16,003
+Evet dedin mi?
+
+115
+00:08:16,104 --> 00:08:18,444
+Ben uzay programında bile değilim.
+
+116
+00:08:19,644 --> 00:08:22,764
+İnsanların öldüğünü biliyorum 
+ve bu konuda çok üzgünüm, ama...
+
+117
+00:08:23,844 --> 00:08:25,283
+Gwen...
+
+118
+00:08:25,384 --> 00:08:29,603
+Ben işimi, öğretmenliğimi yaparım.
+
+119
+00:08:29,704 --> 00:08:35,084
+Ünlü fizikçiyi bulduklarını söylemek
+istiyorlar.
+
+120
+00:08:35,185 --> 00:08:37,685
+Onlar kendilerini aşırı derecede
+beğenen
+
+121
+00:08:37,786 --> 00:08:40,325
+bir grup bürokrat ve general, anladın mı?
+
+122
+00:08:43,404 --> 00:08:44,483
+Ne?
+
+123
+00:08:44,584 --> 00:08:46,763
+Biraz önce söyledin.
+
+124
+00:08:46,864 --> 00:08:49,322
+Onlar nereye bakacaklarını bilemezler.
+Sen ise bilirsin.
+
+125
+00:08:49,423 --> 00:08:52,604
+Daha önemsiz durumlarda bile fırsatları 
+tepmemelisin.
+
+126
+00:08:59,484 --> 00:09:01,484
+Üzgünüm, aşkım, haklısın.
+
+127
+00:09:01,585 --> 00:09:03,164
+Düşünmüyordum.
+
+128
+00:09:04,484 --> 00:09:07,324
+Uygun olmadığını açıkla ve yaz.
+
+129
+00:09:07,425 --> 00:09:09,203
+İyiyim.İyiyim.
+
+130
+00:09:09,304 --> 00:09:11,523
+Kimi kandırıyorsun?
+Turp gibi sağlamım.
+
+131
+00:09:11,624 --> 00:09:15,683
+Siz Yorkshire halkı ne diyorsunuz?
+"Pire gibi hareketliyim."
+
+132
+00:09:15,784 --> 00:09:17,083
+Kanıt ister misin?
+
+133
+00:09:17,184 --> 00:09:18,243
+Hayır istemem.
+
+134
+00:09:18,344 --> 00:09:20,044
+Ohh...çok güzel kokuyorsun.
+
+135
+00:09:21,844 --> 00:09:23,044
+Tamam, ama...
+
+136
+00:09:24,284 --> 00:09:25,804
+...sonra hiç mazeretin kalmayacak.
+
+137
+00:09:29,324 --> 00:09:30,644
+Canın çıksın, kadın.
+
+138
+00:09:35,844 --> 00:09:37,884
+Kravat takmam gerekecek.
+
+139
+00:09:41,883 --> 00:09:44,841
+<i>Kaptan sigara içilmez uyarısı
+yaptı.</i>
+
+140
+00:09:44,942 --> 00:09:48,123
+<i>Sigaraları söndürelim, lütfen.</i>
+
+141
+00:09:57,804 --> 00:09:59,084
+Taksi!
+
+142
+00:10:07,604 --> 00:10:08,644
+Soğuk.
+
+143
+00:10:09,683 --> 00:10:11,202
+NASA karargahına.
+
+144
+00:10:11,303 --> 00:10:13,482
+NASA, anlaşıldı.
+
+145
+00:10:13,583 --> 00:10:14,523
+Soğuk!
+
+146
+00:10:18,443 --> 00:10:20,001
+<i>Dünyanın en kötü uzay felaketinden
+sonra</​​i>
+
+147
+00:10:20,102 --> 00:10:21,961
+<i>hala şoktaki Amerika ile </i>
+
+148
+00:10:22,062 --> 00:10:23,961
+<i>kazayı izleyen saatler içinde</​​i>
+
+149
+00:10:24,062 --> 00:10:25,721
+<i>Başkan Reagan'ın konuşması</i>
+
+150
+00:10:25,822 --> 00:10:27,843
+<i>şimdi bir milletin ruhunu yakalamış
+görünüyor.</i>
+
+151
+00:10:27,944 --> 00:10:29,842
+<i>Yedi kahraman için yastayız.</i>
+
+152
+00:10:29,943 --> 00:10:31,801
+<i>Onların kaybına  millet olarak 
+hep birlikte yas tutuyoruz...</i>
+
+153
+00:10:31,902 --> 00:10:34,362
+Peki, efendim, oradaki soruşturmada
+bir şeyler yapacak mısınız?
+
+154
+00:10:34,463 --> 00:10:36,804
+Evet, ben başkanlık kurulundayım.
+
+155
+00:10:36,815 --> 00:10:37,843
+Ah.
+
+156
+00:10:37,944 --> 00:10:40,123
+Çok önemli bazı kişilerle birlikte
+olacaksınız.
+
+157
+00:10:40,224 --> 00:10:45,242
+<i>...tanrının yüzüne dokunmak için 
+dünyevi bağlarından koptular.</i>
+
+158
+00:10:45,343 --> 00:10:47,761
+<i>Odaklanma şimdi facianın nedenine 
+dönüyor,</i>
+ 
+159
+00:10:47,862 --> 00:10:49,603
+<i>Başkanlık kurulu gibi...</i>
+
+160
+00:10:49,704 --> 00:10:51,842
+Onlar orada bir şeyler bulacaklar.
+
+161
+00:10:51,943 --> 00:10:53,563
+Bazı şeyler gerçekten yanlış gitti.
+
+162
+00:11:10,722 --> 00:11:12,682
+Bunu al.Teşekkür ederim.
+
+163
+00:11:12,783 --> 00:11:14,322
+Efendim...
+
+164
+00:11:14,423 --> 00:11:16,962
+Bir imza size zahmet olur mu?
+
+165
+00:11:17,063 --> 00:11:18,962
+Kesinlikle.
+
+166
+00:11:19,063 --> 00:11:21,082
+Kimin için imzalayayım?
+
+167
+00:11:21,183 --> 00:11:22,802
+Oh...
+
+168
+00:11:22,903 --> 00:11:25,441
+...siz değil, efendim.
+Bay Neil Armstrong'u kastetmiştim. 
+
+169
+00:11:25,542 --> 00:11:26,683
+Aydaki ilk insan.
+
+170
+00:11:26,784 --> 00:11:28,682
+Ona iletebilir misiniz?
+
+171
+00:11:28,783 --> 00:11:30,883
+Bu adresim, bu da sürücü belgem.
+
+172
+00:11:30,984 --> 00:11:32,802
+Tamam.
+
+173
+00:11:32,903 --> 00:11:34,762
+Söz veriyorum.Teşekkür ederim.
+
+174
+00:11:34,863 --> 00:11:36,123
+Teşekkür ederim.
+
+175
+00:11:37,522 --> 00:11:39,520
+Böyle ne bulmayı umuyorsunuz?
+
+176
+00:11:39,621 --> 00:11:41,722
+Bay Feynman, ne bulmayı umuyorsunuz?
+
+177
+00:11:46,522 --> 00:11:47,961
+Affedersiniz.
+
+178
+00:11:48,062 --> 00:11:50,320
+Bay Armstrong, sanırım tanışmıştık...
+Affedersiniz.
+
+179
+00:11:50,421 --> 00:11:53,563
+Ben Bill Rogers.
+Kurulun başkanıyım.
+
+180
+00:11:53,664 --> 00:11:56,482
+Bizimle birlikte olmanız bizim için
+çok büyük bir şans.
+
+181
+00:11:56,583 --> 00:11:59,203
+Hey, sizinle tanışmak isteyen biri var.
+
+182
+00:11:59,304 --> 00:12:01,402
+Dr Sally Ride.
+
+183
+00:12:01,503 --> 00:12:04,402
+Oh...Uzaydaki ilk bayanımız.
+Pekala...
+
+184
+00:12:04,503 --> 00:12:05,961
+Tanıştığımıza memnun oldum.
+
+185
+00:12:06,062 --> 00:12:07,961
+Ben de.Mmm.
+
+186
+00:12:08,062 --> 00:12:09,281
+Yolculuk nasıldı?
+
+187
+00:12:09,382 --> 00:12:11,561
+LA'den gece uçtum.
+
+188
+00:12:11,662 --> 00:12:12,881
+Siz sakın bunu yapmayın.
+
+189
+00:12:12,982 --> 00:12:16,801
+Dr Alton Keel, yetkili müdürümüz.
+
+190
+00:12:16,902 --> 00:12:18,722
+Nobel ödüllü, Richard Feynman.
+
+191
+00:12:18,823 --> 00:12:21,841
+Adınızı hatırladım.
+Fizikçi üye.
+
+192
+00:12:21,942 --> 00:12:24,882
+Önceden.Birkaç yıl Washington'da
+bulunmuştum.
+
+193
+00:12:26,402 --> 00:12:27,722
+Bütünlüğünüz nasıl?
+
+194
+00:12:30,082 --> 00:12:31,921
+Bu biraz hakaret oldu.Hayır!
+
+195
+00:12:32,022 --> 00:12:33,523
+Beni ciddiye almayın.
+
+196
+00:12:38,622 --> 00:12:40,401
+Kurul üyeleri.
+
+197
+00:12:40,502 --> 00:12:44,241
+Hepinizin kısa sürede bir araya
+gelmenize minnettarım.
+
+198
+00:12:44,342 --> 00:12:47,321
+Bu ülkedeki insanlı uzay uçuşlarının
+
+199
+00:12:47,422 --> 00:12:48,860
+geleceğini etkileyebilecek
+
+200
+00:12:49,161 --> 00:12:51,362
+önümüzde büyük, hayati bir görevimiz
+var.
+
+201
+00:12:52,602 --> 00:12:54,922
+Şimdi, bu soruşturma için düşüncem
+
+202
+00:12:55,023 --> 00:12:58,481
+düzenli ve uygun bir yöntem uygulamaktır.
+
+203
+00:12:58,582 --> 00:13:02,482
+Bunu NASA'ya haksız bir değerlendirmeye 
+neden olacak
+
+204
+00:13:02,583 --> 00:13:04,680
+tarzda yürütmeyeceğiz.
+
+205
+00:13:04,781 --> 00:13:07,079
+Çünkü biz NASA'nın mükemmel bir iş
+yaptığına 
+
+206
+00:13:07,180 --> 00:13:09,521
+kesinlikle inanıyoruz.
+
+207
+00:13:09,622 --> 00:13:13,441
+Amerikan halkının da aynı şekilde 
+düşündüğüne inanıyorum.
+
+208
+00:13:13,542 --> 00:13:15,681
+Sözü olan var mı?
+
+209
+00:13:15,782 --> 00:13:18,001
+Kabul etmemiz gereken gerçek, 
+bu mekiğin
+
+210
+00:13:18,102 --> 00:13:21,560
+şu ana kadar inşa edilen en karmaşık 
+makine olduğu.
+
+211
+00:13:21,661 --> 00:13:24,322
+İki buçuk milyondan daha fazla parçası
+olduğu bildirildi.
+
+212
+00:13:25,642 --> 00:13:27,960
+Bu göz önüne alındığında, belki de
+
+213
+00:13:28,061 --> 00:13:30,602
+nedenini belirlemek pek mümkün olmayacak.
+
+214
+00:13:30,703 --> 00:13:31,681
+Şimdi...
+
+215
+00:13:31,782 --> 00:13:33,881
+...zamanlama açısından...
+Bu hiçbir şey değil.
+
+216
+00:13:35,361 --> 00:13:36,599
+Özür dilerim, Dr Feynman?
+
+217
+00:13:36,600 --> 00:13:38,601
+İki buçuk milyon - küçük patates.
+
+218
+00:13:40,281 --> 00:13:44,400
+Bakın gerçekten, uzay roketleri
+hakkında çok fazla bilgim yok,
+
+219
+00:13:44,501 --> 00:13:47,561
+ama olasılık hakkında az bir şey
+biliyorum.
+
+220
+00:13:47,662 --> 00:13:51,881
+Geliştirdiğim şey,...integral
+yol formülü.
+
+221
+00:13:54,982 --> 00:13:57,842
+Bu kuantum mekaniği, iğrenç.Ama...
+
+222
+00:13:57,943 --> 00:14:03,640
+...temel olarak anlamı, meydana gelen
+bir şeyin olasılığını...
+
+223
+00:14:03,741 --> 00:14:05,840
+...sadece iki buçuk milyon olay içinde 
+değil, 
+
+224
+00:14:05,941 --> 00:14:09,480
+ama sonsuz olasılıklarda da 
+
+225
+00:14:09,581 --> 00:14:14,000
+hesaplayabiliriz.
+
+226
+00:14:14,101 --> 00:14:17,200
+Challenger'e ne olduğuyla ilgili 
+
+227
+00:14:17,301 --> 00:14:20,320
+nedenlerin sayısı ne kadar büyük 
+olsa da
+
+228
+00:14:20,421 --> 00:14:22,281
+bir açıklama bulunabilir.
+
+229
+00:14:24,641 --> 00:14:27,721
+Bunun mümkün olduğunu düşünmezsek
+o zaman burada işimiz ne?
+
+230
+00:14:28,921 --> 00:14:30,081
+Haksız mıyım?
+
+231
+00:14:32,641 --> 00:14:36,240
+Başkan Rogers, bir Titan roketinin
+arızası ile ilgili
+
+232
+00:14:36,341 --> 00:14:38,159
+bir soruşturmanın başındaydım,
+
+233
+00:14:38,260 --> 00:14:41,039
+orada kullandığımız yöntemi burada 
+önermek isterim.
+
+234
+00:14:41,140 --> 00:14:43,201
+Teklifinize teşekkür ederim,
+General Kutyna,
+
+235
+00:14:43,302 --> 00:14:47,800
+ama bu durumda çok daha az toplanacak
+kanıt olacaktır.
+
+236
+00:14:47,901 --> 00:14:50,599
+Sizinle çelişmek istemiyorum, efendim,
+ama mekik olayında,
+
+237
+00:14:50,700 --> 00:14:52,079
+gemide insanlar olduğundan,
+
+238
+00:14:52,180 --> 00:14:54,039
+çok daha fazla veri elde edilecektir.
+
+239
+00:14:54,140 --> 00:14:56,599
+Sayın Rogers, generalin söylediği
+kendi görüşüdür.
+
+240
+00:14:56,700 --> 00:14:59,319
+Harici kameralar, kara kutu kayıtları, 
+
+241
+00:14:59,420 --> 00:15:02,198
+uzaktan ölçüm sensörleri, çok büyük 
+miktarda bilgi sağlanacaktır.
+
+242
+00:15:02,299 --> 00:15:03,880
+Teşekkür ederim, General Kutyna. 
+
+243
+00:15:03,981 --> 00:15:05,079
+Bay Armstrong.
+
+244
+00:15:05,180 --> 00:15:07,599
+Buna geri dönebileceğimize eminim.
+
+245
+00:15:07,700 --> 00:15:08,879
+Lütfen, herkes.
+
+246
+00:15:08,980 --> 00:15:09,959
+Başkan.
+Evet.
+
+247
+00:15:10,060 --> 00:15:12,639
+Diğer kişileri bilmiyorum, ama...
+
+248
+00:15:12,740 --> 00:15:15,201
+görünüşe göre basının konuya ilgisi fazla.
+
+249
+00:15:16,481 --> 00:15:18,399
+Ne söyleyebileceğimizi bilmek isterim.
+
+250
+00:15:18,500 --> 00:15:20,919
+Astronot ailelerin hatırı için,
+
+251
+00:15:21,020 --> 00:15:23,119
+bu noktada ne söyleyebiliriz?
+
+252
+00:15:23,220 --> 00:15:24,679
+Bu çok önemli.
+
+253
+00:15:24,780 --> 00:15:26,759
+Basından gelecek tüm sorular
+
+254
+00:15:26,860 --> 00:15:29,240
+Başkan Rogers'ın ofisine
+yöneltiecektir.
+
+255
+00:15:31,000 --> 00:15:32,999
+Bu durumda, planımız...
+
+256
+00:15:33,100 --> 00:15:35,319
+...bayan ve baylar...
+
+257
+00:15:35,420 --> 00:15:38,559
+...beş gün sonra tekrar toplanacağız.
+
+258
+00:15:38,660 --> 00:15:41,160
+Ama şimdilik, Washington'da keyfinize 
+bakın.
+
+259
+00:15:42,260 --> 00:15:43,200
+Ne?
+
+260
+00:15:44,640 --> 00:15:46,360
+- Başlamıyor muyuz...? 
+- Bu kadar.
+
+261
+00:15:46,461 --> 00:15:49,120
+Keel.Hemen başlayamaz mıyız?
+
+262
+00:16:05,160 --> 00:16:06,400
+Hayret bir şey.
+
+263
+00:16:10,500 --> 00:16:11,439
+Dr Feynman.
+
+264
+00:16:11,540 --> 00:16:13,080
+Bill Graham, NASA başkanı.
+
+265
+00:16:13,181 --> 00:16:14,799
+Teşekkür ederim.
+
+266
+00:16:14,900 --> 00:16:17,078
+Beni bu işe sokan sensin.
+
+267
+00:16:17,179 --> 00:16:19,918
+Geçmişte sizden aldığım fizik
+derslerini asla unutmadım.
+
+268
+00:16:20,019 --> 00:16:23,438
+Kurula benzeri olmayan bir şey 
+getireceğinizi düşünüyorum. 
+
+269
+00:16:23,539 --> 00:16:27,597
+Buraya gelmek için öğretimimi ve 
+danışmanlık işlerimi bıraktım,
+
+270
+00:16:27,698 --> 00:16:30,679
+bir hafta boyunca burada tatil 
+yapmayı hayal etmemiştim.
+
+271
+00:16:33,400 --> 00:16:35,719
+Yani, burada ihtiyacım olacak şey.
+
+272
+00:16:35,820 --> 00:16:38,118
+Mekik tasarımıyla ilgili seri bir kursa
+katılmalıyım. 
+
+273
+00:16:38,219 --> 00:16:40,758
+Bu şeyin nasıl yapıldığıyla ilgili
+herşeyi öğrenmem gerekiyor,
+
+274
+00:16:40,859 --> 00:16:44,118
+bu yüzden bana teknik belgeleri 
+sağlamakla başlayabilirsin
+
+275
+00:16:44,219 --> 00:16:47,238
+ve en önemlisi beni doğrudan fabrika 
+sahasına sokabilirsin.
+
+276
+00:16:47,339 --> 00:16:48,718
+Kendim NASA'da oldukça yeniyim.
+
+277
+00:16:48,819 --> 00:16:50,800
+Aslında sadece iki aydır bu görevin
+başındayım.
+
+278
+00:16:50,901 --> 00:16:52,359
+Bu kötü bir zamanlama.
+
+279
+00:16:52,460 --> 00:16:54,198
+Biz burada, Washington'da kalıyoruz,
+
+280
+00:16:54,299 --> 00:16:55,758
+ama mekiğe ait makine ve sistemlerin tümü
+
+281
+00:16:55,859 --> 00:16:57,877
+Marshall Uzay Uçuş Merkezi'ne 
+dışardan geliyor.
+
+282
+00:16:57,978 --> 00:16:59,437
+Bu daha da fazla önem gerektiriyor.
+
+283
+00:16:59,538 --> 00:17:00,997
+Sen bu grubun başkanısın, 
+
+284
+00:17:01,098 --> 00:17:02,917
+Bu Marshall bölgesine beni alabilirsin,
+
+285
+00:17:03,018 --> 00:17:04,677
+aksi takdirde bir çalışma yapamam.
+
+286
+00:17:04,778 --> 00:17:07,399
+Elimden geleni yapacağım.
+Hemen bu konunun üzerine gideceğim.
+
+287
+00:17:07,500 --> 00:17:08,919
+Tamam, teşekkürler.
+ 
+288
+00:17:12,400 --> 00:17:15,400
+Başkanın karşısında sağlam duruşunuzu 
+beğendim.
+
+289
+00:17:17,640 --> 00:17:20,198
+Siz binin..
+Ben Limuzinleri önemsemem.
+
+290
+00:17:20,299 --> 00:17:21,278
+Ben de aynı şekilde.
+
+291
+00:17:21,379 --> 00:17:24,240
+Sadece iki yıldızlı bir generalim,
+bana limuzin tahsis etmezler.
+
+292
+00:17:24,341 --> 00:17:25,678
+Metroyu kullanın.
+
+293
+00:17:25,779 --> 00:17:27,958
+Hmm.
+
+294
+00:17:28,059 --> 00:17:29,279
+Memnun oldum.
+Ben de.
+
+295
+00:17:32,839 --> 00:17:33,999
+Taksi!
+
+296
+00:17:37,679 --> 00:17:40,319
+Oh, size bir telefon vardı, efendim.
+
+297
+00:17:40,420 --> 00:17:41,959
+Lütfen doktorunuzu arayın.
+
+298
+00:17:44,759 --> 00:17:47,239
+Dr...Weiss?
+
+299
+00:17:48,719 --> 00:17:50,959
+Asansör hemen sağınızda, efendim.
+
+300
+00:18:17,239 --> 00:18:20,157
+<i>...belki de uzun sürecek bir işe 
+başlarken</i>
+
+301
+00:18:20,258 --> 00:18:23,077
+<i>O soğuk Ocak sabahı kalkıştan 
+sadece 73 saniye sonra
+
+302
+00:18:23,178 --> 00:18:26,556
+<i>kahramanlarımızın yok olmasını
+izleyen milyonlarca Amerikalı</i>
+
+303
+00:18:26,657 --> 00:18:28,116
+<i>cevapları bekliyor.</i>  
+
+304
+00:18:28,217 --> 00:18:30,396
+<i>Nancy ve ben mekik Challenger 
+trajedisine</i> 
+
+305
+00:18:30,497 --> 00:18:32,279
+<i>çok derin üzüntü duymaktayız.</i> 
+
+306
+00:18:32,380 --> 00:18:34,439
+Merhaba.
+
+307
+00:18:35,519 --> 00:18:36,679
+Graham.
+
+308
+00:18:38,199 --> 00:18:39,758
+İşimi hallettin, harika.
+
+309
+00:18:39,859 --> 00:18:43,318
+Sabah uçağıyla gidiyorum.
+
+310
+00:18:43,419 --> 00:18:45,038
+Teşekkürler.
+
+311
+00:18:45,139 --> 00:18:46,079
+Çok iyi.
+
+312
+00:18:48,279 --> 00:18:52,357
+<i>Uzay programımıza her zaman büyük 
+inanç ve saygı duydum.</i>
+
+313
+00:18:52,458 --> 00:18:54,438
+<i>Uzay programımızı gizlemeyiz.</i>
+
+314
+00:18:54,539 --> 00:18:57,637
+<i>Sır tutmayız ve mevzuları örtbas 
+etmeyiz.</i>
+
+315
+00:18:57,738 --> 00:19:00,397
+<i>Herşeyi açık bir şekilde kamuoyu
+önünde yaparız.</i>
+
+316
+00:19:00,498 --> 00:19:04,078
+<i>Özgürlüğün yolu budur ve onu
+bir an için bile değiştirmeyiz.</i>
+
+317
+00:19:15,799 --> 00:19:17,598
+Vay, çok büyük.
+
+318
+00:19:17,699 --> 00:19:19,157
+Bu örnek bir uçak mı?
+
+319
+00:19:19,258 --> 00:19:20,837
+Hayır, bu bir eğitim aracı.
+
+320
+00:19:20,938 --> 00:19:25,518
+ama amaçlarınız için, uçuş güvertesi
+sistemleri, yükleme köprüsü, vs,
+
+321
+00:19:25,619 --> 00:19:27,038
+hemen hemen aynı sayılır.
+
+322
+00:19:34,278 --> 00:19:36,638
+Uçuş güvertesini görmek ister misiniz?
+
+323
+00:19:58,438 --> 00:20:01,718
+Dört insan bu yere nasıl yerleşir?
+
+324
+00:20:01,719 --> 00:20:02,757
+Buraya oturabilir miyim?
+
+325
+00:20:02,858 --> 00:20:03,798
+Evet.
+
+326
+00:20:06,118 --> 00:20:07,478
+Vay.
+
+327
+00:20:09,238 --> 00:20:11,117
+Tamam. Yani...
+
+328
+00:20:11,218 --> 00:20:13,997
+S-Band iletişim bağlantıları var... 
+
+329
+00:20:14,098 --> 00:20:16,637
+...çevre kontrol sistemleri...
+
+330
+00:20:16,738 --> 00:20:18,518
+...kabin basıncı göstergeleri...
+
+331
+00:20:19,678 --> 00:20:21,876
+O nedir? 
+Acil oksijen.
+
+332
+00:20:21,977 --> 00:20:24,077
+Onlara dokunmayın.
+
+333
+00:20:27,317 --> 00:20:28,357
+Hmm.
+
+334
+00:20:32,638 --> 00:20:34,078
+Haydi.
+
+335
+00:20:39,718 --> 00:20:42,557
+Dick Feynman.Kurulda görevliyim.
+
+336
+00:20:42,658 --> 00:20:44,158
+Saklayacak bir şeyim yok.
+
+337
+00:20:49,198 --> 00:20:50,715
+Siz mühendislere sormam gerekseydi,
+
+338
+00:20:50,816 --> 00:20:53,435
+yöneticilerin ne söylediğini boş verin,
+ama sizler...
+
+339
+00:20:53,536 --> 00:20:54,995
+...tüm deneyimlerinizi göz önüne alarak,
+
+340
+00:20:55,096 --> 00:20:59,835
+herhangi bir fırlatmada bir kaza 
+olasılığı hakkında ne düşünürdünüz,
+
+341
+00:20:59,936 --> 00:21:00,877
+ne söylemek isterdiniz?
+
+342
+00:21:07,597 --> 00:21:10,015
+Yani, sesli söylemek istemiyorsanız, 
+
+343
+00:21:10,115 --> 00:21:12,777
+belki bir parça kağıt üzerine bunu
+yazabilirsiniz.
+
+344
+00:21:26,317 --> 00:21:29,437
+O halde siz katı roket iticilerine
+bakıyorsunuz.
+
+345
+00:21:29,538 --> 00:21:31,076
+Tamam, bu yüzden...
+
+346
+00:21:31,177 --> 00:21:33,236
+Onlara burada yapılmıyor, öyle mi?
+
+347
+00:21:33,337 --> 00:21:37,236
+Hayır - Utah'daki müteahhitler
+Morton Tiyokol tarafından yapılıyor.
+
+348
+00:21:37,337 --> 00:21:39,115
+Kennedy'e demiryoluyla parçalar halinde  
+sevkediliyor.
+
+349
+00:21:39,216 --> 00:21:41,855
+Bu oldukça standart dil ve çatal eklem.
+
+350
+00:21:41,956 --> 00:21:44,515
+Bak, bunun nedeni kesinlikle katı 
+roket iticileri olamaz.
+
+351
+00:21:44,616 --> 00:21:47,754
+- Nasıl bu kadar eminsin?
+- Çünkü içlerindeki deliklerle uçmazlar.
+
+352
+00:21:47,855 --> 00:21:51,114
+Neden katı roket iticileri olsaydı,
+fırlatma rampasında infilak ederdi.
+
+353
+00:21:51,215 --> 00:21:53,395
+Bunlar uçuşa devam etti, kameradan 
+görebilirsin.
+
+354
+00:21:53,496 --> 00:21:56,435
+Kamerayı sen izledin.Bana ne gördüğünü
+söyle.
+
+355
+00:21:56,536 --> 00:21:58,035
+Aklından ne geçti?
+
+356
+00:21:58,136 --> 00:21:59,357
+Ne olduğunu düşündün?
+
+357
+00:21:59,458 --> 00:22:01,876
+Ana motorlardan kaynaklandığını düşündüm.
+
+358
+00:22:01,977 --> 00:22:03,996
+Pekala.Neden? Neden ana motorlar?
+
+359
+00:22:04,097 --> 00:22:05,555
+Karmaşıklığı yüzünden.
+
+360
+00:22:05,656 --> 00:22:08,997
+Onlar herhangi deney sahasının
+dışında çalışırlar.
+
+361
+00:22:09,098 --> 00:22:10,796
+Bıçak teknolojisinde mi?
+
+362
+00:22:10,897 --> 00:22:12,797
+Hayır, hayır, hayır, bu bıçaklardan
+daha fazla, bu...
+
+363
+00:22:13,897 --> 00:22:14,836
+Hey...
+
+364
+00:22:14,937 --> 00:22:17,996
+Burada iş arkadaşlarımı ispiyonlamanın 
+bir yolu yok.
+
+365
+00:22:18,097 --> 00:22:19,515
+Bak, dostum...
+
+366
+00:22:19,616 --> 00:22:21,794
+Neyin yanlış gittiğini ortaya
+çıkaramazsak,
+
+367
+00:22:21,895 --> 00:22:23,874
+artık burada çalışan kalmayacak.
+
+368
+00:22:23,975 --> 00:22:26,036
+Bütün bu işler sona ermiş olacak.
+
+369
+00:22:28,476 --> 00:22:30,396
+Başka bir mekik uçuşu gerçekleşmeyecek.
+
+370
+00:22:32,997 --> 00:22:35,795
+<i>28 ocak sabahı olayları için,</i>
+
+371
+00:22:35,896 --> 00:22:38,995
+<i>eski Dışişleri Bakanı William Rogers 
+başkanlığında,</i>
+
+372
+00:22:39,096 --> 00:22:41,395
+<i>kazayı araştıran Başkanlık Kurulu</i>
+
+373
+00:22:41,496 --> 00:22:43,237
+<i>çoğunlukla kapalı kapılar ardında 
+bir araya geldi.</i>
+
+374
+00:22:45,477 --> 00:22:48,474
+<i>Şu ana dek, kazanın nedeni hakkında</i>
+
+375
+00:22:48,575 --> 00:22:49,916
+<i>hiçbir ipucu verilmedi.</i>
+
+376
+00:22:52,516 --> 00:22:54,274
+<i>Bu arada, Florida kıyısı açıklarında</i>
+
+377
+00:22:54,375 --> 00:22:56,954
+<i> Challenger enkazının aranması devam
+ediyor.</i>
+
+378
+00:22:57,055 --> 00:22:59,594
+<i>14 gemi, 4 denizaltı ve 11 uçaktan
+oluşan</i>
+
+379
+00:22:59,695 --> 00:23:02,954
+<i>NASA, deniz ve sahil güvenlik ekipleri</i>
+
+380
+00:23:03,055 --> 00:23:05,114
+<i>yüzlerce mil karelik okyanusu
+tarıyorlar.</i>
+
+381
+00:23:05,215 --> 00:23:08,114
+<i>NASA bugün kurtarılan enkaza ait
+resimleri yayınlamasına rağmen,</i>
+
+382
+00:23:08,215 --> 00:23:11,394
+<i>mürettebat bölümünü bulduklarını 
+doğrulayamamışlardır.</i>
+
+383
+00:23:11,495 --> 00:23:13,235
+<i>Challenger'e ne olduğuyla ilgili,</i> 
+
+384
+00:23:13,336 --> 00:23:15,034
+<i>detaylı bilgilerin yokluğunda</i> 
+
+385
+00:23:15,135 --> 00:23:17,794
+<i>Kazanın nedeni ile ilgili dayanıksız
+yorumlar artmaya devam ediyor.</i>
+
+386
+00:23:17,895 --> 00:23:21,114
+<i>Yeni teoriler, bilgisayar programlama 
+hatasından olağandışı güçlü rüzgarlara</i>
+
+387
+00:23:21,215 --> 00:23:22,836
+<i>kadar herşeyi içeriyor.</i>
+
+388
+00:24:00,116 --> 00:24:01,556
+Başkan Rogers...
+
+389
+00:24:02,516 --> 00:24:05,616
+Tekneler biraz evvel mürettebat bölümünü
+çıkardılar.
+
+390
+00:24:08,276 --> 00:24:12,116
+Oksijen aktive edilmiş mi, bana
+söyleyebilir misiniz?
+
+391
+00:24:14,595 --> 00:24:16,114
+Evet, Dr Ride.
+
+392
+00:24:16,215 --> 00:24:17,595
+Edilmiş.
+
+393
+00:24:18,595 --> 00:24:19,954
+Biz...
+
+394
+00:24:20,055 --> 00:24:23,135
+...belki bunu hemen kamuya iletmememiz
+gerekecek.
+
+395
+00:24:23,955 --> 00:24:25,395
+Affedersiniz.
+
+396
+00:24:41,756 --> 00:24:43,115
+Dr Feynman.
+
+397
+00:24:44,195 --> 00:24:49,234
+Bu ekibin her zaman bir arada kalması 
+çok önemli.
+
+398
+00:24:49,335 --> 00:24:50,395
+Neden?
+
+399
+00:24:51,755 --> 00:24:54,955
+Marshall'da bir süre zaman geçirdiğiniz
+bana bildirildi.
+
+400
+00:24:55,056 --> 00:24:56,794
+Yalnız olarak.
+
+401
+00:24:56,895 --> 00:24:58,353
+Bu çok faydalı değil.
+
+402
+00:24:58,454 --> 00:25:02,075
+Bay Rogers, ben etrafta boş durmayı 
+faydalı bulmuyorum.
+
+403
+00:25:02,875 --> 00:25:06,354
+Diğer kurul üyeleri saygılı davranıyorlar.
+
+404
+00:25:06,555 --> 00:25:08,955
+Ve siz benim yapmadığımı mı söylüyorsunuz?
+
+405
+00:25:10,715 --> 00:25:14,675
+Oksijenin aktive edilmesinin anlamını
+biliyor musunuz?
+
+406
+00:25:14,976 --> 00:25:16,154
+Ben biliyorum.
+
+407
+00:25:16,255 --> 00:25:18,555
+Astronotlar bunu kendileri yaparlar.
+
+408
+00:25:19,795 --> 00:25:22,835
+Bu da, onların okyanusa çarpmadan önce
+
+409
+00:25:22,936 --> 00:25:25,934
+en azından 2 dakika ve 36 saniye
+
+410
+00:25:26,035 --> 00:25:28,173
+hayatta olduklarını gösterir.
+
+411
+00:25:28,574 --> 00:25:29,633
+Bay Rogers, ben bir ateistim.
+
+412
+00:25:29,734 --> 00:25:32,113
+Şahsen, onların Tanrı'nın yüzüne
+dokunduklarından şüpheliyim,
+
+413
+00:25:32,214 --> 00:25:33,393
+bu nedenle etrafta üzgün durmaktansa
+
+414
+00:25:33,494 --> 00:25:35,593
+onların korkunç ölümlerinin nedenini
+bularak
+
+415
+00:25:35,694 --> 00:25:37,075
+saygı göstermeyi tercih ederim.
+
+416
+00:25:40,155 --> 00:25:42,232
+Biliyorsunuz, bu kurulda olmayı
+kendim istemedim...
+
+417
+00:25:42,333 --> 00:25:43,312
+...ama şimdi bu iş için buradaysam...
+
+418
+00:25:43,413 --> 00:25:46,674
+...amacım neyin yanlış gittiğini bulmak
+olacaktır.
+
+419
+00:25:46,775 --> 00:25:52,035
+Biliyorsunuz, NASA'nın mükemmel 
+bir iş yaptığını bilmiyorum.
+
+420
+00:26:01,675 --> 00:26:04,073
+Grup 30 dakika içinde ayrılacaktır.
+
+421
+00:26:04,174 --> 00:26:07,753
+Kendi düzenlemelerini yapan, General
+Kutyna hariç.
+
+422
+00:26:07,854 --> 00:26:09,794
+Ben de kendi düzenlememi yapabilirim.
+
+423
+00:26:12,234 --> 00:26:14,193
+Sizi gitmeniz için zorlayamam.
+
+424
+00:26:14,294 --> 00:26:15,514
+Hayır.
+
+425
+00:26:33,995 --> 00:26:35,635
+Bütün gece çalışacak mısınız?
+
+426
+00:26:39,954 --> 00:26:43,433
+Gerekirse.Bilmiyorum.
+
+427
+00:26:43,534 --> 00:26:45,632
+Washington'a nasıl geri dönmeyi  
+planlıyorsunuz?
+
+428
+00:26:45,733 --> 00:26:47,914
+Kendimi sıkıntıya soktum.
+
+429
+00:26:48,015 --> 00:26:50,593
+Merkeze geri dönmek istiyorum.
+
+430
+00:26:50,694 --> 00:26:54,473
+Sanırım bir araba kiralayacağım,
+ama yol çok uzun.
+
+431
+00:26:54,574 --> 00:26:56,794
+Size yardımcı olayım. 
+Sizi Alabama'da bırakırım.
+
+432
+00:26:56,895 --> 00:26:58,713
+Oh.
+
+433
+00:26:58,814 --> 00:26:59,833
+Teşekkür ederim.
+
+434
+00:26:59,934 --> 00:27:01,154
+İşte.06:00?
+
+435
+00:27:02,254 --> 00:27:03,194
+Tamam.
+
+436
+00:27:14,554 --> 00:27:15,712
+Bir limuzin alamayabilirim,
+
+437
+00:27:15,813 --> 00:27:18,154
+ama bazen bir devlet jetini kullanma
+hakkım olur.
+
+438
+00:27:19,354 --> 00:27:22,594
+Hayır! 400 mil araba süreceğimi mi 
+sandınız?
+
+439
+00:27:22,695 --> 00:27:24,754
+Bu muazzam bir şey.
+
+440
+00:27:26,554 --> 00:27:28,033
+Sizin için yeni mi?
+
+441
+00:27:28,134 --> 00:27:30,194
+Siz ciddi misin? Hayır!
+
+442
+00:27:31,394 --> 00:27:34,033
+Whoa-ho-ho-ho!
+
+443
+00:27:34,134 --> 00:27:36,074
+Oh!
+
+444
+00:27:37,033 --> 00:27:38,073
+Tamam.
+
+445
+00:27:45,473 --> 00:27:47,351
+Biliyorsunuz, farketmeniz gereken şey 
+
+446
+00:27:47,452 --> 00:27:49,633
+eşsiz özgürlüğünüz.
+
+447
+00:27:51,553 --> 00:27:52,634
+Evet, nasıl bir şey o?
+
+448
+00:27:52,735 --> 00:27:53,673
+Şey...
+
+449
+00:27:53,774 --> 00:27:56,594
+...kurulda herkes güçlü bağlantılara
+sahip.
+
+450
+00:27:58,034 --> 00:28:01,393
+- Kimler?
+- NASA'da, Armstrong, Ride...
+
+451
+00:28:01,494 --> 00:28:04,434
+...Hükümette, Keel, Rogers Devlet 
+Bakanıydı.
+
+452
+00:28:05,534 --> 00:28:08,513
+Bill Graham Başkan Reagan'ın yakın 
+arkadaşı.
+
+453
+00:28:08,614 --> 00:28:10,472
+Siz?
+
+454
+00:28:10,573 --> 00:28:11,513
+Ben, Hava Kuvvetlerindeyim.
+
+455
+00:28:12,593 --> 00:28:15,273
+Hava Kuvvetleri nasıl...
+Hava Kuvvetleri 39265.
+
+456
+00:28:15,374 --> 00:28:17,472
+Dört üç sıfır altında.
+
+457
+00:28:17,573 --> 00:28:18,713
+Üç iki sıfır önünde.
+
+458
+00:28:20,313 --> 00:28:21,633
+İki altı beş.
+
+459
+00:28:23,313 --> 00:28:25,993
+Hava Kuvvetleri nasıl...
+Siz tek özgür kişisiniz.
+
+460
+00:28:26,094 --> 00:28:28,032
+Özgürüm.
+
+461
+00:28:28,133 --> 00:28:29,552
+Yenilmezim.
+
+462
+00:28:29,653 --> 00:28:31,232
+Evet...
+
+463
+00:28:31,333 --> 00:28:32,673
+...ama altıyı kontrol edin.
+
+464
+00:28:32,774 --> 00:28:34,472
+- Altıyı ne kontrol? 
+- Yani, şey...
+
+465
+00:28:34,573 --> 00:28:36,633
+...bu bir savaş pilotu deyimi.
+
+466
+00:28:36,734 --> 00:28:38,312
+Anlamı saat altı demek.
+
+467
+00:28:38,413 --> 00:28:40,433
+Kör nokta.Doğrudan arkanızda.
+
+468
+00:28:40,534 --> 00:28:41,473
+Ha.
+
+469
+00:28:43,673 --> 00:28:44,993
+Kıçımı izleyeyim.
+
+470
+00:28:49,073 --> 00:28:50,912
+Tamam, kıçınızı burada izleyin.
+
+471
+00:28:51,013 --> 00:28:52,673
+- Ne? 
+- Bu biraz dik.
+ 
+472
+00:29:16,073 --> 00:29:18,193
+Bu elmas dediğimiz şey.
+
+473
+00:29:18,294 --> 00:29:21,073
+Vay, bu çok güzel.
+
+474
+00:29:27,553 --> 00:29:29,792
+Ne oluyor?
+
+475
+00:29:29,893 --> 00:29:32,153
+Bu titreşim sizi rahatsız etmiyor mu?
+
+476
+00:29:32,254 --> 00:29:35,312
+Endişelenmeyin, % 65'ten sonra tekrar 
+düzeliyor. 
+
+477
+00:29:37,912 --> 00:29:41,951
+Ama % 65'e ulaşması için bu aşamadan
+geçmek zorunda, değil mi?
+
+478
+00:29:42,052 --> 00:29:43,632
+Bazen, evet.
+
+479
+00:29:48,192 --> 00:29:51,592
+Bileşenleri görebilir miyim, kanatları?
+
+480
+00:30:00,273 --> 00:30:01,833
+Oh, bu ne?
+
+481
+00:30:03,152 --> 00:30:05,592
+Bu kanatta...bir çatlak var.
+
+482
+00:30:07,192 --> 00:30:08,712
+Hem de belirgin bir çatlak.
+
+483
+00:30:17,872 --> 00:30:19,391
+Evet.
+
+484
+00:30:19,392 --> 00:30:21,670
+Kanatlarda genellikle bir uçuştan sonra 
+bunlar oluyor
+
+485
+00:30:21,771 --> 00:30:24,310
+ama bu bir uçuş emniyet sorunu
+sayılmaz.
+
+486
+00:30:24,411 --> 00:30:27,590
+- Peki, o zaman bu ne? 
+- Bize bunu bir bakım sorunu olarak 
+kaydetmemiz söylendi.
+
+487
+00:30:27,691 --> 00:30:31,390
+Sadece bütün olarak çatlama olursa, 
+o zaman bir arıza olarak kabul edilir.
+
+488
+00:30:31,491 --> 00:30:34,232
+O halde arıza sadece kanat gerçekten 
+koptuğu zaman mı oluyor?
+
+489
+00:30:34,333 --> 00:30:35,272
+-Ha.
+
+490
+00:30:36,712 --> 00:30:40,071
+Bull! Arıza çatlaktır.
+
+491
+00:30:40,172 --> 00:30:41,670
+Peki, iddia edebilirsiniz...
+
+492
+00:30:41,771 --> 00:30:44,990
+Arızanın nedeni çatlak, yani,
+tasarım değil.
+
+493
+00:30:45,091 --> 00:30:48,112
+Siz de, ben de biliyoruz ki neden çatlak
+olarak değerlendirilmiyor.
+
+494
+00:30:51,992 --> 00:30:53,872
+Test sonuçlarının kalanı nerde?
+
+495
+00:30:57,552 --> 00:30:58,912
+Bunlar mı?
+
+495
+00:31:16,152 --> 00:31:19,312
+Ivory sabununu düşünüyoruz.
+
+495
+00:31:31,552 --> 00:31:34,512
+Ana motor...
+Aşırı titreşim.
+Tasarım hatası.
+
+495
+00:31:50,052 --> 00:31:52,712
+Başkanlık Kurulu Ofisleri
+Washington, DC
+
+496
+00:31:57,232 --> 00:32:02,750
+Bu tartışmaya adım adım işlem yaparak 
+başlamalıyız, böylece...
+
+497
+00:32:02,851 --> 00:32:06,470
+Ana motorlar üzerinde araştırmaya
+yoğunlaşın.
+
+498
+00:32:06,571 --> 00:32:08,790
+Türbin kanatları çatlıyor.
+
+499
+00:32:08,891 --> 00:32:12,991
+1,375 saniye gibi kısa bir sürede,
+tam güç seviyesinde.
+
+500
+00:32:13,092 --> 00:32:16,950
+Ayrıca, 4000 hertzde kötü titreşimler
+oluyor.
+
+501
+00:32:17,051 --> 00:32:19,909
+Bu yüzden nedenin motorlardan 
+kaynaklandığını mı düşünüyorsun?
+
+502
+00:32:20,010 --> 00:32:22,709
+Son kuruşuma kadar buna bahse girerim.
+Marshall'dan yeni döndüm.
+
+503
+00:32:22,810 --> 00:32:26,149
+Arıza kelimesinin ilginç yeni tanımını
+şimdi duyuyorum.
+
+504
+00:32:26,250 --> 00:32:28,910
+Peki, bunun söylemiş olmanız ilginç, 
+doktor.
+
+505
+00:32:29,011 --> 00:32:33,310
+NASA'dan uzaktan ölçüm bilgilerini 
+yeni aldık,
+
+506
+00:32:33,411 --> 00:32:35,470
+motorlar üzerindeki sensörler...
+
+507
+00:32:35,571 --> 00:32:38,990
+...motorların kesinlikle mükemmel
+çalıştığını gösteriyor.
+
+508
+00:32:39,091 --> 00:32:41,030
+Geçin bunları!
+
+509
+00:32:41,131 --> 00:32:46,230
+Tasarlandıkları şekilde, motorlar 
+yakıt basıncı düşünce,
+ 
+510
+00:32:46,331 --> 00:32:47,791
+devre dışı olmaya başladı.
+
+511
+00:32:48,791 --> 00:32:53,951
+Şanslısınız, çünkü size bu motorların 
+büyük sorunları olduğunu söylüyorum.
+
+512
+00:32:54,052 --> 00:32:57,521
+Hepimizin izleyeceği bir adım adım
+süreci var,
+
+513
+00:32:58,386 --> 00:33:01,912
+saygılarımla şu andan itibaren buna
+uymanızı...
+
+514
+00:33:02,368 --> 00:33:04,418
+...rica ediyorum.
+
+515
+00:33:04,830 --> 00:33:07,630
+Hepimiz cevap bulmak için çalışıyoruz.
+
+516
+00:33:09,790 --> 00:33:12,311
+Pekala, başlayalım.
+
+517
+00:33:15,511 --> 00:33:17,151
+Adım adım.
+
+518
+00:33:18,911 --> 00:33:20,351
+Saçmalık.
+
+519
+00:33:25,431 --> 00:33:26,550
+Prof ..
+
+520
+00:33:29,270 --> 00:33:31,270
+Başkanın sizi oyalamasına izin vermeyin.
+
+521
+00:33:33,150 --> 00:33:37,948
+Bakın, isterseniz bir akşam evime 
+yemeğe gelirsiniz.
+
+522
+00:33:38,049 --> 00:33:40,510
+Evet? Tamam, iyi.
+Bir saniye izin verin.
+
+523
+00:33:40,611 --> 00:33:42,189
+Dinle...
+
+524
+00:33:42,290 --> 00:33:46,510
+Graham, neden motor sensörlerinden 
+gelen sonuçlardan benim bilgim yoktu?
+
+525
+00:33:47,670 --> 00:33:50,788
+NASA'nın tarafımıza ilettiği bilgiler 
+kendisine uyacak şekilde mi?
+
+526
+00:33:50,889 --> 00:33:53,991
+- Sizi duyuyorum.
+- Bunu arkamdan tek elim bağlı yapıyorum.
+
+527
+00:33:54,092 --> 00:33:57,029
+Sizi duyuyorum, ama...
+
+528
+00:33:57,130 --> 00:34:00,230
+Richard...?
+
+529
+00:34:03,350 --> 00:34:04,510
+İyi misiniz?
+
+530
+00:34:11,470 --> 00:34:13,150
+Yarın seni göreceğim.
+
+531
+00:34:26,389 --> 00:34:31,708
+Yanlış yaptım.Cevabı bulduğumu sandım.
+Yanlış yola girdim.
+
+532
+00:34:31,809 --> 00:34:36,029
+<i>Peki ne yapacaksın?Çalışmaya 
+devam edecek misin?</i>
+
+533
+00:34:36,130 --> 00:34:37,710
+Bilmiyorum.
+
+534
+00:34:39,910 --> 00:34:43,750
+Dinle, kapı çalınıyor.
+Seni sonra ararım. 
+<i>Tamam</i>
+
+534
+00:34:58,152 --> 00:35:00,912
+Dr Feynman
+Lütfen arayın
+Dr Weiss
+Acil
+
+535
+00:35:13,910 --> 00:35:17,830
+Onları neden bu sırayla dizdiklerinden
+emin değilim.
+
+536
+00:35:17,931 --> 00:35:19,709
+Anlatması zor, 
+
+537
+00:35:19,810 --> 00:35:22,310
+ama bu...bu yarısı...
+
+538
+00:35:23,389 --> 00:35:24,709
+Başkan Rogers...
+
+539
+00:35:26,589 --> 00:35:31,468
+NASA Arıza Analiz ekibi uçuş eğitimi
+sırasında
+
+540
+00:35:31,569 --> 00:35:33,069
+E207 kamerasından bu resmi çekmiş.
+
+541
+00:35:37,629 --> 00:35:40,549
+Bu resmin ortaya çıkması uzun zaman 
+almış görünüyor.
+
+542
+00:35:40,650 --> 00:35:43,269
+- Neyse, şimdi burada.
+- Nedir o?
+
+543
+00:35:46,549 --> 00:35:48,268
+Alev mi?
+
+544
+00:35:48,369 --> 00:35:51,746
+Katı roket iticisinin yanından mı
+geliyor?
+
+545
+00:35:51,847 --> 00:35:54,149
+Bunu biliyor muyduk?
+Bunu önceden biliyor muyduk?
+
+546
+00:35:59,789 --> 00:36:03,668
+Diğer açılardan resimler aldık mı?
+Doğru muyum?
+
+547
+00:36:03,769 --> 00:36:06,107
+- Hepsinin etrafında kamera var mıydı?
+- Evet.
+
+548
+00:36:06,208 --> 00:36:09,867
+Bana söylenen, alana doğrudan bakan
+
+549
+00:36:09,968 --> 00:36:11,989
+kameraların o gün çalışmadıkları.
+
+
+550
+00:36:18,229 --> 00:36:21,548
+Eh, bu bir talihsizlik.  
+
+551
+00:36:25,708 --> 00:36:27,708
+- Onu alabilir miyim, lütfen?
+- Tabii.
+
+552
+00:36:44,429 --> 00:36:47,549
+Çok geç kaldım mı?Laboratuardan 
+bunları toplamam gerekiyordu.
+
+553
+00:36:47,650 --> 00:36:50,267
+- Hayır, hayır, sorun değil.
+- Güzel araba.
+
+554
+00:36:50,368 --> 00:36:52,868
+- Hoşuna gitti mi? 
+- Beğendim mi, bayıldım.
+
+555
+00:36:54,108 --> 00:36:57,668
+Bu büyütme bize bir şey verir mi,
+bilemiyorum.
+
+556
+00:36:57,769 --> 00:37:00,067
+Bakalım.
+
+557
+00:37:00,168 --> 00:37:03,626
+- Nasıl, biraz daha net mi? 
+- Hayır, sadece tüm şeyi daha da genişletiyor.
+
+558
+00:37:03,727 --> 00:37:06,586
+- Ama alev daha keskin.
+- Ama şu alev, nereden çıkıyor?
+
+559
+00:37:06,687 --> 00:37:08,866
+Belki de gördüğümüz daha büyük 
+bir alevin ucu,
+
+560
+00:37:08,967 --> 00:37:11,308
+diğer tarafta ise çalışmayan 
+bir lanet kamera.
+
+561
+00:37:12,909 --> 00:37:16,909
+Alev bir neden sayılmaz.Alev bir etkidir,
+bir belirtidir.
+
+562
+00:37:17,010 --> 00:37:20,867
+Bize, hangi bileşenin yarıldığını,
+
+563
+00:37:20,968 --> 00:37:23,348
+kırıldığını, çatladığını bildirmez.
+Bize hiçbir şey göstermez.
+
+564
+00:37:25,268 --> 00:37:26,668
+Bizi hiçbir yere götürmez.
+
+565
+00:37:28,428 --> 00:37:29,986
+Sana bir şey göstermek istiyorum.
+
+566
+00:37:30,087 --> 00:37:32,786
+Birçok başarılı fırlatış,
+
+567
+00:37:32,887 --> 00:37:36,448
+benzer parçalar ve fırlatma yerleri,
+o halde o günü özel yapan neydi?
+
+568
+00:37:36,549 --> 00:37:38,707
+Değişkenler nelerdi?
+
+569
+00:37:38,808 --> 00:37:39,828
+Bir mola verin, Prof.
+
+570
+00:37:48,387 --> 00:37:50,787
+Oh!
+
+571
+00:37:53,108 --> 00:37:55,467
+Seni şanslı adam!
+
+572
+00:37:55,568 --> 00:37:59,106
+Çalıştırabilseydim şanslı olurdum. 
+Bu kurulun dışında.
+
+573
+00:37:59,207 --> 00:38:01,428
+Karbüratörler bu havada donuyor.
+
+574
+00:38:06,148 --> 00:38:07,948
+Sakin kalmanın nedeni bu olmalı.
+
+575
+00:38:09,268 --> 00:38:13,628
+Dodger, süreciyle beni çıldırtıyor.
+
+576
+00:38:15,308 --> 00:38:18,705
+O bir avukat.Kendi bildiği yoldan
+çalışır.
+
+577
+00:38:18,806 --> 00:38:22,625
+Evet, belki bazıları bildikleri yoldan 
+çalışmayı severler.
+
+578
+00:38:22,726 --> 00:38:25,547
+Ne? Birilerinin kendileri için mi 
+çalıştığını düşünüyorsun?
+
+579
+00:38:25,648 --> 00:38:29,186
+- Değil mi? 
+- Sonuçta burası, Washington.
+
+580
+00:38:29,287 --> 00:38:34,427
+Bu dünyadan kendimi geri çektiğime
+inanamıyorum - hükümet, siyaset.
+
+581
+00:38:34,528 --> 00:38:37,067
+Ve benim gibi askeri adamlar.
+
+582
+00:38:37,168 --> 00:38:39,428
+Şaşırtıcı bir şekilde iyisin.
+
+583
+00:38:41,028 --> 00:38:44,748
+Sanırım 40'lı yıllarda askeri görevini
+yaptın.
+
+584
+00:38:50,027 --> 00:38:51,427
+O sıralar görevin neydi?
+
+585
+00:38:54,307 --> 00:38:57,747
+- Ne zaman?
+- Savaş sırasında, Atom bombası ile
+
+586
+00:39:02,587 --> 00:39:07,267
+Teorik hesaplamaları yaptım.
+Bu matematikti.
+
+587
+00:39:08,707 --> 00:39:11,525
+Etkili bir silah yapmak için gerekli
+
+588
+00:39:11,895 --> 00:39:14,468
+parçalanabilir malzeme miktarını
+hesapladım.
+
+589
+00:39:17,627 --> 00:39:19,347
+Bu bilimin iyi bir kullanımı olmadı.
+
+590
+00:39:26,827 --> 00:39:28,747
+Savaşın sona ermesine yardımcı oldun.
+
+591
+00:39:32,347 --> 00:39:34,827
+Vay, bu çok güzel!
+
+592
+00:39:36,627 --> 00:39:38,265
+Bu Bordo'yu deneyelim mi?
+
+593
+00:39:38,366 --> 00:39:41,547
+Siz devam edin. Ben artık içmeyeceğim.
+İçersem, düşünemem.
+
+594
+00:39:52,187 --> 00:39:55,385
+Oh, efendim, ısıtmanız gözden 
+geçirildi.
+
+595
+00:39:55,486 --> 00:39:58,467
+- Oh, teşekkür ederim. 
+- Üşümeniz devam ederse, lütfen
+bildirin.
+
+596
+00:40:07,387 --> 00:40:11,147
+Bana Ulusal Hava Servisi telefon
+numarasını bulabilir misiniz?
+
+597
+00:40:16,866 --> 00:40:18,145
+Buyurun.
+
+598
+00:40:18,246 --> 00:40:20,106
+- Bunu ödünç alabilir miyim? 
+- Tabii.
+
+599
+00:40:21,146 --> 00:40:24,585
+Evet, lütfen.Hava tahmini değil.
+
+600
+00:40:24,686 --> 00:40:28,825
+Cape Canaveral'daki sıcaklık.
+Yakını?
+
+601
+00:40:28,926 --> 00:40:33,427
+Evet, Jacksonville, Florida, 
+28 Ocak sabahı.
+
+602
+00:40:40,667 --> 00:40:41,707
+Teşekkür ederim.
+
+603
+00:40:52,586 --> 00:40:54,466
+Değişken bu.
+
+604
+00:40:57,066 --> 00:40:58,825
+Değişkeni buldum.
+
+605
+00:40:58,926 --> 00:41:01,944
+Uçuş sabahı dondurucu soğuk vardı.
+NASA yöneticilerinin 
+
+606
+00:41:02,045 --> 00:41:05,904
+sıcaklık ile ilgili talimatlarını 
+sorgulamalıyız.
+
+607
+00:41:05,915 --> 00:41:07,824
+- Sıcaklık?
+- Siz buzdan mı bahsediyorsunuz?
+
+608
+00:41:07,925 --> 00:41:10,904
+Bilmiyorum.Belki buzun ek ağırlığı,
+belki bazı metal bileşenlerin
+
+609
+00:41:11,005 --> 00:41:13,184
+kırılganlaşması.
+Hangi bileşen bilemiyorum.
+
+610
+00:41:13,285 --> 00:41:15,704
+Sadece iki buçuk milyon olasılık var!
+
+611
+00:41:15,805 --> 00:41:16,984
+Ben oldukça eminim.
+
+612
+00:41:17,085 --> 00:41:19,146
+Motorlar hakkında olduğunuz gibi mi?
+
+613
+00:41:27,706 --> 00:41:31,026
+NASA Arıza Analizden bir şey var mı?
+Bu öğlen için.
+
+614
+00:41:34,226 --> 00:41:36,706
+Dr Feynman gerçekten bir baş belası olacak.
+
+615
+00:41:38,346 --> 00:41:39,826
+Şey, evet.
+
+616
+00:41:43,625 --> 00:41:44,745
+Bildiniz. 
+
+617
+00:42:31,025 --> 00:42:33,546
+- Dr Weiss? 
+- Dick.
+
+617
+00:42:06,025 --> 00:42:09,846
+<i>Sorgulanabilir yönetim bazen tuhaf 
+mühendisliklere yol açar.</​​i>
+
+618
+00:42:36,586 --> 00:42:37,986
+Burada ne yapıyorsun?
+
+619
+00:42:39,026 --> 00:42:41,583
+Pekala, eğer sen gelmeyeceksen...
+
+620
+00:42:41,684 --> 00:42:43,383
+Aramalarıma cevap vermedin.
+
+621
+00:42:43,484 --> 00:42:45,863
+Ülke genelinde beni mi takip ettin?
+
+622
+00:42:45,964 --> 00:42:48,685
+Hayır, hayır.Bir konferans için
+Washington Tıp Merkezine geldim.
+
+623
+00:42:48,886 --> 00:42:51,304
+Oraya bir saatliğine gelebilir misin?
+
+624
+00:42:51,605 --> 00:42:54,265
+- Şimdi mi? 
+- Evet.
+
+625
+00:42:55,785 --> 00:42:57,225
+Tabii. Bekle.
+
+626
+00:42:58,585 --> 00:43:02,617
+Bunu Dr Keel'e ulaştırmam gerekiyor,
+ 
+627
+00:43:03,012 --> 00:43:05,483
+Başkanlık Kurulu.
+Bu adrese.
+
+628
+00:43:06,065 --> 00:43:08,302
+Oraya ulaşması son derece önemli.
+
+629
+00:43:08,403 --> 00:43:09,824
+- Evet, efendim. 
+- Teşekkür ederim.
+
+630
+00:43:13,505 --> 00:43:14,545
+Seni görmek güzel!
+
+631
+00:43:28,185 --> 00:43:31,424
+- Alabildiğince? 
+- Hımm.
+
+632
+00:43:31,525 --> 00:43:33,905
+Kalan böbreğini tehlikeye sokuyor.
+
+633
+00:43:37,225 --> 00:43:39,664
+- Bana hücreleri göster. 
+- Burada.
+
+634
+00:43:51,184 --> 00:43:54,105
+Tamam.Pek güzel görünmüyor.
+
+635
+00:43:55,785 --> 00:43:58,385
+Lenf kanseri tekrarlarsa şansımı
+araştırmalıyım.
+
+636
+00:43:59,585 --> 00:44:02,063
+Buna akyuvar katarsak durum ne olur?
+
+637
+00:44:02,164 --> 00:44:04,745
+Bileşimleri hesaplamak oldukça zor...
+
+638
+00:44:04,846 --> 00:44:07,383
+Haydi, Doktor.Bu bir matematik.
+
+639
+00:44:07,484 --> 00:44:09,664
+Bak Dick, bu görebildiğimiz bir şey değil.
+
+640
+00:44:09,765 --> 00:44:12,743
+Sende olan özel kanserler, onlar...
+
+641
+00:44:12,844 --> 00:44:17,503
+...son derece nadir.Onların birlikte 
+sende olma şansı...
+
+642
+00:44:17,604 --> 00:44:19,824
+...savaş sırasında ne yaptığınla ilgili.
+
+643
+00:44:19,925 --> 00:44:21,224
+Fark eder mi?
+
+644
+00:44:24,464 --> 00:44:28,784
+- Ne düşünüyorsun? 
+- Radyasyon, orada güvenlik önlemleri nasıldı?
+
+645
+00:44:28,885 --> 00:44:30,184
+Test için, ben...
+
+646
+00:44:31,224 --> 00:44:34,665
+...test için asla takmadığım koyu
+renkli gözlüklerim vardı.
+
+647
+00:44:35,904 --> 00:44:38,624
+Tanrım, onlar...deli günlerdi.
+
+648
+00:44:40,944 --> 00:44:42,943
+Hiç yatmazdık.
+
+649
+00:44:43,044 --> 00:44:46,862
+Teorisini, matematiğini ve fiziğini
+öğrenme konusunda çok istekliydik.
+
+650
+00:44:46,963 --> 00:44:50,502
+Bu bir yarıştı.Uygarlığı kurtaracağımızı
+sanıyorduk,
+
+651
+00:44:50,603 --> 00:44:54,862
+ama sonra Almanların nükleer güçlerinin
+olmadığını öğrendik
+
+652
+00:44:54,963 --> 00:44:57,784
+ve devam ettik.Bilim...çok heyecan 
+vericiydi.
+
+653
+00:45:06,263 --> 00:45:07,503
+Durmuş olmalıydık.
+
+654
+00:45:09,543 --> 00:45:13,864
+Biz parti verdik.İnsanlar mücadele
+edip ölürken, biz parti verdik.
+
+655
+00:45:14,904 --> 00:45:17,103
+Hey, o zaman gençtin.
+
+656
+00:45:17,204 --> 00:45:18,144
+Çocuk değildim.
+
+657
+00:45:19,184 --> 00:45:20,624
+Evet.
+
+658
+00:45:25,704 --> 00:45:26,744
+Tamam.
+
+659
+00:45:32,824 --> 00:45:35,023
+- Sanırım telefonla konuşuruz.
+- Tabii.
+
+660
+00:45:37,703 --> 00:45:40,183
+Muhtemelen daha kötü yollardan
+geçilecek.
+
+661
+00:45:42,423 --> 00:45:44,302
+Hey, ellerin soğuk.
+
+662
+00:45:44,403 --> 00:45:45,823
+Her zaman.Neden olur?
+
+663
+00:45:47,783 --> 00:45:49,223
+Muhtemelen akyuvarlardan.
+
+664
+00:45:50,263 --> 00:45:53,662
+Kan yapışkanlaşır.
+Kılcal damarlar esnekliğini kaybeder,
+
+665
+00:45:53,763 --> 00:45:54,784
+genişleyemezler.
+
+666
+00:45:56,184 --> 00:45:57,224
+Teşekkürler.
+
+667
+00:46:01,424 --> 00:46:04,143
+Evet, benimle sadece esnek bileşenler 
+hakkında konuş.
+
+668
+00:46:05,663 --> 00:46:07,943
+Katı Roket İticisine ne dersiniz?
+
+669
+00:46:10,143 --> 00:46:11,263
+Devam et.
+
+669
+00:46:12,143 --> 00:46:15,263
+NASA Marshall Uzay Uçuş Merkezi
+
+670
+00:46:16,703 --> 00:46:18,222
+Teşekkür ederim, Louis.
+
+671
+00:46:18,323 --> 00:46:21,862
+Bunun yararlı olabileceğini düşündüm.
+
+672
+00:46:21,963 --> 00:46:23,903
+Bu katı roket iticinin bir kesit modeli.
+
+673
+00:46:25,423 --> 00:46:28,183
+Ben bir model görmek istemiyorum.
+Ben gerçek bir şeyi görmek istiyorum.
+
+674
+00:46:38,343 --> 00:46:40,542
+O halde iki conta var  
+
+675
+00:46:40,643 --> 00:46:42,902
+ve onlar burada mı sıkışıyor? 
+
+676
+00:46:43,003 --> 00:46:44,342
+Doğru.
+
+677
+00:46:44,443 --> 00:46:47,143
+Onlarla ilgili daha önce hiç sorun 
+olmuş mu?
+
+678
+00:46:47,244 --> 00:46:51,062
+Peki, bazı aşınmalar, hatta bazı 
+sızıntılar olmuş.
+
+679
+00:46:51,163 --> 00:46:52,502
+"Sızıntı" ne?
+
+680
+00:46:52,603 --> 00:46:54,861
+Kurum birinci contadan geçmiş oluyor.
+
+681
+00:46:54,962 --> 00:46:57,901
+Bu sızdırmazlık sağlanmamış anlamına mı 
+geliyor?
+
+682
+00:46:58,002 --> 00:47:00,621
+- Doğru, ama üretici dedi ki...
+- Morton Tiyokol'mu?
+
+683
+00:47:00,722 --> 00:47:04,940
+Doğru, Tiyokol sızıntının hiçbir zaman
+ikinci contayı geçmediğini söyledi.
+
+684
+00:47:05,041 --> 00:47:08,942
+Ama bir şey contanın işini yapmasını
+engellediyse...
+
+685
+00:47:10,462 --> 00:47:15,663
+...eğer soğuk yüzünden sertleştiyse...?
+
+686
+00:47:25,983 --> 00:47:29,702
+Bakmamız gereken şeyin katı roket
+iticinin sızdırmazlığındaki
+
+687
+00:47:29,803 --> 00:47:31,821
+contalar olduğunu düşünüyorum.
+
+688
+00:47:31,922 --> 00:47:34,860
+Düşük sıcaklıklar esnekliği azaltır.
+
+689
+00:47:34,961 --> 00:47:37,020
+Kauçuğun sertliği artar, esnekliği
+azalır.
+
+690
+00:47:37,121 --> 00:47:40,382
+Belli bir noktada boşluktaki hareketi 
+çok zorlaşır.
+
+691
+00:47:42,142 --> 00:47:43,661
+Bill...
+
+692
+00:47:43,762 --> 00:47:48,301
+NASA'nın ilkbahara kadar geriye dönük
+bilgileri bana gerekli.
+
+693
+00:47:48,402 --> 00:47:54,302
+Sıcaklığa bağlı olarak katı roket 
+iticilerde contaların esnekliği.
+
+694
+00:47:54,403 --> 00:47:56,103
+Bayanlar ve baylar, günaydın.
+
+695
+00:47:56,204 --> 00:47:59,581
+Bugün birçok tanığımız olacağını
+hatırlatayım
+
+696
+00:47:59,682 --> 00:48:01,822
+ve basın da odada bulunacaktır.
+
+697
+00:48:03,542 --> 00:48:06,942
+Bayanlar ve baylar, sorgu için 
+kurulu çağıracağım,
+
+698
+00:48:07,043 --> 00:48:11,942
+bu nedenle yerinize oturun, 
+rahatınıza bakın.
+
+699
+00:48:13,702 --> 00:48:15,622
+Pilottan yardımcı pilota, 
+saçınızı düzeltin.
+
+700
+00:48:17,022 --> 00:48:19,741
+İlk tanığımız Bay Mulloy.
+
+701
+00:48:19,842 --> 00:48:24,020
+Bay Mulloy, öne çıkıp kendinizi
+tanıtır mısınız, lütfen?
+
+702
+00:48:24,121 --> 00:48:25,420
+Ben Lawrence Mulloy.
+
+703
+00:48:25,521 --> 00:48:27,460
+Marshall Uzay Uçuş Merkezi
+
+704
+00:48:27,561 --> 00:48:30,661
+katı roket iticileri NASA proje yöneticisi.
+
+705
+00:48:30,762 --> 00:48:33,062
+Tamam. Kurul üyeleri? Sorusu olan?
+
+706
+00:48:36,582 --> 00:48:38,022
+Dr Ride?
+
+707
+00:48:39,822 --> 00:48:41,421
+Bay Mulloy...
+
+708
+00:48:41,522 --> 00:48:45,022
+...Marshall Uzay Uçuş Merkezi'nde
+bulunduğunuz konumda,
+
+709
+00:48:45,123 --> 00:48:48,782
+yazışmaları, notları kontrol
+ediyorsunuz, değil mi?
+
+
+710
+00:48:51,062 --> 00:48:54,982
+Düşük sıcaklıklarda contalarda
+fırlatma sorunlarına ilişkin
+
+711
+00:48:55,083 --> 00:48:59,540
+notların mevcut olup olmadığını
+merak ediyorum.
+
+712
+00:48:59,641 --> 00:49:03,259
+Fırlatma sabahı havanın oldukça
+soğuk olduğunu biliyorum.
+
+713
+00:49:03,360 --> 00:49:05,421
+Marshall'da bu tür belgelerin farkında
+değilim.
+
+714
+00:49:08,141 --> 00:49:11,902
+Bu yazışma değil, fırlatmadan önceki
+akşam,
+
+715
+00:49:12,003 --> 00:49:16,941
+rutin bir konu olarak, NASA olarak
+bizler, teknik personelimize 
+
+716
+00:49:17,042 --> 00:49:21,822
+ve müteahhitlerimize düşük sıcaklıktan 
+dolayı endişeleri olup olmadığını sorduk.
+
+717
+00:49:22,982 --> 00:49:26,819
+Katı roket iticilerini yapan, 
+Morton Thiokol, 
+
+718
+00:49:26,920 --> 00:49:28,941
+şimdiye kadar uçtuğumuz en düşük 
+sıcaklıkta
+
+719
+00:49:29,042 --> 00:49:32,860
+contanın 11 derece olduğu gerçeğini 
+bize sundular,
+
+720
+00:49:32,961 --> 00:49:38,059
+ve bizim o deney şartlarının dışında 
+kaldığımızı belirttiler.
+
+721
+00:49:38,160 --> 00:49:42,419
+Ama tartışmayı dinledikten sonra,
+biz... hepimiz orada 
+
+722
+00:49:42,520 --> 00:49:46,099
+tahmini sıcaklıklar ile hiçbir 
+sorun olmadığına karar verdik,
+
+723
+00:49:46,200 --> 00:49:49,021
+ve ben bu etkiye karşı Morton Thiokol 
+yönetiminden bir belge aldım.
+
+724
+00:49:50,781 --> 00:49:52,620
+Teşekkür ederiz.Teşekkür ederiz, Bay Mulloy.
+
+725
+00:49:52,721 --> 00:49:54,622
+Şimdi kürsüden inebilirsiniz. 
+
+726
+00:49:54,723 --> 00:49:58,620
+Arka tarafta bir şey söylemek isteyen 
+bir kişi var.
+
+727
+00:49:58,721 --> 00:50:00,260
+Eklemek istediğim bir şey var.
+
+728
+00:50:00,361 --> 00:50:03,379
+- Anlayamadım? 
+- Ben...onun söylediklerine eklemem 
+gerekenler var, lütfen.
+
+729
+00:50:03,480 --> 00:50:06,821
+Pekala, efendim.Lütfen, öne çıkın,
+kendinizi tanıtın.
+
+730
+00:50:15,021 --> 00:50:19,900
+İsmim Allan McDonald.Morton Thiokol'da 
+çalışıyorum.
+
+731
+00:50:20,001 --> 00:50:22,901
+Katı roket motorları proje müdürüyüm.
+
+732
+00:50:23,002 --> 00:50:26,139
+bu nedenle Kennedy'de fırlatmada vardım.
+
+733
+00:50:26,240 --> 00:50:28,178
+Fırlatmadan önceki akşam Bay Mulloy'un 
+
+734
+00:50:28,279 --> 00:50:31,500
+konuştuğu toplantı hakkında bir şeyler 
+söylemek istiyorum
+
+735
+00:50:33,601 --> 00:50:37,541
+Bizim Tiyokol mühendisleri...NASA'yı uyardı.
+
+736
+00:50:40,381 --> 00:50:44,100
+Onlar NASA'ya 11 derecenin altında
+fırlatma yapılmamasını tavsiye ettiler
+
+737
+00:50:44,201 --> 00:50:45,261
+ve bende onlarla aynı fikirdeydim.
+
+738
+00:50:45,362 --> 00:50:48,740
+Bu güvenli olduğunu bildiğimiz 
+en soğuk değerdi.
+
+739
+00:50:48,841 --> 00:50:53,700
+Yani 11 derecenin altında fırlatma 
+yapılmamasını mı söylediniz?
+
+740
+00:50:53,801 --> 00:50:55,900
+O sabah gerçek sıcaklık neydi?
+
+741
+00:50:57,060 --> 00:51:01,299
+Fırlatma esnasında, daha da soğuk 
+olacağına inanıyorduk.
+
+742
+00:51:01,400 --> 00:51:04,780
+0 derecenin altı, donma noktasının
+altı.
+
+743
+00:51:07,060 --> 00:51:08,820
+NASA bundan memnun değildi.
+
+744
+00:51:08,921 --> 00:51:13,020
+Larry Mulloy "Tanrım, Tiyokol!"
+
+745
+00:51:13,121 --> 00:51:15,301
+"Ne zaman fırlatacağız? Nisanda mı?"dedi.
+
+746
+00:51:17,741 --> 00:51:19,862
+Şunu anlamama izin verin...şimdi...
+
+747
+00:51:22,035 --> 00:51:24,834
+...fırlatma tavsiyesini değiştirmek için 
+
+748
+00:51:25,312 --> 00:51:28,100
+NASA'nın baskı uyguladığını mı 
+söylüyorsunuz?
+
+749
+00:51:29,180 --> 00:51:33,138
+Evet, efendim, baskı vardı.
+Onlar "Verileri tekrar inceleyin." dedi.
+
+750
+00:51:33,239 --> 00:51:37,540
+Utah'daki adamlarımız geri geldi   
+ve NASA'ya fırlatmayı tavsiye etti.
+
+751
+00:51:38,820 --> 00:51:40,580
+Ben imzalamayı reddettim.
+
+752
+00:51:45,020 --> 00:51:47,419
+İddia edilen bu duruma
+
+753
+00:51:47,520 --> 00:51:51,140
+NASA'nın karşılık verme hakkı 
+önemlidir.
+
+754
+00:51:51,241 --> 00:51:52,659
+İzin vermeliyiz...
+
+755
+00:51:52,760 --> 00:51:54,460
+Neler oluyor burada?
+
+756
+00:52:01,580 --> 00:52:03,898
+Bazı insanlar McDonald bir KK 
+yapıyor diyorlar.
+
+757
+00:52:03,999 --> 00:52:06,538
+- "KK". Ne demek o?
+- Anlamı " Kolla kıçını ".
+
+758
+00:52:06,639 --> 00:52:09,698
+- Ama onlar uyarılsaydı...
+- Astronotlar kesinlikle uyarılmadı.
+
+759
+00:52:09,799 --> 00:52:12,298
+NASA ve müteahhitler arasında ne 
+olduğunu bilmek istiyorum. 
+
+760
+00:52:12,399 --> 00:52:14,660
+Onunla daha fazla konuşmalıyız.
+
+761
+00:52:14,761 --> 00:52:17,819
+Richard.Richard, contaların
+direnç zamanlamaları
+
+762
+00:52:17,920 --> 00:52:19,898
+hakkında istediğiniz bilgi...
+
+763
+00:52:19,999 --> 00:52:23,779
+Teşekkürler.Ondan daha fazla bilgi
+almamız gerek.Bay McDonald'ı ...?
+
+764
+00:52:24,979 --> 00:52:26,499
+Lanet olsun.
+
+765
+00:53:01,339 --> 00:53:06,619
+Merhaba.NASA Challenger Arıza Ekibiyle 
+birlikte çalışan McDonald'la görüşmeliyim.
+
+766
+00:53:06,720 --> 00:53:10,978
+Kendisini aradım, ama artık Washington'da 
+olmadığı söylendi.
+
+767
+00:53:11,079 --> 00:53:12,660
+Bu bilgi kısıtlıdır.
+
+768
+00:53:15,180 --> 00:53:17,778
+Ekipteydi ama çıkarıldı mı?
+
+769
+00:53:17,879 --> 00:53:18,980
+Buna cevap veremem, efendim.
+
+770
+00:53:25,659 --> 00:53:29,818
+Bak, tüm yapmak istediğim Allan 
+McDonald'la konuşmak.Ne?!
+
+771
+00:53:29,919 --> 00:53:34,737
+Yani Morton Thiokol grubunda konuşabileceğim 
+kimse yok mu?
+
+772
+00:53:34,838 --> 00:53:37,179
+Soruma cevap verebilecek kimse yok mu?
+
+773
+00:53:39,879 --> 00:53:40,579
+Eh, size iyi günler!
+
+773
+00:54:04,179 --> 00:54:07,579
+NASA katı roket iticiler için ikinci
+bir müteahhit arıyor. 
+
+773
+00:54:13,179 --> 00:54:16,579
+Morton Thiokol'un 800 Milyon $'lık 
+anlaşması tehdit altında.
+
+774
+00:54:19,658 --> 00:54:22,737
+General...
+
+775
+00:54:22,838 --> 00:54:25,497
+McDonald'ı bulmaya çalıştım.
+
+776
+00:54:25,598 --> 00:54:29,178
+Şansımız hiç yok, patronlarının NASA'yı 
+memnun etmek istemesi çok belirgin 
+
+777
+00:54:29,279 --> 00:54:31,697
+ortada çok büyük bir para söz konusu .
+
+778
+00:54:31,798 --> 00:54:33,379
+Seninle sonra görüşürüz.
+
+779
+00:54:43,779 --> 00:54:45,418
+Hey, Graham.
+
+780
+00:54:45,519 --> 00:54:49,937
+Contanın geri esnemesi iki saat 
+önce ölçüldü.
+
+781
+00:54:50,038 --> 00:54:51,937
+Bu yararsız bilgi.
+
+782
+00:54:52,038 --> 00:54:54,176
+Gerçekten üzgünüm.
+Marshall'dan aldığım bu.
+
+783
+00:54:54,277 --> 00:54:57,576
+Hükümete geçmeden önce bir bilim adamı 
+olmanın ne olduğunu hatırlıyor musun?
+
+784
+00:54:57,677 --> 00:55:00,418
+Size düşünmüyorsunuz verdiğim...?
+Amaçla...?
+
+785
+00:55:01,458 --> 00:55:02,937
+Hayır.
+
+786
+00:55:03,038 --> 00:55:06,137
+Bak, bende bu büyük liste var.
+
+787
+00:55:06,238 --> 00:55:09,736
+NASA'nın eski çalışanları, bana kurulda 
+olması gerekli kişilerin listesini verdi.
+
+788
+00:55:09,837 --> 00:55:12,059
+Sizi almak için onları ikna etmem 
+zor oldu.
+
+789
+00:55:13,499 --> 00:55:16,857
+Sizi bu işin içine soktuğum için 
+çok üzgünüm.
+
+790
+00:55:16,958 --> 00:55:18,845
+Peki, gönderdiğim notlarımı okuduğunda,
+
+791
+00:55:19,218 --> 00:55:21,535
+Marshall'ın altındaki pislikleri
+göreceksin.
+
+792
+00:55:22,151 --> 00:55:26,017
+- Notlar?
+- Raporlarım.
+
+793
+00:55:26,018 --> 00:55:29,818
+Çılgın mühendislik hakkında
+araştırmam ve analizler.
+
+794
+00:55:37,098 --> 00:55:38,658
+Richard. Richard...
+
+795
+00:55:42,058 --> 00:55:47,537
+Sally, gözlemlerimi içeren notları 
+sen mi aldın?
+
+796
+00:55:49,097 --> 00:55:51,417
+Hayır, ben bir şey almadım.
+
+797
+00:56:03,618 --> 00:56:05,538
+Notlarıma ne oldu?
+
+798
+00:56:06,738 --> 00:56:09,938
+Sally Ride onları almadığını söylüyor.
+Diğerleri almış olabilir mi?
+
+799
+00:56:14,817 --> 00:56:18,216
+Tamam.Otelden kahverengi bir dosya
+içinde, yazdığım notlar,
+
+800
+00:56:18,317 --> 00:56:21,215
+mühendislikle ilgili gözlemlerim, 
+
+801
+00:56:21,316 --> 00:56:24,529
+ve her kurul üyesine bir kopya 
+verilmesini
+
+802
+00:56:24,946 --> 00:56:27,860
+sizden bir rica ile birlikte yolladım.
+- Bundan hiç bilgim yok.
+
+803
+00:56:28,456 --> 00:56:31,695
+Bu masaya böyle notlar hiç gelmedi.
+Belki bunlar tekrar yapmanız mümkün mü?
+
+804
+00:56:31,796 --> 00:56:33,016
+Bunun için vaktim yok!
+
+805
+00:56:33,117 --> 00:56:36,338
+Böylesi önemli bir şeyi göndermek için
+otelinize güvendiniz, öyle mi?
+
+806
+00:56:37,818 --> 00:56:39,977
+Evet. 
+
+807
+00:56:40,078 --> 00:56:42,737
+Dr Feynman, lütfen, gördüğünüz gibi,  
+
+808
+00:56:42,838 --> 00:56:47,017
+NASA artık bilgi için tüm isteklerimize
+tam bir işbirliği içinde çalışıyor.
+
+809
+00:56:56,297 --> 00:56:58,375
+Peki, o zaman, her şeyin kopyalarını 
+sağlayıp
+
+810
+00:56:58,476 --> 00:57:00,017
+otelime gönderilmesini sağlayın.
+
+811
+00:57:07,577 --> 00:57:09,615
+Ne olduğunu bilmiyorum, tatlım.
+
+812
+00:57:09,716 --> 00:57:12,857
+Kendimi hemen siyasi bir pisliğin 
+içinde buldum.
+
+813
+00:57:14,177 --> 00:57:17,937
+- İnsanlar söylediklerinden çok daha
+fazla biliyor görünüyorlar.
+-'Öyle mi?'
+
+814
+00:57:19,617 --> 00:57:22,217
+Sonunda NASA'dan bir sürü belge aldım.
+
+815
+00:57:23,537 --> 00:57:27,896
+İçinde bir sürü anormallik var.
+Bir an kritik durumda iken bir şey
+
+816
+00:57:27,997 --> 00:57:29,537
+daha sonra nasıl güvenli olabilir?
+
+817
+00:57:32,177 --> 00:57:35,777
+Tatlım, üzgünüm. 
+Seni daha sonra ararım.
+
+818
+00:57:37,137 --> 00:57:39,576
+<i>İyi misin?
+- İyiyim </i>
+
+819
+00:57:39,677 --> 00:57:41,975
+<i>Gerçekten mi?</i>
+
+820
+00:57:42,076 --> 00:57:44,495
+Hayır, kendimi çok iyi hissediyorum.
+
+821
+00:57:44,596 --> 00:57:47,575
+<i>Oh, pekala.Yarın konuşuruz.</i>
+
+822
+00:57:47,676 --> 00:57:49,056
+Evet.
+
+823
+00:57:58,257 --> 00:58:00,137
+"Ivory sabunu."
+
+824
+00:58:02,537 --> 00:58:04,737
+"Ivory sabunu."
+
+825
+00:58:40,656 --> 00:58:42,495
+General.
+
+826
+00:58:42,596 --> 00:58:46,214
+Tamam, bak, bu beni deli ediyor.Odamdaki
+NASA'ya ait bir sürü saçmalık 
+
+827
+00:58:46,315 --> 00:58:49,376
+patlamaya neyin neden olduğuna daha fazla
+emin oluyorum.
+
+828
+00:58:49,477 --> 00:58:53,135
+Soğuk, değil mi?
+Bizimle hemfikir olan bir adam var.
+
+829
+00:58:53,236 --> 00:58:54,934
+O soruşturmadan uzaklaştırıldı.
+
+830
+00:58:55,035 --> 00:58:57,296
+Nedenini ikimizde biliyoruz,
+ama kimse cevaplamıyor.
+
+831
+00:58:58,396 --> 00:59:00,936
+Burada çözemediğim bir mantık 
+durumu var.
+
+832
+00:59:01,037 --> 00:59:04,255
+Bu durum konunun tam özüyle ilgili.
+
+833
+00:59:04,356 --> 00:59:08,135
+NASA neden çok kötü bir koşulda
+fırlatmaya gerek duydu?
+
+834
+00:59:08,236 --> 00:59:10,855
+Tamam, dur, Prof, burada buna 
+cevap veremem.
+
+835
+00:59:12,136 --> 00:59:16,895
+Sabah seni 08:15'de alacağım.
+
+836
+00:59:16,996 --> 00:59:20,335
+Kimliğini al.Tamam mı?
+
+837
+00:59:20,436 --> 00:59:22,176
+- İyi geceler. 
+- İyi geceler.
+
+838
+00:59:27,376 --> 00:59:28,936
+Nereye gidiyoruz?
+
+839
+00:59:44,655 --> 00:59:46,855
+Pentagon'a mı gidiyoruz?
+
+840
+00:59:54,256 --> 00:59:55,656
+Kimlik, lütfen.
+
+841
+00:59:58,256 --> 01:00:00,176
+Efendim.
+
+842
+01:00:25,815 --> 01:00:28,375
+Teşekkürler, çavuş.
+Dışarıda bekleyin.
+
+843
+01:00:28,376 --> 01:00:32,656
+Prof neden bir koltuk kapmıyorsun?
+
+844
+01:00:33,896 --> 01:00:34,936
+Burası iyi.
+
+845
+01:00:41,215 --> 01:00:44,894
+NASA. Ülkenin sivil uzay programı ile
+
+846
+01:00:44,995 --> 01:00:47,813
+havacılık ve uzay araştırmalarından 
+sorumlu 
+
+847
+01:00:47,914 --> 01:00:50,095
+Amerika Birleşik Devletleri Hükümeti
+kuruluşu.
+
+848
+01:00:50,196 --> 01:00:54,294
+Oradaki "sivil" kelimesine dikkat et.
+
+849
+01:00:54,395 --> 01:00:58,013
+Uzay programını yürütmek için $ bazında
+proje maliyeti...
+
+850
+01:00:58,114 --> 01:00:59,575
+Gerçek maliyet, anladım.
+
+851
+01:00:59,676 --> 01:01:05,134
+Bunun sürdürülemezliğini bilerek,
+sivil bilimsel araştırma ve keşiflerin
+
+852
+01:01:05,235 --> 01:01:06,612
+çok üzerinde, NASA kendini ispatlamak,
+
+853
+01:01:06,713 --> 01:01:09,052
+ve amacını desteklemek zorunda, tamam mı?.
+
+854
+01:01:09,153 --> 01:01:10,574
+Bunu bir süre kenara bırakalım.
+
+855
+01:01:12,135 --> 01:01:16,014
+Bu arada, Hava Kuvvetleri Titan'ı
+geliştirmek ister.
+
+856
+01:01:16,115 --> 01:01:20,415
+Uzaya casus uydular dağıtacak
+verimli insansız roket filosu.
+
+857
+01:01:20,516 --> 01:01:22,014
+Paranoya. Tamam.
+
+858
+01:01:22,115 --> 01:01:25,333
+Siz sivillere ne anlatılsa da biz
+hala Soğuk Savaşın içindeyiz
+
+859
+01:01:25,434 --> 01:01:27,295
+Bunun NASA ile ilgisi ne?
+
+860
+01:01:27,396 --> 01:01:29,894
+NASA Kongreye bir anlaşmayla yanaşır.
+
+861
+01:01:29,995 --> 01:01:31,733
+Görünüşe göre büyük ekonomik bir 
+düşünce oluşmakta,
+
+862
+01:01:31,834 --> 01:01:35,014
+devlet Titan yatırımını durdurabilir  
+ve bunun yerine
+
+863
+01:01:35,115 --> 01:01:39,853
+parayı NASA'ya yönlendirebilir, böylece
+Mekik uzaya tek erişim olur.
+
+864
+01:01:39,954 --> 01:01:43,174
+NASA Hava Kuvvetlerini devirir ve
+yatırım desteği alır.
+
+865
+01:01:43,275 --> 01:01:44,494
+- Kesinlikle. 
+- Evet.
+
+866
+01:01:45,694 --> 01:01:48,454
+Ve Mekik varoluş nedenlerini korur.
+
+867
+01:01:48,555 --> 01:01:50,573
+Casus uyduları taşıyarak mı?
+
+868
+01:01:50,674 --> 01:01:52,974
+NASA, Kongreyi 1986 yılından itibaren 
+
+869
+01:01:53,075 --> 01:01:58,194
+her ay iki kez uçuş yapabileceklerine,
+
+870
+01:01:58,295 --> 01:02:01,134
+ve her ay, bu uçuşların navlun ödemesinin
+
+871
+01:02:01,235 --> 01:02:04,694
+Savunma Bakanlığınca karşılanmasına
+ikna etti.
+
+872
+01:02:08,754 --> 01:02:10,773
+Titan benim projemdi.
+
+873
+01:02:10,874 --> 01:02:14,093
+Ama NASA yükümlülüğünü yerine getirmedi
+
+874
+01:02:14,194 --> 01:02:18,014
+Savunma Bakanlığına öncelik vereceğine
+
+875
+01:02:18,115 --> 01:02:22,773
+Senatörleri oraya götürmeye başladılar...
+Halkla İlişkiler dublörleri gibi.
+
+876
+01:02:22,874 --> 01:02:25,052
+Ve sonra, fırlatmalar iptal olmaya
+başladı.
+
+877
+01:02:25,153 --> 01:02:26,772
+Basın bu duruma işaret ediyor...
+
+878
+01:02:26,873 --> 01:02:28,252
+...Kongre giderek gerginleşiyor.
+
+879
+01:02:28,353 --> 01:02:31,252
+Evet, yönetim sorular soruyor.
+
+880
+01:02:31,353 --> 01:02:35,092
+Ve sonra geçen Aralık ayında,
+fırlatma altı kez erteleniyor,
+
+881
+01:02:35,193 --> 01:02:38,012
+hatırlarsan NASA Kongreye herhangi 
+bir zaman içinde,
+ 
+882
+01:02:38,113 --> 01:02:41,174
+her türlü koşulda fırlatmaya söz 
+vermişti ve ardından 28 Ocak olayı...
+
+883
+01:02:43,974 --> 01:02:46,854
+28 Ocakta fırlatma, hava soğuktu...
+
+884
+01:02:48,814 --> 01:02:50,574
+...hava çok soğuktu... 
+
+885
+01:02:51,854 --> 01:02:54,134
+...ve NASA aşırı baskı altındaydı.
+
+886
+01:02:56,534 --> 01:02:57,774
+Ve riski aldı.
+
+887
+01:02:59,214 --> 01:03:00,534
+Onlar riski aldı.
+
+888
+01:03:03,773 --> 01:03:05,613
+Bütün bunları bana neden anlattın?
+
+889
+01:03:07,613 --> 01:03:10,052
+Bilmek istemez miydin?
+
+890
+01:03:10,153 --> 01:03:13,574
+Alt katta, bana gizli bilgi şeyini
+imzalattın.
+
+891
+01:03:13,675 --> 01:03:14,774
+Doğru.
+
+892
+01:03:16,294 --> 01:03:19,653
+Peki ne oluyor, Kutyna?
+
+893
+01:03:19,754 --> 01:03:21,452
+Demek istediğim, beni tuzağa düşürdün.
+
+894
+01:03:21,553 --> 01:03:23,174
+Bu pisliği açığa çıkaramam.
+
+895
+01:03:24,734 --> 01:03:27,892
+Sovyetlerin bilmesi durumunda ulusal 
+güvenliği tehlikeye düşürür.
+
+896
+01:03:27,993 --> 01:03:30,534
+Siz beyler soğuk havada lanet bir şey
+fırlatmazsınız.
+
+897
+01:03:34,093 --> 01:03:37,411
+Bütün bu zaman boyunca benimle 
+oynadın, başından itibaren.
+
+898
+01:03:37,512 --> 01:03:39,413
+Garajdaki o çok tuhaf şey.
+
+899
+01:03:39,514 --> 01:03:44,572
+Karbüratör ile, karbüratör ve soğuk,
+
+900
+01:03:44,773 --> 01:03:47,573
+bir ipucu almam gerekiyordu.Bu ne,
+senin için bir çeşit oyun mu?
+
+901
+01:03:47,674 --> 01:03:49,852
+Hayır, ama bir dürtmeydi.
+
+902
+01:03:49,953 --> 01:03:52,892
+Bir NASA mühendisi tarafından 
+gizlice uyarılan...
+
+903
+01:03:52,993 --> 01:03:55,852
+...bir astronot arkadaşım aracılığıyla
+contayı duydum.
+
+904
+01:03:55,953 --> 01:03:58,372
+Bu astronotun kariyeri korunmalı.
+
+905
+01:03:58,473 --> 01:04:00,771
+Kendi başına oraya ulaşmana imkan
+tanıdım, Prof.
+
+906
+01:04:00,872 --> 01:04:04,331
+Prof.Bana Prof deme, benimle oynama,
+benimle uğraşma.
+
+907
+01:04:04,432 --> 01:04:07,411
+Beni dinle, bunu neden sana anlattığımı
+anlayacaksın.
+
+908
+01:04:07,512 --> 01:04:10,451
+Onunla bir şey yapamam!
+Konu bu!
+
+909
+01:04:10,552 --> 01:04:13,131
+Bana artık başka bir şey söyleme,
+ağzımı açamam,
+
+910
+01:04:13,232 --> 01:04:14,733
+kimseye söyleyemem!
+
+911
+01:04:17,853 --> 01:04:20,892
+Ben...ben buradan çıkmalıyım.
+
+912
+01:04:20,993 --> 01:04:22,453
+Dinle...
+
+913
+01:04:26,253 --> 01:04:28,172
+...Richard...
+
+914
+01:04:28,273 --> 01:04:30,970
+Kimse benimle oynayamaz.
+Bu ne, altıyı kontrol mu?
+
+915
+01:04:31,071 --> 01:04:35,251
+Unutma, sana bu kurulda sadece senin
+bağımsız olduğunu söylemiştim.
+
+916
+01:04:35,352 --> 01:04:37,053
+Kuruldaki diğer üyeler...
+
+917
+01:04:39,093 --> 01:04:40,293
+...onlar konuyu biliyor mu?
+
+918
+01:04:40,394 --> 01:04:42,812
+Herkes bir kısmını, veya tümünü biliyor,
+
+919
+01:04:42,913 --> 01:04:45,411
+ama hepsinin eli bağlı durumda.
+Burası Washington.
+
+920
+01:04:45,512 --> 01:04:48,171
+Ne, nasıl, kimler tarafından kabul 
+edilebilir...
+
+921
+01:04:48,272 --> 01:04:49,531
+Beni bunun içine mi sürüklüyorsun?
+
+922
+01:04:49,632 --> 01:04:53,851
+Hayır, kesinlikle değil, sen buna 
+tamamen farklı bakıyorsun.
+
+923
+01:04:53,952 --> 01:04:55,651
+Sana söyledim, çünkü sahip olduğu
+şeyi kullanabilecek kişinin,
+
+924
+01:04:55,752 --> 01:04:58,372
+sadece sen olduğuna inanıyorum,
+
+925
+01:04:58,473 --> 01:05:02,051
+bilimi kullanarak tüm bu saçmalıklara
+sona erdirebilir,
+
+926
+01:05:02,152 --> 01:05:06,131
+bu ölümlerin gerçek nedeninin ortaya
+çıkmasını sağlayabilirsin.
+
+927
+01:05:06,232 --> 01:05:09,691
+Bu tamamiyle kamuya açık yapılabilir.
+
+928
+01:05:09,792 --> 01:05:12,453
+NASA, bunu itiraf etmek ve reform yapmak
+zorunda kalır.
+
+929
+01:05:13,973 --> 01:05:15,893
+Umarım.
+
+930
+01:05:16,933 --> 01:05:20,171
+Neden insanlar doğrulardan kaçınırlar?
+
+931
+01:05:20,272 --> 01:05:24,451
+Nedeni siyaset, kirlidir, ama onu
+aşabilirsin.
+
+932
+01:05:24,552 --> 01:05:26,771
+Yapabilirsin...ne... 
+
+933
+01:05:26,872 --> 01:05:28,292
+...koluna tutunabilir miyim?
+
+934
+01:05:29,972 --> 01:05:31,612
+Neler oluyor?
+
+935
+01:05:33,492 --> 01:05:35,332
+Hayır...
+
+936
+01:05:38,972 --> 01:05:41,412
+Şimdi değil.Henüz değil.
+
+937
+01:05:47,292 --> 01:05:50,092
+- Bir doktor, derhal bir doktor getirin.
+- Evet, efendim.
+
+938
+01:06:49,532 --> 01:06:51,571
+<i>80-yarda gol</i>
+
+939
+01:06:51,672 --> 01:06:53,890
+<i>Amerika birçok insan için çok şey 
+sayılır.</i>
+
+940
+01:06:53,991 --> 01:06:57,211
+<i>17 yaşındaki çocuğa göre,
+köşedeki içki dükkanı,</i>
+
+941
+01:06:57,312 --> 01:07:01,210
+<i>büyükbabaya göre, Mavi Dağların 
+ön sundurması.</i>
+
+942
+01:07:01,311 --> 01:07:04,770
+<i>Anneye ve ailesine göre, kilisesi...</i> 
+
+943
+01:07:04,871 --> 01:07:08,249
+<i>Tüm işlemlerin düzgün olduğuna
+açıklık getirmek istiyorum.</i>
+
+944
+01:07:08,350 --> 01:07:12,290
+<i>24 başarılı mekik fırlatmalarında,
+aynı zamanda önceki aya inişlerde</i>
+
+945
+01:07:12,391 --> 01:07:14,290
+<i>kullanılan yöntemle aynısıdır.</i>
+
+946
+01:07:14,391 --> 01:07:15,950
+<i> Biliyorum ki....</i>
+- Pislik demeti
+
+947
+01:07:16,051 --> 01:07:18,170
+< i>...27 ocağa kadar olan verilere
+dayanmakta,</i>
+
+948
+01:07:18,271 --> 01:07:21,730
+<i>fırlatma için geri sayımdan
+havalanmasına kadar,</i>
+
+949
+01:07:21,831 --> 01:07:23,649
+<i>tüm bu hareketler doğruydu.</i>
+
+950
+01:07:23,750 --> 01:07:26,209
+<i>Fırlatma öncesi akşamı sıcaklığa bağlı</i>
+
+951
+01:07:26,310 --> 01:07:29,929
+<i>iyi bir değerlendirme yapabildiniz mi?</i> 
+<i>Kesinlikle.</i>
+
+952
+01:07:30,030 --> 01:07:33,091
+Bu sabah bunları temizlikçilere 
+bırakmayı düşünüyordum.
+
+953
+01:07:35,811 --> 01:07:41,370
+"Fildişi Sabunu kullan. % 99.4 saflıkta."
+
+954
+01:07:41,471 --> 01:07:43,810
+Ne? Sen ne dedin?
+
+955
+01:07:43,911 --> 01:07:46,490
+Sadece, o eski Fildişi Sabun reklamını
+okudum.
+
+956
+01:07:46,591 --> 01:07:51,050
+"Fildişi Sabunu kullan. % 99.4 saflıkta."
+
+957
+01:07:51,151 --> 01:07:52,650
+Temizlikçileri unut,
+
+958
+01:07:52,751 --> 01:07:55,291
+Aldım, ceplerimde notlar ve bilgiler
+aldım, yani...
+
+959
+01:07:55,392 --> 01:07:57,930
+- Emin misin? 
+- Evet.
+
+960
+01:07:58,031 --> 01:08:00,729
+<i>Mekiğin bir sabotaj veya terör eylemi
+kurbanı olup olmadığı</i>
+
+961
+01:08:00,830 --> 01:08:04,689
+<i>olasılığını belki tekrar ziyaret etme
+zamanı.</i>  
+
+962
+01:08:04,790 --> 01:08:07,969
+<i>Morton Thiokol üyeleri ile birlikte...</i>
+
+963
+01:08:08,070 --> 01:08:10,049
+<i>...NASA çarşamba programında...sunacak...Tanrım!</i>
+
+964
+01:08:10,150 --> 01:08:11,971
+<i>Her iki taraf detaylandıracak...</i>
+
+965
+01:08:12,072 --> 01:08:15,570
+Sadece % 99.4, sizi piçler!
+
+966
+01:08:15,671 --> 01:08:17,289
+<i>...kurul tarafından, belirsiz </i>
+
+967
+01:08:17,390 --> 01:08:20,891
+<i>bu felakete neyin yol açtığı ile
+ilgili cevaplar alacak mıyız...</i>
+
+968
+01:08:20,992 --> 01:08:22,050
+Gwen!
+
+969
+01:08:23,290 --> 01:08:25,449
+Gweneth!
+
+970
+01:08:25,550 --> 01:08:26,930
+Sorun ne?
+
+971
+01:08:28,030 --> 01:08:30,849
+Baba, ne oldu? 
+
+972
+01:08:30,950 --> 01:08:32,651
+Washington'a geri dönmem gerekiyor.
+
+973
+01:08:36,091 --> 01:08:37,889
+Michelle, yatağına git, haydi.
+
+974
+01:08:37,990 --> 01:08:39,811
+Yatağına git, sorun yok.
+
+975
+01:08:41,891 --> 01:08:43,850
+Burada olman gerekiyor.
+
+976
+01:08:43,951 --> 01:08:45,491
+Dikkat edilmen gerekiyor.
+
+977
+01:08:45,592 --> 01:08:49,690
+Seninle Washington'a gelemeyiz.
+Okulu var.
+
+978
+01:08:49,791 --> 01:08:51,730
+Ne kadar ağır hasta olduğunu bilmiyor. 
+
+979
+01:08:51,831 --> 01:08:52,850
+Yapmalıyım.
+
+980
+01:08:54,690 --> 01:08:56,089
+İnsanlar öldü.
+
+981
+01:08:56,190 --> 01:08:59,208
+Bu yine olacak.Bunu yapmazsam, 
+haftalar neden harcandı?
+
+982
+01:08:59,309 --> 01:09:01,490
+Diyorum ki beni ikna eden sendin.
+
+983
+01:09:01,591 --> 01:09:03,449
+Bunu kendine söyledin,
+
+984
+01:09:03,550 --> 01:09:05,289
+bırak başkası yapsın.
+
+985
+01:09:05,390 --> 01:09:07,610
+Yapamazsın, şimdi bunu taşımak 
+zorunda değilsin.
+
+986
+01:09:09,530 --> 01:09:11,811
+Kimsenin sana bunu sormaya hakkı yok.
+
+987
+01:09:11,912 --> 01:09:13,890
+Bunu kendime soran benim.
+
+988
+01:09:13,991 --> 01:09:15,771
+Soran benim.
+
+989
+01:09:23,130 --> 01:09:24,410
+Tamam.
+
+990
+01:09:27,770 --> 01:09:29,249
+Tamam.
+
+991
+01:09:29,350 --> 01:09:34,890
+Mümkün olduğunca uzun süre seni
+kendime istedim.
+
+992
+01:09:42,450 --> 01:09:44,250
+Tatlım, bana yardım edecek misin?
+
+993
+01:09:48,810 --> 01:09:51,248
+Onu bulmam gerekli.
+
+994
+01:09:51,349 --> 01:09:53,370
+Notlarım, çıkardığım her şey.
+
+995
+01:09:55,090 --> 01:09:56,690
+Çok önemli bir kağıt olmalı.
+
+996
+01:10:04,210 --> 01:10:10,049
+Orijinal dil ve çatal sızdırmazlık
+tasarımı, yanan iticinin neden olduğu,
+
+997
+01:10:10,150 --> 01:10:15,249
+muazzam basıncı karşılayamadığında,
+
+998
+01:10:15,350 --> 01:10:18,808
+eklem rotasyonu olarak bilinen 
+
+999
+01:10:18,909 --> 01:10:21,968
+duvarların dışa doğru kıvrılmasına
+neden olur.
+
+1000
+01:10:22,069 --> 01:10:26,128
+Tamam? Şişer.
+Kanım tazeleniyor.
+
+1001
+01:10:26,229 --> 01:10:29,689
+Dick, diyalizin etkilerinin geçici
+olduğunu biliyorsun.
+
+1002
+01:10:30,969 --> 01:10:32,490
+Hayat kendisi de geçici.
+
+1003
+01:10:51,049 --> 01:10:54,489
+<i>WTBX'de Steve O'Brian ile sürüş
+zamanını dinliyorsunuz.</i> 
+
+1004
+01:10:57,969 --> 01:11:00,128
+<i>WTBX'de bir-sıfır-üçü ayarla.</i>
+
+1005
+01:11:00,229 --> 01:11:03,767
+<i>Herkes için güç oyunumuza 
+kesinlikle bağımlı olduk.</i> 
+
+1006
+01:11:03,868 --> 01:11:07,609
+<i>Washington'daki millet, sırada,
+Miami Sound Machine...</i>
+
+1007
+01:11:13,490 --> 01:11:17,487
+Dr Feynman, kurulun çalışmasıyla
+ilgili yorum yapabilir misiniz?
+
+1008
+01:11:17,588 --> 01:11:20,169
+Sabotaj teorisi üzerine düşünceniz
+nedir?
+
+1009
+01:11:20,270 --> 01:11:22,369
+Konuşmaya yetkim yok.
+
+1010
+01:11:32,089 --> 01:11:33,248
+Kurul nerede?
+
+1011
+01:11:33,349 --> 01:11:34,409
+Şu tarafta, efendim.
+
+1012
+01:11:37,249 --> 01:11:39,329
+Üzgünüm, efendim.Oraya giremezsiniz.
+
+1013
+01:11:39,430 --> 01:11:40,608
+Bunu bana kim söylüyor?
+
+1014
+01:11:40,709 --> 01:11:42,768
+Kravatsız olmaz, efendim.
+
+1015
+01:11:42,869 --> 01:11:45,289
+Bana güç ver.
+
+1016
+01:11:55,449 --> 01:11:58,009
+Eminim bu çok daha zarif görünecek.
+
+1017
+01:12:01,129 --> 01:12:02,569
+İyi akşamlar, beyler.
+
+1018
+01:12:05,329 --> 01:12:09,368
+Bulgularım, gelişmiş, işlenmiş, damıtılmış...
+
+1019
+01:12:09,469 --> 01:12:11,727
+...fotokopi makinesinin bozulması 
+durumunda...
+
+1020
+01:12:11,828 --> 01:12:13,729
+...onları kopyalama derdinden sizi
+kurtarıyorum.
+
+1021
+01:12:16,048 --> 01:12:18,888
+- Hey, Bill.Ev sahipliğini yapacak mısın? 
+- Tabii.
+
+1022
+01:12:18,989 --> 01:12:22,727
+Hepsi burada. Merhaba, Neil.Alır mısın?
+
+1023
+01:12:22,828 --> 01:12:25,767
+İticilerde tasarım kusurları.
+
+1024
+01:12:25,868 --> 01:12:27,328
+Yönetim hataları.
+
+1025
+01:12:29,288 --> 01:12:32,168
+- Soğuk bir gün. 
+- Sen iyi misin?
+
+1026
+01:12:32,269 --> 01:12:34,528
+Grip olmuştum, şimdi geçti.
+
+1027
+01:12:34,629 --> 01:12:36,209
+Neden sandalyeye oturmuyorsun?
+
+1028
+01:12:46,648 --> 01:12:48,527
+Teşekkür ederim.
+
+1029
+01:12:48,628 --> 01:12:51,647
+Ve teşekkürler...
+
+1030
+01:12:51,748 --> 01:12:56,487
+...son haftalardaki güzel, sabırlı, 
+fazla çalışmalarınız için.
+
+1031
+01:12:56,588 --> 01:12:58,887
+Zor bir dönem oldu.
+
+1032
+01:12:58,988 --> 01:13:01,327
+Özellikle Dr Feynman için.
+
+1033
+01:13:01,428 --> 01:13:03,527
+Tekrar hoş geldiniz, doktor.
+
+1034
+01:13:03,628 --> 01:13:07,126
+Ve Doktor, son raporumuza sizin yeni 
+çalışmalarınızı da dahil etmeyi...
+
+1035
+01:13:07,227 --> 01:13:08,208
+...kesinlikle isteriz.
+
+1036
+01:13:09,928 --> 01:13:12,928
+Lütfen bunun çok önemli bir toplantı 
+olduğunu unutmayın.
+
+1037
+01:13:13,029 --> 01:13:15,487
+Bir sürü basın mensubu bekliyoruz.
+
+1038
+01:13:15,588 --> 01:13:18,848
+Televizyon yayını olacak, bu nedenle
+hızlı olalım.Teşekkür ederim.
+
+1039
+01:13:31,568 --> 01:13:33,007
+Prof.
+
+1040
+01:13:33,108 --> 01:13:36,686
+Tekrar aynı şey oluyor,
+Rogers işimi gömecek.
+
+1041
+01:13:36,787 --> 01:13:40,168
+Evet, biraz önce dışarda basın tarafından 
+köşeye sıkıştırıldım.
+
+1042
+01:13:40,269 --> 01:13:41,647
+Ben de.
+
+1043
+01:13:41,748 --> 01:13:44,427
+Sanırım onlar "kanıtlanmayan" ile gitmeye
+hazırlar.
+
+1044
+01:13:45,327 --> 01:13:47,847
+Evet, veya çimenli tepelerde bir 
+keskin nişancıyla.
+
+1045
+01:13:50,727 --> 01:13:52,808
+Çok fazla pancar turşusu yiyorum.
+
+1046
+01:13:54,088 --> 01:13:57,568
+General, ne yapacağımız ile ilgili 
+lanet bir ipucum yok.
+
+1047
+01:13:59,728 --> 01:14:03,768
+Siz ne düşünürsünüz bilemem, ama 
+sizi tekrar gördüğüme sevindim.
+
+1048
+01:14:05,968 --> 01:14:08,887
+- General.
+- Başkan.
+
+1049
+01:14:08,988 --> 01:14:12,206
+Büyük bir sıkıntımız var.
+
+1050
+01:14:12,307 --> 01:14:16,525
+Mekiği en iyi anlayanlar, kanıt verecek 
+insanlar
+
+1051
+01:14:16,626 --> 01:14:19,807
+ama onu açıkça anlatarak en çok
+kaybedecek olanlar da onlar.
+
+1052
+01:14:21,487 --> 01:14:23,966
+Kamu çok kolay şaşırtılabilir.
+
+1053
+01:14:24,067 --> 01:14:28,527
+Bir şekilde sisin içine girmemiz
+gerekir.
+
+1054
+01:14:30,327 --> 01:14:31,808
+Tekrar hoşgeldiniz.
+
+1055
+01:14:36,048 --> 01:14:38,768
+Marshall'ın stratejisinin ne olacağını
+biliyoruz.
+
+1056
+01:14:38,869 --> 01:14:41,966
+Duman perdesi.Bilimi çıkarlara göre
+kullanma.
+
+1057
+01:14:42,067 --> 01:14:44,607
+Evet, onu tüylü pırıltıya
+dönüştürecekler.
+
+1058
+01:14:46,287 --> 01:14:47,847
+Bu beni öldürür.
+
+1059
+01:15:05,407 --> 01:15:06,687
+Gitmem gerekli.
+
+1060
+01:15:08,367 --> 01:15:10,286
+- İyi misin? 
+- İyiyim.
+
+1061
+01:15:14,047 --> 01:15:15,767
+Neil.
+
+1062
+01:15:17,807 --> 01:15:19,407
+Senden bir şey isteyecektim.
+
+1063
+01:15:19,508 --> 01:15:20,726
+Evet, Richard.
+
+1064
+01:15:20,827 --> 01:15:24,966
+Bu bir arkadaş için.Bir hayranın.
+
+1065
+01:15:25,067 --> 01:15:27,127
+Tamam.Tabii.
+
+1066
+01:15:28,607 --> 01:15:30,366
+Çok teşekkürler, Neil.
+
+1067
+01:15:30,467 --> 01:15:32,726
+Üzgünüm, rahatsız ettiğim için...
+
+1068
+01:15:32,827 --> 01:15:35,085
+- Herhangi bir başka şey, Richard.
+- İyi geceler.
+
+1069
+01:15:35,186 --> 01:15:36,407
+Kendine iyi bak.
+
+1070
+01:15:37,807 --> 01:15:41,764
+Benden bir şey istemiştin, şimdi ben
+senden bir şey isteyeceğim.
+
+1071
+01:15:41,865 --> 01:15:44,406
+Hayır, birkaç hafta önce beni almıştın.
+
+1072
+01:15:47,646 --> 01:15:51,565
+- Günaydın. 
+- Günaydın.
+
+1073
+01:15:51,666 --> 01:15:53,167
+Anlaşmanın benim adıma sonu.
+
+1074
+01:15:53,268 --> 01:15:54,366
+Tamam.
+
+1075
+01:15:54,467 --> 01:15:56,446
+İşte şimdi senden istediğim.
+
+1076
+01:15:56,547 --> 01:15:58,086
+Bir nalbur.
+
+1077
+01:15:58,187 --> 01:16:01,125
+Bir nalbur.Neden süper önemli bir 
+insan ister...
+
+1078
+01:16:01,226 --> 01:16:04,807
+- Erken açan bir nalbur biliyor musun?
+- Bir yer biliyorum.
+
+1079
+01:16:14,326 --> 01:16:16,046
+Haydi.Yataktan kalk.
+
+1080
+01:16:25,166 --> 01:16:27,924
+Astronotların aileleri sevdiklerinin
+
+1081
+01:16:28,025 --> 01:16:31,564
+ölüm nedenini çok belirgin olarak
+araştırmak isteyecekler.
+
+1082
+01:16:31,665 --> 01:16:34,845
+NASA tanıkları bu sorulara cevap verecekler...
+
+1083
+01:16:34,946 --> 01:16:38,286
+Graham, bir katı roket itici kesit modeli
+yanında olsun.
+
+1084
+01:16:39,526 --> 01:16:42,166
+- Geciktik mi? 
+- Zamanımız var.
+
+1085
+01:16:47,646 --> 01:16:50,046
+- Merhaba. 
+- Günaydın, General.Sanırım bu o.
+
+1086
+01:16:51,086 --> 01:16:52,686
+İyi şanslar.
+
+1087
+01:17:24,606 --> 01:17:27,046
+Tanıklar ayağa kalkabilir mi lütfen?
+
+1088
+01:17:31,126 --> 01:17:34,684
+Bu kurul önünde yapacağınız tanıklığın
+
+1089
+01:17:34,785 --> 01:17:36,643
+gerçeği, sadece tüm gerçeği içereceğine
+
+1090
+01:17:36,744 --> 01:17:39,005
+Tanrının huzurunda yemin eder misiniz?
+
+1091
+01:17:39,106 --> 01:17:40,325
+- Evet.
+- Evet.
+
+1092
+01:17:45,165 --> 01:17:48,725
+Bay Mulloy, fırlatmada işlemindeki
+gecikmenin sizde veya NASA yetkililerinde
+
+1093
+01:17:48,826 --> 01:17:52,645
+kötü bir izlenim oluşturmasından 
+endişeniz oldu mu?
+
+1094
+01:17:52,746 --> 01:17:54,485
+Hayır, hiç olmadı.
+
+1095
+01:17:54,586 --> 01:17:56,804
+Tiyokol Mühendislik tarafından sunulan
+veriler doğrultusunda
+
+1096
+01:17:56,905 --> 01:17:59,644
+Tiyokol yetkilisinin tavsiyesi ile
+
+1097
+01:17:59,745 --> 01:18:03,244
+kararım fırlatma işlemine devam oldu.
+- İşte duman geliyor.
+
+1098
+01:18:03,345 --> 01:18:05,363
+Bu resim 19 Ağustos tarihinde çekildi,
+
+1099
+01:18:05,464 --> 01:18:09,403
+burada ilgi çeken şey, contalarda
+gördüğümüz.
+
+1100
+01:18:09,504 --> 01:18:12,445
+Bakın, durum şu, Challenger'dan önce, 
+
+1101
+01:18:12,546 --> 01:18:16,565
+yaklaşık bir yıl boyunca contalarda
+hiç anormal aşınma görülmedi.
+
+1102
+01:18:22,525 --> 01:18:26,005
+Bay McDonald, söylenenlerin çok önemli 
+olduğunu düşündüğünü belirtti.
+
+1103
+01:18:26,106 --> 01:18:30,964
+ikinci conta sızıntı esnasında
+
+1104
+01:18:31,065 --> 01:18:33,045
+sızdırmazlığı sağlamaktaydı.
+
+1105
+01:18:33,146 --> 01:18:35,105
+Yani Bay McDonald'ın görüşünü 
+
+1106
+01:18:35,206 --> 01:18:39,124
+fırlatma işlemini sürdürmede destekleyici
+bir açıklama olarak mı yorumladınız?
+
+1107
+01:18:39,225 --> 01:18:42,165
+Evet, kesinlikle çünkü Bay McDonald 
+yakınımda oturmaktaydı,
+
+1108
+01:18:42,266 --> 01:18:45,084
+ve bu çok açık destekleyici bir
+görüştü.
+
+1109
+01:18:45,185 --> 01:18:46,684
+Bir sorum var.
+
+1110
+01:18:46,785 --> 01:18:51,524
+Mekikte başarısızlık olasılığını
+
+1111
+01:18:51,625 --> 01:18:54,325
+NASA'nın nasıl hesapladığını bana
+hatırlatabilir misiniz?
+
+1112
+01:18:55,885 --> 01:18:59,124
+Başarısızlığın anlamı aracın kaybı,
+
+1113
+01:18:59,225 --> 01:19:01,565
+ve tüm mürettebatın ölümü sayılırsa.
+
+1114
+01:19:02,764 --> 01:19:04,883
+Dr Lovingood.
+
+1115
+01:19:04,984 --> 01:19:07,204
+Kesinlikle. Beş gücüne göre...
+
+1116
+01:19:09,404 --> 01:19:12,124
+...onda biri olurdu.
+
+1117
+01:19:12,225 --> 01:19:13,245
+Gerçekten mi?
+
+1118
+01:19:14,765 --> 01:19:16,404
+Bunu açıklayabilir misiniz? 
+
+1119
+01:19:16,505 --> 01:19:20,964
+Evet, görev başarı olasılığı % 100.
+
+1120
+01:19:21,065 --> 01:19:22,244
+Eksi Epsilon.
+
+1121
+01:19:22,345 --> 01:19:25,244
+Epsilon. Bu oldukça süslü bir kelime.
+
+1122
+01:19:25,345 --> 01:19:29,045
+Peki, söylediğiniz her şeyi İngilizceye 
+çevirelim.
+
+1123
+01:19:29,146 --> 01:19:34,563
+Yani, her 100.000 uçuşta 1 başarısızlık
+olabilir.
+
+1124
+01:19:34,664 --> 01:19:38,322
+Yani tek bir arıza olana dek Mekiğin
+300 yıl süreyle her gün
+
+1125
+01:19:38,423 --> 01:19:40,762
+uçacağını mı iddia ediyorsunuz?
+
+1126
+01:19:40,863 --> 01:19:43,924
+Bu çok çılgınca.Bunu nasıl deneyebilirsiniz?
+
+1127
+01:19:45,084 --> 01:19:48,242
+O bir insanlı uçuş olduğu için NASA bu 
+değere ulaştı.  
+
+1128
+01:19:48,343 --> 01:19:49,924
+Gemide insanlar var,
+
+1129
+01:19:50,025 --> 01:19:54,564
+ama bu bilimsel bir hesaplama değil...
+bu bir istek.
+
+1130
+01:19:54,665 --> 01:19:55,884
+İlginç.
+
+1131
+01:19:55,985 --> 01:19:59,825
+Ama bu değer NASA'nın kendi mühendislerine
+göre çok farklı.
+
+1132
+01:19:59,926 --> 01:20:02,203
+Birçok bilinen bileşen sorunlarının 
+gözlemi,
+
+1133
+01:20:02,304 --> 01:20:06,564
+ve doğrudan kendi deneyimlerine 
+dayanarak
+
+1134
+01:20:06,665 --> 01:20:11,083
+bazı NASA mühendisleri başarı 
+olasılığını % 99.4 olarak
+
+1135
+01:20:11,184 --> 01:20:12,403
+hesaplamakta.
+
+1136
+01:20:12,404 --> 01:20:18,164
+Diğer bir deyişle, kabaca her 200 
+uçuştan 1'i başarısız olmakta.
+
+1137
+01:20:25,444 --> 01:20:27,404
+Beyler, mola zamanı.
+
+1138
+01:20:28,644 --> 01:20:31,884
+Bir mola için uygun bir zaman
+olacağını düşünüyorum.
+
+1139
+01:20:40,364 --> 01:20:41,843
+200'de 1!
+
+1140
+01:20:41,944 --> 01:20:45,483
+Vay. Astronotların farkında olmadığı 
+bir şeydi.
+
+1141
+01:20:45,584 --> 01:20:47,722
+Her üç buçuk yılda bir durağan felaket.
+
+1142
+01:20:47,823 --> 01:20:49,964
+Kimseyi ikna etmeyecek, kanıtı yok.
+
+1143
+01:20:50,065 --> 01:20:52,883
+insanlar olasılığa bakmaz, bunun
+adı matematiktir.
+
+1144
+01:20:52,984 --> 01:20:54,164
+Ama belki...
+
+1145
+01:21:38,683 --> 01:21:40,881
+...yapılan eklem dilimi deneyi,
+
+1146
+01:21:40,982 --> 01:21:44,723
+ve motor geliştirme ve yeterlilik 
+deneyleri, 
+
+1147
+01:21:44,824 --> 01:21:48,362
+eklemlerde olacakları anlamak
+için bir kaynak.
+
+1148
+01:21:48,463 --> 01:21:50,282
+- Bay Hardy. 
+- Kesinlikle.
+
+1149
+01:21:50,383 --> 01:21:55,683
+Görüldüğü gibi, contaların yapısal 
+bütünlüğünü kaybedeceği sıcaklık   
+
+1150
+01:21:55,784 --> 01:21:58,802
+eksi 40 ile 50 derece aralığında olacak.
+
+1151
+01:21:58,903 --> 01:22:00,963
+Eksi 40-50 derece.
+
+1152
+01:22:02,723 --> 01:22:04,522
+- Fahrenheit? 
+- Efendim.
+
+1153
+01:22:04,623 --> 01:22:07,002
+Böylece yapısal bütünlüklerini
+
+1154
+01:22:07,103 --> 01:22:10,443
+donmanın 80 derece altında koruyacaklar mı?
+- Doğru.
+
+1155
+01:22:14,043 --> 01:22:16,763
+- Sayın Rogers? 
+- Evet. 
+- Teşekkür ederim.
+
+1156
+01:22:22,003 --> 01:22:23,641
+Bu contalar...
+
+1157
+01:22:24,247 --> 01:22:29,458
+...sızdırmazlığı sağlamak için genleşmek
+zorunda, doğru mu?
+- Evet, efendim.
+
+1158
+01:22:30,642 --> 01:22:32,962
+Yani, insanların anlaması için,
+
+1159
+01:22:33,063 --> 01:22:37,722
+contaları çıkarırsak ne olur?
+
+1160
+01:22:37,823 --> 01:22:39,602
+Onlar olmazsa.
+
+1161
+01:22:39,703 --> 01:22:42,923
+O zaman sıcak gaz eklem boyunca 
+genleşecektir.
+
+1162
+01:22:43,024 --> 01:22:48,240
+Sızdırmazlığın düzgün çalışması için,
+conta kauçuktan yapılmalı,
+
+1163
+01:22:49,363 --> 01:22:54,443
+ezdiğiniz zaman hareketsiz kalan 
+kurşun gibi bir şey olmamalı. 
+
+1164
+01:22:55,882 --> 01:22:57,201
+Evet, efendim.
+
+1165
+01:22:57,302 --> 01:23:02,841
+Şimdi contanın bir iki saniye esnek
+olmadığını düşünelim, 
+
+1166
+01:23:02,942 --> 01:23:06,200
+bu çok tehlikeli bir durum için 
+yeterli olacak
+
+1167
+01:23:06,301 --> 01:23:08,842
+ve büyük olasılıkla düşük sıcaklıklarda
+gerçekleşecek.
+
+1168
+01:23:08,943 --> 01:23:11,561
+Hayır, Bay Hardy'nin gösterdiği gibi,
+
+1169
+01:23:11,662 --> 01:23:16,602
+onlar eksi 40-50 dereceye kadar etkili.
+
+1170
+01:23:16,703 --> 01:23:20,362
+Peki, o zaman beylere bir görüşüm olacak,
+
+1171
+01:23:20,463 --> 01:23:24,481
+Uzmanlık bilgisi olmayan veya bilimsel 
+eğitim görmeyen
+
+1172
+01:23:24,582 --> 01:23:27,122
+sıradan insanlar için bile
+
+1173
+01:23:27,223 --> 01:23:32,041
+herhangi bir bilimsel kavram
+açıklanabilir. 
+
+1174
+01:23:32,142 --> 01:23:35,642
+- Yardımcıdan pilota, henüz değil, bekle.
+- Ne?
+
+1175
+01:23:36,922 --> 01:23:38,681
+Tamam. Tamam, devam et.
+
+1176
+01:23:39,132 --> 01:23:43,514
+Bakın.Sızdırmazlığınızdan...
+
+1177
+01:23:44,962 --> 01:23:48,402
+...biraz malzeme aldım.
+
+1178
+01:23:50,562 --> 01:23:55,402
+Ve onu buzlu suyun içine koydum.
+
+1179
+01:23:58,362 --> 01:24:00,762
+Ve şunu keşfettim...
+
+1180
+01:24:04,722 --> 01:24:07,042
+...eğer bunu baskı altında tutarsanız...
+
+1181
+01:24:08,209 --> 01:24:10,406
+...bir süre için,
+
+1182
+01:24:10,882 --> 01:24:14,479
+ve sonra baskıyı kaldırırsanız...
+
+1183
+01:24:20,682 --> 01:24:22,282
+...geri esnemez.
+
+1184
+01:24:23,521 --> 01:24:27,320
+Durur. Aynı boyutta kalır.
+
+1185
+01:24:27,421 --> 01:24:31,160
+Diğer bir deyişle, en azından
+bir veya iki saniyelık zamanda
+
+1186
+01:24:31,261 --> 01:24:33,841
+ve bundan daha fazla bir sürede
+
+1187
+01:24:33,942 --> 01:24:37,681
+soğuk bir soda sıcaklığı olan
+
+1188
+01:24:37,782 --> 01:24:41,201
+32 derece Fahrenheit sıcaklıkta,
+
+1189
+01:24:41,302 --> 01:24:43,882
+bu özel malzemede hiç esneklik olmaz,
+
+1190
+01:24:46,162 --> 01:24:49,282
+Bunun sorunumuz için bir önemi
+olduğunu düşünüyorum.
+
+1191
+01:25:09,761 --> 01:25:12,800
+Son Kurul Raporu ne olursa olsun,
+tüm bulgularım, tasarım,
+
+1192
+01:25:12,901 --> 01:25:16,640
+mühendislik ve yönetim sorunlarını 
+
+1193
+01:25:16,741 --> 01:25:19,280
+içeren bağımsız ek raporumu
+
+1194
+01:25:19,381 --> 01:25:22,041
+kendim başkana elden vereceğim.
+
+1195
+01:25:23,721 --> 01:25:27,880
+NASA soğuk etkisi hakkında ne kadar
+bilgiliydi, Dr Feynman? 
+
+1196
+01:25:27,981 --> 01:25:29,481
+Bakın.Ona sorun.
+
+1197
+01:25:31,721 --> 01:25:34,560
+NASA yetkililerine gerçeklik dünyasında 
+
+1198
+01:25:34,661 --> 01:25:37,400
+iş yapmalarını sağlamak için  
+
+1199
+01:25:37,501 --> 01:25:39,481
+bazı önerilerde bulunalım.
+
+1200
+01:25:41,201 --> 01:25:44,881
+Teknolojik zayıflık ve kusurları 
+anlamak.
+
+1201
+01:25:44,982 --> 01:25:48,521
+aktif olarak onları ortadan kaldırmak 
+yeterli.
+
+1202
+01:25:50,120 --> 01:25:54,400
+NASA bunu kendisinden destek istediği
+
+1203
+01:25:54,501 --> 01:25:57,160
+samimi, dürüst ve bilgilendirici
+vatandaşlara borçludur.
+
+1204
+01:25:57,261 --> 01:25:59,400
+Başarılı bir teknoloji için,
+
+1205
+01:25:59,501 --> 01:26:03,480
+gerçeklik halkla ilişkilerden 
+önce gelmelidir,
+
+1206
+01:26:03,581 --> 01:26:05,681
+çünkü doğa kandırılamaz.
+
+1207
+01:26:08,081 --> 01:26:10,521
+Dr Keel, lütfen.
+
+1208
+01:26:13,241 --> 01:26:17,681
+Ve Sayın Başkan, bu ek Profesör Feynman 
+tarafından hazırlanmıştır.
+
+1209
+01:26:26,600 --> 01:26:29,360
+Ve bu arada, ben kaynağının kim 
+olduğunu çözdüm.
+
+1210
+01:26:30,520 --> 01:26:33,840
+Sen ". Bu astronot, bu astronot." dedin,
+
+
+1211
+01:26:33,941 --> 01:26:36,041
+O bir adam olsaydı, o erkek derdin.
+
+1212
+01:26:38,401 --> 01:26:41,721
+Tamam. Sessiz durabilirim.
+
+1213
+01:26:46,601 --> 01:26:50,399
+Eski Buick ile bir sürüş hayalin 
+olursa...
+
+1214
+01:26:50,500 --> 01:26:52,360
+Evet. Hava sıcak olursa.
+
+1215
+01:26:53,800 --> 01:26:55,720
+Bu çok yakında gerçekleşebilir.
+
+1216
+01:26:59,820 --> 01:27:02,399
+Bunun senin zamanını alması beni
+üzüyor.
+
+1217
+01:27:02,500 --> 01:27:04,199
+Ben üzgün değilim.
+
+1218
+01:27:04,300 --> 01:27:06,638
+Eğer kaybetseydik çok üzgün olurdum
+
+1219
+01:27:06,739 --> 01:27:07,880
+ama olduğu gibi, o...
+
+1220
+01:27:09,160 --> 01:27:10,480
+...bilimin iyi bir kullanımı değil.
+
+1221
+01:27:10,581 --> 01:27:14,000
+O bilimin iyi bir kullanımı.
+
+1222
+01:27:14,101 --> 01:27:15,041
+Ben iyiyim.
+
+1223
+01:27:16,121 --> 01:27:18,199
+Ben onunla iyiyim.
+
+1224
+01:27:18,300 --> 01:27:20,959
+Sanırım bir başka yaşam var.
+
+1225
+01:27:21,060 --> 01:27:25,280
+Yaptığımız küçük işler ilerde
+hatırlanabilir.
+
+1226
+01:27:27,560 --> 01:27:28,760
+General...
+
+1227
+01:27:31,560 --> 01:27:32,800
+...saçını düzelt.
+
+1228
+01:27:54,001 --> 01:28:01,800
+Allan McDonald NASA ile mekik 
+roket itici contalarıyla ilgili 
+başarılı çalışmalarını sürdürdü.
+
+1229
+01:28:05,001 --> 01:28:10,800
+General Kutyna'nın Titan programı,
+1989'da büyük casus uyduları fırlatmaya 
+yeterli yeni bir roketle yenilendi. 
+
+1230
+01:28:14,001 --> 01:28:20,800
+Sally Ride 2012 temmuzunda öldü.
+Ölümünün ardından, General Kutyna 
+contalarla ilgili gizli bilgi 
+kaynağının kendisi olduğunu açıkladı.
+
+1231
+01:28:23,001 --> 01:28:29,800
+Challenger soruşturması Richard 
+Feynman'ın son macerası oldu.
+Şubat 1988'de kanserden öldü.
+Bilimsel buluş ve yazılarıyla yaşamaktadır.
