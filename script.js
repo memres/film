@@ -40,7 +40,7 @@ $(function() {
 		$(this).toggleClass('on');
 		$('.' + $(this).attr('id')).slideToggle();
 		if ($('#search').hasClass('on')) {
-			if (!movies) $.getJSON($('form').attr('action') + 'sitemap', function(data) {
+			if (!movies) $.getJSON('https://cdn.jsdelivr.net/gh/memres/film@640a9e745a5926700275668d572048f32e99ad39/titles.json', function(data) {
 				movies = data;
 				search.autocomplete({
 					minLength: 2,
