@@ -79,7 +79,7 @@ $(function() {
 			var track = player.addTextTrack('subtitles');
 			track.mode = 'showing';
 			$.ajax({
-				url: 'https://cdn.jsdelivr.net/gh/memres/film@master/cc/' + $('video').attr('id') + '.srt',
+				url: 'https://cdn.jsdelivr.net/gh/memres/film@a80360f330c2fee61729ce1addd61d9f45fc1ed9/cc/' + $('video').attr('id') + '.srt',
 				complete: function(data) {
 					captions(data.responseText).map(function(cue) {
 						track.addCue(cue);
