@@ -544,7 +544,7 @@ dt p {
 .keyboard li:nth-child(even) {
 	background-color: #f1f1f1;
 }
-@media (orientation: portrait) {
+@media (max-width: 531px) {
 	address {
 		z-index: 1;
 		position: sticky;
@@ -554,7 +554,7 @@ dt p {
 		box-shadow: 0px 10px 10px 0px #fff;
 	}
 }
-@media (orientation: landscape) {
+@media (min-width: 532px) {
 	address {
 		position: relative;
 		height: calc(100vh - 50px);
