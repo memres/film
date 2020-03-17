@@ -40,7 +40,7 @@ $(function() {
 		$(this).toggleClass('on');
 		$('.' + $(this).attr('id')).slideToggle();
 		if ($('#search').hasClass('on')) {
-			if (!movies) $.getJSON('https://cdn.jsdelivr.net/gh/memres/film@b7641f15e2a201f41b1ece9dd9bd614f36d6e809/titles.json', function(data) {
+			if (!movies) $.getJSON('https://raw.githubusercontent.com/memres/film/master/titles.json', function(data) {
 				movies = data;
 				search.autocomplete({
 					minLength: 2,
@@ -79,7 +79,7 @@ $(function() {
 			var track = player.addTextTrack('subtitles');
 			track.mode = 'showing';
 			$.ajax({
-				url: 'https://cdn.jsdelivr.net/gh/memres/film@f0ff508ac66a7191baf099f323b8f837437b48c9/cc/' + $('video').attr('id') + '.srt',
+				url: 'https://raw.githubusercontent.com/memres/film/master/cc/' + $('video').attr('id') + '.srt',
 				complete: function(data) {
 					captions(data.responseText).map(function(cue) {
 						track.addCue(cue);
