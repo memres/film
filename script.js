@@ -144,12 +144,12 @@ $(function() {
 	});
 	$('.favorites').disableSelection();
 	$(document).on('click', '.favorites aside a', function() {
-		if ($(this).hasClass('yes')) {
+		if ($(this).hasClass('prev')) {
 			localStorage.removeItem('favorites');
 			$('main').html('<h3>Your favorites list<br/><span>has been cleared</span></h3>');
 		}
-		else if ($(this).hasClass('no')) $('aside').html('<a><i class="fas fa-trash"></i> Clear</a>');
-		else $('aside').html('<a class="prev yes"><i class="fas fa-check"></i> Yes</a><a class="next no"><i class="fas fa-times"></i> No</a>');
+		else if ($(this).hasClass('next')) $('aside').html('<a><i class="fas fa-trash"></i> Clear</a>');
+		else $('aside').html('<a class="prev"><i class="fas fa-check"></i> Yes</a><a class="next"><i class="fas fa-times"></i> No</a>');
 	});
 	$('article b').on('click', function(e) {
 		e.preventDefault();
