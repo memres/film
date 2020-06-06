@@ -114,11 +114,11 @@ nav div:nth-child(2) {
 }
 nav p {
 	margin: 5px 0 0;
-	padding: 0 20%;
+	padding: 0 20px;
 	font-size: 12px;
 	line-height: 1.5;
 	color: #fff;
-	text-shadow: 0 0 5px #282828;
+	text-shadow: 0 0 5px #000;
 }
 label {
 	font: 700 12px/1 Cinzel;
@@ -133,8 +133,8 @@ input, button {
 }
 input[type="checkbox"] {
 	margin-right: 2px;
-	transform: scale(1.2);
-	vertical-align: -3px;
+	transform: scale(1.1);
+	vertical-align: -2px;
 }
 button, input[type="search"] {
 	height: 32px;
@@ -587,8 +587,7 @@ dt p {
 	}
 	input[type="checkbox"] {
 		margin-right: 3px;
-		transform: scale(1.3);
-		vertical-align: -2px;
+		transform: scale(1.2);
 	}
 	h2, h3 {
 		padding: 14px 20px;
@@ -640,8 +639,7 @@ dt p {
 	}
 	input[type="checkbox"] {
 		margin: 0 4px 0 0;
-		transform: scale(1.4);
-		vertical-align: -1px;
+		transform: scale(1.3);
 	}
 	nav div {
 		float: left;
@@ -715,8 +713,8 @@ dt p {
 		height: 45px;
 	}
 	input[type="checkbox"] {
-		margin-right: 5px;
-		transform: scale(1.5);
+		margin-right: 6px;
+		transform: scale(1.4);
 		vertical-align: 0;
 	}
 	h2, h3 {
@@ -810,7 +808,7 @@ dt p {
 		height: 50px;
 	}
 	input[type="checkbox"] {
-		margin-right: 6px;
+		margin-right: 8px;
 		transform: scale(1.6);
 	}
 	nav p {
