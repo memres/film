@@ -336,16 +336,19 @@ footer {
 	height: 50px;
 	text-align: center;
 	background-color: #282828;
-	cursor: default;
+}
+footer div {
+	width: 25%;
+	float: left;
+	display: inline-block;
+	text-align: center;
+	user-select: none;
 }
 footer i {
 	color: #fff;
 	padding: 19px;
 	font-size: 12px;
 	cursor: pointer;
-}
-footer i:nth-child(2) {
-	margin: 0 20px;
 }
 footer i:active {
 	color: #f44;
@@ -675,7 +678,7 @@ dt p {
 		padding: 17px;
 	}
 	.keyboard {
-		width: 60%;
+		width: 400px;
 	}
 }
 @media (min-width: 960px) {
@@ -745,9 +748,6 @@ dt p {
 	footer i {
 		padding: 14px;
 	}
-	footer i:nth-child(2) {
-		margin: 0 100px;
-	}
 	bdi {
 		bottom: 20px;
 		left: 20px;
@@ -774,7 +774,7 @@ dt p {
 		height: 17px;
 	}
 	.keyboard {
-		width: 50%;
+		width: 450px;
 	}
 }
 @media (min-width: 1280px) {
@@ -836,7 +836,7 @@ dt p {
 		padding: 11px;
 	}
 	.keyboard {
-		width: 40%;
+		width: 500px;
 	}
 }
 @media (min-width: 1600px) {
