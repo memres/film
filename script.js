@@ -163,7 +163,7 @@ $(function() {
 		var i = $('i', this);
 		heart(i, $('[property="og:url"]').attr('content') + 'ჲ፨ဇ' + $('h4').text() + 'ჲ፨ဇ' + $('[property="og:image"]').attr('content') + 'ဇ፨ჲ');
 	});
-	$('footer i:eq(1)').on('click', function() {
+	$('footer i:eq(3)').on('click', function() {
 		$('html, body').animate({scrollTop: 0});
 	});
 	$('footer i:eq(0), .keyboard').on('click', keyboard);
