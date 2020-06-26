@@ -66,6 +66,21 @@ $(function() {
 		$('.stamp').hide();
 	});
 	if (player) {
+		if ('mediaSession' in navigator) {
+			navigator.mediaSession.metadata = new MediaMetadata({
+				title: $('[property="og:title"]').attr('content'),
+				artist: $('h5 a').text(),
+				artwork: [{
+					src: $('video').attr('poster').replace('original', 'w500'),
+					sizes: '320x180',
+					type: 'image/jpg'
+				}]
+			});
+			navigator.mediaSession.setActionHandler('seekbackward', backward);
+			navigator.mediaSession.setActionHandler('seekforward', forward);
+			navigator.mediaSession.setActionHandler('previoustrack', prev);
+			navigator.mediaSession.setActionHandler('nexttrack', next);
+		}
 		$('figure').slider({
 			step: .001,
 			value: player.currentTime,
@@ -214,6 +229,18 @@ $(function() {
 	}
 	function keyboard() {
 		$('body').hasClass('freeze') ? $('.keyboard').hide().parent().removeClass('freeze') : $('.keyboard').show().parent().addClass('freeze');
+	}
+	function backward() {
+		player.currentTime = player.currentTime - 5;
+	}
+	function forward() {
+		player.currentTime = player.currentTime + 5;
+	}
+	function prev() {
+		if ($('[rel="prev"]').length) location.href = $('[rel="prev"]').attr('href');
+	}
+	function next() {
+		if ($('[rel="next"]').length) location.href = $('[rel="next"]').attr('href');
 	}
 	function random() {
 		location.href = $('.fa-random').parent().attr('href');
