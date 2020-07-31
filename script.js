@@ -18,10 +18,9 @@ $(function() {
 		let t = $(this), b = t.find('button').html();
 		$.ajax({
 			type: 'POST',
-			url: home + 'sign',
-			data: $('#u').length ? t.serialize() : '',
+			url: home + 'sign' + ($('#u').length ? '?' + t.serialize() : ''),
 			beforeSend: function() {
-				t.find('i').addClass('fa-spinner fa-spin').parent().css('pointer-events', 'none');
+				t.find('button i').addClass('fa-spinner fa-spin').parent().css('pointer-events', 'none');
 			},
 			success: function(e) {
 				if (e) {
