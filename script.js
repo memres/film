@@ -1,23 +1,8 @@
 $(function() {
-	var conout, volout, movies, search = $('[type="search"]'), player = $('video')[0];
-	Cookies.set('current', location.pathname.replace(/^\//, '').replace(/^film\//, '').replace(/\/+$/, ''));
-	if (Cookies.get('auto_play')) $('[name="auto_play"]').attr('checked', true);
-	if (Cookies.get('endless_playback')) $('[name="endless_playback"]').attr('checked', true);
-	if (localStorage.getItem('favorites')) {
-		if (player && new RegExp($('[property="og:image"]').attr('content')).test(localStorage.getItem('favorites'))) $('h5 i').toggleClass('far fas');
-		if ($('article').length) $('article b').each(function() {
-			if (new RegExp($(this).next().attr('src')).test(localStorage.getItem('favorites'))) $('i', this).toggleClass('far fas');
-		});
-	}
-	if (Cookies.get('current') == 'favorites') {
-		if (localStorage.getItem('favorites')) {
-			$('main').html('<h2>Favorites</h2><section class="favorites"><aside><a><i class="fas fa-trash"></i> Clear</a></aside></section>');
-			localStorage.getItem('favorites').replace(/ဇ፨ჲ$/, '').split('ဇ፨ჲ').reverse().map(function(e) {
-				var val = e.split('ჲ፨ဇ');
-				$('section').prepend('<article><a href="' + val[0] + '"><small><i class="fas fa-arrows-alt fa-2x"></i></small><span>' + val[1] + '</span><b><i class="fas fa-heart fa-2x"></i></b><img src="' + val[2] + '"/></a></article>');
-			});
-		}
-		else $('main').html('<h3>Add your favorite movies<br/><span>to collect them all here</span></h3>');
+	var conout, volout, movies, player = $('video')[0], home = $('h1 a').attr('href'), cleared = '<h3>Your favorites list<br/> <span>has been cleared</span></h3>', poster = /https\:\/\/image\.tmdb\.org\/t\/p\/w300_and_h450_bestv2\/|\.jpg/g;
+	if ($('[name="favorites"]').attr('content').length) {
+		if (player && new RegExp($('[property="og:image"]').attr('content').replace(poster, '')).test($('[name="favorites"]').attr('content'))) $('h5 b i').toggleClass('far fas');
+		if ($('article').length && !$('.favorites').length) $('article b').each(checkfav);
 	}
 	$(window).on('beforeunload', function() {
 		$('header h1 i').addClass('fa-spin');
@@ -25,12 +10,43 @@ $(function() {
 			$('header h1 i').removeClass('fa-spin')
 		}, 10000);
 	});
-	$('form').on('submit', function() {
+	$('.search form').on('submit', function() {
 		$('i', this).addClass('fa-spinner fa-spin');
 	});
-	$(':checkbox').on('change', function() {
-		var name = $(this).attr('name');
-		this.checked ? Cookies.set(name, 1, {expires: 365}) : Cookies.remove(name);
+	$('.settings form').on('submit', function(e) {
+		e.preventDefault();
+		let t = $(this), b = t.find('button').html();
+		$.ajax({
+			type: 'POST',
+			url: home + 'sign',
+			data: $('#u').length ? t.serialize() : '',
+			beforeSend: function() {
+				t.find('i').addClass('fa-spinner fa-spin').parent().css('pointer-events', 'none');
+			},
+			success: function(e) {
+				if (e) {
+					let style = {'color': '#f44', 'text-shadow': '0 0 1px #000'};
+					t.find('i').attr('class', 'fas fa-ban').css(style).next().text('Invalid ' + e).css(style).fadeTo(250,0).fadeTo(250,1).fadeTo(250,0).fadeTo(250,1);
+					setTimeout(function() {
+						t.find('button').html(b).css('pointer-events', 'auto');
+					}, 3000);
+				}
+				else location.reload();
+			}
+		});
+	});
+	$('[for="autoplay"], [for="infinite"]').on('click', function() {
+		let t = $(this);
+		$.ajax({
+			url: home + 'update',
+			data: 'p=' + t.attr('for') + '&v=' + (t.find('i').hasClass('fa-toggle-off') ? '1' : '0'),
+			beforeSend: function() {
+				t.css('pointer-events', 'none').find('i').addClass('fa-spin');
+			},
+			success: function() {
+				t.css('pointer-events', 'auto').find('i').removeClass('fa-spin').toggleClass('fa-toggle-off fa-toggle-on');
+			}
+		});
 	});
 	$('header li a:lt(3)').on('click', function() {
 		if ($('header li a:lt(3)').not(this).hasClass('on')) {
@@ -40,19 +56,27 @@ $(function() {
 		$(this).toggleClass('on');
 		$('.' + $(this).attr('id')).slideToggle();
 		if ($('#search').hasClass('on')) {
-			if (!movies) $.getJSON('https://raw.githubusercontent.com/memres/film/master/titles.json', function(data) {
-				movies = data;
-				search.autocomplete({
-					minLength: 2,
-					source: movies,
-					select: function(event, ui) {
-						$(event.target).val(ui.item.value);
-						$('form').submit();
-					}
+			if (!movies) {
+				$('.search form').attr('action', home);
+				$.getJSON('https://raw.githubusercontent.com/memres/film/master/titles.json', function(data) {
+					movies = data;
+					$('#q').autocomplete({
+						minLength: 2,
+						source: movies,
+						select: function(event, ui) {
+							$(event.target).val(ui.item.value);
+							$('.search form').submit();
+						}
+					});
 				});
-			});
+			}
 			setTimeout(function() {
-				search.focus();
+				$('#q').focus();
+			}, 400);
+		}
+		if ($('#settings').hasClass('on') && $('#u').length) {
+			setTimeout(function() {
+				$('#u').focus();
 			}, 400);
 		}
 	});
@@ -68,18 +92,16 @@ $(function() {
 	if (player) {
 		if ('mediaSession' in navigator) {
 			navigator.mediaSession.metadata = new MediaMetadata({
-				title: $('[property="og:title"]').attr('content'),
+				title: $('h4').text(),
 				artist: $('h5 a').text(),
 				artwork: [{
-					src: $('video').attr('poster').replace('original', 'w500'),
+					src: $('video').attr('poster').replace('original', 'w400'),
 					sizes: '320x180',
 					type: 'image/jpg'
 				}]
 			});
 			navigator.mediaSession.setActionHandler('seekbackward', backward);
 			navigator.mediaSession.setActionHandler('seekforward', forward);
-			navigator.mediaSession.setActionHandler('previoustrack', prev);
-			navigator.mediaSession.setActionHandler('nexttrack', next);
 		}
 		$('figure').slider({
 			step: .001,
@@ -89,14 +111,13 @@ $(function() {
 			}
 		});
 		$('.ui-slider-handle').off('keydown');
-		if (Cookies.get('volume') < 1) player.volume = Cookies.get('volume');
 		if (player.hasAttribute('id')) {
 			var track = player.addTextTrack('subtitles');
 			track.mode = 'showing';
 			$.ajax({
 				url: 'https://raw.githubusercontent.com/memres/film/master/cc/' + $('video').attr('id') + '.srt',
-				complete: function(data) {
-					captions(data.responseText).map(function(cue) {
+				complete: function(e) {
+					captions(e.responseText).map(function(cue) {
 						track.addCue(cue);
 					});
 				}
@@ -116,7 +137,7 @@ $(function() {
 	});
 	$('video').on('loadedmetadata', function() {
 		$('.end').text(calculate(player.duration));
-		if (Cookies.get('auto_play')) playpause();
+		if ($('[for="autoplay"] i').hasClass('fa-toggle-on')) playpause();
 	});
 	$('video').on('timeupdate', function() {
 		$('.now').text(calculate(player.currentTime, true));
@@ -135,7 +156,7 @@ $(function() {
 	$('video').on('ended', function() {
 		lurk();
 		$('bdi i:eq(0)').attr('class', 'fas fa-play');
-		if (Cookies.get('endless_playback')) random();
+		if ($('[for="infinite"] i').hasClass('fa-toggle-on')) random();
 		else player.load();
 	});
 	$('video').on('play', lurk);
@@ -154,29 +175,46 @@ $(function() {
 		update: function() {
 			let list = '';
 			$('article').each(function(i, e) {
-				list += $('a', e).attr('href') + 'ჲ፨ဇ' + $('span', e).text() + 'ჲ፨ဇ' + $('img', e).attr('src') + 'ဇ፨ჲ';
+				list += $('a', e).attr('href').replace(home + 'movie/', '') + '჻' + $('span', e).text() + '჻' + $('img', e).attr('src').replace(poster, '') + '፨';
 			});
-			localStorage.setItem('favorites', list);
+			$('[name="favorites"]').attr('content', list);
+			editfav();
 		}
 	});
 	$('.favorites').disableSelection();
 	$(document).on('click', '.favorites aside a', function() {
 		if ($(this).hasClass('prev')) {
-			localStorage.removeItem('favorites');
-			$('main').html('<h3>Your favorites list<br/><span>has been cleared</span></h3>');
+			$('[name="favorites"]').attr('content', '');
+			$('main').html(cleared);
+			editfav();
 		}
 		else if ($(this).hasClass('next')) $('aside').html('<a><i class="fas fa-trash"></i> Clear</a>');
-		else $('aside').html('<a class="prev"><i class="fas fa-check"></i> Yes</a><a class="next"><i class="fas fa-times"></i> No</a>');
+		else $('aside').html('<a class="prev"><i class="far fa-check-circle"></i> Yes</a><a class="next"><i class="far fa-times-circle"></i> No</a>');
 	});
-	$('article b').on('click', function(e) {
+	$(document).on('click', 'article b', function(e) {
 		e.preventDefault();
-		var i = $('i', this);
-		heart(i, $(this).parent().attr('href') + 'ჲ፨ဇ' + $(this).prev().text() + 'ჲ፨ဇ' + $(this).next().attr('src') + 'ဇ፨ჲ');
-		if ($('.favorites').length) $(this).parents('article').fadeOut();
+		heart($('i', this), $(this).parent().attr('href').replace(home + 'movie/', '') + '჻' + $(this).prev().text() + '჻' + $(this).next().attr('src').replace(poster, '') + '፨');
+		if ($('.favorites').length) {
+			$(this).parents('article').fadeOut();
+			if (!$('[name="favorites"]').attr('content').length) $('main').html(cleared);
+		}
 	});
 	$('h5 b').on('click', function() {
-		var i = $('i', this);
-		heart(i, $('[property="og:url"]').attr('content') + 'ჲ፨ဇ' + $('h4').text() + 'ჲ፨ဇ' + $('[property="og:image"]').attr('content') + 'ဇ፨ჲ');
+		heart($('i', this), $('[property="og:url"]').attr('content').replace(home + 'movie/', '') + '჻' + $('h4').text() + '჻' + $('[property="og:image"]').attr('content').replace(poster, '') + '፨');
+	});
+	$('.similar').on('click', function(e) {
+		e.preventDefault();
+		let t = $(this);
+		$.ajax({
+			url: home + 'similar',
+			beforeSend: function() {
+				t.css('pointer-events', 'none').find('i').addClass('fa-spin');
+			},
+			success: function(e) {
+				$('section').html(e).before('<h2>Similar Movies</h2>');
+				if ($('[name="favorites"]').attr('content').length) $('article b').each(checkfav);
+			}
+		});
 	});
 	$('footer i:eq(3)').on('click', function() {
 		$('html, body').animate({scrollTop: 0});
@@ -186,8 +224,8 @@ $(function() {
 		if ($(e.target).is('INPUT')) return;
 		if (player) {
 			if (e.which == 32) return false;
-			if (e.which == 37) player.currentTime = player.currentTime - 5;
-			if (e.which == 39) player.currentTime = player.currentTime + 5;
+			if (e.which == 37) backward();
+			if (e.which == 39) forward();
 			if (e.which == 109 && player.volume > 0) player.volume = (Math.round(player.volume * 100) - 5) / 100;
 			if (e.which == 107 && player.volume < 1) player.volume = (Math.round(player.volume * 100) + 5) / 100;
 		}
@@ -198,7 +236,6 @@ $(function() {
 			if (e.which == 32) playpause();
 			if (e.which == 70) tfs();
 			if (e.which == 77) player.muted = !player.muted;
-			if (e.which == 107 || e.which == 109) Cookies.set('volume', Math.round(player.volume * 100) / 100, {expires: 365});
 			if (e.which == 80 && document.pictureInPictureEnabled) document.pictureInPictureElement ? document.exitPictureInPicture() : player.requestPictureInPicture();
 			if (e.which == 48 || e.which == 96) player.currentTime = 0;
 			if (e.which == 49 || e.which == 97) player.currentTime = .1 * player.duration;
@@ -236,22 +273,28 @@ $(function() {
 	function forward() {
 		player.currentTime = player.currentTime + 5;
 	}
-	function prev() {
-		if ($('[rel="prev"]').length) location.href = $('[rel="prev"]').attr('href');
-	}
-	function next() {
-		if ($('[rel="next"]').length) location.href = $('[rel="next"]').attr('href');
-	}
 	function random() {
 		location.href = $('.fa-random').parent().attr('href');
 	}
 	function heart(i, e) {
-		if (i.hasClass('far')) localStorage.setItem('favorites', (localStorage.getItem('favorites') ? localStorage.getItem('favorites') + e : e));
-		else {
-			localStorage.setItem('favorites', localStorage.getItem('favorites').replace(e, ''));
-			if (localStorage.getItem('favorites') == '') localStorage.removeItem('favorites');
-		}
-		i.toggleClass('far fas');
+		if (i.hasClass('far')) $('[name="favorites"]').attr('content', e + $('[name="favorites"]').attr('content'));
+		else $('[name="favorites"]').attr('content', $('[name="favorites"]').attr('content').replace(e, ''));
+		editfav(i);
+	}
+	function editfav(i) {
+		$.ajax({
+			url: home + 'update',
+			data: 'p=favorites&v=' + $('[name="favorites"]').attr('content'),
+			beforeSend: function() {
+				if (i) i.addClass('fa-sun fa-spin').parent().css('pointer-events', 'none');
+			},
+			success: function() {
+				if (i) i.removeClass('fa-sun fa-spin').toggleClass('far fas').parent().css('pointer-events', 'auto');
+			}
+		});
+	}
+	function checkfav() {
+		if (new RegExp($(this).next().attr('src').replace(poster, '')).test($('[name="favorites"]').attr('content'))) $('i', this).toggleClass('far fas');
 	}
 	function playpause() {
 		if (player.paused) {
