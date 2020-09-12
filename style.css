@@ -362,6 +362,34 @@ footer i {
 	font-size: 12px;
 	cursor: pointer;
 }
+blockquote {
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: calc(100vh - 50px);
+	background-color: #000;
+}
+blockquote img {
+	position: absolute;
+	max-width: 100%;
+	height: inherit;
+	filter: blur(4px);
+	-webkit-filter: blur(4px);
+	pointer-events: none;
+}
+blockquote p {
+	z-index: 1;
+	margin: 20px;
+	padding: 20px;
+	border-radius: 10px;
+	font-size: 14px;
+	line-height: 1.5;
+	text-align: center;
+	color: #f1f1f1;
+	background-color: rgba(40, 40, 40, .80);
+	text-shadow: 0 0 5px #000;
+}
 address {
 	font-style: normal;
 	width: 100%;
@@ -574,7 +602,7 @@ dt p {
 	h1 {
 		font-size: 17px;
 	}
-	h2, h3, h4, aside {
+	h2, h3, h4, aside, blockquote p {
 		font-size: 16px;
 	}
 	header i {
@@ -619,7 +647,7 @@ dt p {
 	}
 }
 @media (min-width: 640px) {
-	h1, h2, h3, h4, aside {
+	h1, h2, h3, h4, aside, blockquote p {
 		font-size: 18px;
 	}
 	header i, aside i, footer i, .genres, label, button, input, .ui-autocomplete li, dt, article, .keyboard {
@@ -693,7 +721,7 @@ dt p {
 	aside i, footer i {
 		font-size: 22px;
 	}
-	h2, h3, h4 {
+	h2, h3, h4, blockquote p {
 		font-size: 20px;
 	}
 	h1 {
@@ -780,7 +808,7 @@ dt p {
 	aside i, footer i {
 		font-size: 28px;
 	}
-	h2, h3, h4 {
+	h2, h3, h4, blockquote p {
 		font-size: 22px;
 	}
 	h1 {
