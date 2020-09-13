@@ -784,28 +784,28 @@ KALTAĞI YAK.</i>
 
 171
 00:20:19,456 --> 00:20:21,623
-<i>ONA KAPIYI AÇ.</i>
+<i>ONA KAPIYI AÇTILAR.</i>
 
 172
 00:20:21,624 --> 00:20:25,214
 <i>SÖYLEME, YAZMA, DİNLEME.
-ONA KAPIYI AÇ.</i>
+ONA KAPIYI AÇTILAR.</i>
 
 173
 00:20:42,575 --> 00:20:44,859
-"Kunda."
+"KUNDA"
 
 174
 00:20:50,875 --> 00:20:53,910
-"Astratta."
+"ASTRATTA"
 
 175
 00:20:57,381 --> 00:21:00,417
-"Montosse."
+"MONTOSSE"
 
 176
 00:21:05,515 --> 00:21:07,924
-"Can'da."
+"CANDA"
 
 177
 00:21:18,945 --> 00:21:23,773
@@ -829,7 +829,7 @@ Pijama partisi daha bitmedi.
 181
 00:21:49,642 --> 00:21:52,193
 Evet, kim "Doğru mu Yanlış mı?"
-oynamaya başlamak ister? Değil mi?
+oynamak ister? Değil mi?
 
 182
 00:21:52,194 --> 00:21:55,480
@@ -874,7 +874,7 @@ dayanmak zorundasın.
 
 191
 00:22:25,303 --> 00:22:28,380
-David, beni arabayla eve bırak.
+David, beni eve götür.
 
 192
 00:22:31,058 --> 00:22:34,644
@@ -883,7 +883,7 @@ David, beni arabayla eve bırak.
 
 193
 00:22:34,645 --> 00:22:37,347
-Mia, belki de onlar haklı.
+Belki de onlar haklı.
 
 194
 00:22:39,984 --> 00:22:43,862
@@ -897,7 +897,7 @@ Bu yüzden geldim. - Aman Tanrım.
 
 196
 00:22:46,324 --> 00:22:48,575
-Çok aptalmışım.
+Ne aptalmışım.
 
 197
 00:22:48,576 --> 00:22:51,870
@@ -910,7 +910,7 @@ Hayatımda ilk defa...
 199
 00:22:56,918 --> 00:23:01,788
 - Mia, sadece sana yardım etmeye
-çalışıyoruz! - Evet, senin amına koyayım!
+çalışıyoruz. - Siktir git!
 
 200
 00:23:07,595 --> 00:23:09,930
