@@ -82,7 +82,7 @@ nav {
 	background-color: #c1c1c1;
 	box-shadow: 0px 5px 5px 0px rgba(40, 40, 40, .75);
 }
-.genres {
+nav:nth-of-type(1) {
 	font: 700 12px/2.5 Cinzel;
 	text-transform: uppercase;
 	text-shadow: 0 0 5px #fff;
@@ -127,7 +127,7 @@ label {
 	text-shadow: 0 0 5px #fff;
 	user-select: none;
 }
-.login label {
+label[for="u"], label[for="p"] {
 	display: block;
 	text-align: left;
 }
@@ -135,19 +135,21 @@ input, button {
 	margin: 0;
 	border: 0;
 	outline: 0;
+}
+button, #q, #u, #p {
 	height: 32px;
 	color: #757575;
 	background-color: #f1f1f1;
 	font: 400 12px Roboto;
 }
-input {
+#q, #u, #p {
 	padding: 0 10px;
 }
-.login input {
+#u, #p {
 	width: 100%;
 	margin-top: 5px;
 }
-.search input {
+#q {
 	float: left;
 	width: 88%;
 }
@@ -155,13 +157,13 @@ input {
 	float: right;
 	width: 11.5%;
 }
-.login button, .settings button {
+.settings button {
 	width: 100%;
 	margin-top: 20px;
 	text-transform: uppercase;
 	font-family: Cinzel;
 }
-button, .settings label {
+button, label[for="autoplay"], label[for="infinite"] {
 	cursor: pointer;
 }
 button:active {
@@ -361,34 +363,6 @@ footer i {
 	padding: 19px;
 	font-size: 12px;
 	cursor: pointer;
-}
-blockquote {
-	margin: 0;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	height: calc(100vh - 50px);
-	background-color: #000;
-}
-blockquote img {
-	position: absolute;
-	max-width: 100%;
-	height: inherit;
-	filter: blur(4px);
-	-webkit-filter: blur(4px);
-	pointer-events: none;
-}
-blockquote p {
-	z-index: 0;
-	margin: 20px;
-	padding: 20px;
-	border-radius: 10px;
-	font-size: 14px;
-	line-height: 1.5;
-	text-align: center;
-	color: #f1f1f1;
-	background-color: rgba(40, 40, 40, .80);
-	text-shadow: 0 0 5px #000;
 }
 address {
 	font-style: normal;
@@ -602,13 +576,13 @@ dt p {
 	h1 {
 		font-size: 17px;
 	}
-	h2, h3, h4, aside, blockquote p {
+	h2, h3, h4, aside {
 		font-size: 16px;
 	}
 	header i {
 		font-size: 15px;
 	}
-	.genres, label, button, input, .ui-autocomplete li, dt, article, aside i, footer i {
+	nav:nth-of-type(1), label, button, #q, #u, #p, .ui-autocomplete li, dt, article, aside i, footer i {
 		font-size: 14px;
 	}
 	header li a {
@@ -620,7 +594,7 @@ dt p {
 	.ui-autocomplete {
 		max-height: calc(100vh - 105px);
 	}
-	button, input, .ui-autocomplete li {
+	button, #q, #u, #p, .ui-autocomplete li {
 		height: 35px;
 	}
 	h2, h3 {
@@ -647,10 +621,10 @@ dt p {
 	}
 }
 @media (min-width: 640px) {
-	h1, h2, h3, h4, aside, blockquote p {
+	h1, h2, h3, h4, aside {
 		font-size: 18px;
 	}
-	header i, aside i, footer i, .genres, label, button, input, .ui-autocomplete li, dt, article, .keyboard {
+	header i, aside i, footer i, nav:nth-of-type(1), label, button, #q, #u, #p, .ui-autocomplete li, dt, article, .keyboard {
 		font-size: 16px;
 	}
 	nav p {
@@ -668,7 +642,7 @@ dt p {
 	.ui-autocomplete {
 		max-height: calc(100vh - 110px);
 	}
-	button, input, .ui-autocomplete li {
+	button, #q, #u, #p, .ui-autocomplete li {
 		height: 40px;
 	}
 	nav div {
@@ -721,7 +695,7 @@ dt p {
 	aside i, footer i {
 		font-size: 22px;
 	}
-	h2, h3, h4, blockquote p {
+	h2, h3, h4 {
 		font-size: 20px;
 	}
 	h1 {
@@ -733,7 +707,7 @@ dt p {
 	header li i {
 		font-size: 15px;
 	}
-	.genres, label, button, input, .ui-autocomplete li, dt, article, .keyboard {
+	nav:nth-of-type(1), label, button, #q, #u, #p, .ui-autocomplete li, dt, article, .keyboard {
 		font-size: 18px;
 	}
 	nav a {
@@ -742,7 +716,7 @@ dt p {
 	.ui-autocomplete {
 		max-height: calc(100vh - 115px);
 	}
-	button, input, .ui-autocomplete li {
+	button, #q, #u, #p, .ui-autocomplete li {
 		height: 45px;
 	}
 	h2, h3 {
@@ -808,7 +782,7 @@ dt p {
 	aside i, footer i {
 		font-size: 28px;
 	}
-	h2, h3, h4, blockquote p {
+	h2, h3, h4 {
 		font-size: 22px;
 	}
 	h1 {
@@ -820,7 +794,7 @@ dt p {
 	header li i {
 		font-size: 16px;
 	}
-	.genres, label, button, input, .ui-autocomplete li, dt, article, .keyboard {
+	nav:nth-of-type(1), label, button, #q, #u, #p, .ui-autocomplete li, dt, article, .keyboard {
 		font-size: 20px;
 	}
 	nav a {
@@ -829,7 +803,7 @@ dt p {
 	.ui-autocomplete {
 		max-height: calc(100vh - 120px);
 	}
-	button, input, .ui-autocomplete li {
+	button, #q, #u, #p, .ui-autocomplete li {
 		height: 50px;
 	}
 	nav p {
