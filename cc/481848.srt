@@ -1038,7 +1038,7 @@ Spitz, yerine dön.
 
 250
 00:32:33,236 --> 00:32:34,654
-?iç böyle bir şey yapmamıştı.
+Hiç böyle bir şey yapmamıştı.
 
 251
 00:32:35,343 --> 00:32:38,384
