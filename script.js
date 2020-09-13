@@ -1,5 +1,5 @@
 $(function() {
-	var conout, volout, movies, player = $('video')[0], home = $('h1 a').attr('href'), cleared = '<h3>Your favorites list<br/> <span>has been cleared</span></h3>', poster = /https\:\/\/image\.tmdb\.org\/t\/p\/w300_and_h450_bestv2\/|\.jpg/g;
+	var conout, volout, titles, player = $('video')[0], home = $('h1 a').attr('href'), cleared = '<h3>Your favorites list<br/> <span>has been cleared</span></h3>', poster = /https\:\/\/image\.tmdb\.org\/t\/p\/w300_and_h450_bestv2\/|\.jpg/g;
 	if ($('[name="favorites"]').attr('content').length) {
 		if (player && new RegExp($('[property="og:image"]').attr('content').replace(poster, '')).test($('[name="favorites"]').attr('content'))) $('h5 b i').toggleClass('far fas');
 		if ($('article').length && !$('.favorites').length) $('article b').each(checkfav);
@@ -68,13 +68,13 @@ $(function() {
 		$(this).toggleClass('on');
 		$('.' + $(this).attr('id')).slideToggle();
 		if ($('#search').hasClass('on')) {
-			if (!movies) {
+			if (!titles) {
 				$('.search form').attr('action', home);
-				$.getJSON('https://raw.githubusercontent.com/memres/film/master/titles.json', function(data) {
-					movies = data;
+				$.getJSON(home + 'titles', function(e) {
+					titles = e;
 					$('.search input').autocomplete({
 						minLength: 2,
-						source: movies,
+						source: titles,
 						select: function(event, ui) {
 							$(event.target).val(ui.item.value);
 							$('.search form').submit();
