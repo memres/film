@@ -1,5 +1,5 @@
 $(function() {
-	var conout, volout, titles, player = $('video')[0], home = $('h1 a').attr('href'), cleared = '<h3>Your favorites list<br/> <span>has been cleared</span></h3>', poster = /https\:\/\/image\.tmdb\.org\/t\/p\/w300_and_h450_bestv2\/|\.jpg/g;
+	var conout, volout, titles, player = $('video')[0], home = $('h1 a').attr('href'), cleared = '<h3>Your favorites list<br/><span>has been cleared</span></h3>', poster = /https\:\/\/image\.tmdb\.org\/t\/p\/w300_and_h450_bestv2\/|\.jpg/g;
 	if ($('[name="favorites"]').attr('content').length) {
 		if (player && new RegExp($('[property="og:image"]').attr('content').replace(poster, '')).test($('[name="favorites"]').attr('content'))) $('h5 b i').toggleClass('far fas');
 		if ($('article').length && !$('.favorites').length) $('article b').each(checkfav);
@@ -21,14 +21,13 @@ $(function() {
 			url: home + 'login',
 			data: t.serialize(),
 			beforeSend: function() {
-				t.find('button i').addClass('fa-spinner fa-spin').parent().css('pointer-events', 'none');
+				t.find('i').addClass('fa-spinner fa-spin').parent().css('pointer-events', 'none');
 			},
 			success: function(r) {
 				if (r) {
-					let style = {'color': '#f44', 'text-shadow': '0 0 1px #000'};
-					t.find('i').attr('class', 'fas fa-ban').css(style).next().text('Invalid ' + r).css(style).fadeTo(250,0).fadeTo(250,1).fadeTo(250,0).fadeTo(250,1);
+					t.find('button').css({'color': '#f44', 'text-shadow': '0 0 1px #000'}).find('i').attr('class', 'fas fa-ban').next().text(r).fadeTo(250,0).fadeTo(250,1).fadeTo(250,0).fadeTo(250,1);
 					setTimeout(function() {
-						t.find('button').html(b).css('pointer-events', 'auto');
+						t.find('button').removeAttr('style').html(b).css('pointer-events', 'auto');
 					}, 3000);
 				}
 				else location.reload();
