@@ -356,10 +356,18 @@ footer {
 	background-color: #282828;
 }
 footer div {
-	width: 25%;
+	width: 33.333%;
 	float: left;
 	display: inline-block;
+}
+footer div:nth-child(1) {
+	text-align: right;
+}
+footer div:nth-child(2) {
 	text-align: center;
+}
+footer div:nth-child(3) {
+	text-align: left;
 }
 footer i {
 	color: #fff;
