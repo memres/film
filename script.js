@@ -225,10 +225,10 @@ $(function() {
 			}
 		});
 	});
-	$('footer i:eq(3)').on('click', function() {
+	$('.fa-chevron-up').on('click', function() {
 		$('html, body').animate({scrollTop: 0});
 	});
-	$('footer i:eq(0), .keyboard').on('click', keyboard);
+	$('.fa-keyboard, .keyboard').on('click', keyboard);
 	$(window).on('keydown', function(e) {
 		if ($(e.target).is('INPUT')) return;
 		if (player) {
