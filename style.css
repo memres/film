@@ -1,13 +1,3 @@
-::selection {
-	color: #f1f1f1;
-	background-color: #282828;
-}
-::cue {
-	color: #f1f1f1;
-	font: 1.4em/1.2 Roboto;
-	background: transparent;
-	text-shadow: 0 0 5px #282828;
-}
 *, *:before, *:after {
 	box-sizing: border-box;
 }
@@ -47,12 +37,11 @@ header a {
 	color: #fff;
 	user-select: none;
 }
-h1 a:hover, h1 i, header li:nth-child(n+4) a:hover, header .on, label .fa-toggle-on, article .fas.fa-heart, h5 .fas, footer i:active, bdi i:active {
+h1 a:active, h1 i, header li:nth-child(n+4) a:active, header .on, label .fa-toggle-on, article .fas.fa-heart, h5 .fas, bdi i:active, footer i:active {
 	color: #f44;
 }
 header ul {
 	float: right;
-	list-style-type: none;
 	margin: 0;
 	padding: 0;
 }
@@ -72,9 +61,9 @@ header span {
 	margin-left: 3px;
 }
 nav {
+	z-index: 2;
 	display: none;
 	position: fixed;
-	z-index: 2;
 	width: 100%;
 	max-height: calc(100vh - 50px);
 	overflow: auto;
@@ -175,15 +164,13 @@ button:active {
 	background-color: #757575;
 }
 .ui-autocomplete {
-	width: 1%;
-	margin: 0;
-	position: fixed;
 	z-index: 3;
-	list-style-type: none;
+	position: fixed;
+	width: 1%;
 	margin: 0;
 	padding: 0;
 	overflow: auto;
-	max-height: calc(100vh - 100px);
+	max-height: 300px;
 	box-shadow: 0px 5px 5px 0px rgba(40, 40, 40, .75);
 }
 .ui-autocomplete li {
@@ -193,7 +180,7 @@ button:active {
 	line-height: 2.5;
 	color: #282828;
 	background-color: #c1c1c1;
-	cursor: default;
+	cursor: pointer;
 }
 .ui-autocomplete li:nth-child(even) {
 	background-color: #f1f1f1;
@@ -212,6 +199,10 @@ button:active {
 main {
 	min-height: calc(100vh - 100px);
 }
+main.on {
+	opacity: .5;
+	pointer-events: none;
+}
 section {
 	padding: 10px;
 }
@@ -221,6 +212,7 @@ section:after, aside:after {
 	clear: both;
 }
 article {
+	position: relative;
 	float: left;
 	padding: 10px;
 	font-size: 12px;
@@ -229,6 +221,7 @@ article a {
 	display: block;
 	position: relative;
 	color: #fff;
+	border-radius: 5px;
 }
 article img {
 	display: block;
@@ -256,13 +249,13 @@ article a:hover span {
 }
 article small, article b {
 	position: absolute;
-	bottom: 0;
 	padding: 4px;
 	line-height: 1;
 	background-color: #000;
 }
 article small {
 	left: 0;
+	bottom: 0;
 	max-width: 75%;
 	font-size: inherit;
 	border-bottom-left-radius: 5px;
@@ -271,11 +264,14 @@ article small {
 	cursor: move;
 }
 article b {
-	right: 0;
+	right: 10px;
+	bottom: 10px;
 	border-bottom-right-radius: 5px;
+	color: #fff;
 }
 article b, h5 b {
 	cursor: grab;
+	transition: .2s;
 }
 article b:active, h5 b:active {
 	cursor: grabbing;
@@ -286,9 +282,6 @@ article b:active, h5 b:active {
 }
 .adsbygoogle {
 	display: block;
-}
-.similar {
-	margin-top: -20px;
 }
 h2, h3 {
 	margin: 0;
@@ -305,16 +298,15 @@ h2 {
 	text-shadow: 0 0 2px #282828;
 }
 h3 {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	min-height: inherit;
-	margin: 0 10%;
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
 	color: #fff;
 	text-shadow: 0 0 10px #282828;
 }
-h3 span {
-	display: contents;
+h3 div {
+	display: block;
 	color: #757575;
 	text-shadow: none;
 }
@@ -337,7 +329,7 @@ aside a {
 	border-radius: 5px;
 	user-select: none;
 }
-aside a:hover {
+aside a:active {
 	color: #fff;
 	background-color: #282828;
 }
@@ -350,15 +342,17 @@ aside a:hover {
 .next {
 	float: right;
 }
+[data-movie] {
+	margin-top: -20px;
+}
 footer {
 	height: 50px;
 	text-align: center;
 	background-color: #282828;
 }
 footer div {
-	width: 33.333%;
 	float: left;
-	display: inline-block;
+	width: 33.333%;
 }
 footer div:nth-child(1) {
 	text-align: right;
@@ -404,27 +398,6 @@ address {
 	font-style: normal;
 	width: 100%;
 }
-kbd {
-	z-index: 1;
-	display: none;
-	pointer-events: none;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	padding: 20px;
-	border-radius: 10px;
-	color: #f1f1f1;
-	background-color: rgba(40, 40, 40, .80);
-}
-kbd i {
-	width: 40px;
-	font-size: 30px;
-}
-kbd span {
-	font-size: 36px;
-	line-height: 30px;
-}
 video {
 	position: absolute;
 	outline: 0;
@@ -457,12 +430,6 @@ bdi time {
 	text-align: center;
 	user-select: none;
 }
-.stamp {
-	position: absolute;
-	top: -17px;
-	margin-left: -30px;
-	pointer-events: none;
-}
 figure {
 	position: relative;
 	margin: 3.5px 0;
@@ -482,17 +449,54 @@ figcaption {
 .progress {
 	background: linear-gradient(to right, #ff8, #f44);
 }
-dt {
+.stamp {
+	position: absolute;
+	top: -17px;
+	margin-left: -30px;
+	pointer-events: none;
+}
+pre {
+	position: absolute;
+	bottom: 20px;
+	margin: 0;
+	padding: 20px;
+	width: inherit;
+	font-family: inherit;
+	font-size: 3vw;
+	line-height: 1.2;
+	text-align: center;
+	text-shadow: 0 0 5px #282828;
+	color: #f1f1f1;
+	white-space: pre-wrap;
+	pointer-events: none;
+}
+pre.on {
+	bottom: 50px;
+}
+bdo {
+	display: none;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 1vw 2vw;
+	font-size: 4vw;
+	border-radius: 10px;
+	color: #f1f1f1;
+	background-color: rgba(40, 40, 40, .80);
+	pointer-events: none;
+}
+legend {
 	padding: 20px;
 	text-align: center;
 	font-size: 12px;
 	line-height: 20px;
 	color: #757575;
 }
-dt a {
+legend a {
 	color: #757575;
 }
-dt a:hover {
+legend a:active, h5 b:active {
 	color: #282828;
 }
 h4 {
@@ -511,12 +515,16 @@ h5 a, h5 b {
 	border-radius: 5px;
 	background-color: #f1f1f1;
 }
-dt div a {
+legend ul {
+	margin: 0;
+	padding: 0;
+}
+legend li {
 	display: inline-block;
 	margin: 0 5px;
 }
-dt div a:before {
-	content: '\f02c';
+legend li a:before {
+	content: '\f07c';
 	font-family: 'Font Awesome 5 Free';
 	font-weight: 700;
 	line-height: 1;
@@ -524,27 +532,62 @@ dt div a:before {
 	color: #c1c1c1;
 	transition: .2s;
 }
-dt div a[rel="help"]:before {
-	content: '\f891';
-}
-dt div a:hover:before {
+legend li a:active:before {
 	color: #757575;
 }
-dt p {
+legend p {
 	margin: 10px 0 0;
 	word-break: break-word;
 }
-.rotate {
-	pointer-events: none;
-	animation: spin 1s infinite linear;
+kbd {
+	display: none;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 90%;
+	max-height: 90%;
+	font-family: inherit;
+	font-size: 14px;
+	line-height: 1;
+	visibility: visible;
+	pointer-events: auto !important;
 }
-@keyframes spin {
-	0% {
-		transform: rotate(0deg);
-	}
-	100% {
-		transform: rotate(360deg);
-	}
+kbd .fa-times-circle {
+	position: absolute;
+	top: -16px;
+	right: -16px;
+	border-radius: 50%;
+	color: #c1c1c1;
+	background-color: #282828;
+	cursor: pointer;
+}
+kbd .fa-times-circle:active {
+	background-color: #757575;
+}
+kbd ul {
+	margin: 0;
+	padding: 20px;
+	list-style-type: none;
+	max-height: 90vh;
+	overflow: auto;
+	border-radius: 5px;
+	color: #282828;
+	background-color: #c1c1c1;
+}
+kbd li {
+	padding: 10px 0;
+	border-radius: 5px;
+}
+kbd li:nth-child(even) {
+	background-color: #f1f1f1;
+}
+kbd b {
+	display: inline-block;
+	width: 25%;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: Cinzel;
 }
 .freeze {
 	overflow: hidden;
@@ -554,42 +597,20 @@ dt p {
 	background-color: #282828;
 }
 .freeze *, .freeze *:before {
-	transition: 0s !important;
+	transition: 0s;
 }
-.keyboard {
-	display: none;
-	list-style-type: none;
-	margin: 0;
-	padding: 20px;
-	visibility: visible;
-	position: fixed;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	width: 90%;
-	max-height: 90%;
-	overflow: auto;
-	font-size: 14px;
-	line-height: 1;
-	color: #282828;
-	background-color: #c1c1c1;
-	border-radius: 5px;
-	cursor: zoom-out;
-	pointer-events: auto !important;
+::selection {
+	color: #f1f1f1;
+	background-color: #282828;
 }
-.keyboard b {
-	display: inline-block;
-	width: 25%;
-	text-align: center;
-	text-transform: uppercase;
-	font-family: Cinzel;
+::cue {
+	color: #f1f1f1;
+	font: 3vw/1.2 Roboto;
+	background: transparent;
+	text-shadow: 0 0 5px #282828;
 }
-.keyboard li {
-	padding: 10px 0;
-	border-radius: 5px;
-}
-.keyboard li:nth-child(even) {
-	background-color: #f1f1f1;
+::-webkit-media-text-track-container {
+    bottom: 10px;
 }
 @media (max-width: 531px) {
 	address {
@@ -607,6 +628,9 @@ dt p {
 		position: relative;
 		height: calc(100vh - 50px);
 	}
+	::-webkit-media-text-track-container {
+		bottom: 10vh;
+	}
 }
 @media (min-width: 340px) {
 	h1 {
@@ -618,7 +642,7 @@ dt p {
 	header i {
 		font-size: 15px;
 	}
-	.genres, label, button, input, .ui-autocomplete li, dt, article, aside i, footer i {
+	.genres, label, button, input, .ui-autocomplete li, legend, article, aside i, footer i {
 		font-size: 14px;
 	}
 	header li a {
@@ -628,7 +652,7 @@ dt p {
 		margin-right: -10px;
 	}
 	.ui-autocomplete {
-		max-height: calc(100vh - 105px);
+		max-height: 350px;
 	}
 	button, input, .ui-autocomplete li {
 		height: 35px;
@@ -649,7 +673,7 @@ dt p {
 	article small {
 		max-width: 50%;
 	}
-	dt {
+	legend {
 		line-height: 22.5px;
 	}
 	footer i {
@@ -660,7 +684,7 @@ dt p {
 	h1, h2, h3, h4, aside, blockquote p {
 		font-size: 18px;
 	}
-	header i, aside i, footer i, .genres, label, button, input, .ui-autocomplete li, dt, article, .keyboard {
+	header i, aside i, footer i, .genres, label, button, input, .ui-autocomplete li, legend, article, kbd {
 		font-size: 16px;
 	}
 	nav p {
@@ -676,7 +700,7 @@ dt p {
 		margin: 0 15px;
 	}
 	.ui-autocomplete {
-		max-height: calc(100vh - 110px);
+		max-height: 400px;
 	}
 	button, input, .ui-autocomplete li {
 		height: 40px;
@@ -695,9 +719,6 @@ dt p {
 		padding: 13px 20px;
 		line-height: 24px;
 	}
-	h3 {
-		margin: 0 20%;
-	}
 	article {
 		width: 33.333%;
 	}
@@ -710,13 +731,19 @@ dt p {
 	article small {
 		max-width: 60%;
 	}
-	dt {
+	.similar article {
+		display: none;
+	}
+	.similar article:nth-child(-n+3) {
+		display: block;
+	}
+	legend {
 		line-height: 25px;
 	}
 	footer i {
 		padding: 17px;
 	}
-	.keyboard {
+	kbd {
 		width: 400px;
 	}
 }
@@ -743,14 +770,14 @@ dt p {
 	header li i {
 		font-size: 15px;
 	}
-	.genres, label, button, input, .ui-autocomplete li, dt, article, .keyboard {
+	.genres, label, button, input, .ui-autocomplete li, legend, article, kbd {
 		font-size: 18px;
 	}
 	nav a {
 		margin: 0 20px;
 	}
 	.ui-autocomplete {
-		max-height: calc(100vh - 115px);
+		max-height: 450px;
 	}
 	button, input, .ui-autocomplete li {
 		height: 45px;
@@ -758,9 +785,6 @@ dt p {
 	h2, h3 {
 		padding: 12px 20px;
 		line-height: 26px;
-	}
-	h3 {
-		margin: 0 30%;
 	}
 	article {
 		width: 25%;
@@ -771,12 +795,15 @@ dt p {
 	article span {
 		line-height: 22px;
 	}
-	dt {
+	.similar article:nth-child(4) {
+		display: block;
+	}
+	legend {
 		line-height: 27.5px;
 		padding-left: 25%;
 		padding-right: 25%;
 	}
-	dt div a {
+	legend li {
 		margin: 0 10px;
 	}
 	footer i {
@@ -796,10 +823,6 @@ dt p {
 		font-size: 17px;
 		line-height: 24px;
 	}
-	.stamp {
-		top: -23px;
-		margin-left: -40px;
-	}
 	figure {
 		width: calc(100% - 202px);
 		height: 17px;
@@ -807,8 +830,19 @@ dt p {
 	figcaption {
 		height: 17px;
 	}
-	.keyboard {
+	.stamp {
+		top: -23px;
+		margin-left: -40px;
+	}
+	pre.on {
+		bottom: 84px;
+	}
+	kbd {
 		width: 450px;
+	}
+	kbd .fa-times-circle {
+		top: -18px;
+		right: -18px;
 	}
 }
 @media (min-width: 1280px) {
@@ -830,14 +864,14 @@ dt p {
 	header li i {
 		font-size: 16px;
 	}
-	.genres, label, button, input, .ui-autocomplete li, dt, article, .keyboard {
+	.genres, label, button, input, .ui-autocomplete li, legend, article, kbd {
 		font-size: 20px;
 	}
 	nav a {
 		margin: 0 25px;
 	}
 	.ui-autocomplete {
-		max-height: calc(100vh - 120px);
+		max-height: 500px;
 	}
 	button, input, .ui-autocomplete li {
 		height: 50px;
@@ -858,38 +892,60 @@ dt p {
 	article span {
 		line-height: 24px;
 	}
-	dt {
+	.similar article:nth-child(5) {
+		display: block;
+	}
+	legend {
 		line-height: 30px;
 	}
 	footer i {
 		padding: 11px;
 	}
-	.keyboard {
+	kbd {
 		width: 500px;
+	}
+	kbd .fa-times-circle {
+		top: -20px;
+		right: -20px;
 	}
 }
 @media (min-width: 1600px) {
 	article {
 		width: 16.666%;
 	}
+	.similar article:nth-child(6) {
+		display: block;
+	}
 }
 @media (min-width: 1920px) {
 	article {
 		width: 14.285%;
+	}
+	.similar article:nth-child(7) {
+		display: block;
 	}
 }
 @media (min-width: 2240px) {
 	article {
 		width: 12.5%;
 	}
+	.similar article:nth-child(8) {
+		display: block;
+	}
 }
 @media (min-width: 2560px) {
 	article {
 		width: 11.111%;
 	}
+	.similar article:nth-child(9) {
+		display: block;
+	}
 }
 @media (min-width: 2880px) {
 	article {
 		width: 10%;
+	}
+	.similar article {
+		display: block;
 	}
 }
