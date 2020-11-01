@@ -3,6 +3,7 @@
 }
 body {
 	margin: 0;
+	overflow-x: hidden;
 	font-family: Roboto;
 }
 a {
@@ -68,15 +69,15 @@ nav {
 	max-height: calc(100vh - 50px);
 	overflow: auto;
 	padding: 20px;
-	text-align: center;
 	color: #282828;
 	background-color: #c1c1c1;
 	box-shadow: 0px 5px 5px 0px rgba(40, 40, 40, .75);
 }
-.genres {
+.menu {
 	font: 700 12px/2.5 Cinzel;
 	text-transform: uppercase;
 	text-shadow: 0 0 5px #fff;
+	text-align: center;
 	cursor: default;
 }
 nav a {
@@ -97,9 +98,12 @@ nav a:before {
 	transform: scaleX(0);
 	visibility: hidden;
 }
-nav a:hover:before, nav a.on:before {
+nav a:hover:before, nav .on:before {
 	transform: scaleX(1);
 	visibility: visible;
+}
+nav div {
+	text-align: center;
 }
 nav div:nth-child(2) {
 	margin-top: 20px;
@@ -180,7 +184,7 @@ button:active {
 	line-height: 2.5;
 	color: #282828;
 	background-color: #c1c1c1;
-	cursor: pointer;
+	cursor: default;
 }
 .ui-autocomplete li:nth-child(even) {
 	background-color: #f1f1f1;
@@ -256,7 +260,6 @@ article small, article b {
 article small {
 	left: 0;
 	bottom: 0;
-	max-width: 75%;
 	font-size: inherit;
 	border-bottom-left-radius: 5px;
 }
@@ -276,12 +279,10 @@ article b, h5 b {
 article b:active, h5 b:active {
 	cursor: grabbing;
 }
-.adsense {
-	width: 100%;
-	margin: 0 auto;
-}
 .adsbygoogle {
 	display: block;
+	padding: 20px 20px 0;
+	text-align: center;
 }
 h2, h3 {
 	margin: 0;
@@ -292,10 +293,9 @@ h2, h3 {
 	word-break: break-word;
 }
 h2 {
-	color: #fff;
-	letter-spacing: 1px;
+	color: #282828;
 	background-color: #c1c1c1;
-	text-shadow: 0 0 2px #282828;
+	text-shadow: 0 0 5px #fff;
 }
 h3 {
 	width: 100%;
@@ -347,12 +347,12 @@ aside a:active {
 }
 footer {
 	height: 50px;
-	text-align: center;
 	background-color: #282828;
 }
 footer div {
 	float: left;
 	width: 33.333%;
+	display: inline-block;
 }
 footer div:nth-child(1) {
 	text-align: right;
@@ -372,8 +372,8 @@ footer i {
 blockquote {
 	margin: 0;
 	display: flex;
-	justify-content: center;
 	align-items: center;
+	justify-content: center;
 	height: calc(100vh - 50px);
 	background-color: #000;
     background-size: cover;
@@ -540,17 +540,13 @@ legend p {
 	word-break: break-word;
 }
 kbd {
-	display: none;
 	position: fixed;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	width: 90%;
-	max-height: 90%;
 	font-family: inherit;
-	font-size: 14px;
-	line-height: 1;
 	visibility: visible;
+	display: none;
 	pointer-events: auto !important;
 }
 kbd .fa-times-circle {
@@ -569,6 +565,7 @@ kbd ul {
 	margin: 0;
 	padding: 20px;
 	list-style-type: none;
+	width: 90vw;
 	max-height: 90vh;
 	overflow: auto;
 	border-radius: 5px;
@@ -577,6 +574,8 @@ kbd ul {
 }
 kbd li {
 	padding: 10px 0;
+	font-size: 14px;
+	line-height: 1;
 	border-radius: 5px;
 }
 kbd li:nth-child(even) {
@@ -642,7 +641,7 @@ kbd b {
 	header i {
 		font-size: 15px;
 	}
-	.genres, label, button, input, .ui-autocomplete li, legend, article, aside i, footer i {
+	.menu, label, button, input, .ui-autocomplete li, legend, article, aside i, footer i {
 		font-size: 14px;
 	}
 	header li a {
@@ -679,12 +678,15 @@ kbd b {
 	footer i {
 		padding: 18px;
 	}
+	kbd b {
+		width: 35%;
+	}
 }
 @media (min-width: 640px) {
 	h1, h2, h3, h4, aside, blockquote p {
 		font-size: 18px;
 	}
-	header i, aside i, footer i, .genres, label, button, input, .ui-autocomplete li, legend, article, kbd {
+	header i, aside i, footer i, .menu, label, button, input, .ui-autocomplete li, legend, article, kbd li {
 		font-size: 16px;
 	}
 	nav p {
@@ -743,7 +745,7 @@ kbd b {
 	footer i {
 		padding: 17px;
 	}
-	kbd {
+	kbd ul {
 		width: 400px;
 	}
 }
@@ -770,7 +772,7 @@ kbd b {
 	header li i {
 		font-size: 15px;
 	}
-	.genres, label, button, input, .ui-autocomplete li, legend, article, kbd {
+	.menu, label, button, input, .ui-autocomplete li, legend, article, kbd li {
 		font-size: 18px;
 	}
 	nav a {
@@ -837,12 +839,8 @@ kbd b {
 	pre.on {
 		bottom: 84px;
 	}
-	kbd {
+	kbd ul {
 		width: 450px;
-	}
-	kbd .fa-times-circle {
-		top: -18px;
-		right: -18px;
 	}
 }
 @media (min-width: 1280px) {
@@ -864,7 +862,7 @@ kbd b {
 	header li i {
 		font-size: 16px;
 	}
-	.genres, label, button, input, .ui-autocomplete li, legend, article, kbd {
+	.menu, label, button, input, .ui-autocomplete li, legend, article, kbd li {
 		font-size: 20px;
 	}
 	nav a {
@@ -901,12 +899,8 @@ kbd b {
 	footer i {
 		padding: 11px;
 	}
-	kbd {
+	kbd ul {
 		width: 500px;
-	}
-	kbd .fa-times-circle {
-		top: -20px;
-		right: -20px;
 	}
 }
 @media (min-width: 1600px) {
