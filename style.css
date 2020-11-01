@@ -281,7 +281,7 @@ article b:active, h5 b:active {
 }
 .adsbygoogle {
 	display: block;
-	padding: 20px 20px 0;
+	margin: 20px 20px 0;
 	text-align: center;
 }
 h2, h3 {
