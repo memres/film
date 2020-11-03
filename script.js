@@ -361,5 +361,7 @@ $(document).ready(function() {
 			});
 			$('.favorites').disableSelection();
 		}
+		ga('set', 'page', $('#content').attr('data-url').replace(location.origin, ''));
+		ga('send', 'pageview');
 	}
 });
