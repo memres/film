@@ -93,10 +93,10 @@ nav a:before {
 	width: 100%;
 	height: 2px;
 	bottom: 2px;
-	background-color: #282828;
 	transition: .2s;
 	transform: scaleX(0);
 	visibility: hidden;
+	background-color: #282828;
 }
 nav a:hover:before, nav .on:before {
 	transform: scaleX(1);
@@ -279,11 +279,6 @@ article b, h5 b {
 article b:active, h5 b:active {
 	cursor: grabbing;
 }
-.adsbygoogle {
-	display: block;
-	margin: 20px 20px 0;
-	text-align: center;
-}
 h2, h3 {
 	margin: 0;
 	padding: 15px 20px;
@@ -306,7 +301,6 @@ h3 {
 	text-shadow: 0 0 10px #282828;
 }
 h3 div {
-	display: block;
 	color: #757575;
 	text-shadow: none;
 }
@@ -547,7 +541,6 @@ kbd {
 	font-family: inherit;
 	visibility: visible;
 	display: none;
-	pointer-events: auto !important;
 }
 kbd .fa-times-circle {
 	position: absolute;
@@ -571,6 +564,7 @@ kbd ul {
 	border-radius: 5px;
 	color: #282828;
 	background-color: #c1c1c1;
+	user-select: none;
 }
 kbd li {
 	padding: 10px 0;
@@ -589,14 +583,16 @@ kbd b {
 	font-family: Cinzel;
 }
 .freeze {
-	overflow: hidden;
+	overflow-y: hidden;
 	visibility: hidden;
-	user-select: none;
-	pointer-events: none;
 	background-color: #282828;
 }
 .freeze *, .freeze *:before {
-	transition: 0s;
+	transition-duration: 0s !important;
+}
+.statcounter {
+	display: block;
+	width: 0;
 }
 ::selection {
 	color: #f1f1f1;
