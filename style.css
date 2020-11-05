@@ -197,7 +197,7 @@ button:active {
 .ui-state-hover, .ui-state-active {
 	font-weight: 700;
 }
-.ui-helper-hidden-accessible {
+.ui-helper-hidden-accessible, .counter {
 	display: none;
 }
 main {
@@ -335,9 +335,6 @@ aside a:active {
 }
 .next {
 	float: right;
-}
-[data-movie] {
-	margin-top: -20px;
 }
 footer {
 	height: 50px;
@@ -481,7 +478,7 @@ bdo {
 	pointer-events: none;
 }
 legend {
-	padding: 20px;
+	padding: 20px 20px 0;
 	text-align: center;
 	font-size: 12px;
 	line-height: 20px;
@@ -504,7 +501,7 @@ h5 {
 }
 h5 a, h5 b {
 	display: inline-block;
-	margin: 0 5px;
+	margin: 5px;
 	padding: 5px 10px;
 	border-radius: 5px;
 	background-color: #f1f1f1;
@@ -589,10 +586,6 @@ kbd b {
 }
 .freeze *, .freeze *:before {
 	transition-duration: 0s !important;
-}
-.statcounter {
-	display: block;
-	width: 0;
 }
 ::selection {
 	color: #f1f1f1;
