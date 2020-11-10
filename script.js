@@ -262,7 +262,6 @@ $(document).ready(function() {
 			$('main, header .on, .menu .on').removeClass('on');
 			$('nav:visible').slideUp();
 			$('.menu a[href="'+p.replace(/\?(.*)/, '')+'"]').addClass('on');
-			(adsbygoogle = window.adsbygoogle || []).push({});
 			ga('send', 'pageview', {'page': p, 'title': t});
 			$('.counter').attr('src', 'https://c.statcounter.com/t.php?sc_project=9421647&security=cfd47c32&invisible=1&camefrom='+encodeURIComponent($('.counter').attr('alt'))+'&u='+encodeURIComponent(location.href)+'&t='+encodeURIComponent(t)+'&resolution='+screen.width+'&h='+screen.height);
 		});
