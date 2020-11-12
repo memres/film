@@ -262,8 +262,10 @@ $(document).ready(function() {
 			$('main, header .on, .menu .on').removeClass('on');
 			$('nav:visible').slideUp();
 			$('.menu a[href="'+p.replace(/\?(.*)/, '')+'"]').addClass('on');
-			ga('send', 'pageview', {'page': p, 'title': t});
-			$('.counter').attr('src', 'https://c.statcounter.com/t.php?sc_project=9421647&security=cfd47c32&invisible=1&camefrom='+encodeURIComponent($('.counter').attr('alt'))+'&u='+encodeURIComponent(location.href)+'&t='+encodeURIComponent(t)+'&resolution='+screen.width+'&h='+screen.height);
+			if (typeof ga !== "undefined") {
+				ga('send', 'pageview', {'page': p, 'title': t});
+				$('.counter').attr('src', 'https://c.statcounter.com/t.php?sc_project=9421647&security=cfd47c32&invisible=1&camefrom='+encodeURIComponent($('.counter').attr('alt'))+'&u='+encodeURIComponent(location.href)+'&t='+encodeURIComponent(t)+'&resolution='+screen.width+'&h='+screen.height);
+			}
 		});
 	}
 	function injection() {
