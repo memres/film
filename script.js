@@ -114,6 +114,10 @@ $(document).ready(function() {
 	$(document).on('mouseout', 'figure', function() {
 		$('.stamp').hide();
 	});
+	$(document).on('fullscreenchange', 'main', function() {
+		if (document.fullscreenElement) $('bdi i:nth-of-type(2)').attr('class', 'fas fa-compress');
+		else $('bdi i:nth-of-type(2)').attr('class', 'fas fa-expand');
+	});
 	$(document).on('fullscreenchange', lurk);
 	$(document).on('wheel', 'address', lurk);
 	$(document).on('touchmove', 'address', lurk);
@@ -188,14 +192,10 @@ $(document).ready(function() {
 		$('body').removeClass('off').children('header, nav, main, footer').removeClass('hide');
 	}
 	function fullscreen() {
-		if (document.fullscreenElement) {
-			document.exitFullscreen();
-			$('bdi i:nth-of-type(2)').attr('class', 'fas fa-expand');
-		}
+		if (document.fullscreenElement) document.exitFullscreen();
 		else {
 			document.querySelector('address').requestFullscreen({navigationUI: 'hide'});
 			if (/Android/i.test(navigator.userAgent)) screen.orientation.lock('landscape');
-			$('bdi i:nth-of-type(2)').attr('class', 'fas fa-compress');
 			if ($('main').hasClass('hide')) defrost();
 		}
 	}
